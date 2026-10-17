@@ -23,10 +23,11 @@ const countries = master.countries.filter((c) => !only.length || only.includes(c
 
 // ---------- helpers ----------
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
-async function get(url, { json = false, tries = 3 } = {}) {
+async function get(url, { json = false, tries = 3, ua = UA } = {}) {
+  if (process.env.FETCH_VIA_CURL) return curlGet(url, json, ua);
   for (let i = 0; i < tries; i++) {
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(20000) });
+      const res = await fetch(url, { headers: { 'User-Agent': ua, Accept: 'application/rss+xml, application/atom+xml, application/xml, text/xml, application/json, */*' }, signal: AbortSignal.timeout(20000) });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return json ? await res.json() : await res.text();
     } catch (e) {
@@ -34,6 +35,12 @@ async function get(url, { json = false, tries = 3 } = {}) {
       await sleep(800 * (i + 1));
     }
   }
+}
+// Local testing behind a proxy: FETCH_VIA_CURL=1 node scripts/build.mjs
+async function curlGet(url, json, ua) {
+  const { execFile } = await import('node:child_process');
+  const out = await new Promise((res, rej) => execFile('curl', ['-sSL', '-m', '25', '-A', ua, '--fail', url], { maxBuffer: 64e6 }, (e, o) => (e ? rej(new Error(`${url} → ${e.message.split('\n')[0]}`)) : res(o))));
+  return json ? JSON.parse(out) : out;
 }
 async function readJson(p, fallback) {
   try { return JSON.parse(await fs.readFile(p, 'utf8')); } catch { return fallback; }
@@ -57,41 +64,102 @@ const attr = (xml, name, a) => { const m = xml.match(new RegExp(`<${name}\\s[^>]
 const hash = (s) => { let h = 2166136261; for (const ch of s) { h ^= ch.codePointAt(0); h = Math.imul(h, 16777619); } return (h >>> 0).toString(36); };
 
 // ---------- news ----------
-function parseRss(xml, topic) {
-  return [...xml.matchAll(/<item>([\s\S]*?)<\/item>/g)].map(([, it]) => {
-    const source = strip(tag(it, 'source'));
-    let title = strip(tag(it, 'title'));
-    if (source && title.endsWith(' - ' + source)) title = title.slice(0, -(source.length + 3));
-    const image = attr(it, 'media:content', 'url') || attr(it, 'media:thumbnail', 'url') || attr(it, 'enclosure', 'url') || '';
-    const desc = strip(tag(it, 'description'));
-    const link = decode(tag(it, 'link'));
-    const date = new Date(decode(tag(it, 'pubDate')) || Date.now());
-    const srcUrl = attr(it, 'source', 'url');
+// Headlines come from publishers' own RSS/Atom feeds, listed per country in
+// countries.json → "feeds": [{ "topic": "TOP", "url": "...", "source": "Publisher" }].
+// Each story keeps only headline, short summary, thumbnail and a link to the publisher.
+// Publisher terms notes: editorial/_publishers.json.
+const FEED_UA = 'Mozilla/5.0 (compatible; OntivoNews/1.0; +https://xacking.github.io)';
+const MAX_AGE_H = { HEALTH: 24 * 7, SCIENCE: 24 * 7, ENTERTAINMENT: 24 * 4, BUSINESS: 24 * 4 };
+
+function rawImage(it) {
+  const pick = (re) => { const m = it.match(re); return m ? decode(m[1]) : ''; };
+  return [
+    pick(/<media:content[^>]*url="([^"]+)"[^>]*medium="image"/),
+    pick(/<media:content[^>]*medium="image"[^>]*url="([^"]+)"/),
+    pick(/<media:content[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i),
+    pick(/<media:thumbnail[^>]*url="([^"]+)"/),
+    pick(/<enclosure[^>]*url="([^"]+)"[^>]*type="image/),
+    pick(/<enclosure[^>]*type="image[^"]*"[^>]*url="([^"]+)"/),
+    pick(/<enclosure[^>]*url="([^"]+\.(?:jpe?g|png|webp)[^"]*)"/i),
+    pick(/<enclosure>\s*(https?:[^<\s]+)\s*<\/enclosure>/),
+    pick(/<link[^>]*rel="enclosure"[^>]*href="([^"]+)"/),
+    pick(/<link[^>]*href="([^"]+)"[^>]*rel="enclosure"/),
+    pick(/<media:content[^>]*url="([^"]+)"/),
+    pick(/&lt;img[^&]*?src=(?:&quot;|")([^&"]+)(?:&quot;|")/),
+    pick(/<img[^>]*src=["']([^"']+)["']/),
+  ].find((u) => /^https?:\/\//.test(u)) || '';
+}
+// Feeds often carry small thumbnails; these hosts serve bigger sizes at a predictable URL.
+const UPSCALE = [
+  [/(ichef\.bbci\.co\.uk\/(?:ace\/)?(?:standard|ws))\/\d+\//, '$1/800/'],
+  [/(abcnews[^/]*\/[^?]*)_384\.jpg/, '$1_992.jpg'],
+  [/\/Img_4_3\/\d+\//, '/Img_4_3/1200/'],
+  [/BASE_4_3_W\d+/, 'BASE_4_3_W1000'],
+  [/(static\.dw\.com\/image\/[^?]*)_302\.jpg/, '$1_906.jpg'],
+  [/_sqr256(?=\.)/, '_wd1280'],
+  [/\/feature-crop\/320\/320\//, '/feature-crop/1200/675/'],
+  [/(ascii\.jp\/img\/.*)\/s\//, '$1/l/'],
+  [/(i2-prod\.[^/]+\/.*)\/s615\//, '$1/s1200/'],
+  [/(skynewsarabia\.com\/images\/v1\/.*?)\/95\/53\//, '$1/1200/675/'],
+  [/(tv2\.no\/.*[?&]width=)480/, '$1' + '1200'],
+  [/(\/wp-content\/uploads\/[^?]*?)-\d{2,4}x\d{2,4}(?=\.(?:jpe?g|png|webp)(?:$|\?))/i, '$1'],
+];
+const NO_IMAGE_HOSTS = /(^|\.)upi\.com\//; // hotlink-protected: images fail on phones
+function bigImage(u) {
+  if (!u || NO_IMAGE_HOSTS.test(u.replace(/^https?:\/\//, ''))) return '';
+  u = u.replace(/^http:\/\//, 'https://'); // Android blocks plain http images
+  for (const [re, to] of UPSCALE) u = u.replace(re, to);
+  return u;
+}
+function parseFeed(xml, topic, source) {
+  const items = [...xml.matchAll(/<(item|entry)[\s>]([\s\S]*?)<\/\1>/g)].map((m) => m[2]);
+  const now = Date.now();
+  return items.map((it) => {
+    const title = strip(tag(it, 'title'));
+    let link = decode(tag(it, 'link'));
+    if (!/^https?:/.test(link)) link = attr(it.replace(/<link[^>]*rel="(?!alternate)[^"]*"[^>]*>/g, ''), 'link', 'href') || decode(tag(it, 'guid'));
+    const desc = strip(tag(it, 'description') || tag(it, 'summary') || tag(it, 'content:encoded') || tag(it, 'content'));
+    const when = Date.parse(decode(tag(it, 'pubDate') || tag(it, 'published') || tag(it, 'updated') || tag(it, 'dc:date')));
+    const t = isNaN(when) ? now : Math.min(when, now); // some feeds stamp the future
     let domain = '';
-    try { domain = srcUrl ? new URL(srcUrl).hostname.replace(/^www\./, '') : ''; } catch { /* ignore */ }
+    try { domain = new URL(link).hostname.replace(/^www\./, ''); } catch { /* ignore */ }
     return {
       id: hash(link || title), topic, title, source, domain,
       summary: desc && !desc.startsWith(title) ? desc.slice(0, 280) : '',
-      url: link, image, published: isNaN(date) ? new Date().toISOString() : date.toISOString()
+      url: link, image: bigImage(rawImage(it)), published: new Date(t).toISOString()
     };
-  }).filter((s) => s.title && s.url);
+  }).filter((s) => s.title && /^https?:/.test(s.url));
 }
-function googleNewsUrl(c, topic) {
-  const q = `hl=${encodeURIComponent(c.news.hl)}&gl=${c.news.gl}&ceid=${encodeURIComponent(c.news.ceid)}`;
-  return topic === 'TOP' ? `https://news.google.com/rss?${q}` : `https://news.google.com/rss/headlines/section/topic/${topic}?${q}`;
+// Interleave the feeds of a section (newest first within each) so no single publisher fills it.
+function mix(lists, limit, maxAgeH) {
+  const cutoff = Date.now() - maxAgeH * 36e5;
+  const queues = lists.map((l) => l.filter((s) => Date.parse(s.published) >= cutoff).sort((a, b) => b.published.localeCompare(a.published)));
+  const out = []; const seen = new Set();
+  const key = (s) => s.title.toLowerCase().replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+  while (out.length < limit && queues.some((q) => q.length)) {
+    for (const q of queues) {
+      const s = q.shift();
+      if (!s || seen.has(s.url) || seen.has(key(s))) continue;
+      seen.add(s.url); seen.add(key(s)); out.push(s);
+      if (out.length >= limit) break;
+    }
+  }
+  // Within the section, show the newest first but keep stories with photos near the top.
+  return out.sort((a, b) => (b.image ? 1 : 0) - (a.image ? 1 : 0) || b.published.localeCompare(a.published));
 }
 async function buildStories(c) {
-  const byTopic = {};
-  await pool(master.topics, 3, async (topic) => {
-    try { byTopic[topic] = parseRss(await get(googleNewsUrl(c, topic)), topic).slice(0, 25); }
-    catch (e) { console.warn(`  ! ${c.code} ${topic}: ${e.message}`); byTopic[topic] = []; }
+  const feeds = c.feeds || [];
+  const fetched = await pool(feeds, 6, async (f) => {
+    try { return { f, items: parseFeed(await get(f.url, { ua: FEED_UA }), f.topic || 'TOP', f.source || '') }; }
+    catch (e) { console.warn(`  ! ${c.code} ${f.topic} ${f.source}: ${e.message}`); return { f, items: [] }; }
   });
-  // Licensed publisher feeds (with photos) listed in countries.json → "feeds": [{ "topic": "TOP", "url": "..." }]
-  for (const f of c.feeds || []) {
-    try {
-      const items = parseRss(await get(f.url), f.topic || 'TOP');
-      byTopic[f.topic || 'TOP'] = [...items, ...(byTopic[f.topic || 'TOP'] || [])].slice(0, 30);
-    } catch (e) { console.warn(`  ! ${c.code} feed ${f.url}: ${e.message}`); }
+  const byTopic = {};
+  for (const topic of master.topics) {
+    const lists = fetched.filter((x) => (x.f.topic || 'TOP') === topic).map((x) => x.items);
+    byTopic[topic] = mix(lists, 25, MAX_AGE_H[topic] || 48);
+  }
+  if (!byTopic.TOP?.length) { // TOP should never be empty: fall back to the newest across all sections
+    byTopic.TOP = mix(fetched.map((x) => x.items.map((s) => ({ ...s, topic: 'TOP' }))), 25, 48);
   }
   return { generatedAt: new Date().toISOString(), topics: byTopic };
 }
@@ -140,7 +208,9 @@ function fallbackQuiz(c, stories) {
   // Template questions the app localises itself: "Which section is this headline from?" / "Who reported this?"
   const pick = [];
   const topics = master.topics.filter((t) => t !== 'TOP' && stories.topics[t]?.length);
-  for (const t of topics) { const s = stories.topics[t][0]; if (s && !pick.find((p) => p.title === s.title)) pick.push(s); if (pick.length >= 3) break; }
+  const nSources = new Set((stories.topics.TOP || []).map((s) => s.source).filter(Boolean)).size;
+  const want = nSources >= 4 ? 3 : 5; // "who reported this?" needs 4 publishers to choose from
+  for (const t of topics) { const s = stories.topics[t][0]; if (s && !pick.find((p) => p.title === s.title)) pick.push(s); if (pick.length >= want) break; }
   const qs = pick.map((s) => {
     const others = topics.filter((t) => t !== s.topic).sort(() => Math.random() - 0.5).slice(0, 3);
     const options = [s.topic, ...others].sort(() => Math.random() - 0.5);

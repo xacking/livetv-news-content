@@ -1,0 +1,1029 @@
+{
+ "us": {
+  "publishers": [
+   {
+    "source": "KFF Health News",
+    "terms": "allowed",
+    "termsUrl": "https://kffhealthnews.org/syndication/",
+    "note": "CC BY-NC-ND, but syndication page explicitly allows for-profit, ad-supported outlets to republish free with attribution. Staff photos are for non-commercial use only; AP/Getty photos are excluded."
+   },
+   {
+    "source": "NASA",
+    "terms": "allowed",
+    "termsUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "note": "US government work; NASA media 'generally are not subject to copyright in the United States'. NASA insignia/logo may not be used."
+   },
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution text 'BBC News' required, no BBC logos. International (same language) fill-in outside GB."
+   },
+   {
+    "source": "ABC News",
+    "terms": "unclear",
+    "termsUrl": "https://disneytermsofuse.com/english/",
+    "note": "No RSS-specific terms found; generic Disney terms say Disney Products are for personal, noncommercial use."
+   },
+   {
+    "source": "UPI",
+    "terms": "unclear",
+    "termsUrl": "https://www.upi.com/",
+    "note": "Terms page blocked (403); no RSS terms found."
+   },
+   {
+    "source": "The Hill",
+    "terms": "unclear",
+    "termsUrl": "https://www.nexstar.tv/terms-of-use/",
+    "note": "Nexstar generic terms: properties for personal and non-commercial use unless otherwise permitted; no RSS clause."
+   },
+   {
+    "source": "Fortune",
+    "terms": "unclear",
+    "termsUrl": "https://fortune.com/terms-of-use/",
+    "note": "Generic terms: services for personal, non-commercial use; no RSS clause."
+   },
+   {
+    "source": "Business Insider",
+    "terms": "unclear",
+    "termsUrl": "https://www.businessinsider.com/terms",
+    "note": "Generic terms: material for personal, non-commercial use; no RSS clause."
+   },
+   {
+    "source": "Ars Technica",
+    "terms": "unclear",
+    "termsUrl": "https://arstechnica.com/rss-feeds/",
+    "note": "RSS page has no usage terms; Conde Nast user agreement is generic personal, non-commercial."
+   },
+   {
+    "source": "The Verge",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No RSS terms found (Vox Media terms not located)."
+   },
+   {
+    "source": "Live Science",
+    "terms": "unclear",
+    "termsUrl": "https://futureplc.com/terms-conditions/",
+    "note": "Future plc; no RSS or usage clause found."
+   }
+  ],
+  "gaps": "Hardest country: every major US network/newspaper RSS checked is personal-only (NYT, NPR, Fox News, NBC News, CNN, CBS News/CBS Sports [Paramount: 'may not build a business'], PBS ['shall not exploit for commercial purposes'], The Guardian US, Variety/Deadline [PMC feed terms], Phys.org/Medical Xpress [Science X]). So no 'allowed' publisher for TOP/BUSINESS/TECHNOLOGY/SPORTS/ENTERTAINMENT; those rely on 'unclear' publishers (mainly ABC News and UPI). SPORTS and ENTERTAINMENT are weak (ABC News + UPI only; UPI sports newest was 24h). ESPN, Hollywood Reporter and CNBC feeds have no images; USA Today, Washington Post, Axios and Newsweek were blocked. UPI us_news/tech_news feeds just repeat the top stories, so they were not used.",
+  "imagePatterns": [
+   "s.abcnews.com ..._4x3t_384.jpg (384px) -> replace _384.jpg with _992.jpg (verified 200)",
+   "ichef.bbci.co.uk/ace/standard/240/... (240px) -> replace /standard/240/ with /standard/800/ (verified 200)",
+   "cdnph.upi.com/ph/st/th/... thumbnails; host returns 403 to desktop-browser UAs but 200 to okhttp, so phone loads should work. No upscale pattern found (/og/ is 403).",
+   "media.wired/arstechnica (1152x648), platform.theverge.com, fortune.com, i.insider.com (?format=jpeg), cdn.mos.cms.futurecdn.net (-1920-80), nasa assets: all full size, fine"
+  ]
+ },
+ "au": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution text 'BBC News' required, no BBC logos. International (same language) fill-in outside GB."
+   },
+   {
+    "source": "ABC News",
+    "terms": "unclear",
+    "termsUrl": "https://help.abc.net.au/hc/en-us/articles/360001548096-ABC-Terms-of-Use",
+    "note": "No RSS clause; generic ABC terms: 'ABC Content is provided for your personal, non-commercial use only'; republishing needs written permission. Public broadcaster, so worth asking."
+   },
+   {
+    "source": "SBS News",
+    "terms": "unclear",
+    "termsUrl": "https://www.sbs.com.au/aboutus/terms-and-conditions/",
+    "note": "No RSS clause; generic terms: retrieve Material for personal, non-commercial purposes."
+   },
+   {
+    "source": "7NEWS",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Seven West Media; no terms page found."
+   },
+   {
+    "source": "The West Australian",
+    "terms": "unclear",
+    "termsUrl": "https://thewest.com.au/terms",
+    "note": "Seven West Media; terms page has no RSS or personal-use clause."
+   }
+  ],
+  "gaps": "HEALTH and SCIENCE have one Australian source each (ABC) plus BBC. ENTERTAINMENT relies only on Seven West Media (7NEWS + The West Australian). ABC's newer section feeds (World/Politics/Entertainment, 1037.../1042... IDs) carry only 4 items, so they were not used. Excluded: Nine (SMH, The Age, Brisbane Times, AFR; smh.com.au/rssheadlines says the channels are 'for personal use and only in news reader applications'), Guardian Australia (personal, non-commercial), news.com.au (empty feeds), 9News (406), The Conversation (no images in feed), Crikey (42h, 10 items), Canberra Times (ACM generic personal terms; not needed).",
+  "imagePatterns": [
+   "live-production.wcms.abc-cdn.net.au/<id>?impolicy=wcms_crop_resize&...&width=862&height=485, fine",
+   "images.7news.com.au / images.thewest.com.au /publication/... full size, fine",
+   "assets.sbs.com.au/dims4/.../resize/1234x567!/..., fine",
+   "ichef.bbci.co.uk/ace/standard/240/... (240px) -> replace /standard/240/ with /standard/800/ (verified 200)"
+  ]
+ },
+ "no": {
+  "publishers": [
+   {
+    "source": "NRK",
+    "terms": "allowed",
+    "termsUrl": "https://www.nrk.no/rss/",
+    "note": "Public broadcaster. RSS guidelines: free to use NRK RSS news on your own pages if linked directly to nrk.no; label as from NRK, keep NRK content visually separate, do not alter titles/texts, no framing; no copying of full articles/images to own pages. Images 16:9, 1200px via media:content."
+   },
+   {
+    "source": "VG",
+    "terms": "unclear",
+    "termsUrl": "https://www.vg.no/",
+    "note": "Schibsted. No RSS terms page; site footer: 'Kopiering av materiale fra VG for bruk annet sted, crawling, skraping, indeksering ... er ikke tillatt uten avtale' (no use elsewhere/indexing without agreement). Not personal-only wording, but restrictive; consider asking."
+   },
+   {
+    "source": "TV 2",
+    "terms": "unclear",
+    "termsUrl": "https://www.tv2.no/",
+    "note": "No RSS terms; generic footer copyright notice: storage/display only as permitted by law (private use, quotation) without agreement."
+   },
+   {
+    "source": "Aftenposten",
+    "terms": "unclear",
+    "termsUrl": "https://www.aftenposten.no/",
+    "note": "Schibsted; same footer as VG (no copying for use elsewhere, crawling, indexing without agreement). Mostly paywalled articles."
+   },
+   {
+    "source": "E24",
+    "terms": "unclear",
+    "termsUrl": "https://e24.no/",
+    "note": "Schibsted business site; no RSS terms found; Schibsted footer restrictions likely apply as for VG."
+   },
+   {
+    "source": "Tek.no",
+    "terms": "unclear",
+    "termsUrl": "https://www.tek.no/",
+    "note": "Schibsted; footer: 'Kopiering av materiale fra Tek for bruk annet sted er ikke tillatt uten avtale'. No RSS terms."
+   },
+   {
+    "source": "ITavisen",
+    "terms": "unclear",
+    "termsUrl": "https://itavisen.no/",
+    "note": "No terms or RSS policy found."
+   }
+  ],
+  "gaps": "HEALTH and SCIENCE weak: NRK has no fresh health feed (nrk.no/helse and /livsstil are ~20 days stale), so HEALTH = TV 2 helse + NRK Viten (science/health mix, ~39h); SCIENCE = NRK Viten only (forskning.no feed empty/404; Aftenposten viten stale). nrk.no/teknologi returns the same items as Viten, so not used for TECHNOLOGY. NATION has only NRK + TV 2 (VG innenriks category 1069 stale). Excluded: DN / Dagens Næringsliv (personal-only: terms say content only for personal, non-commercial use); Dagbladet and digi.no (feeds carry no images); Nettavisen and TV 2 livsstil/tek (empty).",
+  "imagePatterns": [
+   "gfx.nrk.no/<id>.jpg — full size (NRK says 1200px 16:9), fine",
+   "akamai.vgc.no/v2/images/<uuid>?...&w=1000|1900&s=<sig> (VG/E24/Aftenposten) — signed URL, do not modify params; already large",
+   "shared.cdn.smp.schibsted.com/v2/images/...&w=1600&s=<sig> (Tek.no) — signed, large, fine",
+   "www.cdn.tv2.no/images/?imageId=<n>&...&width=480 — can replace width=480 with width=1200 (verified 200, image/jpeg)",
+   "static.itavisen.no/wp-content/uploads/... .webp full-size, fine"
+  ]
+ },
+ "ch": {
+  "publishers": [
+   {
+    "source": "Blick",
+    "terms": "unclear",
+    "termsUrl": "https://www.blick.ch/8470701",
+    "note": "Blick AGB page returns 403 to automated fetch. Caution: sister Ringier title Beobachter's AGB allow content only for personal, non-commercial use and forbid automated extraction, so Blick's terms are likely similar; consider asking Ringier."
+   },
+   {
+    "source": "DW",
+    "terms": "unclear",
+    "termsUrl": "https://www.dw.com/de/impressum/a-66180469",
+    "note": "German international broadcaster, same-language fill-in. Deutsche Welle (public international broadcaster); no RSS terms page found. Only the all-news feed carries images (rss-de-news/top/wissenschaft have none)."
+   },
+   {
+    "source": "ntv",
+    "terms": "unclear",
+    "termsUrl": "https://www.n-tv.de/incoming/RSS-Feeds-von-n-tv-de-article10735026.html",
+    "note": "German, same-language fill-in. RSS page invites use in readers, no usage restriction stated; imprint says SID-agency material is for personal information only (affects some sport items)."
+   },
+   {
+    "source": "heise online",
+    "terms": "unclear",
+    "termsUrl": "https://www.heise.de/impressum.html",
+    "note": "German, same-language fill-in. Imprint: redistribution needs written consent, commercial TDM reserved; no RSS-specific clause."
+   },
+   {
+    "source": "Golem.de",
+    "terms": "unclear",
+    "termsUrl": "https://www.golem.de/sonstiges/impressum.html",
+    "note": "German, same-language fill-in. Imprint only reserves commercial TDM; no RSS clause."
+   },
+   {
+    "source": "Tagesspiegel",
+    "terms": "unclear",
+    "termsUrl": "https://www.tagesspiegel.de/impressum-tagesspiegel-online-471039.html",
+    "note": "German, same-language fill-in. Imprint only reserves commercial text and data mining / AI training (§44b UrhG); no RSS clause found."
+   },
+   {
+    "source": "ZEIT ONLINE",
+    "terms": "unclear",
+    "termsUrl": "https://www.zeit.de/administratives/agb",
+    "note": "German, same-language fill-in. Terms pages block automated access; site notice reserves commercial TDM and says automated access to some pages needs permission (crawl-request@zeit.de). Feeds at newsfeed.zeit.de are public."
+   },
+   {
+    "source": "Spektrum.de",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "German, same-language fill-in."
+   }
+  ],
+  "gaps": "Very weak: Blick is the only Swiss publisher that passes (and its terms are unclear/possibly restrictive). Excluded: NZZ (RSS page: 'Die Nutzung unserer RSS-Feeds ist auf kommerziellen Seiten ohne Genehmigung nicht gestattet'), 20 Minuten (AGB: products for personal, non-commercial use only; automated retrieval/redistribution needs consent), finews.ch (private non-commercial only), SRF (feeds have no images; public broadcaster terms not checked further). Watson feeds have images only as escaped '&lt;img src=\"...\"' in Atom content, which check.mjs/imageOf does not parse (0% photo) - would pass if imageOf learned that pattern; terms not checked. Tages-Anzeiger/Tamedia feeds loop on redirects (cookie wall), CH Media (Luzerner/Aargauer Zeitung) feeds return 403. TECHNOLOGY, HEALTH and SCIENCE use German publishers only; ENTERTAINMENT and TOP have one feed; Blick health/science/digital feeds have <8 items.",
+  "imagePatterns": [
+   "ocdn.eu/pulscms-transforms/1/<token>/<name>.jpg (Blick): size is encoded in the token (600x315); use as-is",
+   "n-tv / tagesspiegel / heise / dw: see de.json patterns"
+  ]
+ },
+ "gb": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution text 'BBC News' required, no BBC logos. International (same language) fill-in outside GB."
+   },
+   {
+    "source": "BBC Sport",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "Same BBC feed terms (website use encouraged, attribute, no logos)."
+   },
+   {
+    "source": "Radio Times",
+    "terms": "allowed",
+    "termsUrl": "https://www.immediate.co.uk/terms-and-conditions/",
+    "note": "Immediate Media terms have an RSS section granting a royalty-free licence to display links/materials from its RSS feeds on your website, subject to the terms."
+   },
+   {
+    "source": "The Telegraph",
+    "terms": "unclear",
+    "termsUrl": "https://www.telegraph.co.uk/about-us/terms-and-conditions-of-use/",
+    "note": "Terms page is paywalled (HTTP 402); no RSS terms found. Telegraph section feeds are stale, so only the main feed is used."
+   },
+   {
+    "source": "Evening Standard",
+    "terms": "unclear",
+    "termsUrl": "https://www.standard.co.uk/service/terms-of-use-6902768.html",
+    "note": "No RSS clause; generic site terms say the website/content is for personal, non-commercial use."
+   },
+   {
+    "source": "Daily Express",
+    "terms": "unclear",
+    "termsUrl": "https://www.express.co.uk/terms-conditions",
+    "note": "Reach plc; RSS page has no usage terms; generic site terms say 'The Site is for personal and non-commercial use only'."
+   },
+   {
+    "source": "Daily Mirror",
+    "terms": "unclear",
+    "termsUrl": "https://www.mirror.co.uk/terms-conditions/",
+    "note": "Reach plc; same generic terms as Express (site for personal, non-commercial use); no RSS clause."
+   },
+   {
+    "source": "City AM",
+    "terms": "unclear",
+    "termsUrl": "https://www.cityam.com/terms-conditions/",
+    "note": "Terms have no RSS or personal-use clause."
+   },
+   {
+    "source": "This is Money",
+    "terms": "unclear",
+    "termsUrl": "https://www.dailymail.co.uk/terms",
+    "note": "DMG Media (Daily Mail terms); RSS page has no usage terms; generic site terms: view content for personal non-commercial use."
+   },
+   {
+    "source": "Daily Mail",
+    "terms": "unclear",
+    "termsUrl": "https://www.dailymail.co.uk/terms",
+    "note": "DMG Media; RSS page has no usage terms; generic site terms: view content for personal non-commercial use."
+   },
+   {
+    "source": "The Register",
+    "terms": "unclear",
+    "termsUrl": "https://www.theregister.com/profile/terms_and_conditions_of_use",
+    "note": "Terms have no RSS or personal-use clause."
+   }
+  ],
+  "gaps": "None empty. TECHNOLOGY, ENTERTAINMENT, HEALTH and SCIENCE have only 2 feeds each (BBC + one tabloid/trade). Excluded: The Guardian (its RSS help page says feeds are for personal, non-commercial use), not used (generic personal-use site terms, not needed): i/inews, Metro, GB News; Sky News (403), The Independent (empty feeds), Sky Sports (no item dates), Telegraph sections (stale or 403).",
+  "imagePatterns": [
+   "ichef.bbci.co.uk/ace/standard/240/... (240px) -> replace /standard/240/ with /standard/800/ (verified 200)",
+   "i2-prod.mirror.co.uk .../ALTERNATES/s615/... (615px), fine",
+   "cdn.images.express.co.uk/img/dynamic/<n>/590x/... (590px), fine",
+   "static.standard.co.uk ...?width=1200, fine; i.dailymail.com '-image-a-' (~634px), fine",
+   "telegraph.co.uk/content/dam/... full-size, fine; image.theregister.com/?imageId=..&width=800, fine"
+  ]
+ },
+ "ca": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution text 'BBC News' required, no BBC logos. International (same language) fill-in outside GB."
+   },
+   {
+    "source": "CTV News",
+    "terms": "unclear",
+    "termsUrl": "https://www.bellmedia.ca/bell-media-website-terms-conditions/",
+    "note": "Bell Media generic terms: content licensed for personal and non-commercial use; no RSS clause. Feed dates come out ~3-4h in the future (timezone bug), so clamp them."
+   },
+   {
+    "source": "BNN Bloomberg",
+    "terms": "unclear",
+    "termsUrl": "https://www.bellmedia.ca/bell-media-website-terms-conditions/",
+    "note": "Bell Media; same generic terms as CTV."
+   },
+   {
+    "source": "TSN",
+    "terms": "unclear",
+    "termsUrl": "https://www.bellmedia.ca/bell-media-website-terms-conditions/",
+    "note": "Bell Media; same generic terms as CTV."
+   },
+   {
+    "source": "Global News",
+    "terms": "unclear",
+    "termsUrl": "https://www.corusent.com/terms-of-use/",
+    "note": "Corus generic terms: view pages for non-commercial use; globalnews.ca/pages/feeds has no usage terms."
+   },
+   {
+    "source": "Daily Hive",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found."
+   },
+   {
+    "source": "Sportsnet",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Rogers; no terms page found."
+   }
+  ],
+  "gaps": "SCIENCE is weak: Global science newest was 152h (within 7d), CTV's environment feed is a stand-in, and BBC is the international fill-in. TECHNOLOGY and HEALTH rely on Global News plus BBC (CTV sci-tech and health feeds had only 7 items). Global money was 52h old, so it was dropped. Excluded: CBC (feeds time out from here, and CBC requires a licence for commercial use), Globe and Mail (terms: personal non-commercial licence, no aggregating/republishing without consent), Canadian Press (personal use; sells newsfeed licences), National Post and Toronto Sun (no images), Toronto Star (429), CityNews (stale or no images).",
+  "imagePatterns": [
+   "ctvnews.ca/tsn.ca/bnnbloomberg.ca /resizer/v2/...?auth=...&width=1400: auth-signed, don't change params; already large",
+   "globalnews.ca/wp-content/uploads/... ?quality=65&strip=all (decode &#038; to &), full size",
+   "ichef.bbci.co.uk/ace/standard/240/... (240px) -> replace /standard/240/ with /standard/800/ (verified 200)"
+  ]
+ },
+ "dk": {
+  "publishers": [
+   {
+    "source": "DR",
+    "terms": "allowed",
+    "termsUrl": "https://www.dr.dk/nyheder/dr-nyheder-som-rss-feed",
+    "note": "Public broadcaster. RSS page: 'Vi tilbyder mange forskellige feeds, som frit kan benyttes' (feeds may be used freely)."
+   },
+   {
+    "source": "Videnskab.dk",
+    "terms": "unclear",
+    "termsUrl": "https://videnskab.dk/rss-feeds/",
+    "note": "Independent science news site. RSS page: 'Ønsker du at bruge vores feeds på din hjemmeside eller blog, kontakt os på redaktion@videnskab.dk' — asks to be contacted for website use (not an explicit ban). Topic filtering not supported, general feed (has a krop-sundhed/health share) used for HEALTH and SCIENCE."
+   },
+   {
+    "source": "Avisen.dk",
+    "terms": "unclear",
+    "termsUrl": "https://www.avisen.dk/",
+    "note": "No RSS or usage terms found. Only 15 items in feed."
+   },
+   {
+    "source": "Recordere.dk",
+    "terms": "unclear",
+    "termsUrl": "https://www.recordere.dk/",
+    "note": "Consumer tech site; no terms found."
+   }
+  ],
+  "gaps": "Denmark is weak. WORLD, BUSINESS and SPORTS are empty. DR feeds are allowed but only some sections reach 70% photos: DR udland 13/20 (65%), DR sporten and senestesport 12/20 (60%), DR penge 80% but newest item 52h old, DR senestenyt/allenyheder 4/20, DR politik 9/20 — these are borderline and could be added if the build tolerates missing photos (e.g. fallback image). TOP uses DR indland + Avisen.dk because DR's top feed lacks photos. Excluded as personal-only: Politiken (RSS 'stilles til rådighed for enkeltpersoners private brug', commercial/public aggregators forbidden), Berlingske and B.T. (Berlingske Media: only private use of RSS, systematic commercial use needs agreement), Børsen ('RSS-feeds er udelukkende til privat brug'), Nordjyske (same private-use RSS clause). Altinget.dk (JP/Politikens Hus, sister of Politiken) not used: its copyright page could not be read and the group's Politiken terms are personal-only. Ekstra Bladet (JP/Politikens Hus; also only 10 items, image URLs contain an unfilled {representation} template). No photos in feeds: TV 2 (feeds.services.tv2.dk), Ingeniøren/Version2, Computerworld, Feltet. Mobilsiden 40% photos; TV 2 Fyn only 10 items/70% (regional).",
+  "imagePatterns": [
+   "asset.dr.dk/drdk/umbraco-images/...?im=AspectCrop=(1200,675)...;Resize=(1200,675)&impolicy=medium — 1200px, fine",
+   "videnskab.dk/wp-content/uploads/YYYY/MM/<name>-620x413.jpg — strip the '-620x413' suffix for the original (verified 200)",
+   "www.recordere.dk/wp-content/uploads/...-300x245.jpg — small WordPress thumbnail; strip the '-WxH' suffix for the original",
+   "media3.avisen.dk/image/<id>/4/img.jpg — fine"
+  ]
+ },
+ "se": {
+  "publishers": [
+   {
+    "source": "Aftonbladet",
+    "terms": "unclear",
+    "termsUrl": "https://support.aftonbladet.se/s/villkor",
+    "note": "Schibsted. No RSS terms on rss.aftonbladet.se; user-terms page could not be fetched (blocked). Sections Sportbladet/Nöjesbladet/Hälsa/Ekonomi used under the 'Aftonbladet' name."
+   },
+   {
+    "source": "Svenska Dagbladet",
+    "terms": "unclear",
+    "termsUrl": "https://www.svd.se/",
+    "note": "Schibsted; no RSS or usage terms found. Section feeds not available (only main feed works)."
+   },
+   {
+    "source": "Omni",
+    "terms": "unclear",
+    "termsUrl": "https://omni.se/",
+    "note": "Schibsted news aggregator writing its own summaries; no terms found. Only a general feed; used for TOP and as WORLD fill-in (general feed with much foreign news)."
+   },
+   {
+    "source": "Dagens ETC",
+    "terms": "unclear",
+    "termsUrl": "https://www.etc.se/",
+    "note": "No terms found (site blocks scripted fetch). General feed used for NATION."
+   },
+   {
+    "source": "Computer Sweden",
+    "terms": "unclear",
+    "termsUrl": "https://foundryco.com/terms-of-service-agreement/",
+    "note": "Foundry (ex-IDG). Generic ToS: no RSS clause; prohibits scraping/AI harvesting, no explicit personal-only clause for content."
+   },
+   {
+    "source": "Feber",
+    "terms": "unclear",
+    "termsUrl": "https://feber.se/",
+    "note": "No terms found."
+   },
+   {
+    "source": "Forskning & Framsteg",
+    "terms": "unclear",
+    "termsUrl": "https://fof.se/",
+    "note": "Popular-science magazine; no terms found. Feed has only 10 items, ~70% with images (borderline)."
+   }
+  ],
+  "gaps": "Sweden is weak: the public broadcasters' feeds carry no photos (SVT svt.se/*/rss.xml: no image tags; Sveriges Radio api.sr.se/api/rss/program/83: image is inside escaped <content> as &lt;img src=\"...\" with literal quotes, which check.mjs/imageOf does not detect — a small parser tweak would make SR Ekot usable, SR terms not checked). All Bonnier News titles were excluded as personal-only: Bonnier's 'Upphovsrätt och AI' terms (https://www.bonniernews.se/info/upphovsratt-och-ai, linked from DN/Di/Expressen footers) forbid using content for any purpose incl. aggregation or commercial use without written permission — this removes DN, Expressen, Dagens industri (their feeds passed the technical check). WORLD = Omni general feed only (no foreign-news section feed found; Aftonbladet utrikes 404). BUSINESS, SPORTS, ENTERTAINMENT, HEALTH = Aftonbladet only. SCIENCE = Forskning & Framsteg only (10 items, borderline). Aftonbladet teknik is stale (84h), Expressen hälsoliv stale; Göteborgs-Posten serves gzip-only RSS that check.mjs cannot read; Yle Svenska feeds have no images.",
+  "imagePatterns": [
+   "akamai.vgc.no/v2/images/<uuid>?format=auto&w=1000&s=<sig> (Aftonbladet, SvD) — signed, do not modify; 1000px fine",
+   "gfx.omni.se/images/<uuid>?h=720&w=1280 — fine",
+   "computersweden.se/wp-content/uploads/...?quality=50&strip=all — full-size, low JPEG quality; can drop query or use quality=80",
+   "static.feber.se/article_images/.../<id>_980.jpg — 980px fine",
+   "fof-se.eu-central-1.linodeobjects.com/app/uploads/... full-size; cdn.publisher-live.etc.nu/... full-size"
+  ]
+ },
+ "nl": {
+  "publishers": [
+   {
+    "source": "NU.nl",
+    "terms": "unclear",
+    "termsUrl": "https://www.nu.nl/gebruiksvoorwaarden",
+    "note": "DPG Media. Terms pages return 403 to automated fetch; feed only says 'Copyright © NU'."
+   },
+   {
+    "source": "AD",
+    "terms": "unclear",
+    "termsUrl": "https://www.dpgmediagroup.com/nl-NL/gebruiksvoorwaarden",
+    "note": "DPG Media; terms page blocked (403). DPG and Mediahuis have sued an aggregator (Howards Home) over reuse of their content - consider asking DPG."
+   },
+   {
+    "source": "de Volkskrant",
+    "terms": "unclear",
+    "termsUrl": "https://www.dpgmediagroup.com/nl-NL/gebruiksvoorwaarden",
+    "note": "DPG Media; same as AD."
+   },
+   {
+    "source": "De Telegraaf",
+    "terms": "unclear",
+    "termsUrl": "https://www.telegraaf.nl/gebruiksvoorwaarden",
+    "note": "Mediahuis; terms pages 403. Section feeds return the same mixed feed or 403, so used for TOP only. Mediahuis' NRC states its RSS is personal non-commercial only, so Mediahuis may be restrictive."
+   },
+   {
+    "source": "Bright",
+    "terms": "unclear",
+    "termsUrl": "https://www.bright.nl/pagina/algemene-voorwaarden",
+    "note": "Terms page behind a JS challenge (pxr.nl)."
+   },
+   {
+    "source": "Scientias.nl",
+    "terms": "unclear",
+    "termsUrl": "https://www.pxr.nl/voorwaarden-scientias",
+    "note": "Terms page behind a JS challenge; feed has only ~8 items."
+   }
+  ],
+  "gaps": "Excluded: NOS (Algemene Voorwaarden 2025 art. 7: RSS only for non-commercial use by private users; no use with ads), NRC (feed: 'uitsluitend bedoeld voor persoonlijk, niet-commercieel gebruik'). Tweakers feeds have no images; RTL Nieuws rss.xml works (779 mixed items) but has no section feeds and is left out; BNR, FD 403/404. Publisher mix is dominated by DPG (NU.nl, AD, de Volkskrant); every publisher is 'unclear'. NU Gezondheid newest item 53h (within 7-day HEALTH limit); Volkskrant tech (52h) left out.",
+  "imagePatterns": [
+   "images.nu.nl/m/<id>_sqr256/<crop>/<name>.jpg (256px square) -> replace _sqr256 with _sqr1024 (keeps crop) or use images.nu.nl/m/<id>_wd1280/<name>.jpg (uncropped); both verified 200",
+   "images.ad.nl/<base64 '<hash>/dio/<id>/fit-width/400'>/<slug> (400px): hash-signed, changing width gives 403; use as-is",
+   "image.volkskrant.nl/<id>/feature-crop/320/320/<slug> (320px square) -> /feature-crop/1200/675/ (verified 200)",
+   "prod-img.telegraaf.nl/.../alternates/BASE_SIXTEEN_NINE/... : large, fine",
+   "webp.br.cdn.pxr.nl/...?width=1200 (Bright), scientias wp-content ...-scaled.jpg: fine"
+  ]
+ },
+ "de": {
+  "publishers": [
+   {
+    "source": "ntv",
+    "terms": "unclear",
+    "termsUrl": "https://www.n-tv.de/incoming/RSS-Feeds-von-n-tv-de-article10735026.html",
+    "note": "RSS page invites use in readers, no usage restriction stated; imprint says SID-agency material is for personal information only (affects some sport items)."
+   },
+   {
+    "source": "Tagesspiegel",
+    "terms": "unclear",
+    "termsUrl": "https://www.tagesspiegel.de/impressum-tagesspiegel-online-471039.html",
+    "note": "Imprint only reserves commercial text and data mining / AI training (§44b UrhG); no RSS clause found."
+   },
+   {
+    "source": "ZEIT ONLINE",
+    "terms": "unclear",
+    "termsUrl": "https://www.zeit.de/administratives/agb",
+    "note": "Terms pages block automated access; site notice reserves commercial TDM and says automated access to some pages needs permission (crawl-request@zeit.de). Feeds at newsfeed.zeit.de are public."
+   },
+   {
+    "source": "heise online",
+    "terms": "unclear",
+    "termsUrl": "https://www.heise.de/impressum.html",
+    "note": "Imprint: redistribution needs written consent, commercial TDM reserved; no RSS-specific clause."
+   },
+   {
+    "source": "Golem.de",
+    "terms": "unclear",
+    "termsUrl": "https://www.golem.de/sonstiges/impressum.html",
+    "note": "Imprint only reserves commercial TDM; no RSS clause."
+   },
+   {
+    "source": "Spektrum.de",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No RSS/usage terms found."
+   },
+   {
+    "source": "DW",
+    "terms": "unclear",
+    "termsUrl": "https://www.dw.com/de/impressum/a-66180469",
+    "note": "Deutsche Welle (public international broadcaster); no RSS terms page found. Only the all-news feed carries images (rss-de-news/top/wissenschaft have none)."
+   }
+  ],
+  "gaps": "Major German outlets excluded as personal-only: tagesschau.de/sportschau (ARD RSS page: 'nur für den privaten, nicht-kommerziellen Gebrauch', commercial platforms must register in ARD Publishing Portal), SPIEGEL and F.A.Z. (terms forbid use for RSS feeds/snippets outside private sphere), ZDF/zdfheute (private non-commercial only), Süddeutsche (no publishing/other news services), WELT (private use only), stern (private use only). Remaining publishers are all 'unclear'. ENTERTAINMENT and HEALTH have 2 feeds; ZEIT has no culture/science feed (404). kicker feed has no images; DW section feeds lack images.",
+  "imagePatterns": [
+   "n-tv.de/img/<id>/<ts>/Img_4_3/250/<file>.jpg (250px) -> replace /Img_4_3/250/ with /Img_4_3/1200/ or /Img_16_9/1200/ (verified 200)",
+   "tagesspiegel.de/images/<id>/alternates/BASE_4_3_W220/... (220px) -> BASE_16_9_W1000 or BASE_4_3_W1000 (verified 200)",
+   "heise.de/scale/geometry/450/q80//imgs/... (450px) -> /scale/geometry/1200/... (301 to heise.cloudimg.io/width/1200/..., verified 200)",
+   "static.dw.com/image/<id>_302.jpg (302px) -> _906.jpg or _605.jpg (verified 200)",
+   "img.zeit.de/.../original__640x360 (640px), fine",
+   "golem.de/<yymm>/<id>-<n>-<n>_rc.jpg (~ medium), use as-is",
+   "static.spektrum.de/...?f=1280x720, fine"
+  ]
+ },
+ "nz": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution text 'BBC News' required, no BBC logos. International (same language) fill-in outside GB."
+   },
+   {
+    "source": "NZ Herald",
+    "terms": "unclear",
+    "termsUrl": "https://www.nzme.co.nz/about-nzme/terms-conditions/",
+    "note": "NZME; no RSS or personal-use clause found."
+   },
+   {
+    "source": "Stuff",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found (old URLs return 410)."
+   }
+  ],
+  "gaps": "SCIENCE has no NZ source (BBC only). TECHNOLOGY has one NZ source (NZ Herald tech, newest 25h) plus BBC. HEALTH is Stuff plus BBC; NZ Herald health/science section feeds are empty. NZ Herald section feeds carry only 10 items. Excluded: RNZ (rnz.co.nz/rss: 'These feeds are for personal use only'; no images anyway), 1News/TVNZ (house rules: 'no commercial use of any kind' without an agreement), Newsroom (commercial use needs a licence), The Spinoff, ODT and BusinessDesk (no working feed), interest.co.nz (no images).",
+  "imagePatterns": [
+   "nzherald.co.nz/resizer/v2/...?auth=...&width=300&height=300 (300px square): auth-signed, so changing width gives 400. Use as-is (upscale) or take a larger image from the article's og:image.",
+   "stuff.co.nz/media/images/<long token>?resolution=1240x700, fine (very long URLs)",
+   "ichef.bbci.co.uk/ace/standard/240/... (240px) -> replace /standard/240/ with /standard/800/ (verified 200)"
+  ]
+ },
+ "ie": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution required, no BBC logos. International (same-language) fill-in."
+   },
+   {
+    "source": "Irish Independent",
+    "terms": "unclear",
+    "termsUrl": "https://www.independent.ie/info/terms-conditions/",
+    "note": "Mediahuis Ireland; terms page returns 403 to scripts, no RSS terms found. Section feeds occasionally 403 under rapid requests."
+   },
+   {
+    "source": "TheJournal.ie",
+    "terms": "unclear",
+    "termsUrl": "https://www.thejournal.ie/terms/",
+    "note": "Journal Media; generic terms: 'Our Sites are made available for your personal, non-commercial use only, except where otherwise authorised'; no RSS clause."
+   },
+   {
+    "source": "The42",
+    "terms": "unclear",
+    "termsUrl": "https://www.thejournal.ie/terms/",
+    "note": "Journal Media sport site; same generic terms as TheJournal.ie."
+   },
+   {
+    "source": "Irish Mirror",
+    "terms": "unclear",
+    "termsUrl": "https://www.irishmirror.ie/terms-conditions/",
+    "note": "Reach plc; same generic personal/non-commercial site terms as Daily Mirror; no RSS clause."
+   },
+   {
+    "source": "Extra.ie",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page checked/found."
+   },
+   {
+    "source": "Silicon Republic",
+    "terms": "unclear",
+    "termsUrl": "https://www.siliconrepublic.com/",
+    "note": "No terms page found (404); footer: 'Reproduction without explicit permission is prohibited'. Mixed tech/science feed."
+   }
+  ],
+  "gaps": "SCIENCE has no dedicated Irish feed: Silicon Republic's mixed tech/science feed (newest ~31h, 20 items) plus BBC. Excluded: RTÉ (rte.ie terms clause 8: 'RSS feeds ... provided free of charge to individuals for personal and non-commercial use only'; commercial use needs RTÉ agreement) despite excellent feeds; The Irish Times (terms explicitly cover RSS feeds, grant only a personal non-commercial licence and forbid 'reproduce, scrape, automatically summarise or aggregate without a licence'). Irish Examiner feeds put photos in <link rel=\"enclosure\"> which check.mjs/imageOf does not detect (0% photos) - a small parser tweak would enable it. BreakingNews.ie feed is 410; joe.ie has no photos; Business Post feed empty.",
+  "imagePatterns": [
+   "prod-img.independent.ie/public/incoming/.../alternates/BASE_SIXTEEN_NINE/<name>: original size (saw 3840x2160, ~300KB); ?width= ignored, no smaller variant found. Heavy but fine.",
+   "c0/c2.thejournal.ie/media/YYYY/MM/<name>-630x395.jpg (also The42): 630px, fine; dropping the -630x395 suffix gives the original (verified 917px).",
+   "i2-prod.irishmirror.ie .../ALTERNATES/s615/... (615px), fine; /s1200/ also works (verified 1200x630).",
+   "extra.ie/wp-content/uploads/...?w=1200, siliconrepublic.com/wp-content/uploads/... full size, fine",
+   "ichef.bbci.co.uk/ace/standard/240/... or /ace/ws/240/... (240px) -> replace /240/ with /800/ (verified 200, 800x450)"
+  ]
+ },
+ "jp": {
+  "publishers": [
+   {
+    "source": "BBCニュース",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution required, no BBC logos. International (same-language) fill-in."
+   },
+   {
+    "source": "TBS NEWS DIG",
+    "terms": "unclear",
+    "termsUrl": "https://newsdig.tbs.co.jp/list/rights",
+    "note": "No RSS clause; generic site terms prohibit sales activity or profit-making use of the service/content. Single all-news feed (category params ignored)."
+   },
+   {
+    "source": "ライブドアニュース",
+    "terms": "unclear",
+    "termsUrl": "https://www.livedoor.com/rules/",
+    "note": "LINE Yahoo; generic rules (software not for commercial use); no RSS clause. Editor-written topic summaries; links go to livedoor pages that cite the original outlet."
+   },
+   {
+    "source": "東洋経済オンライン",
+    "terms": "unclear",
+    "termsUrl": "https://toyokeizai.net/list/base-terms",
+    "note": "Generic terms: no use of content for profit / beyond private use; no RSS clause."
+   },
+   {
+    "source": "ASCII.jp",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "KADOKAWA; no RSS terms found."
+   },
+   {
+    "source": "ギズモード・ジャパン",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Mediagene; no RSS terms found."
+   },
+   {
+    "source": "Full-Count",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Creative2 (baseball); no terms found; 10-item feed."
+   },
+   {
+    "source": "THE ANSWER",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Creative2 (sports); no terms found; 10-item feed."
+   },
+   {
+    "source": "sorae",
+    "terms": "unclear",
+    "termsUrl": "https://sorae.info/terms",
+    "note": "Space/astronomy news; terms page has no RSS or commercial clause."
+   },
+   {
+    "source": "サイエンスポータル",
+    "terms": "unclear",
+    "termsUrl": "https://scienceportal.jst.go.jp/",
+    "note": "JST (public science agency) news site; no RSS terms found. 10-item feed, newest ~39h."
+   },
+   {
+    "source": "ナゾロジー",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Popular-science site; no terms found; 10-item feed."
+   }
+  ],
+  "gaps": "HEALTH is empty: no Japanese health feed with photos found (QLifePro, NHK, Jiji, Yahoo have no photos; medicaldoc 403; Gooday/kenko100 empty). ENTERTAINMENT is livedoor only (Natalie 405, eiga.com 403, ORICON 410, cinemacafe/mantan no photos or blocked). NATION reuses the single TBS all-news feed. Big outlets (NHK, Asahi, Mainichi, Sankei, Jiji, Yahoo! News, ITmedia, Impress Watch, GIGAZINE, Nikkan Sports, Football ZONE) have feeds without photos, so they fail the photo rule. Business Insider Japan feed is good but its terms let it forbid links 'for profit-making purposes', so it was left out.",
+  "imagePatterns": [
+   "newsdig.ismcdn.jp/mwimgs/.../1200xm/... and tk.ismcdn.jp/mwimgs/.../1200w/... (1200px), fine",
+   "ascii.jp/img/YYYY/MM/DD/<id>/s/<hash>.png is 150px -> replace /s/ with /l/ (verified 200, 588px)",
+   "image.news.livedoor.com/newsimage/stf/.../..._size640wh_... (640px), fine",
+   "full-count.jp / the-ans.jp wp-content/uploads/...-560x373.jpg / -650x433.jpg: drop the -WxH suffix for 900px originals (verified)",
+   "media.loom-app.com/gizmodo/...?w=1200, sorae/scienceportal/nazology wp-content/uploads full size, fine",
+   "ichef.bbci.co.uk/ace/standard/240/... or /ace/ws/240/... (240px) -> replace /240/ with /800/ (verified 200, 800x450)"
+  ]
+ },
+ "sg": {
+  "publishers": [
+   {
+    "source": "BBC News",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution required, no BBC logos. International (same-language) fill-in."
+   },
+   {
+    "source": "BBC Sport",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "Same BBC feed terms (website use encouraged, attribute, no logos)."
+   },
+   {
+    "source": "Mothership",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found (/terms-of-use 404). Feed has only 10 items."
+   },
+   {
+    "source": "The Independent Singapore",
+    "terms": "unclear",
+    "termsUrl": "https://theindependent.sg/terms-of-use/",
+    "note": "Terms page 403 to scripts; no RSS terms found. Tabloid-leaning but long-running SG site."
+   },
+   {
+    "source": "Must Share News",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found. 10-item feed."
+   },
+   {
+    "source": "Vulcan Post",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found. 10-item feed, ~80% photos (borderline)."
+   },
+   {
+    "source": "Tech in Asia",
+    "terms": "unclear",
+    "termsUrl": "https://www.techinasia.com/terms",
+    "note": "Terms page is JS-rendered; no RSS clause found. Singapore-HQ, pan-Asian tech."
+   },
+   {
+    "source": "TheSmartLocal",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms found; lifestyle/entertainment, newest ~34h."
+   }
+  ],
+  "gaps": "Weak country. Only SG-native sources are digital outlets (Mothership, The Independent SG, Must Share News, Vulcan Post, Tech in Asia, TheSmartLocal), all 'unclear'. WORLD, SPORTS, HEALTH, SCIENCE are BBC only (international, same language); no SG sports/health/science feed with photos. Excluded: CNA and TODAY (Mediacorp RSS terms: 'free of charge strictly for your personal and non-commercial uses only'). The Straits Times and The Business Times feeds have no photos (Straits Times tech feed 400). AsiaOne, TODAY, HardwareZone, Edge Singapore have no working feed; Yahoo SG feed stale.",
+  "imagePatterns": [
+   "static.mothership.sg, mustsharenews.com, vulcanpost.com, thesmartlocal.com, cdn.techinasia.com wp-content/uploads: full size, fine",
+   "sgp1.digitaloceanspaces.com/theindependentsg/...-large.webp: large webp, fine",
+   "ichef.bbci.co.uk/ace/standard/240/... or /ace/ws/240/... (240px) -> replace /240/ with /800/ (verified 200, 800x450)"
+  ]
+ },
+ "at": {
+  "publishers": [
+   {
+    "source": "KURIER",
+    "terms": "unclear",
+    "termsUrl": "https://kurier.at/info/impressum-kurierat/711895",
+    "note": "No RSS or content-use terms found (only advertising AGB)."
+   },
+   {
+    "source": "Kleine Zeitung",
+    "terms": "unclear",
+    "termsUrl": "https://www.kleinezeitung.at/artikel/17089703/agb-and-nutzungsbedingungen",
+    "note": "Generic copyright clause (further distribution needs permission); no RSS clause."
+   },
+   {
+    "source": "Krone",
+    "terms": "unclear",
+    "termsUrl": "https://www.krone.at/impressum",
+    "note": "Terms pages block automated access. Only feed found is the one linked from krone.at, named 'rssfeed-google' (200 mixed items); may be intended for Google News."
+   },
+   {
+    "source": "futurezone",
+    "terms": "unclear",
+    "termsUrl": "https://kurier.at/info/impressum-kurierat/711895",
+    "note": "KURIER group tech site; no RSS terms found."
+   },
+   {
+    "source": "heise online",
+    "terms": "unclear",
+    "termsUrl": "https://www.heise.de/impressum.html",
+    "note": "German tech publisher used as same-language fill-in. Imprint: redistribution needs written consent, commercial TDM reserved; no RSS-specific clause."
+   }
+  ],
+  "gaps": "Excluded: ORF (rss.orf.at: feeds 'für nicht-kommerzielle Zwecke'; news/sport feeds also lack images), Salzburger Nachrichten (terms forbid any commercial use without written permission), derStandard and Die Presse (no images in feeds). Heute, oe24, Tiroler Tageszeitung, OÖN: no working feed with images. TECHNOLOGY uses heise (German) as second source. SCIENCE is weak: futurezone science (32h old) and KURIER wissen (mixes health). All Austrian publishers are 'unclear'; KURIER and futurezone are one media group.",
+  "imagePatterns": [
+   "image.kurier.at/images/original/<id>/<file>.jpg (and image.futurezone.at): original size, fine",
+   "img.kleinezeitung.at/.../alternates/BASE_LANDSCAPE/<file>: large, fine",
+   "imgl.krone.at/scaled/<id>/<v>/full.jpg: fine",
+   "heise: /scale/geometry/450/ -> /scale/geometry/1200/ (verified)"
+  ]
+ },
+ "be": {
+  "publishers": [
+   {
+    "source": "HLN",
+    "terms": "unclear",
+    "termsUrl": "https://www.dpgmediagroup.com/nl-BE/gebruiksvoorwaarden",
+    "note": "DPG Media; site and terms return 403 to automated fetch; feed copyright 'DPG Media NV'."
+   },
+   {
+    "source": "De Morgen",
+    "terms": "unclear",
+    "termsUrl": "https://www.dpgmediagroup.com/nl-BE/gebruiksvoorwaarden",
+    "note": "DPG Media; same as HLN."
+   },
+   {
+    "source": "De Standaard",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Mediahuis; site returns 403 to automated fetch, no RSS terms found. Mediahuis' NRC (NL) restricts RSS to personal use, so may be restrictive."
+   },
+   {
+    "source": "Het Nieuwsblad",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Mediahuis; as De Standaard."
+   },
+   {
+    "source": "Knack",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "Roularta; site returns 405 to automated fetch, no terms found."
+   },
+   {
+    "source": "BRUZZ",
+    "terms": "allowed",
+    "termsUrl": "https://www.bruzz.be/disclaimer-copyright-op-bruzzbe",
+    "note": "Disclaimer: 'Het overnemen van de titel en inleiding van het artikel is toegestaan, mits duidelijke bronvermelding \"BRUZZ.be\"'. But photo/audio may not be taken over without permission, so thumbnails are a grey area. Brussels regional outlet."
+   }
+  ],
+  "gaps": "Excluded/unused: VRT NWS and Sporza (feeds have no images), De Tijd (no images), Datanews/Trends (<70% images). Only BRUZZ is 'allowed' (text; images unclear); all others 'unclear'. TECHNOLOGY has HLN plus De Morgen's combined tech-science feed; ENTERTAINMENT is HLN plus BRUZZ (Brussels culture). HLN science newest 54h (within 7-day limit).",
+  "imagePatterns": [
+   "images.hln.be/<base64 '<hash>/dio/<id>/fit-width/400'>/<slug> (400px): hash-signed, use as-is",
+   "image.demorgen.be/<id>/feature-crop/320/320/<slug> (320px) -> /feature-crop/1200/675/ (verified 200)",
+   "prod-img.standaard.be / prod-img.nieuwsblad.be .../alternates/BASE_SIXTEEN_NINE/...: large, fine",
+   "img.static-rmg.be/a/view/q75/w680/h0/... (Knack, 680px) -> w1280 works (verified 200)",
+   "wmimages.bruzz.be/styles/<hash>/...?style=<base64 resize 360x270>&sign=<sig> (360px): signed, use as-is; note http:// (not https) URLs"
+  ]
+ },
+ "fi": {
+  "publishers": [
+   {
+    "source": "Ilta-Sanomat",
+    "terms": "allowed",
+    "termsUrl": "https://www.is.fi/rss/",
+    "note": "Sanoma. RSS page: use of IS feeds on other sites is allowed in principle if 'Ilta-Sanomat' is named; links must open in a new browser window (not inside another site/webview frame); for a commercial service, notify IS customer service by email (asiakaspalvelu) — DO send that email. IS may forbid use or set conditions."
+   },
+   {
+    "source": "Aamulehti",
+    "terms": "unclear",
+    "termsUrl": "https://www.aamulehti.fi/rss/",
+    "note": "Sanoma regional daily (Tampere); RSS page lists feeds but has no usage clause. Note sister title Helsingin Sanomat forbids commercial use of its headlines."
+   },
+   {
+    "source": "Mobiili.fi",
+    "terms": "unclear",
+    "termsUrl": "https://www.mobiili.fi/",
+    "note": "Independent mobile/tech site; no terms found."
+   }
+  ],
+  "gaps": "Ilta-Sanomat carries most sections alone (WORLD, BUSINESS, HEALTH, SCIENCE single-source; IS tiede newest ~76h, within the 7-day limit). Yle (public broadcaster, yle.fi/rss and svenska.yle.fi/rss) has no images in any feed. Excluded as personal-only: Helsingin Sanomat ('Uutisotsikoita ei saa käyttää kaupallisen palvelun luomiseen tai osana kaupallista palvelua' without written permission), Iltalehti (same clause), MTV Uutiset (MTV terms: use is private/personal, no commercial use without separate agreement). Not used: Tivi/Tekniikka&Talous (Alma, sister of Iltalehti; only 10 items, 570px images), Kauppalehti (no images), Kaleva (regional, terms not checked), Verkkouutiset/Demokraatti (party-affiliated), Maaseudun Tulevaisuus. Aamulehti talous is stale (56h).",
+  "imagePatterns": [
+   "images.sanoma-sndp.fi/<hash>/normal/1440.jpg (IS, Aamulehti) — 1440px, fine",
+   "mobiili.fi/wp-content/uploads/...-800x632.jpg — WordPress size suffix; strip '-WxH' for original (verified 200)"
+  ]
+ },
+ "hk": {
+  "publishers": [
+   {
+    "source": "BBC News 中文",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution required, no BBC logos. International (same-language) fill-in."
+   },
+   {
+    "source": "有線新聞",
+    "terms": "unclear",
+    "termsUrl": "https://www.i-cable.com/",
+    "note": "i-CABLE; no terms-of-use page found (only a personal-data statement). WordPress category feeds; finance feed newest ~33h."
+   },
+   {
+    "source": "巴士的報",
+    "terms": "unclear",
+    "termsUrl": "https://www.bastillepost.com/hongkong/terms",
+    "note": "Generic copyright notice: no copying/use except non-commercial personal use; no RSS clause. Only a 10-item all-news feed (category params ignored)."
+   },
+   {
+    "source": "香港獨立媒體網",
+    "terms": "unclear",
+    "termsUrl": "https://wiki.creativecommons.org/wiki/InMediaHK",
+    "note": "Contributors choose among CC licences (some NonCommercial) per article; no RSS terms. Site 403s browsers from here but RSS works."
+   },
+   {
+    "source": "unwire.hk",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms page found. 10-item feed, ~80% photos."
+   },
+   {
+    "source": "unwire.pro",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "unwire's business-tech site; no terms found. 10-item feed."
+   },
+   {
+    "source": "法廣 RFI",
+    "terms": "unclear",
+    "termsUrl": "https://www.rfi.fr/tw/",
+    "note": "French public broadcaster, Traditional Chinese service; terms page 403, no RSS terms found. International same-language fill-in."
+   },
+   {
+    "source": "ETtoday",
+    "terms": "unclear",
+    "termsUrl": "https://member.ettoday.net/clause_copyright.php7",
+    "note": "Taiwan publisher (same language, international fill-in); generic copyright clause: no commercial redistribution without consent, personal non-commercial use OK; no RSS clause."
+   },
+   {
+    "source": "Heho健康",
+    "terms": "unclear",
+    "termsUrl": "https://heho.com.tw/copyright",
+    "note": "Taiwan health site (fill-in); generic copyright notice, no RSS clause. 10-item feed."
+   },
+   {
+    "source": "泛科學",
+    "terms": "unclear",
+    "termsUrl": "https://pansci.asia/",
+    "note": "Taiwan popular-science site (fill-in); footer says content belongs to authors, ask before reposting; no RSS clause. 10-item feed, newest ~43h."
+   }
+  ],
+  "gaps": "BUSINESS and SPORTS are i-CABLE only. ENTERTAINMENT, HEALTH and SCIENCE have no HK feed with photos, so they use Taiwanese Traditional-Chinese outlets (ETtoday, Heho, PanSci) plus RFI; their content is Taiwan-centric. Sing Tao Headline (stheadline.com/rss, 100 items) has a photo in a bare <enclosure>URL</enclosure> tag that imageOf misses (0%); a small parser tweak would add a strong HK source. RTHK and Yahoo HK feeds have no photos; Ming Pao, HKET/TOPick, AASTOCKS, HK01, Orange News, DotDotNews return 403/404; Now/TVB/HKFP/am730 feeds empty or missing.",
+  "imagePatterns": [
+   "icable-prod.s3.ap-southeast-1.amazonaws.com/wp-content/uploads/... full-size image (the <img width=300> attribute is only a hint), fine",
+   "cdn.unwire.hk/wp-content/uploads/...-686x580.jpg: drop the -WxH suffix for the original (verified 1064px)",
+   "s.rfi.fr/media/display/.../w:1024/... (1024px), fine",
+   "media.bastillepost.com (http://, needs https upgrade or cleartext allowed), inmediahk.net/files/..., pansci/heho wp-content full size, feeds.feedburner ettoday images full size, fine",
+   "ichef.bbci.co.uk/ace/standard/240/... or /ace/ws/240/... (240px) -> replace /240/ with /800/ (verified 200, 800x450)"
+  ]
+ },
+ "kr": {
+  "publishers": [
+   {
+    "source": "BBC News 코리아",
+    "terms": "allowed",
+    "termsUrl": "https://www.bbc.co.uk/news/10628494",
+    "note": "BBC feeds page: 'We encourage the use of BBC News feeds as part of a website'; attribution required, no BBC logos. International (same-language) fill-in."
+   },
+   {
+    "source": "조선일보",
+    "terms": "unclear",
+    "termsUrl": "https://www.chosun.com/",
+    "note": "No RSS terms page; footer only '무단 전재 및 재배포 금지'. Do NOT use the main /arc/outboundfeeds/rss/ feed: it mixes in the Japanese edition."
+   },
+   {
+    "source": "매일경제",
+    "terms": "unclear",
+    "termsUrl": "https://www.mk.co.kr/mypage/policy",
+    "note": "Member terms forbid commercial use of information obtained via the service without consent (generic, no RSS clause); footer '무단 전재, 재배포 및 AI학습 이용 금지'. RSS page has no usage terms."
+   },
+   {
+    "source": "오마이뉴스",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No RSS terms found (RSS info pages 400)."
+   },
+   {
+    "source": "지디넷코리아",
+    "terms": "unclear",
+    "termsUrl": "",
+    "note": "No terms found; feed is via FeedBurner."
+   },
+   {
+    "source": "코메디닷컴",
+    "terms": "unclear",
+    "termsUrl": "https://kormedi.com/terms/",
+    "note": "Health news; terms page has no RSS or commercial clause. 10-item feed."
+   }
+  ],
+  "gaps": "SCIENCE is empty: no Korean science feed with photos (Dongascience no RSS, HelloDD/Science Times no photos or broken). TECHNOLOGY is ZDNet Korea only (etnews, inews24, IT Chosun, Bloter, The Elec have no photos; Chosun tech_it subcategory feed 404). Chosun 'medical' newest ~77h (within 7-day HEALTH limit). Excluded as personal-only: Yonhap (RSS page: non-commercial blogs and personal use only; commercial use forbidden), SBS (RSS for individuals' non-commercial use only), Asia Economy (RSS non-commercial only); Yonhap News TV likely same as Yonhap and not used. Hankyoreh, Kyunghyang, Hankyung, Newsis, Nocut, Segye feeds have no photos; Donga/Kukmin feeds fail to load.",
+  "imagePatterns": [
+   "chosun.com/resizer/v2/...?auth=...&smart=true&width=800&height=...: auth-signed Arc resizer, keep as-is (800px)",
+   "pimg.mk.co.kr/news/cms/.../..._R.png|jpg: full size, fine",
+   "ojsfile.ohmynews.com/STD_IMG_FILE/.../..._STD.jpg, kormedi.com/wp-content/uploads full size, fine; ZDNet Korea images from mixed hosts, fine",
+   "ichef.bbci.co.uk/ace/standard/240/... or /ace/ws/240/... (240px) -> replace /240/ with /800/ (verified 200, 800x450)"
+  ]
+ },
+ "ae": {
+  "publishers": [
+   {
+    "source": "سكاي نيوز عربية",
+    "terms": "unclear",
+    "termsUrl": "https://www.skynewsarabia.com/terms",
+    "note": "Sky News Arabia, Abu Dhabi-based. Terms page is JS-rendered and could not be read (fetch blocked); no RSS terms found. Site uses Radware bot protection: https://www.skynewsarabia.com/rss returned a captcha page to the bot UA, but /rss.xml and /rss/<section>.xml returned XML. Latin alternative name: 'Sky News Arabia'."
+   },
+   {
+    "source": "الخليج",
+    "terms": "unclear",
+    "termsUrl": "https://www.alkhaleej.ae/terms",
+    "note": "Al Khaleej daily (Dar Al Khaleej, Sharjah). RSS list at https://www.alkhaleej.ae/rss has no usage terms; terms page JS-rendered, could not be read. Latin name: 'Al Khaleej'."
+   }
+  ],
+  "gaps": "Only 2 publishers (both 'unclear'). HEALTH and SCIENCE are Al Khaleej only (SCIENCE uses its combined 'علوم وتقنية' science & tech feed, also used in TECHNOLOGY); NATION is Al Khaleej only (Sky News Arabia has no UAE section feed). Excluded as personal-only: Emarat Al Youm and Al Bayan (Dubai Media Inc. terms: use is personal only, not commercial; feeds otherwise passed), Al Ittihad (Abu Dhabi Media: any use other than personal non-commercial prohibited; its RSS was empty anyway), CNN Arabic (CNN terms: no reproduction or exploitation for any commercial purpose). Not usable: 24.ae (feed has photos but pubDate is in Hijri Arabic text, unparseable — fix date parsing or skip), Al Arabiya, Erem News, Al Roeya (403), WAM (empty feed). Section-feed freshness: Sky News Arabia business newest ~34h.",
+  "imagePatterns": [
+   "images.skynewsarabia.com/images/v3/YYYY/MM/DD/<id>/95/53/1-<id>.jpg — tiny 95x53 size segment (it 301-redirects); replace '/95/53/' with '/1200/675/' (verified 200 image/jpeg with a browser User-Agent; plain curl UA gets 403 from bot protection, phones should be fine)",
+   "www.alkhaleej.ae/alkhaleej/uploads/images/YYYY/MM/DD/<id>.webp — full size webp, fine"
+  ]
+ }
+}
