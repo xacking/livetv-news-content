@@ -1,0 +1,4 @@
+{
+  "_how": "Set 'breaking' to show the red banner in the app (and send the same headline as a push from the Firebase console to topic 'breaking_us'). Set it back to null to remove it.",
+  "breaking": null
+}

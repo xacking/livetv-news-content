@@ -1,0 +1,7 @@
+{
+  "_note": "DEMO ONLY. Public test streams so the app works before you sign broadcast partners. Replace per country in editorial/<code>/channels.json.",
+  "channels": [
+    { "id": "demo-1", "number": 1, "name": "Demo Channel 1", "category": "news", "color": "#0A5BD3", "stream": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8", "logo": "", "poster": "", "nowTitle": "Test stream", "nextTitle": "" },
+    { "id": "demo-2", "number": 2, "name": "Demo Channel 2", "category": "entertainment", "color": "#DB2777", "stream": "https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8", "logo": "", "poster": "", "nowTitle": "Test stream", "nextTitle": "" }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "brand": {
+    "name": "Pulse",
+    "packagePrefix": "com.livetv.news",
+    "contentBaseUrl": "https://xacking.github.io/livetv-news-content",
+    "admobAppId": "ca-app-pub-3940256099942544~3347511713",
+    "accent": "#0A5BD3"
+  },
+  "topics": [
+    "TOP",
+    "NATION",
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "SCIENCE"
+  ],
+  "countries": [
+    {
+      "code": "us",
+      "country": "United States",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "America/New_York",
+      "currency": "USD",
+      "ecpmRank": 1,
+      "accent": "#1d3c8f",
+      "tempUnit": "fahrenheit",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-US",
+        "gl": "US",
+        "ceid": "US:en"
+      },
+      "radio": {
+        "countrycode": "US"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "au",
+      "country": "Australia",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "Australia/Sydney",
+      "currency": "AUD",
+      "ecpmRank": 2,
+      "accent": "#012169",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-AU",
+        "gl": "AU",
+        "ceid": "AU:en"
+      },
+      "radio": {
+        "countrycode": "AU"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "no",
+      "country": "Norway",
+      "lang": "no",
+      "dir": "ltr",
+      "timezone": "Europe/Oslo",
+      "currency": "NOK",
+      "ecpmRank": 3,
+      "accent": "#ba0c2f",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "no",
+        "gl": "NO",
+        "ceid": "NO:no"
+      },
+      "radio": {
+        "countrycode": "NO"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "ch",
+      "country": "Switzerland",
+      "lang": "de",
+      "dir": "ltr",
+      "timezone": "Europe/Zurich",
+      "currency": "CHF",
+      "ecpmRank": 4,
+      "accent": "#d52b1e",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "de-CH",
+        "gl": "CH",
+        "ceid": "CH:de"
+      },
+      "radio": {
+        "countrycode": "CH"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "gb",
+      "country": "United Kingdom",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "Europe/London",
+      "currency": "GBP",
+      "ecpmRank": 5,
+      "accent": "#012169",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-GB",
+        "gl": "GB",
+        "ceid": "GB:en"
+      },
+      "radio": {
+        "countrycode": "GB"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "ca",
+      "country": "Canada",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "America/Toronto",
+      "currency": "CAD",
+      "ecpmRank": 6,
+      "accent": "#c8102e",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-CA",
+        "gl": "CA",
+        "ceid": "CA:en"
+      },
+      "radio": {
+        "countrycode": "CA"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "dk",
+      "country": "Denmark",
+      "lang": "da",
+      "dir": "ltr",
+      "timezone": "Europe/Copenhagen",
+      "currency": "DKK",
+      "ecpmRank": 7,
+      "accent": "#c60c30",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "da",
+        "gl": "DK",
+        "ceid": "DK:da"
+      },
+      "radio": {
+        "countrycode": "DK"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "se",
+      "country": "Sweden",
+      "lang": "sv",
+      "dir": "ltr",
+      "timezone": "Europe/Stockholm",
+      "currency": "SEK",
+      "ecpmRank": 8,
+      "accent": "#006aa7",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "sv",
+        "gl": "SE",
+        "ceid": "SE:sv"
+      },
+      "radio": {
+        "countrycode": "SE"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "nl",
+      "country": "Netherlands",
+      "lang": "nl",
+      "dir": "ltr",
+      "timezone": "Europe/Amsterdam",
+      "currency": "EUR",
+      "ecpmRank": 9,
+      "accent": "#ae1c28",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "nl",
+        "gl": "NL",
+        "ceid": "NL:nl"
+      },
+      "radio": {
+        "countrycode": "NL"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "de",
+      "country": "Germany",
+      "lang": "de",
+      "dir": "ltr",
+      "timezone": "Europe/Berlin",
+      "currency": "EUR",
+      "ecpmRank": 10,
+      "accent": "#1f1f1f",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "de",
+        "gl": "DE",
+        "ceid": "DE:de"
+      },
+      "radio": {
+        "countrycode": "DE"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "nz",
+      "country": "New Zealand",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "Pacific/Auckland",
+      "currency": "NZD",
+      "ecpmRank": 11,
+      "accent": "#012169",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-NZ",
+        "gl": "NZ",
+        "ceid": "NZ:en"
+      },
+      "radio": {
+        "countrycode": "NZ"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "ie",
+      "country": "Ireland",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "Europe/Dublin",
+      "currency": "EUR",
+      "ecpmRank": 12,
+      "accent": "#169b62",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-IE",
+        "gl": "IE",
+        "ceid": "IE:en"
+      },
+      "radio": {
+        "countrycode": "IE"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "jp",
+      "country": "Japan",
+      "lang": "ja",
+      "dir": "ltr",
+      "timezone": "Asia/Tokyo",
+      "currency": "JPY",
+      "ecpmRank": 13,
+      "accent": "#bc002d",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "ja",
+        "gl": "JP",
+        "ceid": "JP:ja"
+      },
+      "radio": {
+        "countrycode": "JP"
+      },
+      "feeds": [],
+      "appLabel": "パルス",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "sg",
+      "country": "Singapore",
+      "lang": "en",
+      "dir": "ltr",
+      "timezone": "Asia/Singapore",
+      "currency": "SGD",
+      "ecpmRank": 14,
+      "accent": "#ef3340",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "en-SG",
+        "gl": "SG",
+        "ceid": "SG:en"
+      },
+      "radio": {
+        "countrycode": "SG"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "at",
+      "country": "Austria",
+      "lang": "de",
+      "dir": "ltr",
+      "timezone": "Europe/Vienna",
+      "currency": "EUR",
+      "ecpmRank": 15,
+      "accent": "#c8102e",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "de-AT",
+        "gl": "AT",
+        "ceid": "AT:de"
+      },
+      "radio": {
+        "countrycode": "AT"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "be",
+      "country": "Belgium",
+      "lang": "nl",
+      "dir": "ltr",
+      "timezone": "Europe/Brussels",
+      "currency": "EUR",
+      "ecpmRank": 16,
+      "accent": "#1f1f1f",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "nl",
+        "gl": "BE",
+        "ceid": "BE:nl"
+      },
+      "radio": {
+        "countrycode": "BE"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "fi",
+      "country": "Finland",
+      "lang": "fi",
+      "dir": "ltr",
+      "timezone": "Europe/Helsinki",
+      "currency": "EUR",
+      "ecpmRank": 17,
+      "accent": "#002f6c",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "fi",
+        "gl": "FI",
+        "ceid": "FI:fi"
+      },
+      "radio": {
+        "countrycode": "FI"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "hk",
+      "country": "Hong Kong",
+      "lang": "zh-Hant",
+      "dir": "ltr",
+      "timezone": "Asia/Hong_Kong",
+      "currency": "HKD",
+      "ecpmRank": 18,
+      "accent": "#de2910",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "zh-HK",
+        "gl": "HK",
+        "ceid": "HK:zh-Hant"
+      },
+      "radio": {
+        "countrycode": "HK"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "kr",
+      "country": "South Korea",
+      "lang": "ko",
+      "dir": "ltr",
+      "timezone": "Asia/Seoul",
+      "currency": "KRW",
+      "ecpmRank": 19,
+      "accent": "#003478",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "ko",
+        "gl": "KR",
+        "ceid": "KR:ko"
+      },
+      "radio": {
+        "countrycode": "KR"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    {
+      "code": "ae",
+      "country": "United Arab Emirates",
+      "lang": "ar",
+      "dir": "rtl",
+      "timezone": "Asia/Dubai",
+      "currency": "AED",
+      "ecpmRank": 20,
+      "accent": "#00732f",
+      "tempUnit": "celsius",
+      "news": {
+        "provider": "google-news-rss",
+        "hl": "ar",
+        "gl": "AE",
+        "ceid": "AE:ar"
+      },
+      "radio": {
+        "countrycode": "AE"
+      },
+      "feeds": [],
+      "appLabel": "Pulse",
+      "ads": {
+        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
+        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
+        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
+        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
+        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+      }
+    }
+  ]
+}

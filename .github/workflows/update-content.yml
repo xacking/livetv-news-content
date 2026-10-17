@@ -1,0 +1,60 @@
+# Refreshes headlines, radio stations and Today's 5 every hour, then publishes
+# the JSON to GitHub Pages. This is the app's whole "backend": no server to run.
+name: Update content
+
+on:
+  schedule:
+    - cron: '7 * * * *'      # every hour at :07
+  workflow_dispatch: {}       # "Run workflow" button for manual updates
+  push:
+    branches: [main]
+    paths: ['editorial/**', 'countries.json', 'scripts/**']
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: content
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Restore last published quiz (keeps one quiz per day)
+        continue-on-error: true
+        run: |
+          mkdir -p public
+          git fetch origin gh-pages-data --depth=1 && git checkout origin/gh-pages-data -- public || true
+      - name: Build content
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/build.mjs
+      - name: Keep a copy of today's data for the next run
+        run: |
+          git config user.name "content-bot"
+          git config user.email "content-bot@users.noreply.github.com"
+          git checkout --orphan tmp-data
+          git rm -rf --cached . > /dev/null
+          git add -f public
+          git commit -m "content $(date -u +%FT%TZ)" > /dev/null
+          git push -f origin tmp-data:gh-pages-data
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
