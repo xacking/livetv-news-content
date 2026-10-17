@@ -3,8 +3,9 @@
     "name": "Ontivo",
     "packagePrefix": "com.livetv.news",
     "contentBaseUrl": "https://xacking.github.io/livetv-news-content",
-    "admobAppId": "ca-app-pub-3940256099942544~3347511713",
-    "accent": "#0A5BD3"
+    "admobAppId": "ca-app-pub-6129187532841682~1762065341",
+    "accent": "#0A5BD3",
+    "supportEmail": "verxion@proton.me"
   },
   "topics": [
     "TOP",
@@ -40,11 +41,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -69,11 +71,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -98,11 +101,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -127,11 +131,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -156,11 +161,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -185,11 +191,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -214,11 +221,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -243,11 +251,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -272,11 +281,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -301,11 +311,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -330,11 +341,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -359,11 +371,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -388,11 +401,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -417,11 +431,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -446,11 +461,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -475,11 +491,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -504,11 +521,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -533,11 +551,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -562,11 +581,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     },
     {
@@ -591,11 +611,12 @@
       "feeds": [],
       "appLabel": "Ontivo",
       "ads": {
-        "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
-        "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
-        "nativeUnit": "ca-app-pub-3940256099942544/2247696110",
-        "rewardedUnit": "ca-app-pub-3940256099942544/5224354917",
-        "appOpenUnit": "ca-app-pub-3940256099942544/9257395921"
+        "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+        "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+        "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+        "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+        "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+        "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
       }
     }
   ]

@@ -98,8 +98,9 @@ async function buildStories(c) {
 
 // ---------- radio ----------
 const RADIO_CATS = [['news', /news|nachrichten|nyheter|noticias|berita|ニュース|actualit|info/i], ['sports', /sport/i], ['talk', /talk|podcast|comedy|culture|spoken/i]];
+const RADIO_MAX = 80; // stations per country, most-listened first
 async function buildRadio(c) {
-  const url = `${RADIO_API}/json/stations/search?countrycode=${c.radio.countrycode}&order=clickcount&reverse=true&limit=60&hidebroken=true&is_https=true`;
+  const url = `${RADIO_API}/json/stations/search?countrycode=${c.radio.countrycode}&order=clickcount&reverse=true&limit=300&hidebroken=true&is_https=true`;
   const list = await get(url, { json: true });
   // editorial/<code>/radio.json → { "exclude": ["station name", ...] } to hide stations you don't want.
   const rules = await readJson(path.join(ROOT, 'editorial', c.code, 'radio.json'), { exclude: [] });
@@ -112,7 +113,7 @@ async function buildRadio(c) {
     if (!name || name.length > 40) return false; // skip keyword-stuffed directory names
     const k = name.toLowerCase();
     if (seen.has(k)) return false; seen.add(k); return true;
-  }).slice(0, 30).map((s) => {
+  }).slice(0, RADIO_MAX).map((s) => {
     const text = `${s.tags} ${s.name}`;
     const cat = (RADIO_CATS.find(([, re]) => re.test(text)) || ['music'])[0];
     return {
@@ -125,13 +126,13 @@ async function buildRadio(c) {
 }
 
 // ---------- TV channels ----------
-// Real channels come from broadcast partners: put them in editorial/<code>/channels.json.
-// Until then every country gets clearly-labelled demo test streams so the app works end to end.
+// Real channels go in editorial/<code>/channels.json (or editorial/_all-channels.json for every
+// country). With neither, the TV tab shows "coming soon" and the app opens on Radio.
 async function buildChannels(c) {
-  const own = await readJson(path.join(ROOT, 'editorial', c.code, 'channels.json'), null);
-  if (own) return { generatedAt: new Date().toISOString(), demo: false, channels: own.channels || own };
-  const demo = await readJson(path.join(ROOT, 'editorial', '_demo-channels.json'), { channels: [] });
-  return { generatedAt: new Date().toISOString(), demo: true, channels: demo.channels };
+  const own = await readJson(path.join(ROOT, 'editorial', c.code, 'channels.json'), null)
+    ?? await readJson(path.join(ROOT, 'editorial', '_all-channels.json'), null);
+  const channels = own ? (own.channels || own) : [];
+  return { generatedAt: new Date().toISOString(), demo: false, channels };
 }
 
 // ---------- Today's 5 ----------
