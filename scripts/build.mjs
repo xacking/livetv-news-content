@@ -226,6 +226,8 @@ manifest.generatedAt = new Date().toISOString();
 await writeJson(path.join(OUT, 'manifest.json'), manifest);
 await writeJson(path.join(OUT, 'countries.json'), master);
 await fs.writeFile(path.join(OUT, 'index.html'), `<!doctype html><meta charset="utf-8"><title>Ontivo content</title><body style="font:15px system-ui;padding:24px"><h1>Ontivo content feed</h1><p>Static JSON for the Ontivo app. Updated ${manifest.generatedAt}.</p><ul>${Object.entries(manifest.countries).map(([k, v]) => `<li><b>${k}</b> · ${v.stories} stories · ${v.stations} stations · quiz: ${v.quiz} · <a href="${k}/stories.json">stories</a> · <a href="${k}/radio.json">radio</a> · <a href="${k}/channels.json">tv</a> · <a href="${k}/quiz.json">quiz</a></li>`).join('')}</ul>\n`);
+// Static pages (privacy policy, …) published next to the JSON.
+try { for (const f of await fs.readdir(path.join(ROOT, 'site'))) await fs.copyFile(path.join(ROOT, 'site', f), path.join(OUT, f)); } catch { /* no site folder */ }
 console.log('Done.');
 
 // node scripts/build.mjs --seed-app  → also refresh the snapshot bundled inside the app (app/assets/seed)

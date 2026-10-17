@@ -8,7 +8,7 @@ on:
   workflow_dispatch: {}       # "Run workflow" button for manual updates
   push:
     branches: [main]
-    paths: ['editorial/**', 'countries.json', 'scripts/**']
+    paths: ['editorial/**', 'countries.json', 'scripts/**', 'site/**']
 
 permissions:
   contents: write
