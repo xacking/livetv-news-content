@@ -144,8 +144,8 @@ function mix(lists, limit, maxAgeH) {
       if (out.length >= limit) break;
     }
   }
-  // Within the section, show the newest first but keep stories with photos near the top.
-  return out.sort((a, b) => (b.image ? 1 : 0) - (a.image ? 1 : 0) || b.published.localeCompare(a.published));
+  // Keep the publisher mix, but move stories without a photo below those with one.
+  return [...out.filter((s) => s.image), ...out.filter((s) => !s.image)];
 }
 async function buildStories(c) {
   const feeds = c.feeds || [];
@@ -155,7 +155,9 @@ async function buildStories(c) {
   });
   const byTopic = {};
   for (const topic of master.topics) {
-    const lists = fetched.filter((x) => (x.f.topic || 'TOP') === topic).map((x) => x.items);
+    let lists = fetched.filter((x) => (x.f.topic || 'TOP') === topic).map((x) => x.items);
+    // Top stories also draw the latest national and world headlines, so every publisher gets a turn.
+    if (topic === 'TOP') lists = [...lists, ...fetched.filter((x) => ['NATION', 'WORLD'].includes(x.f.topic)).map((x) => x.items.slice(0, 6).map((s) => ({ ...s, topic: 'TOP' })))];
     byTopic[topic] = mix(lists, 25, MAX_AGE_H[topic] || 48);
   }
   if (!byTopic.TOP?.length) { // TOP should never be empty: fall back to the newest across all sections
