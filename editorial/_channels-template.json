@@ -1,0 +1,17 @@
+{
+  "_how_to": "Copy this file to editorial/<country code>/channels.json (e.g. editorial/gb/channels.json), or to editorial/_all-channels.json for every country. Save/commit on GitHub: the feed rebuilds in about 2 minutes and the app shows the channels on its next refresh (opening the app, or within 15 minutes). No app update needed. Delete the file to go back to 'Live TV is coming soon'. Only add streams you have the right to show.",
+  "channels": [
+    {
+      "id": "unique-id-1",
+      "number": 1,
+      "name": "Channel name",
+      "category": "news",
+      "color": "#0A5BD3",
+      "stream": "https://example.com/live/playlist.m3u8",
+      "logo": "https://example.com/logo.png",
+      "poster": "",
+      "nowTitle": "What's on now (optional)",
+      "nextTitle": ""
+    }
+  ]
+}
