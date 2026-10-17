@@ -1,6 +1,6 @@
 {
   "brand": {
-    "name": "Pulse",
+    "name": "Ontivo",
     "packagePrefix": "com.livetv.news",
     "contentBaseUrl": "https://xacking.github.io/livetv-news-content",
     "admobAppId": "ca-app-pub-3940256099942544~3347511713",
@@ -38,7 +38,7 @@
         "countrycode": "US"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -67,7 +67,7 @@
         "countrycode": "AU"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -96,7 +96,7 @@
         "countrycode": "NO"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -125,7 +125,7 @@
         "countrycode": "CH"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -154,7 +154,7 @@
         "countrycode": "GB"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -183,7 +183,7 @@
         "countrycode": "CA"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -212,7 +212,7 @@
         "countrycode": "DK"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -241,7 +241,7 @@
         "countrycode": "SE"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -270,7 +270,7 @@
         "countrycode": "NL"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -299,7 +299,7 @@
         "countrycode": "DE"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -328,7 +328,7 @@
         "countrycode": "NZ"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -357,7 +357,7 @@
         "countrycode": "IE"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -386,7 +386,7 @@
         "countrycode": "JP"
       },
       "feeds": [],
-      "appLabel": "パルス",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -415,7 +415,7 @@
         "countrycode": "SG"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -444,7 +444,7 @@
         "countrycode": "AT"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -473,7 +473,7 @@
         "countrycode": "BE"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -502,7 +502,7 @@
         "countrycode": "FI"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -531,7 +531,7 @@
         "countrycode": "HK"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -560,7 +560,7 @@
         "countrycode": "KR"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",
@@ -589,7 +589,7 @@
         "countrycode": "AE"
       },
       "feeds": [],
-      "appLabel": "Pulse",
+      "appLabel": "Ontivo",
       "ads": {
         "bannerUnit": "ca-app-pub-3940256099942544/6300978111",
         "interstitialUnit": "ca-app-pub-3940256099942544/1033173712",

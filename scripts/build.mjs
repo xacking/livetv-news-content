@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Builds the static content the Pulse apps read. No server, no database:
+// Builds the static content the Ontivo app reads. No server, no database:
 // it writes plain JSON into public/, which GitHub Pages (or any static host) serves.
 //
 //   node scripts/build.mjs            all countries
@@ -14,7 +14,7 @@ import { fileURLToPath } from 'node:url';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = path.join(ROOT, 'public');
-const UA = 'PulseContentBuilder/1.0 (+https://github.com/yourcompany/pulse-content)';
+const UA = 'OntivoContentBuilder/1.0 (+https://github.com/xacking/livetv-news-content)';
 const RADIO_API = 'https://de1.api.radio-browser.info';
 
 const master = JSON.parse(await fs.readFile(path.join(ROOT, 'countries.json'), 'utf8'));
@@ -225,7 +225,7 @@ for (const c of countries) {
 manifest.generatedAt = new Date().toISOString();
 await writeJson(path.join(OUT, 'manifest.json'), manifest);
 await writeJson(path.join(OUT, 'countries.json'), master);
-await fs.writeFile(path.join(OUT, 'index.html'), `<!doctype html><meta charset="utf-8"><title>Pulse content</title><body style="font:15px system-ui;padding:24px"><h1>Pulse content feed</h1><p>Static JSON for the Pulse apps. Updated ${manifest.generatedAt}.</p><ul>${Object.entries(manifest.countries).map(([k, v]) => `<li><b>${k}</b> · ${v.stories} stories · ${v.stations} stations · quiz: ${v.quiz} · <a href="${k}/stories.json">stories</a> · <a href="${k}/radio.json">radio</a> · <a href="${k}/channels.json">tv</a> · <a href="${k}/quiz.json">quiz</a></li>`).join('')}</ul>\n`);
+await fs.writeFile(path.join(OUT, 'index.html'), `<!doctype html><meta charset="utf-8"><title>Ontivo content</title><body style="font:15px system-ui;padding:24px"><h1>Ontivo content feed</h1><p>Static JSON for the Ontivo app. Updated ${manifest.generatedAt}.</p><ul>${Object.entries(manifest.countries).map(([k, v]) => `<li><b>${k}</b> · ${v.stories} stories · ${v.stations} stations · quiz: ${v.quiz} · <a href="${k}/stories.json">stories</a> · <a href="${k}/radio.json">radio</a> · <a href="${k}/channels.json">tv</a> · <a href="${k}/quiz.json">quiz</a></li>`).join('')}</ul>\n`);
 console.log('Done.');
 
 // node scripts/build.mjs --seed-app  → also refresh the snapshot bundled inside the app (app/assets/seed)
