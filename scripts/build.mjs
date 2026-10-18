@@ -196,12 +196,30 @@ async function buildRadio(c) {
 }
 
 // ---------- TV channels ----------
-// Real channels go in editorial/<code>/channels.json (or editorial/_all-channels.json for every
+// Channels: editorial/<code>/channels.json (or editorial/_all-channels.json for every
 // country). With neither, the TV tab shows "coming soon" and the app opens on Radio.
+// English editions also get NASA+ while a NASA live event is on air (public domain;
+// NASA TV itself closed in 2024, each event has its own stream).
+let nasaLive;
+async function nasaEvent() {
+  if (nasaLive !== undefined) return nasaLive;
+  nasaLive = null;
+  try {
+    const list = await get('https://plus.nasa.gov/wp-json/wp/v2/scheduled_video?per_page=20', { json: true });
+    const now = Date.now() / 1000;
+    const ev = list.find((v) => v.meta?.['video-url'] && +v.meta.first_aired_date - 30 * 60 <= now && now <= +v.meta.end_aired_date);
+    if (ev) nasaLive = { title: strip(ev.title?.rendered || ''), stream: ev.meta['video-url'], ends: +ev.meta.end_aired_date };
+  } catch (e) { console.warn(`  ! NASA schedule: ${e.message}`); }
+  return nasaLive;
+}
 async function buildChannels(c) {
   const own = await readJson(path.join(ROOT, 'editorial', c.code, 'channels.json'), null)
     ?? await readJson(path.join(ROOT, 'editorial', '_all-channels.json'), null);
-  const channels = own ? (own.channels || own) : [];
+  let channels = own ? (own.channels || own) : [];
+  const ev = c.lang === 'en' ? await nasaEvent() : null;
+  if (ev) {
+    channels = [{ id: 'nasa-plus', number: 0, name: 'NASA+ Live', category: 'science', color: '#0B3D91', stream: ev.stream, logo: '', poster: '', nowTitle: ev.title, nextTitle: '' }, ...channels];
+  }
   return { generatedAt: new Date().toISOString(), demo: false, channels };
 }
 

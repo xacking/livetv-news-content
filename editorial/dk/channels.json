@@ -1,0 +1,67 @@
+{
+ "_note": "Free-to-air channels. Terms notes: editorial/_channels-sources.json. Edit freely; no app update needed.",
+ "channels": [
+  {
+   "id": "ebs-da",
+   "number": 1,
+   "name": "EbS",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
+   "logo": "https://i.imgur.com/DIIRPNN.png",
+   "poster": "",
+   "nowTitle": "© European Union",
+   "nextTitle": "",
+   "audioTrack": "da"
+  },
+  {
+   "id": "ebsplus-da",
+   "number": 2,
+   "name": "EbS+",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
+   "logo": "https://i.imgur.com/7V012zQ.png",
+   "poster": "",
+   "nowTitle": "© European Union",
+   "nextTitle": "",
+   "audioTrack": "da"
+  },
+  {
+   "id": "dw-en",
+   "number": 3,
+   "name": "DW English",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+   "logo": "https://i.imgur.com/8MRNFb9.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": ""
+  },
+  {
+   "id": "france24-en",
+   "number": 4,
+   "name": "France 24 English",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+   "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": ""
+  },
+  {
+   "id": "arirang",
+   "number": 5,
+   "name": "Arirang TV",
+   "category": "culture",
+   "color": "#DB2777",
+   "stream": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+   "logo": "https://i.imgur.com/Asu5pE9.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": ""
+  }
+ ]
+}

@@ -1,0 +1,204 @@
+{
+ "channels": [
+  {
+   "id": "ebs-en",
+   "name": "EbS (English)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'eng' (EXT-X-MEDIA LANGUAGE='en'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-en",
+   "name": "EbS+ (English)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'eng' (EXT-X-MEDIA LANGUAGE='en'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebs-de",
+   "name": "EbS (Deutsch)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'ger' (EXT-X-MEDIA LANGUAGE='de'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-de",
+   "name": "EbS+ (Deutsch)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'ger' (EXT-X-MEDIA LANGUAGE='de'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebs-nl",
+   "name": "EbS (Nederlands)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'dut' (EXT-X-MEDIA LANGUAGE='nl'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-nl",
+   "name": "EbS+ (Nederlands)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'dut' (EXT-X-MEDIA LANGUAGE='nl'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebs-sv",
+   "name": "EbS (Svenska)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'swe' (EXT-X-MEDIA LANGUAGE='sv'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-sv",
+   "name": "EbS+ (Svenska)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'swe' (EXT-X-MEDIA LANGUAGE='sv'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebs-da",
+   "name": "EbS (Dansk)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'dan' (EXT-X-MEDIA LANGUAGE='da'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-da",
+   "name": "EbS+ (Dansk)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'dan' (EXT-X-MEDIA LANGUAGE='da'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebs-fi",
+   "name": "EbS (Suomi)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'fin' (EXT-X-MEDIA LANGUAGE='fi'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "ebsplus-fi",
+   "name": "EbS+ (Suomi)",
+   "homepage": "https://audiovisual.ec.europa.eu/en/ebs",
+   "terms": "allowed",
+   "termsUrl": "https://audiovisual.ec.europa.eu/en/conditions-of-use",
+   "note": "European Commission's EU TV information service. Content licensed CC BY 4.0 - credit '(c) European Union'. Multilingual: select HLS audio track 'fin' (EXT-X-MEDIA LANGUAGE='fi'); interpretation is only present during interpreted events, otherwise floor/original audio. Third-party material inside the feed (music, identifiable private persons) is excluded from the licence."
+  },
+  {
+   "id": "dw-en",
+   "name": "DW English",
+   "homepage": "https://www.dw.com/en/live-tv/channel-english",
+   "terms": "unclear",
+   "termsUrl": "https://www.dw.com/en/legal-notice/a-63500643",
+   "note": "Official stream used by dw.com's live-TV page (confirmed in page source). DW's terms page is script-rendered and could not be read; no clause found either way on third-party apps. DW licenses carriage to partners - consider asking DW Distribution for written OK."
+  },
+  {
+   "id": "dw-ar",
+   "name": "DW عربية",
+   "homepage": "https://www.dw.com/ar/live-tv/channel-arabic",
+   "terms": "unclear",
+   "termsUrl": "https://www.dw.com/en/legal-notice/a-63500643",
+   "note": "Official stream used by dw.com's live-TV page (confirmed in page source). DW's terms page is script-rendered and could not be read; no clause found either way on third-party apps. DW licenses carriage to partners - consider asking DW Distribution for written OK."
+  },
+  {
+   "id": "france24-en",
+   "name": "France 24 English",
+   "homepage": "https://www.france24.com/en/live",
+   "terms": "unclear",
+   "termsUrl": "https://www.france24.com/en/terms-and-conditions",
+   "note": "Official France Medias Monde CDN (live.france24.com), single 720p media playlist. Terms page is bot-protected and could not be read; FMM normally signs (free) distribution agreements with re-broadcasters - consider asking for written OK."
+  },
+  {
+   "id": "france24-ar",
+   "name": "فرانس 24",
+   "homepage": "https://www.france24.com/ar/live",
+   "terms": "unclear",
+   "termsUrl": "https://www.france24.com/ar/terms-and-conditions",
+   "note": "Official France Medias Monde CDN (live.france24.com), single 720p media playlist. Terms page is bot-protected and could not be read; FMM normally signs (free) distribution agreements with re-broadcasters - consider asking for written OK."
+  },
+  {
+   "id": "arirang",
+   "name": "Arirang TV",
+   "homepage": "https://www.arirang.com/",
+   "terms": "unclear",
+   "termsUrl": "https://www.arirang.com/",
+   "note": "Korea's public international broadcaster (English; news, culture, K-culture). arirang.com publishes no terms of use (footer has only a privacy policy). Long-standing Arirang Akamai host; the site player is API-driven so the host could not be matched against it."
+  },
+  {
+   "id": "ktv",
+   "name": "KTV 국민방송",
+   "homepage": "https://www.ktv.go.kr/",
+   "terms": "unclear",
+   "termsUrl": "https://www.ktv.go.kr/guide/copyright",
+   "note": "Korean government public-affairs channel on its own .go.kr domain. Copyright policy: only works marked KOGL (Korea Open Government Licence) are free to reuse; the live channel carries no KOGL mark, so third-party-app use is not addressed (contact ktvarchive@korea.kr)."
+  },
+  {
+   "id": "skynewsarabia",
+   "name": "سكاي نيوز عربية",
+   "homepage": "https://www.skynewsarabia.com/live-tv",
+   "terms": "unclear",
+   "termsUrl": "https://www.skynewsarabia.com/terms",
+   "note": "Abu Dhabi-based; official host. Terms page is behind a captcha and could not be read; the site footer says the Sky trademarks may only be used with prior permission."
+  },
+  {
+   "id": "alarabiya",
+   "name": "العربية",
+   "homepage": "https://www.alarabiya.net/live-stream",
+   "terms": "unclear",
+   "termsUrl": "https://www.alarabiya.net/terms-and-conditions",
+   "note": "Dubai-based (MBC Group); official host. Terms page returns 403 to non-browsers and could not be read."
+  },
+  {
+   "id": "alarabiya-business",
+   "name": "العربية Business",
+   "homepage": "https://www.alarabiya.net/aswaq",
+   "terms": "unclear",
+   "termsUrl": "https://www.alarabiya.net/terms-and-conditions",
+   "note": "Business-news sister channel of Al Arabiya; same host and same unreadable terms page."
+  },
+  {
+   "id": "nz-parliament",
+   "name": "Parliament TV",
+   "homepage": "https://www.parliament.nz/",
+   "terms": "unclear",
+   "termsUrl": "https://www.parliament.nz/en/footer/copyright/",
+   "note": "Official House of Representatives feed, delivered by state-owned Kordia. Coverage is widely rebroadcast under the Speaker's rules (no use for political advertising, satire or ridicule), but parliament.nz is bot-protected so the exact wording was not read. Live only when the House sits; otherwise a slate or replays."
+  }
+ ],
+ "events": [
+  {
+   "id": "nasa-plus",
+   "name": "NASA+ Live",
+   "lang": "en",
+   "category": "science",
+   "logo": "https://i.imgur.com/ECPgLf6.png",
+   "homepage": "https://plus.nasa.gov/",
+   "terms": "allowed",
+   "termsUrl": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+   "api": "https://plus.nasa.gov/wp-json/wp/v2/scheduled_video?per_page=20",
+   "howTo": "NASA TV closed on 2024-08-28; there is no 24/7 NASA channel any more. Each NASA+ live event has its own HLS URL in meta['video-url'] (pattern https://ntv1.akamaized.net/hls/live/2110242/<event>/master.m3u8), airing between meta.first_aired_date and meta.end_aired_date (unix seconds). Show the channel only while an event is live.",
+   "note": "US government work, so public domain (17 U.S.C. 105). NASA media guidelines ask you not to use the NASA logo or imply endorsement. Third-party footage in a broadcast (e.g. SpaceX feeds) may carry its own rights.",
+   "editions": [
+    "us",
+    "gb",
+    "ca",
+    "au",
+    "nz",
+    "ie",
+    "sg"
+   ]
+  }
+ ]
+}
