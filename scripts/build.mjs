@@ -220,6 +220,10 @@ async function buildChannels(c) {
   if (ev) {
     channels = [{ id: 'nasa-plus', number: 0, name: 'NASA+ Live', category: 'science', color: '#0B3D91', stream: ev.stream, logo: '', poster: '', nowTitle: ev.title, nextTitle: '' }, ...channels];
   }
+  // "ios": the iPhone app only shows channels whose rights are clear for Apple's review
+  // (EbS/EbS+ are CC BY from the European Commission; NASA streams are public domain).
+  // Set "ios": true/false on a channel in editorial/<cc>/channels.json to override.
+  channels = channels.map((ch) => ({ ...ch, ios: ch.ios ?? /^(ebs|ebsplus|nasa)/.test(ch.id) }));
   return { generatedAt: new Date().toISOString(), demo: false, channels };
 }
 
