@@ -4,7 +4,9 @@ name: Update content
 
 on:
   schedule:
-    - cron: '7 * * * *'      # every hour at :07
+    # GitHub skips many scheduled runs when it's busy, so ask three times an hour
+    # to keep the news at most about an hour old.
+    - cron: '7,27,47 * * * *'
   workflow_dispatch: {}       # "Run workflow" button for manual updates
   push:
     branches: [main]
