@@ -4,7 +4,7 @@ The app's whole "backend": a GitHub Action rebuilds the JSON every hour and publ
 GitHub Pages at https://xacking.github.io/livetv-news-content/<country>/<file>.json
 
 - `countries.json` — the 20 markets (keep in sync with the app's `assets/countries.json`)
-- `scripts/build.mjs` — fetches headlines (Google News RSS), radio stations (radio-browser.info), builds the daily quiz
+- `scripts/build.mjs` — fetches headlines (publishers' own RSS/Atom feeds), radio stations (radio-browser.info), builds the daily quiz
 - `editorial/` — things you edit by hand: breaking-news banner (`<cc>/alerts.json`), TV channels, hidden stations
 - Optional secret `ANTHROPIC_API_KEY` (Settings → Secrets → Actions) for AI-written daily quizzes
 
