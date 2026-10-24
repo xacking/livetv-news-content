@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T17:30:57.652Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "해외 안 가도 국내서 자가 면역세포 암치료",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/national/welfare-medical/2026/10/24/J5IUUGWMOVF6VDVCKXF3CBLMZE/"
+  },
+  {
+   "type": "section",
+   "headline": "美 10월 소비자심리 5개월 만에 최저…물가 상승 우려",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/international/international_general/2026/10/24/GU2DINTBMY2WCYTFGIYGINTGMY/"
+  },
+  {
+   "type": "section",
+   "headline": "3회 연속 금리 인상에 부담느낀 신 총재…‘매파본색’은 계속된다 [BOK WATCHER]",
+   "options": [
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.mk.co.kr/news/economy/12184526"
+  },
+  {
+   "type": "source",
+   "headline": "北, 3년간 지뢰 96만개 매설… 軍은 작년 이어 또 회담 제안",
+   "options": [
+    "매일경제",
+    "오마이뉴스",
+    "BBC News 코리아",
+    "조선일보"
+   ],
+   "answer": 3,
+   "url": "https://www.chosun.com/politics/diplomacy-defense/2026/10/24/DDICGK73BFAWXM4ORLFM3PE5OU/"
+  },
+  {
+   "type": "source",
+   "headline": "“이번 주말도 난리 난다”…장갑차에 물대포까지 등장한 프랑스",
+   "options": [
+    "BBC News 코리아",
+    "조선일보",
+    "매일경제",
+    "오마이뉴스"
+   ],
+   "answer": 2,
+   "url": "https://www.mk.co.kr/news/world/12184601"
+  }
+ ]
+}

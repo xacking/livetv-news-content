@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-25",
+ "generatedAt": "2026-10-24T12:07:42.786Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "SH1 closure between Island Block Rd and Springhill Rd after crash",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/nz/sh1-closure-between-island-block-rd-and-springhill-rd-after-crash/QGBD7FH6F5BR5MWCBPNI2IL3IU/"
+  },
+  {
+   "type": "section",
+   "headline": "Iran says US military not allowed to enter Gulf ‘under any circumstances’",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/world/iran-says-us-military-not-allowed-to-enter-gulf-under-any-circumstances/MYPHZ75VCNENRE7JFAEHZLNATQ/"
+  },
+  {
+   "type": "section",
+   "headline": "Mood of the Boardroom: CEOs say businesses are too cautious to invest",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/business-reports/mood-of-the-boardroom/mood-of-the-boardroom-ceos-say-businesses-are-too-cautious-to-invest/premium/OFON5RCCKNE5RKOXQHEIFROVMU/"
+  },
+  {
+   "type": "section",
+   "headline": "Meta court losses reshape social media regulation as Congress stalls",
+   "options": [
+    "NATION",
+    "WORLD",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/business/meta-court-losses-reshape-social-media-regulation-as-congress-stalls/premium/KFLKAGI3YJG43LZUCVU2SL2URA/"
+  },
+  {
+   "type": "section",
+   "headline": "Black Caps v India result: Mitchell Santner, Glenn Phillips heroics in vain as visitors fight back for second Twenty20 heist",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/sport/cricket/black-caps/black-caps-v-india-result-mitchell-santner-glenn-phillips-heroics-in-vain-as-visitors-fight-back-for-second-twenty20-heist/MG7T6XV26FEYBGLILEQRMKIQRE/"
+  }
+ ]
+}

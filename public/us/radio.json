@@ -1,0 +1,1287 @@
+{
+ "generatedAt": "2026-10-24T12:07:10.329Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "d1a54d2e-623e-4970-ab11-35f7b56c5ec3",
+   "name": "Classic Vinyl HD",
+   "url": "https://icecast.walmradio.com:8443/classic",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/classic.jpg",
+   "homepage": "https://walmradio.com/classic",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "1930",
+    "1940",
+    "1950",
+    "1960",
+    "beautiful music"
+   ]
+  },
+  {
+   "id": "ea8059be-d119-4de3-b27b-0d9bd6aedb17",
+   "name": "Adroit Jazz Underground",
+   "url": "https://icecast.walmradio.com:8443/jazz",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/jazz.jpg",
+   "homepage": "https://walmradio.com/jazz",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "avant-garde",
+    "bebop",
+    "big band",
+    "bop",
+    "combos"
+   ]
+  },
+  {
+   "id": "960cf833-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Groove Salad",
+   "url": "https://ice6.somafm.com/groovesalad-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/groovesalad-400.jpg",
+   "homepage": "https://somafm.com/groovesalad/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "chillout",
+    "downtempo",
+    "groove",
+    "lounge"
+   ]
+  },
+  {
+   "id": "33178054-56cd-449c-8cf7-412cc7be936a",
+   "name": "CNN",
+   "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "hls": false,
+   "logo": "https://www.cnn.com/media/sites/cnn/favicon.ico",
+   "homepage": "https://www.cnn.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "510aeeac-e7a0-41c2-aea2-e572e811ffe7",
+   "name": "Fox News Radio",
+   "url": "https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?source=fnr.web",
+   "hls": false,
+   "logo": "https://static.foxnews.com/radio.foxnews.com/content/uploads/2017/10/default_logo-150x150.png",
+   "homepage": "https://radio.foxnews.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "313046e3-b203-4b9d-bc3e-393da7d97126",
+   "name": "WALM - Old Time Radio",
+   "url": "https://icecast.walmradio.com:8443/otr",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/otr.jpg",
+   "homepage": "https://walmradio.com/otr",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "talk",
+   "tags": [
+    "78",
+    "78-rpm",
+    "78rpm",
+    "classic",
+    "comedy"
+   ]
+  },
+  {
+   "id": "6eff3484-4ab4-4d36-bf27-9172c5aac15c",
+   "name": "Christmas Vinyl HD",
+   "url": "https://icecast.walmradio.com:8443/christmas",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/christmas.png",
+   "homepage": "https://walmradio.com/christmas",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "christian",
+    "christmas",
+    "easy listening",
+    "hd",
+    "holiday"
+   ]
+  },
+  {
+   "id": "c76686ca-a8b9-4db9-9839-1470c9599623",
+   "name": "102.7 KIIS FM",
+   "url": "https://stream.revma.ihrhls.com/zc185",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/assets.brands/2ebe753539305728784b0f3b178eae45?ops=new(),flood(%22white%22),swap(),merge(%22over%22),gravity(%22center%22),contain(167,167),quality(80),format(%22png%22)",
+   "homepage": "https://kiisfm.iheart.com/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "pop",
+    "top 40"
+   ]
+  },
+  {
+   "id": "64bb1467-2585-4454-a96f-34cfbc864d41",
+   "name": "WALM 2 HD",
+   "url": "https://icecast.walmradio.com:8443/walm2",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/walm.jpg",
+   "homepage": "https://walmradio.com/walm2",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "talk",
+   "tags": [
+    "choral",
+    "christian",
+    "christian music",
+    "classical music",
+    "hymns"
+   ]
+  },
+  {
+   "id": "3b92f8c7-deac-4a81-8a9c-3b0f995d73e4",
+   "name": "America's Country",
+   "url": "https://ais-sa2.cdnstream1.com/1976_128.mp3",
+   "hls": false,
+   "logo": "https://marinifamily.files.wordpress.com/2015/08/favicon.png",
+   "homepage": "https://americascountry.us/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "2000's country",
+    "90's country",
+    "america's country",
+    "classic country",
+    "country"
+   ]
+  },
+  {
+   "id": "960c7c81-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Secret Agent",
+   "url": "https://ice6.somafm.com/secretagent-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/secretagent-400.jpg",
+   "homepage": "https://somafm.com/secretagent/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "downtempo",
+    "jazz",
+    "lounge",
+    "samba"
+   ]
+  },
+  {
+   "id": "348dfc58-ce8c-413b-b264-0384f816344b",
+   "name": "WALM HD",
+   "url": "https://icecast.walmradio.com:8443/walm",
+   "hls": false,
+   "logo": "https://icecast.walmradio.com:8443/walm.jpg",
+   "homepage": "https://walmradio.com/walm",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "christian",
+    "christian music",
+    "contemporary christian",
+    "jesus"
+   ]
+  },
+  {
+   "id": "0b2c57db-885d-46d8-bbee-0651449759f1",
+   "name": "MSNBC",
+   "url": "https://tunein.cdnstream1.com/3511_96.mp3",
+   "hls": false,
+   "logo": "https://nodeassets.nbcnews.com/cdnassets/projects/ramen/favicon/msnbc/all-other-sizes-PNG.ico/favicon-96x96.png",
+   "homepage": "https://www.msnbc.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "96394224-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Indie Pop Rocks!",
+   "url": "https://ice6.somafm.com/indiepop-128-aac",
+   "hls": false,
+   "logo": "https://somafm.com/img3/indiepop-400.jpg",
+   "homepage": "https://somafm.com/indiepop/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "indie",
+    "indie pop",
+    "indie rock"
+   ]
+  },
+  {
+   "id": "c77c45c4-cf37-414c-ae34-868f7d9cd944",
+   "name": "FUNKY RADIO - Only Funk Music",
+   "url": "https://funkyradio.streamingmedia.it/play.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://funky.radio/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "60s",
+    "70s",
+    "70s disco",
+    "80s",
+    "black"
+   ]
+  },
+  {
+   "id": "42c0308b-908d-4243-92e5-05d658ecb781",
+   "name": "KEXP",
+   "url": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds%3Atrue",
+   "hls": false,
+   "logo": "https://www.kexp.org/static/assets/img/logo-header.svg",
+   "homepage": "https://www.kexp.org/",
+   "codec": "AAC",
+   "bitrate": 162,
+   "category": "talk",
+   "tags": [
+    "afrobeats",
+    "alternative",
+    "alternative rock",
+    "ambient",
+    "dj mixes"
+   ]
+  },
+  {
+   "id": "960d3f6f-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Space Station Soma",
+   "url": "https://ice2.somafm.com/spacestation-128-aac",
+   "hls": false,
+   "logo": "https://somafm.com/img3/spacestation-400.png",
+   "homepage": "https://somafm.com/spacestation/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "electronica",
+    "mid-tempo"
+   ]
+  },
+  {
+   "id": "c685c086-b716-4edd-b313-d4a7baf1084c",
+   "name": "LOVE FM: All you need is Love",
+   "url": "https://mdstrm.com/audio/66a01759c5aa2b85d66b5933/live.m3u8",
+   "hls": true,
+   "logo": "https://i.postimg.cc/pd2qpS5j/lovefm1037.jpg",
+   "homepage": "https://maxplay.com.mx/",
+   "codec": "AAC",
+   "bitrate": 98,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "dba1b7bc-6b92-409c-a543-8b42eec25636",
+   "name": "100 Hip Hop and RNB FM",
+   "url": "https://streaming.shoutcast.com/100-hip-hop-and-rnb-fm",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/887/rnb-and-hip-hop-radio.51c457d0.png",
+   "homepage": "https://uk.radio.net/s/100hiphopandrnb",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hip-hop",
+    "rap hiphop rnb",
+    "ridwan",
+    "rnb"
+   ]
+  },
+  {
+   "id": "b05b65e3-0936-4e7b-9f07-364cba23d7b2",
+   "name": "美国之音",
+   "url": "https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://voa-ingest.akamaized.net/",
+   "codec": "AAC",
+   "bitrate": 140,
+   "category": "music",
+   "tags": [
+    "新闻"
+   ]
+  },
+  {
+   "id": "9627dcf4-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - The Beat",
+   "url": "https://listen.181fm.com/181-beat_128k.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.181.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hiphop",
+    "rnb",
+    "urban",
+    "waynesboro"
+   ]
+  },
+  {
+   "id": "dc7e3511-79b2-41f5-8b1f-a6e8098fcda4",
+   "name": "ROCK FM Classic Rock",
+   "url": "https://audiotainment-sw.streamabc.net/atsw-classicrock-mp3-128-2538548?",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.my-radios.com/es/radio/escuchar/30420/ROCK-FM-CLASSIC-ROCK",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "hard rock",
+    "metal",
+    "rock"
+   ]
+  },
+  {
+   "id": "9614b5e5-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Underground 80s",
+   "url": "https://ice2.somafm.com/u80s-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/u80s-400.png",
+   "homepage": "https://somafm.com/u80s/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s",
+    "new wave",
+    "uk synthpop"
+   ]
+  },
+  {
+   "id": "bbd2fa5a-0b6c-4833-81b4-ca69acb8f264",
+   "name": "Hip Hop Workout Radio",
+   "url": "https://stream.revma.ihrhls.com/zc7785",
+   "hls": false,
+   "logo": "https://zeno.fm/_ipx/q_100&fit_cover&s_160x160/https://images.zeno.fm/wwYkKshlr8K1X3i0JLV-I51b8dt3bzZXTKlYyMf6F-o/rs:fill:256:256/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvYWd4emZucGxibTh0YzNSaGRITnlNZ3NTQ2tGMWRHaERiR2xsYm5RWWdJQ1E5SWJRdHdzTUN4SU9VM1JoZEdsdmJsQnliMlpwYkdVWWdJRFFvNFM2aWdvTW9nRUVlbVZ1YncvaW1hZ2UvP3U9MTY2MTM3NDkxOTAwMA.webp",
+   "homepage": "https://stream.revma/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b449c3c0-db5f-4f01-a81e-3bc1c769e188",
+   "name": "West Coast – G-Funk & Hip-Hop",
+   "url": "https://r.bgp.rodeo/listen/west_coast/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://r.bgp.rodeo/public/west_coast",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "90s hip hop",
+    "g-funk",
+    "gangsta rap",
+    "hip hop",
+    "old school hip hop"
+   ]
+  },
+  {
+   "id": "c16337ec-14be-423d-a9fe-3ec7ed9aa373",
+   "name": "自由亚洲",
+   "url": "https://stream-283.surfernetwork.com/ub3pfplpqbktv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1YjNwZnBscHFia3R2IiwiaG9zdCI6InN0cmVhbS0yODMuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6ImlsOUFTUmtQVFdhYWk1djdfWVlRaEEiLCJpYXQiOjE3OTI2Mjc4NjgsImV4cCI6MTc5MjYyNzkyOH0.oKPznil7Y4HglIxaCRPYcSJgKjzJsHLS4TXEugkAtpw",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.xsbnrtv.cn/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "information",
+    "news"
+   ]
+  },
+  {
+   "id": "655def6d-734f-4ef7-972a-6abc56763162",
+   "name": "Bluegrass Country",
+   "url": "https://ice24.securenetsystems.net/WAMU",
+   "hls": false,
+   "logo": "https://bluegrasscountry.org/favicon.ico",
+   "homepage": "https://bluegrasscountry.org/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "bluegrass",
+    "country"
+   ]
+  },
+  {
+   "id": "02bc9a87-6db4-42c0-ace1-388c269e49d5",
+   "name": "1 oldies",
+   "url": "https://80sexitos.stream.laut.fm/80sexitos",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://musica80.radioclub.es/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s",
+    "80s",
+    "90s",
+    "disco",
+    "musica romantica"
+   ]
+  },
+  {
+   "id": "44b7f191-9478-46b0-a3b5-5a0ea2b2d64e",
+   "name": "ambient.fm",
+   "url": "https://ambient.fm/live/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://ambient.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "ambient and relaxation music",
+    "ambient easy listening",
+    "ambient lounge",
+    "ambient techno"
+   ]
+  },
+  {
+   "id": "03eccedf-bf40-4413-8d52-817c298331e2",
+   "name": "Z 92",
+   "url": "https://liveaudio.lamusica.com/MIA_WCMQ_icy",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s27943/images/logod.png",
+   "homepage": "https://www.lamusica.com/stations/wcmq",
+   "codec": "AAC",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "92.3 fm",
+    "entretenimiento",
+    "español",
+    "estación",
+    "florida"
+   ]
+  },
+  {
+   "id": "bafbd6cc-65e0-4af7-907b-dd1c425e8917",
+   "name": "70s 80s Disco Funk ModernSoul Boogie",
+   "url": "https://discofunk.streamingmedia.it/usa",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://funky.radio/discofunk_modernsoul_boogie",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1970s",
+    "1980s",
+    "70's",
+    "70er",
+    "70s"
+   ]
+  },
+  {
+   "id": "701106b9-59e3-11ea-be63-52543be04c81",
+   "name": "SomaFM Heavyweight Reggae",
+   "url": "https://ice5.somafm.com/reggae-256-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/reggae400.jpg",
+   "homepage": "https://somafm.com/reggae/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "reggae",
+    "rocksteady",
+    "roots reggae",
+    "ska"
+   ]
+  },
+  {
+   "id": "961e37ee-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Left Coast 70s",
+   "url": "https://ice5.somafm.com/seventies-320-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/seventies400.jpg",
+   "homepage": "https://somafm.com/seventies/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "easy listening",
+    "mellow album rock",
+    "rock",
+    "yacht rock"
+   ]
+  },
+  {
+   "id": "9638a3a5-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - 90's Country",
+   "url": "https://listen.181fm.com/181-90scountry_128k.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.181.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "90s",
+    "country",
+    "waynesboro"
+   ]
+  },
+  {
+   "id": "ceb6b3af-3bfb-4135-bace-9fa6fac9e8ac",
+   "name": "metal rock radio",
+   "url": "https://kathy.torontocast.com:2800/;",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.metalrock.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "metal",
+    "rock"
+   ]
+  },
+  {
+   "id": "95a0d825-58c3-44b7-8bb0-f304f1b573f1",
+   "name": "96.7 KISS FM - KHFI-FM Austin",
+   "url": "https://stream.revma.ihrhls.com/zc2173",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/assets.brands/633c3a4382d1a3695a106c61?ops=gravity(%22center%22),contain(360,360)&quality=80",
+   "homepage": "https://967kissfm.iheart.com/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "pop",
+    "top 40"
+   ]
+  },
+  {
+   "id": "2887dc93-4c30-4981-8f60-a87d25a4386f",
+   "name": "Static – 90s & 2000s Alt Rock",
+   "url": "https://r.bgp.rodeo/listen/static/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://r.bgp.rodeo/public/static",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "2000s",
+    "90s alternative",
+    "alternative",
+    "alternative rock",
+    "grunge"
+   ]
+  },
+  {
+   "id": "54e9be2f-8705-4841-a672-7effedcaf4d4",
+   "name": "Hot Tejano",
+   "url": "https://ithaca.cdnstream.com/1113_96",
+   "hls": false,
+   "logo": "https://hottejano.com/wp-content/uploads/2020/11/hottejano250x250-140x140.png",
+   "homepage": "https://hottejano.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "austin",
+    "country",
+    "country music",
+    "entretenimiento",
+    "estación"
+   ]
+  },
+  {
+   "id": "e5b81ad3-bb7d-41a5-a3d3-0f715434778e",
+   "name": "Megarock Radio 320k",
+   "url": "https://stream3.megarockradio.net:80/",
+   "hls": false,
+   "logo": "https://megarockradio.net/favicon.ico",
+   "homepage": "https://megarockradio.net/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "hard rock",
+    "metal",
+    "requests"
+   ]
+  },
+  {
+   "id": "fd200b5d-0137-4a87-8afc-3275da795c2a",
+   "name": "VOA Learning English",
+   "url": "https://voa-ingest.akamaized.net/hls/live/2035234/160_342L/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "http://www.voanews.com/t/60.html",
+   "codec": "AAC",
+   "bitrate": 140,
+   "category": "music",
+   "tags": [
+    "learn english",
+    "learn language"
+   ]
+  },
+  {
+   "id": "11c28f97-0177-47d3-bf88-eb24b492c34f",
+   "name": "WAMU American University Radio",
+   "url": "https://wamu.cdnstream1.com/wamu.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://wamu.org/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news",
+    "public",
+    "talk"
+   ]
+  },
+  {
+   "id": "6b500823-fc4e-4bf7-8bde-c2c08cd51fed",
+   "name": "101.5 Kiss FM",
+   "url": "https://stream.zeno.fm/q0si4olfobwvv",
+   "hls": false,
+   "logo": "https://zeno.fm/_ipx/s_224x224/https://images.zeno.fm/4tcZWeT-uxznsndUIr6fJaT43NmEFIBaJLhdro7g4gs/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNTRhMmJjNWUtOGRkMS00Y2I2LThlOGQtMzg5MTg5NWZhZTkyL2ltYWdlLz91PTE3NDE3MzI1MTMwMDA.webp",
+   "homepage": "https://bestradiostations.wixsite.com/1015kissfm",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "360bb528-cea3-4e8e-84c6-3970c55bda71",
+   "name": "Funk the Planet",
+   "url": "https://streaming.live365.com/a01484",
+   "hls": false,
+   "logo": "https://oetpai.fra1.digitaloceanspaces.com/new_images/onestop_60653111.png",
+   "homepage": "https://funkthepla.net/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classic hip hop",
+    "contemporary r&b",
+    "disco funk",
+    "funk",
+    "future funk"
+   ]
+  },
+  {
+   "id": "960eb2e9-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Drone Zone",
+   "url": "https://ice2.somafm.com/dronezone-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/dronezone-400.jpg",
+   "homepage": "https://somafm.com/dronezone/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "atmospheric",
+    "chillout",
+    "drone"
+   ]
+  },
+  {
+   "id": "961173b5-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Lush",
+   "url": "https://ice6.somafm.com/lush-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/lush-400.jpg",
+   "homepage": "https://somafm.com/lush/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "electronic",
+    "femalevocals",
+    "lounge",
+    "mellow",
+    "vocal"
+   ]
+  },
+  {
+   "id": "960de41d-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Metal Detector",
+   "url": "https://ice5.somafm.com/metal-128-aac",
+   "hls": false,
+   "logo": "https://somafm.com/img3/metal-400.png",
+   "homepage": "https://somafm.com/metal/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "black metal",
+    "doom metal",
+    "post-punk",
+    "progressive rock",
+    "sludge"
+   ]
+  },
+  {
+   "id": "8c137563-0b79-4dd0-b968-311885c70db4",
+   "name": "WMVP 1000 AM - ESPN Chicago, IL",
+   "url": "https://live.amperwave.net/direct/goodkarma-wmvpammp3-ibc1",
+   "hls": false,
+   "logo": "https://goodkarmabrands.com/images/ESPN_Chi_stk_FRE_lockup345x283.png",
+   "homepage": "https://goodkarmabrands.com/espn-chicago/",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "sports",
+   "tags": [
+    "chicago sports",
+    "live sports",
+    "sports radio",
+    "sports talk"
+   ]
+  },
+  {
+   "id": "2e53ff8e-1d21-4e04-b0e9-f68257c4e7e9",
+   "name": "Only Hits K-Pop",
+   "url": "https://kpop.onlyhit.us/play",
+   "hls": false,
+   "logo": "https://cdn.onlyhitsradio.net/logo/kpop.png",
+   "homepage": "https://onlyhit.us/en/radio/kpop",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "k-pop",
+    "korean",
+    "korean pop",
+    "kpop"
+   ]
+  },
+  {
+   "id": "635f30d4-5a02-4ebf-a820-ed0fdce4d939",
+   "name": "Halloween Radio",
+   "url": "https://stream.revma.ihrhls.com/zc7001/hls.m3u8?streamid=7001",
+   "hls": true,
+   "logo": "https://i.iheart.com/v3/re/new_assets/12fbe317-623c-4596-8fb6-b9d01f39c72d",
+   "homepage": "https://www.iheart.com/live/halloween-radio-7001/",
+   "codec": "AAC",
+   "bitrate": 24,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "29f12cf8-fddc-481e-b7f2-d849e041daf7",
+   "name": "Jazz 24",
+   "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://jazz24.org/",
+   "codec": "AAC",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "faea95b2-cd79-4e9d-9048-016c05039226",
+   "name": "94.7 KUMU",
+   "url": "https://pacificmedia.cdnstream1.com/2783_128.mp3",
+   "hls": false,
+   "logo": "https://kumu.com/wp-content/uploads/sites/14/KUMU-Web-Logo-180x115-1.png",
+   "homepage": "https://kumu.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "ballads",
+    "chillout",
+    "classic hits",
+    "hawaii"
+   ]
+  },
+  {
+   "id": "644ac8ae-0ab4-41df-9a89-593e2493a2aa",
+   "name": "KIIS FM 102.7",
+   "url": "https://stream.revma.ihrhls.com/zc185",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "21a282be-44f4-4b8e-aae9-b4c2041af4a5",
+   "name": "Radio Paradise World/Etc Mix 320k AAC",
+   "url": "https://stream.radioparadise.com/world-etc-320",
+   "hls": false,
+   "logo": "https://radioparadise.com/apple-touch-icon.png",
+   "homepage": "https://radioparadise.com/",
+   "codec": "AAC",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "california",
+    "eclectic",
+    "world music",
+    "free",
+    "internet"
+   ]
+  },
+  {
+   "id": "960d4bdc-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - Kickin' Country",
+   "url": "https://listen.181fm.com/181-kickincountry_128k.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.181.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "country",
+    "pop",
+    "rock",
+    "waynesboro"
+   ]
+  },
+  {
+   "id": "960e0117-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM PopTron",
+   "url": "https://ice2.somafm.com/poptron-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/poptron-400.png",
+   "homepage": "https://somafm.com/poptron/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "electropop",
+    "indie",
+    "synthpop"
+   ]
+  },
+  {
+   "id": "87e3c4fa-7037-48a8-b083-3d81e1cea592",
+   "name": "KLVZ Legends 810AM/95.3 FM - Denver, CO",
+   "url": "https://ais-sa8.cdnstream1.com/p1w7r97sb0k/c2g93fu0iqz",
+   "hls": false,
+   "logo": "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/2174/2023/09/26121503/launch_icon.png",
+   "homepage": "https://www.legends953.com/",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9d6d9530-ce29-45f5-af50-8f052716544e",
+   "name": "SomaFM SF Police Scanner",
+   "url": "https://ice5.somafm.com/scanner-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/scanner-400.jpg",
+   "homepage": "https://somafm.com/scanner/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "police scanner"
+   ]
+  },
+  {
+   "id": "9614e0a1-0601-11e8-ae97-52543be04c81",
+   "name": "SomaFM Fluid",
+   "url": "https://ice5.somafm.com/fluid-128-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/fluid-400.jpg",
+   "homepage": "https://somafm.com/fluid/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "chilled trap",
+    "future soul",
+    "hiphop",
+    "woozy electronica"
+   ]
+  },
+  {
+   "id": "608bc971-3ec5-4c05-8143-de96c3bdb030",
+   "name": "Soma FM Groove Salad 320K AAC HLS",
+   "url": "https://hls.somafm.com/hls/groovesalad/320k/program.m3u8",
+   "hls": true,
+   "logo": "https://somafm.com/img3/groovesalad-400.png",
+   "homepage": "https://www.somafm.com/",
+   "codec": "MP4",
+   "bitrate": 320000,
+   "category": "music",
+   "tags": [
+    "groove",
+    "hls",
+    "somafm"
+   ]
+  },
+  {
+   "id": "960d4889-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - Highway 181",
+   "url": "https://listen.181fm.com/181-highway_128k.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.181.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic country",
+    "waynesboro"
+   ]
+  },
+  {
+   "id": "cb136507-425b-4934-8991-d7fc8873c849",
+   "name": "Sunset Chillout Lounge",
+   "url": "https://listen.radioking.com/radio/571682/stream/631712",
+   "hls": false,
+   "logo": "https://sunsetchilloutlounge.com/wp-content/uploads/2023/04/sunrise_sunset_captions_puns_quotes_instagram-7-300x225.jpg",
+   "homepage": "https://sunsetchilloutlounge.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "chillout",
+    "lounge",
+    "sunset"
+   ]
+  },
+  {
+   "id": "967684c3-2120-48a3-b0d2-c0bba1664865",
+   "name": "1 HITS 80s",
+   "url": "https://makri.cdnstream.com/1898_128",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.hits80s.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "1980's",
+    "1980s",
+    "80's",
+    "80er",
+    "80s"
+   ]
+  },
+  {
+   "id": "386941dd-f125-4268-83d6-e137ceb15daa",
+   "name": "Outlaw – Country Music Radio",
+   "url": "https://r.bgp.rodeo/listen/outlaw/radio.mp3",
+   "hls": false,
+   "logo": "https://r.bgp.rodeo/static/icons/production/180.png",
+   "homepage": "https://r.bgp.rodeo/public/outlaw",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "alt-country",
+    "americana",
+    "country",
+    "country rock",
+    "honky tonk"
+   ]
+  },
+  {
+   "id": "56b0652e-f920-423e-aee2-5b72dda4da66",
+   "name": "lofi girl",
+   "url": "https://play.streamafrica.net/lofiradio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://play.streamafrica.net/lofiradio",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1d730b8a-49e2-403d-870c-07b1e27be7fd",
+   "name": "Jazz24",
+   "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
+   "hls": false,
+   "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.ugUKdyft-8Fo--PIPAXzGgAAAA%3Fpid%3DApi&f=1&ipt=f09f5c58d86f560fb392db2af56b9af0d7f4c9f2ae3401b90488c35484eba2cb&ipo=images",
+   "homepage": "https://www.jazz24.org/",
+   "codec": "AAC",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "79dc614b-20f4-49e0-81bd-2d772a80733f",
+   "name": "101.1 WJRR Orlando's Rock Station",
+   "url": "https://stream.revma.ihrhls.com/zc593",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/assets.brands/60b94ac645cd16d845d5e5a3?ops=gravity(%22center%22),contain(300,300)&quality=80",
+   "homepage": "https://wjrr.iheart.com/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "rock"
+   ]
+  },
+  {
+   "id": "41f97373-cc33-4b6d-a8fb-456dc4e68966",
+   "name": "CNBC Radio",
+   "url": "https://tunein.cdnstream1.com/6288_128.mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s110052/images/logod.jpg?t=639015950340000000",
+   "homepage": "https://cnbc.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a1e43e07-b998-4b7c-ac06-9c9c36700613",
+   "name": "NOAA Weather Radio - Dallas, Texas",
+   "url": "https://wxradio.org/TX-Dallas-KEC56",
+   "hls": false,
+   "logo": "https://wxradio.org/TX-Dallas-KEC56",
+   "homepage": "https://www.weatherusa.net/radio",
+   "codec": "MP3",
+   "bitrate": 32,
+   "category": "music",
+   "tags": [
+    "local weather"
+   ]
+  },
+  {
+   "id": "cd477c35-d625-11e8-a54a-52543be04c81",
+   "name": "Miami Beach Radio",
+   "url": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
+   "hls": false,
+   "logo": "https://cdn-elements.radiostreamlive.com/v1/images/favicon.ico",
+   "homepage": "https://www.miamibeachradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hits",
+    "ocean drive",
+    "rsl"
+   ]
+  },
+  {
+   "id": "7094b698-b1ac-4f08-a6cd-ac35f906765d",
+   "name": "CNN International Audio",
+   "url": "https://tunein.cdnstream1.com/3519_96.aac",
+   "hls": false,
+   "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/CNN_International_Logo.png",
+   "homepage": "https://www.cnn.com/",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news",
+    "tv audio",
+    "world news",
+    "world news channels"
+   ]
+  },
+  {
+   "id": "74eac2e4-dd81-48d3-b47f-87f2f2a8b45a",
+   "name": "EROTICA LOUNGE",
+   "url": "https://stream.zeno.fm/89asra0sfa0uv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://tunein.com/radio/EROTICA-LOUNGE-s260655/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "chillout",
+    "chillout+lounge",
+    "jazz fusion",
+    "nu jazz"
+   ]
+  },
+  {
+   "id": "961e719c-0601-11e8-ae97-52543be04c81",
+   "name": "181.FM - True Blues",
+   "url": "https://listen.181fm.com/181-blues_128k.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.181.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues",
+    "waynesboro"
+   ]
+  },
+  {
+   "id": "43718921-41a0-48f5-9645-c467d19a5095",
+   "name": "Funky Corner Radio",
+   "url": "https://ais-sa2.cdnstream1.com/2447_192.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.funkycorner.it/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "70s",
+    "70s disco",
+    "80s",
+    "black",
+    "black music"
+   ]
+  },
+  {
+   "id": "393224fb-a0a8-4685-ab4e-a5ced5c80d93",
+   "name": "SmoothJazz.com 64k aac+",
+   "url": "https://smoothjazz.cdnstream1.com/2585_64.aac",
+   "hls": false,
+   "logo": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+   "homepage": "https://www.smoothjazz.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "monterey",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "49ad5236-61ab-4c07-b4b6-a8da11bffe83",
+   "name": "80s Drive",
+   "url": "https://samcloud.spacial.com/api/listen?sid=111415&m=sc&rid=293634&t=ssl?&80sradio128mp3stereo44",
+   "hls": false,
+   "logo": "https://static2.mytuner.mobi/media/tvos_radios/s39agjsfxs3v.png",
+   "homepage": "https://mytuner-radio.com/radio/80s-drive-479732/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "#80s",
+    "1980",
+    "1980s",
+    "80",
+    "80's"
+   ]
+  },
+  {
+   "id": "a2c3cec0-1dfd-4feb-b96a-e6ee2979fc5c",
+   "name": "24/7 Comedy",
+   "url": "https://stream.revma.ihrhls.com/zc4902",
+   "hls": false,
+   "logo": "https://www.iheart.com/favicon.ico",
+   "homepage": "https://www.iheart.com/live/247-comedy-4902/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "talk",
+   "tags": [
+    "comedy",
+    "talk"
+   ]
+  },
+  {
+   "id": "69363afd-b084-41e6-a0d4-79bebb629204",
+   "name": "Groovy Radio - 60's and 70's Oldies",
+   "url": "https://r1.comcities.com/proxy/emogddug/stream",
+   "hls": false,
+   "logo": "https://kvkvi.com/wp-content/uploads/2024/02/luxa.org-bordered-Groovy-White-600x600-jpg.jpg",
+   "homepage": "https://groovyradio.us/",
+   "codec": "MP3",
+   "bitrate": 160,
+   "category": "music",
+   "tags": [
+    "60's",
+    "70's",
+    "oldies"
+   ]
+  },
+  {
+   "id": "c2958dcc-75ad-4ece-8781-6a465f4fb09f",
+   "name": "Comedy 104 - Radiostorm",
+   "url": "https://ais-sa5.cdnstream1.com/b42761_64mp3",
+   "hls": false,
+   "logo": "https://radiostorm.com/wp-content/uploads/2018/01/cropped-imgpsh_fullsize2-180x180.png",
+   "homepage": "https://radiostorm.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "talk",
+   "tags": [
+    "comedy"
+   ]
+  },
+  {
+   "id": "0eb3dbcf-05f7-480e-83f4-7718102a4820",
+   "name": "SmoothJazz.com 128k mp3",
+   "url": "https://smoothjazz.cdnstream1.com/2585_128.mp3",
+   "hls": false,
+   "logo": "https://www.smoothjazz.com/sites/default/files/theme/sj-circle-logo.png",
+   "homepage": "https://www.smoothjazz.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "monterey",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "83accca7-b878-419d-a506-3d21ef2f250f",
+   "name": "SomaFM Synphaera Radio",
+   "url": "https://ice2.somafm.com/synphaera-256-mp3",
+   "hls": false,
+   "logo": "https://somafm.com/img3/synphaera400.jpg",
+   "homepage": "https://somafm.com/synphaera",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "electronic",
+    "space"
+   ]
+  }
+ ]
+}

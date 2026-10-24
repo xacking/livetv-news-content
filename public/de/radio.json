@@ -1,0 +1,1286 @@
+{
+ "generatedAt": "2026-10-24T12:07:39.040Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "78012206-1aa1-11e9-a80b-52543be04c81",
+   "name": "MANGORADIO",
+   "url": "https://mangoradio.stream.laut.fm/mangoradio",
+   "hls": false,
+   "logo": "https://mangoradio.de/wp-content/uploads/cropped-Logo-192x192.webp",
+   "homepage": "https://mangoradio.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "variety"
+   ]
+  },
+  {
+   "id": "240d28b9-7858-48d2-a816-9cf8e1875fe8",
+   "name": "SWR3",
+   "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+   "hls": false,
+   "logo": "https://swr3.de/assets/swr3/icons/apple-touch-icon.png",
+   "homepage": "https://swr3.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "1c3e8be2-5b14-4933-bad3-87cbc227cba4",
+   "name": "Deutschlandfunk",
+   "url": "https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3?aggregator=web",
+   "hls": false,
+   "logo": "https://www.deutschlandfunk.de/static/img/deutschlandfunk/icons/apple-touch-icon-128x128.png",
+   "homepage": "https://www.deutschlandfunk.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "culture",
+    "news",
+    "public service",
+    "information"
+   ]
+  },
+  {
+   "id": "0de82079-04e7-407b-b616-e0726eba5244",
+   "name": "Bayern 3",
+   "url": "https://dispatcher.rndfnk.com/br/br3/live/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:52fd25fc45de7c6a?w=512",
+   "homepage": "https://www.bayern3.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "36a6d57a-4d8a-45e3-aad9-7931c6e43c56",
+   "name": "SWR1 BW",
+   "url": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3",
+   "hls": false,
+   "logo": "https://www.radio.at/images/broadcasts/07/41/2273/2/c300.png",
+   "homepage": "https://www.swr.de/swr1/bw/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "787eda99-1532-4ee0-b14e-fdb88ec71530",
+   "name": "BR24",
+   "url": "https://dispatcher.rndfnk.com/br/br24/live/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:c3ab9296f3b282bf?w=512",
+   "homepage": "https://www.br.de/radio/br24/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "44ee797f-b7c4-4f94-8853-ce9a9c8731ed",
+   "name": "WDR4",
+   "url": "https://wdr-wdr4-live.icecastssl.wdr.de/wdr/wdr4/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www1.wdr.de/radio/wdr4/wdrvier_logo104~_v-ARDAustauschformat.jpg",
+   "homepage": "https://www1.wdr.de/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "3f4be720-c996-439f-be3b-cce594ea2852",
+   "name": "0R - MUSIC FOR SLEEP",
+   "url": "https://0nlineradio.radioho.st/classical-classical-music-for-sleep?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/whsdTsct/MUSIC-FOR-SLEEP.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "background",
+    "calm",
+    "chillout",
+    "classical"
+   ]
+  },
+  {
+   "id": "d608bb74-0740-47e3-a1e2-c11edfeec91f",
+   "name": "ROCKANTENNE Alternative",
+   "url": "https://stream.rockantenne.de/alternative/stream/mp3",
+   "hls": false,
+   "logo": "https://www.rockantenne.de/logos/station-rock-antenne/apple-touch-icon.png",
+   "homepage": "https://www.rockantenne.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "87906f1e-5f82-4b86-9865-69e8eab8a69a",
+   "name": "OLDIE ANTENNE",
+   "url": "https://s1-webradio.oldie-antenne.de/oldie-antenne?aw_0_1st.playerid=OldieAntenneWebPlayer",
+   "hls": false,
+   "logo": "https://www.oldie-antenne.de/logos/oldie-antenne/apple-touch-icon.png",
+   "homepage": "https://www.oldie-antenne.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "60's",
+    "70's",
+    "80s",
+    "90s",
+    "goldies"
+   ]
+  },
+  {
+   "id": "b2cbd1fd-275d-432a-8b20-37dcb3572315",
+   "name": "1LIVE",
+   "url": "https://wdr-1live-live.icecastssl.wdr.de/wdr/1live/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www1.wdr.de/radio/1live/resources/img/favicon/apple-touch-icon.png",
+   "homepage": "https://einslive.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ard",
+    "pop",
+    "public radio",
+    "rock",
+    "wdr"
+   ]
+  },
+  {
+   "id": "7a49c017-1391-4e18-a4d8-a9bab58516e6",
+   "name": "Bayern 1 Oberbayern",
+   "url": "https://dispatcher.rndfnk.com/br/br1/obb/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
+   "homepage": "https://www.br.de/radio/bayern1/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "d7f5a497-40ec-11e9-aa55-52543be04c81",
+   "name": "0 N - Classic Rock on Radio",
+   "url": "https://0n-classicrock.radionetz.de/0n-classicrock.mp3",
+   "hls": false,
+   "logo": "https://www.0nradio.com/logos/0n-classic-rock_600x600.jpg",
+   "homepage": "http://www.0nradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80er",
+    "80s",
+    "90er",
+    "90s",
+    "classic rock"
+   ]
+  },
+  {
+   "id": "20c24a64-6dda-4059-88dc-66f5e1cffa7c",
+   "name": "SWR1 Baden-Württemberg",
+   "url": "https://liveradio.swr.de/sw282p3/swr1bw/play.mp3",
+   "hls": false,
+   "logo": "https://www.swr.de/assets/swr/swr1/apple-touch-icon-180x180.png",
+   "homepage": "https://www.swr.de/swr1/bw/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "652a2fa1-d3fe-4724-a3eb-3d6b7fb1e687",
+   "name": "0R - 80s ROCK",
+   "url": "https://0nlineradio.radioho.st/0r-80s-rock?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/hFC0q0h8/80s-Rock.png",
+   "homepage": "https://0nlineradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1980s",
+    "80s",
+    "alternative rock",
+    "blues rock",
+    "classic rock"
+   ]
+  },
+  {
+   "id": "10f16cf6-bc45-4b67-8f17-9758f249a61a",
+   "name": "Deutschlandfunk Kultur",
+   "url": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3?aggregator=web",
+   "hls": false,
+   "logo": "https://www.deutschlandfunkkultur.de/static/img/deutschlandfunk_kultur/icons/apple-touch-icon-128x128.png",
+   "homepage": "https://www.deutschlandfunkkultur.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "culture",
+    "news",
+    "public service",
+    "information"
+   ]
+  },
+  {
+   "id": "ce3e9d01-3614-45f2-ae25-93f944005eaa",
+   "name": "0R - 90s",
+   "url": "https://0nlineradio.radioho.st/0r-90s?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/S4y9mSR9/90s.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1990s",
+    "1990s hits",
+    "1990s pop music",
+    "90's",
+    "90er"
+   ]
+  },
+  {
+   "id": "ffd351fe-219e-4c6e-b14f-9c2e02fbe45e",
+   "name": "Klassik Radio - Live",
+   "url": "https://live.streams.klassikradio.de/klassikradio-deutschland/stream/mp3",
+   "hls": false,
+   "logo": "https://klassikradio.de/img/ms-mediumtile.png",
+   "homepage": "https://klassikradio.de/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "4e948485-984b-4ec3-9983-16e5d83c4b85",
+   "name": "bigFM Deutschland",
+   "url": "https://stream.bigfm.de/deutschland/mp3-128/radio-browser",
+   "hls": false,
+   "logo": "https://image.atsw.de/atsw/production/2024-12/600x600_px.jpg",
+   "homepage": "https://www.bigfm.de/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "charts",
+    "hip-hop",
+    "hits",
+    "nachrichten",
+    "news"
+   ]
+  },
+  {
+   "id": "a3a695be-35ba-4a1a-b8e7-d90815f4b942",
+   "name": "Radio Bollerwagen",
+   "url": "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192?ref=radioplayer&listenerid=31363233323633323031-323030333a64653a343731363a3730313a623731343a346664383a313761363a39386165-3537373636-4d6f7a696c6c612f352e3020285831313b205562",
+   "hls": false,
+   "logo": "https://www.radio.de/images/broadcasts/80/eb/100349/3/c300.png",
+   "homepage": "https://player.ffn.de/radioplayer/radio-bollerwagen/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9e3b0f8e-95d3-11e9-a605-52543be04c81",
+   "name": "NDR 2",
+   "url": "https://icecast.ndr.de/ndr/ndr2/niedersachsen/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www.ndr.de//apple-touch-icon-57x57.png",
+   "homepage": "https://www.ndr.de/ndr2/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "1f3700b5-4875-4bdf-986d-1dcaa4e8dfbe",
+   "name": "Bayern 2",
+   "url": "https://dispatcher.rndfnk.com/br/br2/live/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:5d72d15e88d309ec?w=512",
+   "homepage": "https://www.br.de/radio/bayern2/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "information"
+   ]
+  },
+  {
+   "id": "4f30d107-82f3-4e4e-99e4-44e05adcb2e9",
+   "name": "0R - PIANO JAZZ LOUNGE",
+   "url": "https://0nlineradio.radioho.st/lounge-piano-jazz-bar?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/MkhwYrRM/Piano-Jazz-Lounge.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "acoustic",
+    "ambient",
+    "ambient and relaxation music",
+    "ambient lounge",
+    "classical piano"
+   ]
+  },
+  {
+   "id": "21ab678c-ff19-4314-9969-165e15b4210d",
+   "name": "Deutschlandfunk Nova",
+   "url": "https://st03.sslstream.dlf.de/dlf/03/high/aac/stream.aac?aggregator=web",
+   "hls": false,
+   "logo": "https://www.deutschlandfunknova.de/apple-touch-icon.png",
+   "homepage": "https://www.deutschlandfunknova.de/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "culture",
+    "news",
+    "public service",
+    "information"
+   ]
+  },
+  {
+   "id": "70094073-a1a6-4c73-b871-6b25dddee813",
+   "name": "0R - COFFEE LOUNGE",
+   "url": "https://0nlineradio.radioho.st/lounge-coffee-bar-lounge?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/LDb4Ctnb/COFFEE-LOUNGE.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "background",
+    "chillout+lounge",
+    "easy listening",
+    "jazz"
+   ]
+  },
+  {
+   "id": "b828a184-3488-48f2-ab60-38a5e435a9fe",
+   "name": "0R - NATURE RELAX",
+   "url": "https://0nlineradio.radioho.st/lounge-nature-sounds?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/NgtLbFs6/Nature-Relax-Sound.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "alternative",
+    "background",
+    "chillout",
+    "easy listening",
+    "lounge"
+   ]
+  },
+  {
+   "id": "96f98cbd-3287-4a19-ac5d-b06c7982f8ba",
+   "name": "SWR 3",
+   "url": "https://liveradio.swr.de/sw282p3/swr3/play.mp3",
+   "hls": false,
+   "logo": "https://www.swr.de/assets/swr/apple-touch-icon.png",
+   "homepage": "https://www.swr.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s",
+    "90s",
+    "pop",
+    "pop music",
+    "pop rock"
+   ]
+  },
+  {
+   "id": "3a0985e9-788d-11e8-83fa-52543be04c81",
+   "name": "Bayern 1 Franken",
+   "url": "https://dispatcher.rndfnk.com/br/br1/franken/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
+   "homepage": "https://www.br.de/radio/bayern1/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "40532b34-f6a4-4009-b023-4110b8e7393f",
+   "name": "kontrafunk",
+   "url": "https://icecast.multhielemedia.de/listen/kontrafunk/radio.mp3",
+   "hls": false,
+   "logo": "https://kontrafunk.radio/templates/yootheme/cache/af/logo_KF_vogel_mittig_subline-af5b9047.png",
+   "homepage": "https://kontrafunk.radio/de/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "information",
+    "news",
+    "news talk",
+    "talk radio"
+   ]
+  },
+  {
+   "id": "d45dff01-bb08-4703-992d-a679a0ba0b05",
+   "name": "Antenne Bayern",
+   "url": "https://stream.antenne.de/antenne/stream/mp3",
+   "hls": false,
+   "logo": "https://i.postimg.cc/TYJQSsJx/1000002936.webp",
+   "homepage": "https://www.antenne.de/programm/empfang/webradio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "54e4b1de-0156-4972-a14e-580111522b44",
+   "name": "SWR4 BW",
+   "url": "https://liveradio.swr.de/sw890cl/swr4bw/",
+   "hls": false,
+   "logo": "https://www.swr.de/assets/swr/swr4/apple-touch-icon-180x180.png",
+   "homepage": "https://www.swr.de/swr4/index.html",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "classical music",
+    "folk music",
+    "instrumental music",
+    "international evergreens",
+    "schlager"
+   ]
+  },
+  {
+   "id": "03f081d4-4b70-46b2-b353-b47b502495b2",
+   "name": "0R - SPA LOUNGE",
+   "url": "https://0nlineradio.radioho.st/lounge-spa-lounge?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/nMy1KKtY/SPA-LOUNGE.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "background",
+    "chill",
+    "chillout",
+    "chillout+lounge",
+    "easy"
+   ]
+  },
+  {
+   "id": "efcd88c5-cd6f-11e8-a54a-52543be04c81",
+   "name": "ByteFM",
+   "url": "https://bytefm.cast.addradio.de/bytefm/main/high/stream",
+   "hls": false,
+   "logo": "https://www.byte.fm/static/favicon/favicon-96x96.png?v=2023.10.27.3186-f0a9d83",
+   "homepage": "https://www.byte.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "indie",
+    "pop",
+    "rock",
+    "world music"
+   ]
+  },
+  {
+   "id": "65f5549e-a554-4386-9249-7f9651fd40f6",
+   "name": "Schwarzwaldradio",
+   "url": "https://edge61.streamonkey.net/fho-schwarzwaldradiolive/stream/mp3?aggregator=smk-m3u-mp3",
+   "hls": false,
+   "logo": "https://schwarzwaldradio.com/apple-touch-icon.png",
+   "homepage": "https://schwarzwaldradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "60er",
+    "70er",
+    "80er",
+    "90er",
+    "oldies"
+   ]
+  },
+  {
+   "id": "29010f42-faef-4a9e-b15c-3ad1613b45cb",
+   "name": "BR-Klassik",
+   "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:476e47d76c4bbf78?w=512",
+   "homepage": "https://www.br-klassik.de/index.html",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "ffc0d701-f43b-4232-8be6-f7ff72add8ef",
+   "name": "Blasmusikradio mit Bernd",
+   "url": "https://blasmusikradiomitbernd.stream.laut.fm/blasmusikradio_mit_bernd?t302=2026-10-22_11-14-48&uuid=1c862183-4ad1-31ac-d614-244ec1af5ae8",
+   "hls": false,
+   "logo": "https://assets.laut.fm/b22749b7fdb382b8912269e3d8054380?t=_120x120",
+   "homepage": "https://laut.fm/blasmusikradio_mit_bernd",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blasmusik",
+    "folk",
+    "marsch",
+    "polka"
+   ]
+  },
+  {
+   "id": "49902d2d-672d-4130-b42a-90592d0460c5",
+   "name": "0R - LO-FI",
+   "url": "https://0nlineradio.radioho.st/0r-lo-fi?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/v6hT16qV/LOFI.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "calm",
+    "chill",
+    "easy listening",
+    "easy music",
+    "learn"
+   ]
+  },
+  {
+   "id": "ae209b3a-d20a-48f2-b303-22d68e385bf4",
+   "name": "Absolut Relax",
+   "url": "https://absolut-relax.live-sm.absolutradio.de/absolut-relax?__cb=130270101023249",
+   "hls": false,
+   "logo": "https://absolutradio.de/images/stations/229_relax.png",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "eac50ec2-a5ec-4600-a863-3116f40bcc41",
+   "name": "N-JOY",
+   "url": "https://icecast.ndr.de/ndr/njoy/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/NJOY3184x184.png",
+   "homepage": "https://www.n-joy.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "music",
+    "pop",
+    "talk",
+    "youth"
+   ]
+  },
+  {
+   "id": "1aa5a707-c24c-4c5d-abcc-6f9b7a8f2f2e",
+   "name": "Melodic House & Techno @ Technolovers.FM",
+   "url": "https://stream.technolovers.fm/melodic-house-techno?ref=radiobrowser-2",
+   "hls": false,
+   "logo": "https://i.ibb.co/mFjn8LB/TL-Melodic-House-Techno-png.jpg",
+   "homepage": "https://technolovers.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "#",
+    "beach",
+    "beachclub",
+    "chill",
+    "chillout"
+   ]
+  },
+  {
+   "id": "2f6269a1-dee4-4c13-994a-2b10803d5eec",
+   "name": "0R - 80s",
+   "url": "https://0nlineradio.radioho.st/0r-80s?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/Xxj9zX6w/80s.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "#80s",
+    "1980s",
+    "80er",
+    "80s",
+    "classic hits"
+   ]
+  },
+  {
+   "id": "8cda8d0d-6166-4881-b9e3-db0994ce23be",
+   "name": "0R - DEEP HOUSE",
+   "url": "https://0nlineradio.radioho.st/technolovers-deep-house?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/Y7PzyGxb/Deep-House-TL.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "club house",
+    "deep house",
+    "easy listening",
+    "electro house"
+   ]
+  },
+  {
+   "id": "b6240170-f81f-4fc7-9183-5f9ebbe8b8d8",
+   "name": "NDR 1 Niedersachsen",
+   "url": "https://icecast.ndr.de/ndr/ndr1niedersachsen/hannover/mp3/128/stream.mp3?1728424471708&aggregator=web",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/NDR1_Niedersachsen2184x184.png",
+   "homepage": "https://www.ndr.de/ndr1niedersachsen",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "oldies",
+    "rock"
+   ]
+  },
+  {
+   "id": "215ea027-4fe8-4a4c-9f29-71ab4a659630",
+   "name": "CLUB CHARTS -> TOP 100",
+   "url": "https://radio.breakz.fm/?ref=club2-71",
+   "hls": false,
+   "logo": "https://i.ibb.co/m5jrHLWC/DJ-CLUB-CHARTS.png",
+   "homepage": "https://breakz.fm/trackliste/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "24/7",
+    "ambient",
+    "charts",
+    "chillout",
+    "dance"
+   ]
+  },
+  {
+   "id": "d047a6ef-43eb-4a99-8903-7ae1216a8c51",
+   "name": "radio ffn",
+   "url": "https://player.ffn.de/radioffn.mp3",
+   "hls": false,
+   "logo": "https://www.ffn.de/fileadmin/ffn.de/musik/streams/ffn.png",
+   "homepage": "https://www.ffn.de/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "18ab1514-a53b-4f44-936e-f8583a68b5aa",
+   "name": "TECHNO__ by rautemusik.fm",
+   "url": "https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser",
+   "hls": false,
+   "logo": "https://rm.fm/favicon.ico",
+   "homepage": "https://rm.fm/techno",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient techno",
+    "deep techno",
+    "dub techno",
+    "hard techno",
+    "house techno"
+   ]
+  },
+  {
+   "id": "cc0fdbe3-a2fb-4f0a-b67d-b47acd6354c7",
+   "name": "Technolovers DEEP HOUSE",
+   "url": "https://stream.technolovers.fm/deep-house?ref=radiobrowser",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://technolovers.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "deep house",
+    "electro house",
+    "electronic",
+    "elektro",
+    "elektronik"
+   ]
+  },
+  {
+   "id": "3d4c97c7-e122-4304-b8c8-52336683bda1",
+   "name": "WDR 5",
+   "url": "https://wdr-wdr5-live.icecastssl.wdr.de/wdr/wdr5/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www1.wdr.de/resources/img/wdr/logo/epgmodule/wdr5_logo_claim.svg",
+   "homepage": "https://www1.wdr.de/radio/wdr5/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "chanson",
+    "culture",
+    "current focal points",
+    "folk",
+    "latin"
+   ]
+  },
+  {
+   "id": "9e535cb5-1bfd-4f83-9c3f-13571d01a487",
+   "name": "NDR 2 Hamburg",
+   "url": "https://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3?1728423809880&aggregator=web",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/NDR22184x184.png",
+   "homepage": "https://www.ndr.de/ndr2/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "8f1e8acf-2ce6-4542-a423-bc29ea514e4a",
+   "name": "TRANCE__ by rautemusik",
+   "url": "https://trance-high.rautemusik.fm/?ref=radiobrowser",
+   "hls": false,
+   "logo": "https://www.rm.fm/favicon.ico",
+   "homepage": "https://www.rm.fm/trance",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "electro",
+    "electro house",
+    "electronic",
+    "hits",
+    "progressive psytrance"
+   ]
+  },
+  {
+   "id": "389011a1-3a96-11e9-9b4e-52543be04c81",
+   "name": "0 N - Smooth Jazz on Radio",
+   "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.aac",
+   "hls": false,
+   "logo": "https://www.0nradio.com/logos/0n-smooth-jazz_600x600.jpg",
+   "homepage": "http://www.0nradio.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "chillout",
+    "easy listening",
+    "jazz",
+    "smooth",
+    "smoothjazz"
+   ]
+  },
+  {
+   "id": "25ff1b4c-ffcb-4572-a561-9347e0e58c75",
+   "name": "LOUNGE__ by rautemusik",
+   "url": "https://lounge-high.rautemusik.fm/?ref=radiobrowser",
+   "hls": false,
+   "logo": "https://www.rm.fm/favicon.ico",
+   "homepage": "https://www.rm.fm/lounge",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "chill",
+    "chillout",
+    "lounge",
+    "lounge music"
+   ]
+  },
+  {
+   "id": "2f3d991d-f1d3-400b-897e-17f5c5986686",
+   "name": "Ballermann Radio",
+   "url": "https://stream.bmr-radio.de/ballermann-radio.mp3",
+   "hls": false,
+   "logo": "https://www.ballermann-radio.de/wp-content/uploads/2024/02/stream-ballermann-radio-750x750.png",
+   "homepage": "https://www.ballermann-radio.de/stream/ballermannradio/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6cddaca1-f2c1-11e8-a471-52543be04c81",
+   "name": "0 N - 70s on Radio",
+   "url": "https://0n-70s.radionetz.de/0n-70s.mp3",
+   "hls": false,
+   "logo": "https://www.0nradio.com/logos/0n-70s_600x600.jpg",
+   "homepage": "http://www.0nradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70er",
+    "70s",
+    "oldies",
+    "pop"
+   ]
+  },
+  {
+   "id": "9dfee361-3133-4624-b4d5-bf87adaf46c4",
+   "name": "BR Klassik",
+   "url": "https://dispatcher.rndfnk.com/br/brklassik/live/mp3/high",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.br-klassik.de/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "83b7ec82-15dd-4cfe-96b4-db0a27c6b979",
+   "name": "HR Info",
+   "url": "https://dispatcher.rndfnk.com/hr/hrinfo/live/mp3/high",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.hr-inforadio.de/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": []
+  },
+  {
+   "id": "6f4b6359-24af-411b-add3-402761ec7557",
+   "name": "* COUNTRY",
+   "url": "https://0nlineradio.radioho.st/0r-country?ref=rb26",
+   "hls": false,
+   "logo": "https://i.ibb.co/GyTyFSC/Country.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "alternative country",
+    "blues rock",
+    "classic country",
+    "classic rock",
+    "contemporary country"
+   ]
+  },
+  {
+   "id": "8a41b60c-f115-11e8-a471-52543be04c81",
+   "name": "0 N - 80s on Radio",
+   "url": "https://0n-80s.radionetz.de/0n-80s.mp3",
+   "hls": false,
+   "logo": "https://www.0nradio.com/logos/0n-80s_600x600.jpg",
+   "homepage": "http://www.0nradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80er",
+    "80s",
+    "oldies",
+    "pop"
+   ]
+  },
+  {
+   "id": "e6822dac-209c-4ea2-b565-643cf1b31ce1",
+   "name": "Bremen Eins",
+   "url": "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3?aggregator=surfmusik-de",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.radiobremen.de/bremeneins/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "bb410a35-2056-46c5-8fbe-574b78533171",
+   "name": "Bremen Vier",
+   "url": "https://icecast.radiobremen.de/rb/bremenvier/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.bremenvier.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "287e1c64-b9d5-49b3-b47e-cf9f9e2503ac",
+   "name": "SWR1",
+   "url": "https://d141.rndfnk.com/ard/swr/swr1/bw/mp3/128/stream.mp3?cid=01FC1X3K2Z71SMDKMEC68DM7MW&sid=3L1ZL9I3l3ksQXSW35G3vDaoU2P&token=IVk2G4zPG-VPnV_emUtiSJ-nXtfUW5xjMHt5mCz7TEo&tvf=4NV9sTLB4BhkMTQxLnJuZGZuay5jb20",
+   "hls": false,
+   "logo": "https://www.swr.de/assets/swr/swr1/apple-touch-icon.png",
+   "homepage": "https://www.swr.de/swr1/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ca2d0aa2-6fc8-4761-beb6-ce692a4a9bf5",
+   "name": "Best Of Rock.FM Alternative Rock",
+   "url": "https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/",
+   "hls": false,
+   "logo": "https://www.best-of-rock.fm/favicons/apple-touch-icon.png",
+   "homepage": "https://www.best-of-rock.fm/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "alternative metal",
+    "alternative rock",
+    "grunge",
+    "indie rock",
+    "punkrock"
+   ]
+  },
+  {
+   "id": "830a7eff-916d-456c-842a-d7786e475658",
+   "name": "Technolovers ELECTRO HOUSE",
+   "url": "https://stream.technolovers.fm/electro-house?ref=radiobrowser",
+   "hls": false,
+   "logo": "https://i.ibb.co/B4R6kNj/Electrohouse-tl.jpg",
+   "homepage": "https://technolovers.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "club dance",
+    "dance",
+    "edm",
+    "electro",
+    "electro house"
+   ]
+  },
+  {
+   "id": "6ebbea93-0ba5-441b-8fbc-51c586d361e3",
+   "name": "Die Maus",
+   "url": "https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www.wdrmaus.de/icon/apple-icon-120x120.png",
+   "homepage": "https://www.wdrmaus.de/hoeren/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "kids",
+    "kinder",
+    "kinderlieder"
+   ]
+  },
+  {
+   "id": "0cd06e2c-74b2-4724-9df5-6642a641f749",
+   "name": "DASDING",
+   "url": "https://liveradio.swr.de/d245tgd/dasding/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://dasding.de/",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9fd6e036-c08b-49d3-a8b7-c8b282892ffe",
+   "name": "0R - DINNER LOUNGE",
+   "url": "https://0nlineradio.radioho.st/lounge-dinner-lounge?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/JjYRX77z/Dinner-Lounge.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "chillout+lounge",
+    "easy listening",
+    "instrumental",
+    "lounge"
+   ]
+  },
+  {
+   "id": "5ea0c406-cc3e-4a36-9a32-37ed4d5a180e",
+   "name": "Technolovers EDM",
+   "url": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+   "hls": false,
+   "logo": "https://i.ibb.co/TmRLJsp/EDM-TL.jpg",
+   "homepage": "https://technolovers.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "club house",
+    "dance",
+    "edm",
+    "electro",
+    "electro house"
+   ]
+  },
+  {
+   "id": "9607be6f-0601-11e8-ae97-52543be04c81",
+   "name": "Schlagerparadies",
+   "url": "https://webstream.schlagerparadies.de/schlager30842",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.schlagerparadies.de/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "schlager"
+   ]
+  },
+  {
+   "id": "c0cb1e13-0eed-405d-ac34-fffbd8bb835b",
+   "name": "NDR 90,3",
+   "url": "https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/NDR_903_3184x184.png",
+   "homepage": "https://www.ndr.de/903",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "2244f473-7973-466e-9da3-2b35ac7c9f99",
+   "name": "Energy Hit Music Only!",
+   "url": "https://edge62.streamonkey.net/energy-digital/stream/mp3",
+   "hls": false,
+   "logo": "https://www.energy.de/favicon.ico",
+   "homepage": "https://www.energy.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "daily",
+    "hits",
+    "pop"
+   ]
+  },
+  {
+   "id": "dd514cb7-fca6-427a-add8-bcf5892b6c3d",
+   "name": "0R - BACH - CLASSICAL",
+   "url": "https://0nlineradio.radioho.st/0r-bach?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/FbmVd1LG/Bach-KL.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "bach",
+    "chamber",
+    "classical",
+    "instrumental",
+    "klassik"
+   ]
+  },
+  {
+   "id": "e7516606-f5e4-4f5a-9b4c-c1f0a5a6462e",
+   "name": "0R - EURO DANCE",
+   "url": "https://0nlineradio.radioho.st/technolovers-eurodance?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/7dJcRxVv/EURODANCE.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1980s",
+    "70s",
+    "80s",
+    "90s",
+    "dance"
+   ]
+  },
+  {
+   "id": "8f14d1fa-31f6-4fd7-9dcb-8ed0e3bf3d18",
+   "name": "0R - HOTEL LOUNGE",
+   "url": "https://0nlineradio.radioho.st/lounge-hotel-lounge?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/GLkKPMc/Hotel-Lounge.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "ambient and relaxation music",
+    "ambiental",
+    "background",
+    "calm"
+   ]
+  },
+  {
+   "id": "6058ff93-ee55-407e-9221-c6ad07fd2531",
+   "name": "TechnoBase.FM",
+   "url": "https://listener3.mp3.tb-group.fm/tb.mp3",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/0/32040.v12.png",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "electronic"
+   ]
+  },
+  {
+   "id": "0fd40b7b-1ce5-4b4e-ae86-7a6d608f1b0e",
+   "name": "SWR dasding",
+   "url": "https://liveradio.swr.de/d9zadj3/dasding/",
+   "hls": false,
+   "logo": "https://dasding.de/assets/dasding/apple-touch-icon-120x120.png",
+   "homepage": "https://dasding.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ard",
+    "pop",
+    "rock",
+    "youth",
+    "öffentlich-rechtlich"
+   ]
+  },
+  {
+   "id": "fc23ea83-a07d-4c40-a522-4c625244207e",
+   "name": "SWR1 Rheinland-Pfalz",
+   "url": "https://liveradio.swr.de/sw282p3/swr1rp/play.mp3",
+   "hls": false,
+   "logo": "https://www.swr.de/assets/swr/apple-touch-icon.png",
+   "homepage": "https://www.swr.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "59ff05a8-bba6-4b42-ab6c-6a6f5355c92b",
+   "name": "Bremen Zwei NEU",
+   "url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+   "hls": false,
+   "logo": "https://www.bremenzwei.de/static/img/favicons/apple-touch-icon-180.png?v=4",
+   "homepage": "https://www.bremenzwei.de/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "ard",
+    "culture",
+    "information",
+    "public radio",
+    "radio bremen"
+   ]
+  },
+  {
+   "id": "79839c1c-bfb8-40a4-aed7-f31191cbd015",
+   "name": "0R - PIANO CLASSICAL",
+   "url": "https://0nlineradio.radioho.st/classical-classical-piano?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/Tq7d6MMp/PIANO-only.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classical",
+    "classical piano",
+    "instrumental",
+    "klassik",
+    "orchestral"
+   ]
+  },
+  {
+   "id": "88538943-08ca-42a9-8363-50321821da20",
+   "name": "0R - CLASSICAL HOTEL LOUNGE - CLASSICAL",
+   "url": "https://0nlineradio.radioho.st/classical-classical-hotel-lounge?ref=radio-browser26",
+   "hls": false,
+   "logo": "https://i.ibb.co/ZRZdcBkj/Classical-Hotel-Lounge.png",
+   "homepage": "https://plus.rm.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "ambient and relaxation music",
+    "ambiental",
+    "background",
+    "chillout+lounge"
+   ]
+  },
+  {
+   "id": "1e2095c0-4845-45c3-bc61-d2c7fc1ee52a",
+   "name": "Bayern 1 Schwaben",
+   "url": "https://dispatcher.rndfnk.com/br/br1/schwaben/mp3/mid",
+   "hls": false,
+   "logo": "https://api.ardmediathek.de/image-service/images/urn:ard:image:b366004f6196d70c?w=512",
+   "homepage": "https://www.br.de/radio/bayern1/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  }
+ ]
+}

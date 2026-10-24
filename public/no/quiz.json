@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:16.731Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Glimt tapte igjen: Håpet om Toppserien er ute",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.nrk.no/nordland/glimt-tapte-igjen_-hapet-om-toppserien-er-ute-1.18063371"
+  },
+  {
+   "type": "section",
+   "headline": "– Kan bety slutten",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/urix/xl/frykter-for-amazonas-fremtid-dersom-bolsonaro-vinner-1.18060237"
+  },
+  {
+   "type": "section",
+   "headline": "Regjeringen krever mindre bygging i strandsonen",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 2,
+   "url": "https://e24.no/naeringsliv/i/qyawGE/regjeringen-krever-mindre-bygging-i-strandsonen?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Galaxy S26 Ultra-oppdatering gjør mobilene til en murstein",
+   "options": [
+    "HEALTH",
+    "SCIENCE",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://itavisen.no/2026/10/23/samsung-galaxy-s26-one-ui-9-murstein/"
+  },
+  {
+   "type": "section",
+   "headline": "Tap for Selvik",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/sport/tap-for-selvik-1.18063507"
+  }
+ ]
+}

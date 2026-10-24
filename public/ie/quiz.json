@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:36.907Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Dogged Galway frustrate Saints to make their point and keep top-flight status",
+   "options": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/sport/soccer/league-of-ireland/dogged-galway-frustrate-saints-to-make-their-point-and-keep-top-flight-status/a/163548722.html"
+  },
+  {
+   "type": "section",
+   "headline": "Profile: Eisenkot offers hawkish alternative to Netanyahu for Israeli PM",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/world-news/profile-eisenkot-offers-hawkish-alternative-to-netanyahu-for-israeli-pm/a/163498626.html"
+  },
+  {
+   "type": "section",
+   "headline": "Oil tops $115 a barrel for first time since May as Middle East clashes intensify",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "ENTERTAINMENT",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/business/world/oil-tops-115-a-barrel-for-first-time-since-may-as-middle-east-clashes-intensify/a/163534321.html"
+  },
+  {
+   "type": "source",
+   "headline": "‘I felt like telling him to f*ck off’ — Shamrock Rovers manager Stephen Bradley recalls important conversation that helped get season back on track",
+   "options": [
+    "Irish Mirror",
+    "BBC News",
+    "Extra.ie",
+    "Irish Independent"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/sport/soccer/league-of-ireland/i-felt-like-telling-him-to-fck-off-shamrock-rovers-manager-stephen-bradley-recalls-important-conversation-that-helped-get-season-back-on-track/a/163551408.html"
+  },
+  {
+   "type": "source",
+   "headline": "FactCheck: Are rape trials being 'deliberately' singled out by striking legal aid solicitors?",
+   "options": [
+    "Irish Independent",
+    "Irish Mirror",
+    "BBC News",
+    "TheJournal.ie"
+   ],
+   "answer": 3,
+   "url": "https://www.thejournal.ie/factcheck-rape-trials-targeted-solicitors-strike-jim-ocallaghan-7199720-Oct2026/"
+  }
+ ]
+}

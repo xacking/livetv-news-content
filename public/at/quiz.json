@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:47.243Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Schumann zur Sozialhilfe-Reform: „Werden mehr Geld für Kinder ausgeben als bisher“",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/politik/inland/zib2-korinna-schumann-sozialhilfe-reform-kindergrundsicherung-insolvenzfonds/403200480"
+  },
+  {
+   "type": "section",
+   "headline": "Trump deutet möglichen weiteren Militäreinsatz gegen den Iran an",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/politik/ausland/trump-iran-weiterer-militaereinsatz-wahlkampf-andeutung/403200481"
+  },
+  {
+   "type": "section",
+   "headline": "Benkos früherer Protz-Palast: Wird die Luxus-Immobilie zum Ladenhüter?",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/wirtschaft/rene-benko-haus-innsbruck-igls-verkauf-preis-villa-n/403200450"
+  },
+  {
+   "type": "section",
+   "headline": "Russischer Superjet-Prototyp muss GPS-Jamming ausweichen",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://futurezone.at/digital-life/superjet-100-sj-100-test-gps-jamming-belarus-russland-minsk-luftfahrt/403200368"
+  },
+  {
+   "type": "section",
+   "headline": "Führung verspielt: Austria rutscht noch tiefer in die Krise",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/sport/fussball/austria-altach-helm-bundesliga/403200453"
+  }
+ ]
+}

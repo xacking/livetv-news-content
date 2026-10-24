@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:18.767Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Ex-FC-Präsident zwackte über 56'000 Franken Klubgelder ab",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/schweiz/zuerich/ein-ex-praesident-des-fc-adliswil-bediente-sich-an-klubkasse/yrs9jsk"
+  },
+  {
+   "type": "section",
+   "headline": "Trump droht die «blaue Welle» – selbst seine Hochburgen wackeln",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/ausland/uswahlen/us-midterms-2026-droht-trump-eine-niederlage/y85llsy"
+  },
+  {
+   "type": "section",
+   "headline": "Swiss verschiebt Dubai-Flüge um einen Monat",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/wirtschaft/swiss-verschiebt-wiederaufnahme-der-fluege-nach-dubai/csjx64l"
+  },
+  {
+   "type": "section",
+   "headline": "EU-Arktis-Strategie: Ein Glasfaserkabel �ber den Nordpol gegen hybride Bedrohungen",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.golem.de/news/eu-arktis-strategie-ein-glasfaserkabel-ueber-den-nordpol-gegen-hybride-bedrohungen-2610-214466.html"
+  },
+  {
+   "type": "section",
+   "headline": "«Das ist inakzeptabel»",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/sport/fussball/nations-league/national-league-frehner-hadert-im-interview-mit-der-offensive/zrqkq2j"
+  }
+ ]
+}

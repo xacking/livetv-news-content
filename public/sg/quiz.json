@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T17:30:36.387Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Singaporeans share the ‘financial mistakes’ they wish they had avoided in their 20s: ‘I married a gambler’",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "HEALTH",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://theindependent.sg/singaporeans-share-the-financial-mistakes-they-wish-they-had-avoided-in-their-20s-i-married-a-gambler"
+  },
+  {
+   "type": "section",
+   "headline": "Hundreds of flights cancelled as Typhoon Champi shuts Taiwan",
+   "options": [
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.co.uk/news/articles/cw98zn304zg7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "GovTech lays off 38 employees in second wave of retrenchments",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://vulcanpost.com/914064/govtech-lays-off-38-employees-in-second-wave-of-retrenchments-2026/"
+  },
+  {
+   "type": "source",
+   "headline": "S’pore woman says boy waiting behind ‘publicly shamed’ her for returning 29 cans at BCRS machine",
+   "options": [
+    "Mothership",
+    "Must Share News",
+    "The Independent Singapore",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://mothership.sg/2026/10/spore-woman-says-boy-waiting-behind-publicly-shamed-her-for-returning-29-cans-at-bcrs-machine/"
+  },
+  {
+   "type": "source",
+   "headline": "Pedestrian sent to hospital after accident with car in Punggol, driver assisting investigations",
+   "options": [
+    "Must Share News",
+    "Mothership",
+    "BBC News",
+    "The Independent Singapore"
+   ],
+   "answer": 0,
+   "url": "https://mustsharenews.com/pedestrian-car-punggol/"
+  }
+ ]
+}

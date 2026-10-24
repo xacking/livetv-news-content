@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:52.529Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Hoge Venen vanaf maandag verder opengesteld voor publiek",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://www.hln.be/binnenland/hoge-venen-vanaf-maandag-verder-opengesteld-voor-publiek~a5e99848/"
+  },
+  {
+   "type": "section",
+   "headline": "Omstreden ‘schokhandschoen’ van ICE duikt op in Amerikaanse scholen: ouders eisen verbod",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SCIENCE",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/buitenland/omstreden-schokhandschoen-van-ice-duikt-op-in-amerikaanse-scholen-ouders-eisen-verbod~a13dc20c/"
+  },
+  {
+   "type": "section",
+   "headline": "Mediahuis zet zich schrap voor nieuwe ontslagronde: dinsdag bijzondere ondernemingsraad",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.hln.be/economie/mediahuis-zet-zich-schrap-voor-nieuwe-ontslagronde-dinsdag-bijzondere-ondernemingsraad~aa854a68/"
+  },
+  {
+   "type": "source",
+   "headline": "Ratingbureau S&P handhaaft Belgische kredietscore, maar verwacht vertraging begroting",
+   "options": [
+    "Knack",
+    "De Standaard",
+    "Het Nieuwsblad",
+    "HLN"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/binnenland/ratingbureau-senp-handhaaft-belgische-kredietscore-maar-verwacht-vertraging-begroting~a9cb0fe2/"
+  },
+  {
+   "type": "source",
+   "headline": "Jozef Deleu, de onderwijzer die cultuurpoliticus werd",
+   "options": [
+    "HLN",
+    "Het Nieuwsblad",
+    "Knack",
+    "De Standaard"
+   ],
+   "answer": 3,
+   "url": "https://www.standaard.be/opinies/jozef-deleu-de-onderwijzer-die-cultuurpoliticus-werd/163541451.html"
+  }
+ ]
+}

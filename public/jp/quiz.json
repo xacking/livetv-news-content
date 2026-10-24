@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T17:30:32.724Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "PHPの脆弱性問題が拡大、緊急地震速報の配信停止やアプリ注文の停止に影響",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://news.livedoor.com/article/detail/32643738/"
+  },
+  {
+   "type": "section",
+   "headline": "中国チベットでM7.0の地震、少なくとも16人死亡＝現地報道",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.com/japanese/articles/c9gkvey4x0mgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "【漫画でマネジメント力UP！？】ビジネスライフに役立つ漫画を議論！／SLAM DUNK／ONE PIECE／ドラゴンボール／ジョジョの奇妙な冒険／闇金ウシジマくん／賭博黙示録カイジ／鬼滅の刃 | ビジネス | 東洋経済オンライン",
+   "options": [
+    "WORLD",
+    "NATION",
+    "ENTERTAINMENT",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://toyokeizai.net/articles/-/962394?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "最大7万8000円オフ！ パソコンショップSEVEN、ゲーミングPC全10商品が対象の10月24日限定セール",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://ascii.jp/elem/000/004/444/4444349/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "巨人・松井新監督が声をかけた1人、高橋由伸氏がヘッドで入閣の見通し",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://news.livedoor.com/article/detail/32643791/"
+  }
+ ]
+}

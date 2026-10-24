@@ -1,0 +1,110 @@
+{
+ "generatedAt": "2026-10-24T12:08:24.132Z",
+ "demo": false,
+ "channels": [
+  {
+   "id": "skynewsarabia",
+   "number": 1,
+   "name": "سكاي نيوز عربية",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live-stream.skynewsarabia.com/c-horizontal-channel/horizontal-stream/index.m3u8",
+   "logo": "https://i.imgur.com/SvjU4h6.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "alarabiya",
+   "number": 2,
+   "name": "العربية",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+   "logo": "https://i.imgur.com/NXFkYFj.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "alarabiya-business",
+   "number": 3,
+   "name": "العربية Business",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8",
+   "logo": "https://shahid.mbc.net/mediaObject/73142189-aeca-4f65-8977-d769c91e2573?height=auto&width=600&croppingPoint=&version=1&type=png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "dw-ar",
+   "number": 4,
+   "name": "DW عربية",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8",
+   "logo": "https://i.imgur.com/8MRNFb9.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "france24-ar",
+   "number": 5,
+   "name": "فرانس 24",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live.france24.com/hls/live/2037222/F24_AR_HI_HLS/master_2300.m3u8",
+   "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "dw-en",
+   "number": 6,
+   "name": "DW English",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8",
+   "logo": "https://i.imgur.com/8MRNFb9.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "france24-en",
+   "number": 7,
+   "name": "France 24 English",
+   "category": "news",
+   "color": "#0A5BD3",
+   "stream": "https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_2300.m3u8",
+   "logo": "https://dtil.tmsimg.com/assets/s159111_ld_h15_aa.png?lock=720x540",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  },
+  {
+   "id": "arirang",
+   "number": 8,
+   "name": "Arirang TV",
+   "category": "culture",
+   "color": "#DB2777",
+   "stream": "https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8",
+   "logo": "https://i.imgur.com/Asu5pE9.png",
+   "poster": "",
+   "nowTitle": "",
+   "nextTitle": "",
+   "ios": false
+  }
+ ]
+}

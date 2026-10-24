@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:28.923Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Charlie Kirk-organisationens brittiska gren förhandlar med yrkesmördare",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.etc.se/utrikes/charlie-kirk-organisationens-brittiska-gren-foerhandlar-med-yrkesmoerdare?utm_source=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Ryssland och Ukraina: Ja till vapenvila i Olesjky",
+   "options": [
+    "WORLD",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://omni.se/ryssland-och-ukraina-ja-till-vapenvila-i-olesjky/a/X90emg"
+  },
+  {
+   "type": "section",
+   "headline": "Stort sparpaket på Volvo Cars – 2 000 får gå i Sverige",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.aftonbladet.se/minekonomi/a/58KLMO/tt-flash-stort-sparpaket-pa-volvo-cars?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Skräckmamman hyllas av Trump – bråket växer",
+   "options": [
+    "Aftonbladet",
+    "Omni",
+    "Dagens ETC",
+    "Svenska Dagbladet"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/nyheter/a/mKlLb4/skrackmamman-donna-arthur-hyllas-av-trump-braket-vaxer?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "USA lättar på tulltrycket mot Kanada",
+   "options": [
+    "Dagens ETC",
+    "Aftonbladet",
+    "Omni",
+    "Svenska Dagbladet"
+   ],
+   "answer": 3,
+   "url": "https://www.svd.se/a/Pg824R/usa-lattar-pa-tulltrycket-mot-kanada?utm_medium=rss"
+  }
+ ]
+}

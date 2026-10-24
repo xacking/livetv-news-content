@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:31.378Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Storm Austen trekt over Nederland, meeste overlast in het zuiden",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/binnenland/6414217/storm-austen-trekt-over-nederland-meeste-overlast-in-het-zuiden.html"
+  },
+  {
+   "type": "section",
+   "headline": "Trump vraagt justitie om uitslag Alaska te blokkeren bij winst Democraten",
+   "options": [
+    "ENTERTAINMENT",
+    "SPORTS",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/verkiezingen-vs/6414213/trump-vraagt-justitie-om-uitslag-alaska-te-blokkeren-bij-winst-democraten.html"
+  },
+  {
+   "type": "section",
+   "headline": "KLM krijgt Amerikaanse boete van 320.000 dollar voor vluchten boven Irak",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/economie/6414211/klm-krijgt-amerikaanse-boete-van-320000-dollar-voor-vluchten-boven-irak.html"
+  },
+  {
+   "type": "section",
+   "headline": "Minder aandacht in buitenland voor PHP-gevaar: 'Nederland overdreef niet'",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/tech/6414053/minder-aandacht-in-buitenland-voor-php-gevaar-nederland-overdreef-niet.html"
+  },
+  {
+   "type": "section",
+   "headline": "Verstappen klokt derde tijd in tweede training GP VS, Leclerc weer snelste",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/formule-1/6414219/verstappen-klokt-derde-tijd-in-tweede-training-gp-vs-leclerc-weer-snelste.html"
+  }
+ ]
+}

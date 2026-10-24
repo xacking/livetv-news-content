@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:19.952Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "The Papers: 'Meghan warned over father' and 'Don't risk Truss-style budget'",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/c6n8devv08nno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Argentina drops investigation into President Milei over crypto fraud",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+   "options": [
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Carrick weighs up stripping Bruno Fernandes of Man Utd captaincy",
+   "options": [
+    "The Telegraph",
+    "BBC News",
+    "Evening Standard",
+    "Daily Mirror"
+   ],
+   "answer": 0,
+   "url": "https://www.telegraph.co.uk/football/2026/10/23/michael-carrick-press-conference-live-manchester-united/"
+  },
+  {
+   "type": "source",
+   "headline": "Storm Boelo may cause ‘widespread travel disruption’ in north of UK over weekend",
+   "options": [
+    "The Telegraph",
+    "BBC News",
+    "Daily Express",
+    "Evening Standard"
+   ],
+   "answer": 3,
+   "url": "https://www.standard.co.uk/news/environment/scotland-south-west-northern-ireland-andy-burnham-met-office-b1302164.html"
+  }
+ ]
+}

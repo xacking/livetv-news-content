@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-24T07:12:48.722Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "U.S. ambassador offers Canada help almost a week after Wainwright tragedy",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/canada/article/us-ambassador-offers-canada-help-almost-a-week-after-wainwright-tragedy/"
+  },
+  {
+   "type": "section",
+   "headline": "Israeli military says 2 soldiers were killed in the West Bank attack that also left 2 gunmen dead",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.ctvnews.ca/world/israel-hamas-war/article/the-israeli-army-says-2-soldiers-were-killed-in-west-bank-attack/"
+  },
+  {
+   "type": "section",
+   "headline": "OpenAI resumes frontier AI training after security overhaul, discloses flaw in widely used software",
+   "options": [
+    "ENTERTAINMENT",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/sci-tech/article/openai-resumes-frontier-ai-training-after-security-overhaul-discloses-flaw-in-widely-used-software/"
+  },
+  {
+   "type": "source",
+   "headline": "Meet the municipal election candidates of Chatham-Kent",
+   "options": [
+    "Global News",
+    "Daily Hive",
+    "BBC News",
+    "CTV News"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/windsor/article/meet-the-municipal-election-candidates-of-chatham-kent/"
+  },
+  {
+   "type": "source",
+   "headline": "Blue Bombers beat Lions, clinch playoff spot",
+   "options": [
+    "Daily Hive",
+    "BBC News",
+    "Global News",
+    "CTV News"
+   ],
+   "answer": 2,
+   "url": "https://globalnews.ca/news/12119697/collaros-leaves-blue-bombers-game-vs-lions/"
+  }
+ ]
+}

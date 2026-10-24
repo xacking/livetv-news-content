@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:25.265Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Overlæge på Rigshospitalet: 'Det er et problem, hvis vi ikke kan ytre os om patientsikkerheden'",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/indland/overlaege-paa-rigshospitalet-det-er-et-problem-hvis-vi-ikke-kan-ytre-os-om-patientsikkerheden"
+  },
+  {
+   "type": "section",
+   "headline": "Adolf Hitlers gamle fæstning står i flammer",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.dr.dk/nyheder/udland/adolf-hitlers-gamle-faestning-staar-i-flammer"
+  },
+  {
+   "type": "section",
+   "headline": "Pia Olsen Dyhrs forebyggelsesfond får kritik: '50 millioner får hurtigt ben at gå på'",
+   "options": [
+    "WORLD",
+    "NATION",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.dr.dk/nyheder/penge/pia-olsen-dyhrs-forebyggelsesfond-faar-kritik-50-millioner-faar-hurtigt-ben-gaa-paa"
+  },
+  {
+   "type": "section",
+   "headline": "VIDEO: Kinesisk reparatør opgraderer iPhone Duo fra 256 GB til 2 TB dagen efter lanceringen",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.recordere.dk/2026/10/video-kinesisk-reparatoer-opgraderer-iphone-duo-fra-256-gb-til-2-tb-dagen-efter-lanceringen/"
+  },
+  {
+   "type": "section",
+   "headline": "Brøndby pakkede 'børnefejl' væk i fortjent sejr",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold"
+  }
+ ]
+}

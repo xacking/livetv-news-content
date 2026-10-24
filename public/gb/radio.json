@@ -1,0 +1,1246 @@
+{
+ "generatedAt": "2026-10-24T12:07:22.860Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "c4077677-dc2f-11e9-a8ba-52543be04c81",
+   "name": "Heart 80s",
+   "url": "https://media-ssl.musicradio.com/Heart80sMP3",
+   "hls": false,
+   "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+   "homepage": "https://www.heart.co.uk/80s",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s",
+    "national",
+    "pop",
+    "public radio",
+    "variety"
+   ]
+  },
+  {
+   "id": "0a1e0bb0-dc37-11e9-a8ba-52543be04c81",
+   "name": "Gold",
+   "url": "https://media-ssl.musicradio.com/GoldMP3",
+   "hls": false,
+   "logo": "https://www.mygoldmusic.co.uk/assets_v4r/gold/img/favicon-196x196.png",
+   "homepage": "https://www.mygoldmusic.co.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic hits",
+    "national",
+    "oldies",
+    "public radio",
+    "variety"
+   ]
+  },
+  {
+   "id": "9f5d0645-ae1e-4e9f-9b2f-91fa63d5b1fa",
+   "name": "talkSPORT",
+   "url": "https://radio.talksport.com/stream",
+   "hls": false,
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAcdmwRcs4FcWk_OQqxq4EyZH5YA7ixM2dvQ&usqp=CAU",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "52bb00fe-dc31-11e9-a8ba-52543be04c81",
+   "name": "Heart 90s",
+   "url": "https://media-ssl.musicradio.com/Heart90sMP3",
+   "hls": false,
+   "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+   "homepage": "https://www.heart.co.uk/90s",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "90s",
+    "national",
+    "pop",
+    "public radio",
+    "variety"
+   ]
+  },
+  {
+   "id": "478fd7f4-dc36-11e9-a8ba-52543be04c81",
+   "name": "Smooth Chill",
+   "url": "https://media-ssl.musicradio.com/ChillMP3",
+   "hls": false,
+   "logo": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+   "homepage": "https://www.smoothradio.com/chill/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "chillout",
+    "national",
+    "public radio",
+    "smooth",
+    "variety"
+   ]
+  },
+  {
+   "id": "fa76f16f-dc31-11e9-a8ba-52543be04c81",
+   "name": "Heart Dance",
+   "url": "https://media-ssl.musicradio.com/HeartDanceMP3",
+   "hls": false,
+   "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+   "homepage": "https://www.heart.co.uk/dance",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance",
+    "national",
+    "pop",
+    "public radio",
+    "variety"
+   ]
+  },
+  {
+   "id": "53733e08-7728-40ee-b968-59e71f0281b6",
+   "name": "KISSTORY: Non-Stop Old Skool & Anthems",
+   "url": "https://live-bauerkiss.sharp-stream.com/kisstory.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s77960/images/logod.png",
+   "homepage": "https://www.hellorayo.co.uk/kisstory",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "anthems",
+    "bauer radio",
+    "classics",
+    "dance anthems",
+    "dance classics"
+   ]
+  },
+  {
+   "id": "9a8f2d50-fca3-4d7c-99ee-c5e0e97f4d1b",
+   "name": "Times Radio",
+   "url": "https://timesradio.wireless.radio/stream",
+   "hls": false,
+   "logo": "https://play-lh.googleusercontent.com/SSmTtYYV5SkMMJ6_ojBDxHkprncSfh_jrhfn8f7rj3tnDOUIaNA9Vf28FqVS1zrTvE9_",
+   "homepage": "https://www.thetimes.co.uk/radio",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "news",
+   "tags": [
+    "news",
+    "talk"
+   ]
+  },
+  {
+   "id": "2babf29a-811c-4a51-93c3-9f3531ef2e97",
+   "name": "Classic FM Calm",
+   "url": "https://media-ice.musicradio.com/ClassicFMCalmMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.classicfm.com/calm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical",
+    "romantic"
+   ]
+  },
+  {
+   "id": "dec031e0-4419-45d2-9f3e-76e91d876c40",
+   "name": "PLANET ROCK: Where Rock Lives",
+   "url": "https://stream-mz.hellorayo.co.uk/planetrock.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s2377/images/logod.png",
+   "homepage": "https://www.hellorayo.co.uk/planet-rock",
+   "codec": "AAC+",
+   "bitrate": 47,
+   "category": "music",
+   "tags": [
+    "bauer radio",
+    "classic rock",
+    "dab",
+    "digital radio",
+    "england"
+   ]
+  },
+  {
+   "id": "d69fbc2c-530a-4d40-ac9f-56532356b248",
+   "name": "Chillout Ibiza FM",
+   "url": "https://edge3.peta.live365.net/b05055_128mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.chilloutibizafm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "chillout",
+    "relaxing"
+   ]
+  },
+  {
+   "id": "172d8c95-fecd-40b7-af6f-9cdf4e8829e4",
+   "name": "Magic Radio UK",
+   "url": "https://stream-mz.hellorayo.co.uk/magicnational.mp3?direct=true&aw_0_1st.playerid=BMUK_TuneIn&aw_0_1st.skey=7374499933&stationCode=mag",
+   "hls": false,
+   "logo": "https://www.celsoazevedo.com/files/2025/magic.png",
+   "homepage": "https://hellorayo.co.uk/magic/play/",
+   "codec": "MP3",
+   "bitrate": 112,
+   "category": "music",
+   "tags": [
+    "00s",
+    "70s",
+    "80s",
+    "90s",
+    "adult"
+   ]
+  },
+  {
+   "id": "7d196930-5f3d-45e2-b11a-d261c4515161",
+   "name": "Virgin Radio UK",
+   "url": "https://radio.virginradio.co.uk/stream",
+   "hls": false,
+   "logo": "https://www.celsoazevedo.com/files/2022/virgin-radio-uk.jpg",
+   "homepage": "https://virginradio.co.uk/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "00s",
+    "80s",
+    "90s",
+    "information",
+    "news"
+   ]
+  },
+  {
+   "id": "42679ed6-49cb-428e-9b74-94af62ad8a0a",
+   "name": "Heart FM",
+   "url": "https://media-ssl.musicradio.com/HeartUK",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s320841/images/logod.jpg?t=638651487420000000",
+   "homepage": "https://www.heart.co.uk/london/radio/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1bfae443-4fa5-45ed-92a5-8aecd6a70756",
+   "name": "Greatest Hits Radio",
+   "url": "https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1",
+   "hls": false,
+   "logo": "https://assets.planetradio.co.uk/img/ConfigWebHeaderLogoSVGImageUrl/381.svg?ver=1545132394",
+   "homepage": "https://www.hellorayo.co.uk/greatest-hits/west-midlands",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7cc0c486-92cb-4509-9b93-775e41950ed3",
+   "name": "Classic FM Movies",
+   "url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.classicfm.com/movies/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical",
+    "film score",
+    "movies"
+   ]
+  },
+  {
+   "id": "598c4d0e-6b06-43fb-bff4-717c591213a9",
+   "name": "BBC World Service",
+   "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+   "hls": false,
+   "logo": "https://rmp.files.bbci.co.uk/rmp-shared-assets/1.4.0/img/network-logos/national/bbc_world_service_colour.svg",
+   "homepage": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service",
+   "codec": "MP3",
+   "bitrate": 56,
+   "category": "music",
+   "tags": [
+    "bbc"
+   ]
+  },
+  {
+   "id": "bd1c441c-132a-4d48-a3f3-bdb386f4b09a",
+   "name": "Classic FM HD",
+   "url": "https://ice-sov.musicradio.com/ClassicFMHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80",
+   "hls": false,
+   "logo": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bd/a7/bf/bda7bf4f-16e9-6b60-0d87-a39d432b505e/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp",
+   "homepage": "https://www.classicfm.com/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "8c45fcc8-a9fe-4e07-9a53-67b6a2a1fc76",
+   "name": "Intamixx 80s 90s Radio UK",
+   "url": "https://radio.intamixx.uk:8443/radio2",
+   "hls": false,
+   "logo": "https://80s.intamixx.uk/images/imc8090.jpg",
+   "homepage": "https://80s.intamixx.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s",
+    "90s",
+    "dance",
+    "drum and bass",
+    "electronic"
+   ]
+  },
+  {
+   "id": "0f1a8621-d35a-4073-83d3-7ee14207a9a9",
+   "name": "KISS - The Best Vibes & Energy",
+   "url": "https://live-bauerkiss.sharp-stream.com/kissnational.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s6004/images/logod.png",
+   "homepage": "https://www.hellorayo.co.uk/kiss",
+   "codec": "AAC+",
+   "bitrate": 47,
+   "category": "music",
+   "tags": [
+    "dab",
+    "dance",
+    "dance music",
+    "digital radio",
+    "edm"
+   ]
+  },
+  {
+   "id": "e7205cd4-dc30-11e9-a8ba-52543be04c81",
+   "name": "Heart 70s",
+   "url": "https://media-ssl.musicradio.com/Heart70sMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.heart.co.uk/70s",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s",
+    "national",
+    "pop",
+    "public radio",
+    "variety"
+   ]
+  },
+  {
+   "id": "8cf13f16-df99-4fd8-b152-ab8218563a36",
+   "name": "BritCom 1 - British Comedy Radio",
+   "url": "https://cast2.asurahosting.com/proxy/britcom1/stream",
+   "hls": false,
+   "logo": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComOne300x300.jpg",
+   "homepage": "https://britishcomedyradio.org/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": []
+  },
+  {
+   "id": "ea391ded-00f0-47e0-841c-d92663e11854",
+   "name": "BBC News HD",
+   "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+   "hls": true,
+   "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/BBC_News_HD_Logo.svg/2560px-BBC_News_HD_Logo.svg.png",
+   "homepage": "https://bbc.co.uk/news",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "england",
+    "english",
+    "london",
+    "news",
+    "uk"
+   ]
+  },
+  {
+   "id": "5ba5ce07-cb82-46ef-874a-7c9613bf2abf",
+   "name": "80s Zoom",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3",
+   "hls": false,
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzUFC8MX_VPOLHcB32vggZZhwC928NeErEyQ&s.jpg",
+   "homepage": "http://www.80szoom.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "128 kbit/s",
+    "192kbps",
+    "1980s",
+    "24/7",
+    "256 kbit/s"
+   ]
+  },
+  {
+   "id": "8c78482a-17db-4057-a7c7-8fa14b3c3ce9",
+   "name": "House Nation UK",
+   "url": "https://streaming.radio.co/s06bd9d805/listen",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/aWa7xGKfBh.jpg",
+   "homepage": "https://housenationuk.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "house"
+   ]
+  },
+  {
+   "id": "9c100db7-ba97-4e6f-821f-dba1ed08ad52",
+   "name": "Rinse UK",
+   "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+   "hls": false,
+   "logo": "https://i1.sndcdn.com/avatars-HFUM5iVBOYInWEED-oro7Vg-t200x200.jpg",
+   "homepage": "https://www.rinse.fm/channels/uk/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance music",
+    "dubstep",
+    "garage",
+    "grime",
+    "house"
+   ]
+  },
+  {
+   "id": "29dc48c6-adf5-49bf-a9d7-dfde3e9cfc6d",
+   "name": "UK Bass Radio",
+   "url": "https://www.ukbassradio.com/stream",
+   "hls": false,
+   "logo": "https://www.ukbassradio.com/wp-content/uploads/2021/03/cropped-thumbnail_ukbass-radio5.png",
+   "homepage": "https://www.ukbassradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "breakbeat hardcore",
+    "drum and bass",
+    "drumfunk",
+    "dubstep",
+    "garage"
+   ]
+  },
+  {
+   "id": "e392aeac-2fb8-4f34-9543-6f4c8209d3a7",
+   "name": "JFSR - Jazz Funk Soul Radio",
+   "url": "https://s2.radio.co/s22ae5a8a6/listen",
+   "hls": false,
+   "logo": "https://jfsr.co.uk/wp-content/uploads/2020/08/cropped-JFSR-Favicon-300x300.png",
+   "homepage": "https://jfsr.co.uk/",
+   "codec": "AAC",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "funk",
+    "jazz",
+    "soul"
+   ]
+  },
+  {
+   "id": "9349357b-5824-42f3-9dff-3765c5197830",
+   "name": "CAPITAL CHILL: Non-stop chilled beats",
+   "url": "https://media-ssl.musicradio.com/CapitalChill",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s323115/images/logod.jpg",
+   "homepage": "https://www.globalplayer.com/live/capitalchill/uk/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music",
+    "capital",
+    "capital chill",
+    "chill",
+    "chill house"
+   ]
+  },
+  {
+   "id": "da52663e-bf3e-40aa-b863-28c1d12d6464",
+   "name": "ROKit Radio : British Comedy 1",
+   "url": "https://streaming04.liveboxstream.uk/proxy/roksta14/stream",
+   "hls": false,
+   "logo": "https://rokitradio.com/images/channels/british_comedy_1.jpg",
+   "homepage": "https://rokitradio.com/",
+   "codec": "MP3",
+   "bitrate": 48,
+   "category": "talk",
+   "tags": [
+    "comedy",
+    "old time radio",
+    "otr",
+    "radio shows",
+    "u.k. comedy"
+   ]
+  },
+  {
+   "id": "a1b40e7a-94fe-4199-bd8f-31a7ed074a53",
+   "name": "BBC Radio One",
+   "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/aks/bbc_radio_one.m3u8",
+   "hls": true,
+   "logo": "https://cdn-radiotime-logos.tunein.com/s24939q.png",
+   "homepage": "http://www.bbc.co.uk/radio1",
+   "codec": "AAC+",
+   "bitrate": 101,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9619e7d7-0601-11e8-ae97-52543be04c81",
+   "name": "TMM 1",
+   "url": "https://listen-msmn.sharp-stream.com/nme1.mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s159857/images/logod.png",
+   "homepage": "https://www.themusicmachine.co.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "alternative rock",
+    "garage",
+    "indie",
+    "indie pop"
+   ]
+  },
+  {
+   "id": "37bf8039-77ed-4805-9030-c40d5cb2820a",
+   "name": "BritCom 3 - British Comedy Radio",
+   "url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
+   "hls": false,
+   "logo": "https://pumpkinfm.com/wp-content/uploads/2023/02/BritComThreeNew300x300-3.jpg",
+   "homepage": "https://britishcomedyradio.org/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": []
+  },
+  {
+   "id": "df3607fb-311d-43b1-bd0c-98d91a4f2df4",
+   "name": "Capital Dance",
+   "url": "https://icecast.thisisdax.com/CapitalDanceMP3",
+   "hls": false,
+   "logo": "https://www.capitaldance.com/assets_v4r/capitaldance/img/favicon-196x196.png",
+   "homepage": "https://www.capitaldance.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "96568036-4928-44ba-a54e-c4db0b5463f2",
+   "name": "Smooth 80s",
+   "url": "https://media-ice.musicradio.com/Smooth80sMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.smoothradio.com/80s/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s"
+   ]
+  },
+  {
+   "id": "ceab5124-608a-4eb1-8149-d65829f9a9d7",
+   "name": "Birdsong Radio",
+   "url": "https://a1.radio.co/s5c5da6a36/listen",
+   "hls": false,
+   "logo": "https://images.radio.co/station_logos/s5c5da6a36.20240717025356.png",
+   "homepage": "https://www.birdsong.fm/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b0fcc9da-9958-4729-9e23-4f7cc15e98b9",
+   "name": "CNN UK",
+   "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "hls": false,
+   "logo": "https://edition.cnn.com/favicon.ico",
+   "homepage": "https://edition.cnn.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "business",
+    "business news",
+    "education",
+    "local news",
+    "news"
+   ]
+  },
+  {
+   "id": "46f13c3e-823f-4f1e-ab82-5a7b145c337f",
+   "name": "Smooth Country",
+   "url": "https://media-ssl.musicradio.com/SmoothCountry",
+   "hls": false,
+   "logo": "https://www.smoothradio.com/assets_v4r/smooth/img/favicon-196x196.png",
+   "homepage": "https://www.smoothradio.com/country/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "country",
+    "country music"
+   ]
+  },
+  {
+   "id": "e79ebf04-065c-4ecb-a5d8-2da4c019b00f",
+   "name": "BBC 6 Indie Forever",
+   "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/mobile_wifi_main_hd_abr_v2/aks/bbc_radio_six_indie_forever.m3u8",
+   "hls": true,
+   "logo": "https://static.files.bbci.co.uk/sounds/web/sounds-web/img/sounds-favicon.4fff4ce077.ico",
+   "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_six_indie_forever",
+   "codec": "AAC",
+   "bitrate": 135,
+   "category": "music",
+   "tags": [
+    "alternative / indie",
+    "britpop",
+    "eclectic",
+    "indie"
+   ]
+  },
+  {
+   "id": "1cedf594-9460-47c9-ad66-1c3bda41901b",
+   "name": "Classic FM Video Game Music",
+   "url": "https://icecast.thisisdax.com/ClassicFM-M-Gaming",
+   "hls": false,
+   "logo": "https://www.classicfm.com/assets_v4r/classic/img/favicon-196x196.png",
+   "homepage": "https://www.classicfm.com/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "80d74009-e473-4454-9602-139b88485ba5",
+   "name": "Capital FM London",
+   "url": "https://media-ssl.musicradio.com/CapitalMP3",
+   "hls": false,
+   "logo": "https://imgs.capitalfm.com/images/573609?format=png&signature=fxgDCsRPRQMvt-WaQM8YWFAMFa8=",
+   "homepage": "https://capitalfm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "chr",
+    "dance",
+    "hits",
+    "pop",
+    "top 40"
+   ]
+  },
+  {
+   "id": "8e32c763-b926-4e57-9b8f-d60f1c5b48e3",
+   "name": "LBC News",
+   "url": "https://media-ssl.musicradio.com/LBCNewsUK",
+   "hls": false,
+   "logo": "https://herald.musicradio.com/media/02a3caa1-dacf-47b1-ad54-c10728b66cd9.png",
+   "homepage": "https://www.globalplayer.com/live/lbcnews/uk/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "news",
+   "tags": [
+    "london",
+    "news",
+    "uk"
+   ]
+  },
+  {
+   "id": "b4491892-12f3-41b7-8252-5cd5e4cf61fb",
+   "name": "Divine Radio London",
+   "url": "https://uk2.internet-radio.com/proxy/divinestream?mp=/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.divineradiolondon.co.uk/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "dj mixes",
+    "electronic",
+    "underground"
+   ]
+  },
+  {
+   "id": "30820d12-0409-44b7-b5e8-edc594910d92",
+   "name": "Радио Сева",
+   "url": "https://seva.ru/radio/stream",
+   "hls": false,
+   "logo": "https://seva.ru/radio/radio.png",
+   "homepage": "https://seva.ru/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "music",
+    "rock",
+    "talk",
+    "музыка",
+    "разговорное"
+   ]
+  },
+  {
+   "id": "705c6f01-92b5-4766-9c6f-53540414b6c3",
+   "name": "DnBRadio.com",
+   "url": "https://fw.dnbradio.com/dnbradio_main.mp3",
+   "hls": false,
+   "logo": "https://dnbradio.com/img/logotags.png",
+   "homepage": "https://dnbradio.com/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e847f0b7-4694-4d96-a56a-3bc9543c5705",
+   "name": "Classic FM Essential Classical",
+   "url": "https://icecast.thisisdax.com/ClassicFM-M-Essential",
+   "hls": false,
+   "logo": "https://www.radio.de/images/broadcasts/a1/f8/126083/1/c300.png",
+   "homepage": "https://www.classicfm.com/",
+   "codec": "AAC",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "c669835f-64ca-45b0-ae19-498febb83cb1",
+   "name": "BritCom 2 - British Comedy Radio",
+   "url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+   "hls": false,
+   "logo": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg",
+   "homepage": "https://britishcomedyradio.org/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": []
+  },
+  {
+   "id": "1651c32f-55d8-4429-995d-872ea0dcf520",
+   "name": "Worldwide FM",
+   "url": "https://worldwide-fm.radiocult.fm/stream",
+   "hls": false,
+   "logo": "https://scontent-fra5-2.xx.fbcdn.net/v/t39.30808-1/450237294_942043604601681_3306132891557988504_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=109&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=Ur-AWGYdJIEQ7kNvwHfsWWi&_nc_oc=Adn31I1juFGVfOprAsE1UsSz-7_H0ISFLok1gNrhmWqzfmlI6AbPJgNZB15dkduTEq4&_nc_zt=24&_nc_ht=scontent-fra5-2.xx&_nc_gid=60spXN55S49um4k8ceAfcA&oh=00_AfrO3IOBFCxwn4Bqxc2mOFTcigubLSqRjTY1N2cfbWsvxg&oe=696ED4DC",
+   "homepage": "https://www.worldwidefm.net/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "electronica",
+    "jazz",
+    "progressive",
+    "underground music",
+    "world music"
+   ]
+  },
+  {
+   "id": "15a7162c-45a3-4bde-b864-aa7731c6dd87",
+   "name": "Smooth Relax",
+   "url": "https://icecast.thisisdax.com/SmoothRelaxMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.smoothradio.com/relax/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "easy listening",
+    "relaxing"
+   ]
+  },
+  {
+   "id": "c6c204d3-3ffd-4e85-b0f9-29bf6de7ddf4",
+   "name": "Absolute Radio 80s",
+   "url": "https://stream-ar.hellorayo.co.uk/absolute80shigh.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1",
+   "hls": false,
+   "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1717682143/brand_manager/stations/d8fpii0yfv7fimdhxqp1.png",
+   "homepage": "https://www.hellorayo.co.uk/absolute-80s",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80s"
+   ]
+  },
+  {
+   "id": "76b80d69-642d-4887-9571-7d0ba25c20f2",
+   "name": "Talk",
+   "url": "https://radio.talkradio.co.uk/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://talk.tv/",
+   "codec": "AAC",
+   "bitrate": 63,
+   "category": "talk",
+   "tags": []
+  },
+  {
+   "id": "fd7898b9-e442-4824-a313-77f25cb59de1",
+   "name": "BBC Arabic",
+   "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_arabic_radio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://stream.live.vc.bbcmedia.co.uk/",
+   "codec": "MP3",
+   "bitrate": 56,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "983cc845-97f9-409b-b6e7-3c977b07271b",
+   "name": "Techno - FM - Channel",
+   "url": "https://stream.techno.fm/radio1-320k.mp3",
+   "hls": false,
+   "logo": "https://techno.fm/favicon.ico",
+   "homepage": "https://techno.fm/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "techno"
+   ]
+  },
+  {
+   "id": "99f4e5bf-e2a0-4386-b116-3ecd4e4de6b5",
+   "name": "ROKit Radio : British Comedy 2",
+   "url": "https://streaming05.liveboxstream.uk/proxy/jondreas/stream",
+   "hls": false,
+   "logo": "https://rokitradio.com/favicon.ico",
+   "homepage": "https://rokitradio.com/",
+   "codec": "MP3",
+   "bitrate": 48,
+   "category": "talk",
+   "tags": [
+    "comedy",
+    "old time radio",
+    "otr",
+    "radio shows",
+    "u.k. comedy"
+   ]
+  },
+  {
+   "id": "47416a39-4289-47a9-8747-056843a60c0b",
+   "name": "BritCom 2 - Pumpkin FM",
+   "url": "https://cast2.asurahosting.com/proxy/britcom2/stream",
+   "hls": false,
+   "logo": "https://pumpkinfm.com/wp-content/uploads/2019/02/BritComTwo300x300.jpg",
+   "homepage": "https://pumpkinfm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "british comedy",
+    "comedy",
+    "old time radio"
+   ]
+  },
+  {
+   "id": "4b6aebf2-0ced-4058-8e71-52c701359b93",
+   "name": "ROKit Radio : Comedy Gold",
+   "url": "https://streaming06.liveboxstream.uk/proxy/rokstar8/stream",
+   "hls": false,
+   "logo": "https://rokitradio.com/images/channels/comedy_gold.jpg",
+   "homepage": "https://rokitradio.com/",
+   "codec": "MP3",
+   "bitrate": 48,
+   "category": "talk",
+   "tags": [
+    "comedy",
+    "old time radio",
+    "otr",
+    "radio shows"
+   ]
+  },
+  {
+   "id": "973c30a5-a178-4daf-89c7-272ec6c47456",
+   "name": "Kool FM",
+   "url": "https://admin.stream.rinse.fm/proxy/kool/stream",
+   "hls": false,
+   "logo": "https://pbs.twimg.com/profile_images/1638236080674578434/Hbww_nFm_400x400.jpg",
+   "homepage": "https://rinse.fm/channels/kool/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "breakbeat",
+    "dancefloor",
+    "drum and bass",
+    "jump up",
+    "jungle"
+   ]
+  },
+  {
+   "id": "fb156190-ade3-4f47-873a-2136cdc793d6",
+   "name": "SWU FM",
+   "url": "https://admin.stream.rinse.fm/proxy/swu/stream",
+   "hls": false,
+   "logo": "https://rinse.fm/favicon.ico",
+   "homepage": "https://rinse.fm/channels/swu/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dnb",
+    "drum and bass",
+    "house",
+    "jungle",
+    "mixed"
+   ]
+  },
+  {
+   "id": "490068a8-e5f9-40eb-8374-53bce3fecd4d",
+   "name": "Nostalgia Central",
+   "url": "https://s5.radio.co/s6211fbeed/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://ncradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1950s",
+    "1960s",
+    "1970s",
+    "1980s",
+    "1990s"
+   ]
+  },
+  {
+   "id": "39c07f86-2d14-469a-994b-968de965e75a",
+   "name": "Pink Floyd",
+   "url": "https://stream.pcradio.ru/Pink_Floyd-hi",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://pcradio.ru/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "discography"
+   ]
+  },
+  {
+   "id": "b8148b29-09d0-4aa1-8bfe-43d236260170",
+   "name": "Liquid DnB",
+   "url": "https://antares.dribbcast.com/proxy/dave1/stream/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://liquid-dnb.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dnb",
+    "liquid dnb"
+   ]
+  },
+  {
+   "id": "e1a177e9-5947-46a4-8757-0415c9b106bc",
+   "name": "Old Skool Rave Tapes",
+   "url": "https://azuracast.oldskoolravetapes.co.uk/listen/old_skool_rave_tapes/listen",
+   "hls": false,
+   "logo": "https://oldskoolravetapes.co.uk/assets/img/osrt-logo.jpg",
+   "homepage": "https://oldskoolravetapes.co.uk/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "drum and bass",
+    "hardcore",
+    "jungle",
+    "old skool rave"
+   ]
+  },
+  {
+   "id": "ff871225-7731-45a1-aee0-9e8fa463dfc3",
+   "name": "Fun Kids",
+   "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.funkidslive.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "kids"
+   ]
+  },
+  {
+   "id": "04bd267f-046a-4275-b7c5-c29f9e25efc9",
+   "name": "Neon Radio - 80s & 90s Pop & Dance",
+   "url": "https://live.flashbackcentral.co.uk/radio/8050/tunein.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.neonradio.co.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hits 80s",
+    "hits 90s",
+    "pop music"
+   ]
+  },
+  {
+   "id": "e231378a-e6d1-11e9-a96c-52543be04c81",
+   "name": "4 To The Floor",
+   "url": "https://stream-mixtape-geo.ntslive.net/mixtape5",
+   "hls": false,
+   "logo": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+   "homepage": "https://www.nts.live/infinite-mixtapes/4-to-the-floor",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "disco",
+    "house",
+    "techno"
+   ]
+  },
+  {
+   "id": "57d9c792-5ead-4b1b-ae00-7ad1aa3b09e7",
+   "name": "BSJ.FM Best Smooth Jazz",
+   "url": "https://bsj.lucasmultimedia.com:8002/stream.ogg",
+   "hls": false,
+   "logo": "https://bsj.fm/assets/img/bsj-favicon.ico",
+   "homepage": "https://bsj.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "702a65d7-3fec-405d-b224-b6c47b87c407",
+   "name": "Heart 70's",
+   "url": "https://media-ssl.musicradio.com/Heart70sMP3",
+   "hls": false,
+   "logo": "https://www.heart.co.uk/assets_v4r/heart/img/favicon-196x196.png",
+   "homepage": "https://www.heart.co.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70's"
+   ]
+  },
+  {
+   "id": "f9a4e918-7df8-42ba-862f-21828d7c9b09",
+   "name": "Just House Music",
+   "url": "https://justhousemusic.radioca.st/stream",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s293430/images/logod.png?t=638095610890000000",
+   "homepage": "https://justhousemusic.co.uk/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "45daead0-5c3f-44f4-8bb3-177596bcf8ab",
+   "name": "Britcom 4",
+   "url": "https://cast2.asurahosting.com/proxy/britcom4/stream.mp3",
+   "hls": false,
+   "logo": "https://pumpkinfm.com/wp-content/uploads/2022/03/pfmnewlogoSmall.jpg",
+   "homepage": "https://pumpkinfm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "comedy"
+   ]
+  },
+  {
+   "id": "9b3a5084-91ba-4d90-ac06-3e0ba8c50d67",
+   "name": "Gold Radio UK",
+   "url": "https://media-ice.musicradio.com/GoldMP3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.goldradio.com/?page=2",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "golden oldies",
+    "pop"
+   ]
+  },
+  {
+   "id": "9391f9be-cbc1-4c84-8da5-cf7eebefaab2",
+   "name": "Labyrinth",
+   "url": "https://stream-mixtape-geo.ntslive.net/mixtape31",
+   "hls": false,
+   "logo": "https://www.nts.live/apple-touch-icon.png?v=47re43rrzb",
+   "homepage": "https://www.nts.live/infinite-mixtapes/labyrinth",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "breaks",
+    "techno"
+   ]
+  },
+  {
+   "id": "9619e894-0601-11e8-ae97-52543be04c81",
+   "name": "TMM 2",
+   "url": "https://listen-msmn.sharp-stream.com/nme2.mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s155539/images/logod.png",
+   "homepage": "https://www.themusicmachine.co.uk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "hiphop",
+    "electronic"
+   ]
+  },
+  {
+   "id": "a9fdc88f-c2be-4c90-8162-a874c9119242",
+   "name": "Exclusive - Pink Floyd",
+   "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=100,quality=80/https://manager.uber.radio/static/uploads/brand/1a60ce33-a8ba-4c3f-a9c1-48e384364f3c.png",
+   "homepage": "https://you.radio/station/exclusiveradio-pink-floyd",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "psychedelic rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "53d055fb-9364-4d12-be68-f61d4c14c0b3",
+   "name": "Deep Purple",
+   "url": "https://stream.pcradio.ru/Deep_purple-hi",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://pcradio.ru/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "discography"
+   ]
+  },
+  {
+   "id": "5984167a-b25e-4eec-a878-ff9253ee0c4a",
+   "name": "KISS UK",
+   "url": "https://live-kiss.sharp-stream.com/kiss100.mp3",
+   "hls": false,
+   "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1678797505/brand_manager/stations/mahvph4fqjmnp4y8d6wt.png",
+   "homepage": "https://kissfmuk.com/",
+   "codec": "MP3",
+   "bitrate": 112,
+   "category": "music",
+   "tags": [
+    "bauer radio",
+    "kiss",
+    "kiss fm",
+    "pop"
+   ]
+  },
+  {
+   "id": "fecf5be0-e69b-46fa-9a47-0029ae4849e0",
+   "name": "Talksport 2",
+   "url": "https://talksport.live.stream.broadcasting.news/stream2",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://talksport.com/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "sports",
+   "tags": [
+    "sports talk"
+   ]
+  },
+  {
+   "id": "c58c0009-ad0d-4ed5-a208-a8e797885a75",
+   "name": "House Music Radio",
+   "url": "https://uk4-vn.mixstream.net/8128/listen.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.housemusicradio.co.uk/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "deep house",
+    "house"
+   ]
+  },
+  {
+   "id": "e3740a99-2ce3-413f-b6d4-074620d4243b",
+   "name": "BBC Radio 5 Sports Extra",
+   "url": "https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/uk/audio_syndication_med_sbr_v1/aks/bbc_radio_five_live_sports_extra.m3u8",
+   "hls": true,
+   "logo": "https://ichef.bbci.co.uk/images/ic/raw/p0mw75dn.png.webp",
+   "homepage": "https://www.bbc.co.uk/sounds/play/live/bbc_radio_five_live_sports_extra",
+   "codec": "AAC",
+   "bitrate": 135,
+   "category": "sports",
+   "tags": [
+    "sports"
+   ]
+  },
+  {
+   "id": "1f951feb-544e-447b-8143-8b9656a46cf2",
+   "name": "HearMe - Classic Hard Rock",
+   "url": "https://radio.hearme.fm:8250/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://hearme.fm/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classic hard rock"
+   ]
+  },
+  {
+   "id": "6c747331-3129-4e21-b620-3153f1a360e3",
+   "name": "Kerrang! Radio",
+   "url": "https://stream-al.hellorayo.co.uk/kerrang.aac?direct=true&aw_0_1st.skey=1602676850&aw_0_awz.listenerid=~LSID~&aw_0_1st.platform=~PLATFORM~&aw_0_1st.playerid=~PLAYER_ID~&aw_0_awz.appVers=~APPVERSION~&aw_0_1st.bauer_preroll=~REQUEST_PREROLL~&aw_0_1st.in_car=~IN_CAR~&lat=~LAT~&lon=~LONG~&aw_0_req.userConsentV2=~TCSTRING~",
+   "hls": false,
+   "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1679564543/brand_manager/stations/dx4kf5ptwfycmb4fydxa.png",
+   "homepage": "https://www.hellorayo.co.uk/kerrang",
+   "codec": "AAC+",
+   "bitrate": 47,
+   "category": "music",
+   "tags": []
+  }
+ ]
+}

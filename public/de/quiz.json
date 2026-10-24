@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:32.961Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "CSU-Parteitag in München: Wenn alles im Chaos versinkt, blüht Markus Söder erst so richtig auf",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/deutschland/2026-10/csu-parteitag-muenchen-markus-soeder-rede"
+  },
+  {
+   "type": "section",
+   "headline": "Senatswahl in Alaska: Trump initiiert Klage gegen Alaska wegen ähnlicher Kandidatennamen",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/ausland/2026-10/alaska-senatswahl-dan-sullivan-dan-j-sullivan-namensverwechslung-donald-trump"
+  },
+  {
+   "type": "section",
+   "headline": "Nach Druck von Republikanern: USA heben einige Zölle gegen Kanada auf",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.n-tv.de/wirtschaft/USA-heben-einige-Zoelle-gegen-Kanada-auf-id31453130.html"
+  },
+  {
+   "type": "source",
+   "headline": "Kinderpornografie-Hinweis 2018 : Londoner Polizei äußert sich zu Vorwürfen gegen Meghans Vater",
+   "options": [
+    "ZEIT ONLINE",
+    "Tagesspiegel",
+    "ntv",
+    "DW"
+   ],
+   "answer": 2,
+   "url": "https://www.n-tv.de/leute/Londoner-Polizei-aeussert-sich-zu-Vorwuerfen-gegen-Meghans-Vater-id31453206.html"
+  },
+  {
+   "type": "source",
+   "headline": "Schüsse aus Auto: Schock nach tödlicher Terrorfahrt in Frankreich",
+   "options": [
+    "ntv",
+    "DW",
+    "ZEIT ONLINE",
+    "Tagesspiegel"
+   ],
+   "answer": 3,
+   "url": "https://www.tagesspiegel.de/internationales/dpa-schusse-aus-auto-schock-nach-todlicher-terrorfahrt-in-frankreich-16196294.html"
+  }
+ ]
+}

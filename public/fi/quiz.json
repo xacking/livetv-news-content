@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T23:33:55.067Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Eurojackpotista muhkea potti Suomeen",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.is.fi/kotimaa/art-2000012364054.html"
+  },
+  {
+   "type": "section",
+   "headline": "Seitsemän lasta loukkaantunut vakavasti tuli­palossa Ruotsissa",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/ulkomaat/art-2000012364105.html"
+  },
+  {
+   "type": "section",
+   "headline": "Paavo Väyrynen myy maatilan – tätä kaikkea siellä on",
+   "options": [
+    "ENTERTAINMENT",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/taloussanomat/art-2000012362479.html"
+  },
+  {
+   "type": "section",
+   "headline": "Spotify iskee suosittuun porsaan­reikään: uhkana vuoden esto",
+   "options": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/digitoday/art-2000012362071.html"
+  },
+  {
+   "type": "section",
+   "headline": "Törkyteko SM-liigassa – kurinpito puuttui peliin",
+   "options": [
+    "SPORTS",
+    "NATION",
+    "SCIENCE",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/nhl/art-2000012364069.html"
+  }
+ ]
+}

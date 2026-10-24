@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-24T07:12:32.417Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "British Embassy quashes Winnie-the-Pooh return rumors, keeping the famed bear in NY",
+   "options": [
+    "ENTERTAINMENT",
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://abcnews.com/US/wireStory/british-embassy-quashes-winnie-pooh-return-rumors-keeping-137531249"
+  },
+  {
+   "type": "section",
+   "headline": "Preliminary magnitude 6.9 earthquake hits off the coast of Vanuatu",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/International/wireStory/preliminary-magnitude-69-earthquake-hits-off-coast-vanuatu-137531764"
+  },
+  {
+   "type": "section",
+   "headline": "I sold to Visa for $2 billion. I could be on a beach right now, but I’m risking my own money to solve the problem that held my first company back",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://fortune.com/2026/10/24/i-sold-to-visa-for-2-billion-founded-freda/"
+  },
+  {
+   "type": "source",
+   "headline": "Britt McHenry resigns from State Department after basketball game altercation",
+   "options": [
+    "UPI",
+    "BBC News",
+    "The Hill",
+    "ABC News"
+   ],
+   "answer": 3,
+   "url": "https://abcnews.com/Politics/britt-mchenry-resigns-state-department-job-after-basketball/story?id=137526303"
+  },
+  {
+   "type": "source",
+   "headline": "DNI warned Rubio of ‘advanced’ Iranian efforts to target US personnel, memo shows",
+   "options": [
+    "UPI",
+    "ABC News",
+    "BBC News",
+    "The Hill"
+   ],
+   "answer": 3,
+   "url": "https://thehill.com/policy/international/6169784-clayton-warns-rubio-iran-threats/"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-24",
+ "generatedAt": "2026-10-23T17:29:54.977Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Caught out in a record-breaking storm: Why we didn't see it coming",
+   "options": [
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/is-it-getting-harder-to-forecast-wild-weather/6xef2tkbe"
+  },
+  {
+   "type": "section",
+   "headline": "Israel orders closure of occupied West Bank after two suspected attackers killed",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.sbs.com.au/news/article/netanyahu-orders-occupied-west-bank-closure/dlaq5dlui"
+  },
+  {
+   "type": "section",
+   "headline": "'Safe air' bill passes NT parliament following Inpex, Santos scandals",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.abc.net.au/news/2026-10-23/nt-safe-air-bill-monitoring-darwin-harbour-inpex-santos/107300842"
+  },
+  {
+   "type": "source",
+   "headline": "Netanyahu orders major West Bank offensive after Hebron attack",
+   "options": [
+    "7NEWS",
+    "ABC News",
+    "SBS News",
+    "BBC News"
+   ],
+   "answer": 1,
+   "url": "https://www.abc.net.au/news/2026-10-24/netanyahu-orders-major-attack-to-destroy-hebron/107303868"
+  },
+  {
+   "type": "source",
+   "headline": "Tonga hang tough to blow away willing Lebanon late in Rugby League World cup drubbing",
+   "options": [
+    "7NEWS",
+    "ABC News",
+    "SBS News",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://7news.com.au/sport/rugby-league/tonga-hang-tough-to-blow-away-willing-lebanon-late-in-rugby-league-world-cup-drubbing-c-23064760"
+  }
+ ]
+}
