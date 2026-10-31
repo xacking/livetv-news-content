@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:06:53.527Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Sammenligner egen bransje med mafia: – Vi trenger hjelp",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/nordland/okokrim_-kystfiskarlaget-sammenligner-egen-bransje-med-mafia-1.18069141"
+  },
+  {
+   "type": "section",
+   "headline": "Nekter militærtjeneste og lærer ikke matte – likevel er de avgjørende i valget i Israel",
+   "options": [
+    "ENTERTAINMENT",
+    "HEALTH",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/urix/nekter-militaertjeneste-og-laerer-ikke-matte-_-likevel-er-de-avgjorende-i-valget-i-israel-1.17992118"
+  },
+  {
+   "type": "section",
+   "headline": "Nord-Korea får skylden etter milliardkupp",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://e24.no/internasjonal-oekonomi/i/1o2k7J/nord-korea-faar-skylden-etter-milliardkupp?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "319 Chrome-utvidelser avslørt – 13,4 millioner installasjoner",
+   "options": [
+    "HEALTH",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://itavisen.no/2026/10/30/chrome-utvidelser-kaprer-sok-13-millioner-brukere/"
+  },
+  {
+   "type": "section",
+   "headline": "Utrolig Hakimi-show – involvert i fem mål",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.nrk.no/sport/utrolig-hakimi-show-_-involvert-i-fem-mal-1.18069895"
+  }
+ ]
+}

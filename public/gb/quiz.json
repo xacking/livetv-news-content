@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:06:58.133Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "He left 28 years ago, now after 36,000 miles Karl Bushby is almost home",
+   "options": [
+    "HEALTH",
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.co.uk/news/articles/cq8rz38jr50go?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "He questioned Thailand's monarchy dressed as Harry Potter. Now he's in jail for 34 years",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/articles/cmjwepvd0qq9o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Soaring cost of Halloween treats spooks shoppers",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cr0qk25p1yeno?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Red Roses cruise to dominant victory over United States in final WXV game",
+   "options": [
+    "Daily Mirror",
+    "BBC News",
+    "The Telegraph",
+    "Evening Standard"
+   ],
+   "answer": 2,
+   "url": "https://www.telegraph.co.uk/rugby-union/2026/10/30/united-states-vs-red-roses-latest-score-and-updates-wxv/"
+  },
+  {
+   "type": "source",
+   "headline": "Maya Jama expected fellow traitor King Kenny to betray her on Celebrity Traitors",
+   "options": [
+    "The Telegraph",
+    "Evening Standard",
+    "Daily Mirror",
+    "Daily Express"
+   ],
+   "answer": 1,
+   "url": "https://www.standard.co.uk/showbiz/celebrity-news/maya-jama-romesh-ranganathan-james-acaster-bbc-little-mix-b1303038.html"
+  }
+ ]
+}

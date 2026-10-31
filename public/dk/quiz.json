@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:02.500Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "'Det er så mærkeligt': Danske skoler ramt af mystiske AI-anmodninger",
+   "options": [
+    "NATION",
+    "WORLD",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/indland/det-er-saa-maerkeligt-danske-skoler-ramt-af-mystiske-ai-anmodninger"
+  },
+  {
+   "type": "section",
+   "headline": "Præsident for forfatningsdomstol i Polen suspenderet",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/udland/praesident-forfatningsdomstol-i-polen-suspenderet"
+  },
+  {
+   "type": "section",
+   "headline": "Hackere har stjålet 42 milliarder kroner fra verdens største kryptobørs",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.dr.dk/nyheder/penge/hackere-har-stjaalet-42-milliarder-kroner-fra-verdens-stoerste-kryptoboers"
+  },
+  {
+   "type": "section",
+   "headline": "600 stod i kø hele natten: POWER Ringsted solgte for 10 millioner kroner på fem timer",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.recordere.dk/2026/10/600-stod-i-koe-hele-natten-power-ringsted-solgte-for-10-millioner-kroner-paa-fem-timer/"
+  },
+  {
+   "type": "section",
+   "headline": "Kulturminister kalder ishockey-udvikling fortvivlende",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.dr.dk/sporten/ishockey/kulturminister-kalder-ishockey-udvikling-fortvivlende"
+  }
+ ]
+}

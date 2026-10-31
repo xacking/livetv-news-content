@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:39.703Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Tutkijoilta täystyrmäys perus­koulun kansallisille kokeille",
+   "options": [
+    "ENTERTAINMENT",
+    "SPORTS",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.aamulehti.fi/kotimaa/art-2000012379250.html"
+  },
+  {
+   "type": "section",
+   "headline": "Lavrov: Venäjä ei hyväksy minkäänlaista Ukrainasta tulevaa sotilaallista uhkaa",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/ulkomaat/art-2000012379454.html"
+  },
+  {
+   "type": "section",
+   "headline": "Halpakauppa laajenee vastavirtaan – toimitusjohtaja kertoo, miksi pienuus on valtti",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/taloussanomat/art-2000012376577.html"
+  },
+  {
+   "type": "section",
+   "headline": "Tietomurto Viking Linella",
+   "options": [
+    "SPORTS",
+    "HEALTH",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/digitoday/art-2000012379338.html"
+  },
+  {
+   "type": "section",
+   "headline": "Miikka Muuriselle hurjaa ylistystä USA:ssa",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.is.fi/valioliiga/art-2000012377337.html"
+  }
+ ]
+}

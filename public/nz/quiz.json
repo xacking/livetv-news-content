@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-01",
+ "generatedAt": "2026-10-31T11:15:38.037Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Porirua deputy mayor Kylie Wihapi dies in freak fall, mayor shares ‘disbelief’ and heartbreak",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/nz/porirua-deputy-mayor-kylie-wihapi-dies-mayor-shares-disbelief-and-heartbreak/NLQGKLVTIJAMLMRBVSSCRTO3MY/"
+  },
+  {
+   "type": "section",
+   "headline": "I was haunted by my neighbour, Goosebumps author R.L. Stine",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "BUSINESS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/world/i-was-haunted-by-my-neighbour-goosebumps-author-rl-stine/premium/Y3SCRMXQUZBL3BIUCR3XOWKXVM/"
+  },
+  {
+   "type": "section",
+   "headline": "New Zealand’s small businesses are last in the region. A 10-year plan can change that – Rick Jones",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/small-business/new-zealands-small-businesses-are-last-in-the-region-a-10-year-plan-can-change-that-rick-jones/premium/4SIJEMVIMVH43L4O2ZMURSL4WY/"
+  },
+  {
+   "type": "section",
+   "headline": "What if AI turns out to be a terrible investment?",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/business/what-if-ai-turns-out-to-be-a-terrible-investment/premium/6TCNI6ZYDZFEHKKR4L4VMQG2BA/"
+  },
+  {
+   "type": "section",
+   "headline": "Kiwi Ferns v PNG: New Zealand top Rugby League World Cup group with big win over tough Orchids side",
+   "options": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/sport/rugby-league/kiwi-ferns-v-png-new-zealand-look-to-top-group/GY4PEV5YC5FEJNJL7EMDOKBHLM/"
+  }
+ ]
+}

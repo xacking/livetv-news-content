@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:31.337Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "„Haft in Heimat“ ist ein „Tropfen auf dem heißen Stein, aber...“",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.kleinezeitung.at/artikel/41407200/haft-in-heimat-ist-ein-tropfen-auf-dem-heissen-stein-aber"
+  },
+  {
+   "type": "section",
+   "headline": "Politisches Beben in Polen: Polizei sichert Verfassungsgericht",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/politik/ausland/polen-verfassungsgericht-chaos-polizei-justizstreit-tusk-nawrocki/403201941"
+  },
+  {
+   "type": "section",
+   "headline": "Women’s Summit und Deutsche Handelskammer",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/wirtschaft/karriere/business-people-womens-summit-deutsche-handelskammer/403201872"
+  },
+  {
+   "type": "section",
+   "headline": "Pedal by Wire: Das passiert, wenn einem Hightech-E-Bike der Saft ausgeht",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://futurezone.at/produkte/unendlicher-schildkroeten-modus-e-bike-akku-leer-rivian-also-tm-b-pedal-by-wire-system/403201887"
+  },
+  {
+   "type": "section",
+   "headline": "Zahlen veröffentlicht: Kane gewann Ballon d'Or hauchdünn vor Mbappe",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/sport/fussball/ballon-dor-wahl-kane-mbappe-stimmen-vorsprung/403201948"
+  }
+ ]
+}

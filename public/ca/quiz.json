@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T05:32:03.287Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Ghost tours are exploding across Canada. But one in the Maritimes is giving visitors the heebie-jeebies",
+   "options": [
+    "SCIENCE",
+    "SPORTS",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/canada/article/ghost-tours-are-exploding-across-canada-heres-why-halifaxs-citadel-hill-has-one-like-no-other/"
+  },
+  {
+   "type": "section",
+   "headline": "Polish president turns plane around, police deployed outside top court during stand-off",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.ctvnews.ca/world/article/polish-president-cuts-senegal-trip-short-as-top-court-chief-suspended/"
+  },
+  {
+   "type": "section",
+   "headline": "Ottawa designates Roberts Bank port expansion in B.C. as project of national interest",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/vancouver/article/ottawa-lists-roberts-bank-port-expansion-in-bc-as-project-of-national-interest/"
+  },
+  {
+   "type": "source",
+   "headline": "Anton Lundell scores 3 goals, Seth Jones caps record month and Panthers beat reeling Jets 5-2",
+   "options": [
+    "CTV News",
+    "Daily Hive",
+    "Global News",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/winnipeg/article/anton-lundell-scores-3-goals-seth-jones-caps-record-month-and-panthers-beat-reeling-jets-5-2/"
+  },
+  {
+   "type": "source",
+   "headline": "Eviction day at contentious homeless encampment in Penticton",
+   "options": [
+    "CTV News",
+    "Daily Hive",
+    "BBC News",
+    "Global News"
+   ],
+   "answer": 3,
+   "url": "https://globalnews.ca/news/12128169/eviction-day-contentious-homeless-encampment-penticton/"
+  }
+ ]
+}

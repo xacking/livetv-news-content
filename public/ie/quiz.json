@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:21.027Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Irish activist (27) arrested and detained in Israel to be deported",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/irish-news/irish-activist-27-arrested-and-detained-in-israel-to-be-deported/a/163879646.html"
+  },
+  {
+   "type": "section",
+   "headline": "Feeling the pinch? Here are seven side-hustle ideas to boost your income",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/business/money/feeling-the-pinch-here-are-seven-side-hustle-ideas-to-boost-your-income/a/163818615.html"
+  },
+  {
+   "type": "section",
+   "headline": "Binance crypto heist explainer: Who took that $6.3bn, why, how – and what happens next?",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/business/world/binance-crypto-heist-explainer-who-took-that-6.3bn-why-how-and-what-happens-next/a/163875545.html"
+  },
+  {
+   "type": "source",
+   "headline": "Man to be deported to Sudan after Citywest sexual assault charge dropped",
+   "options": [
+    "Extra.ie",
+    "Irish Mirror",
+    "BBC News",
+    "TheJournal.ie"
+   ],
+   "answer": 3,
+   "url": "https://www.thejournal.ie/deportation-sudanese-national-to-sudan-city-west-incident-no-prosecution-7209926-Oct2026/"
+  },
+  {
+   "type": "source",
+   "headline": "Sinead O’Connor’s former Bray home gets lavish makeover as renovation works begin",
+   "options": [
+    "Irish Mirror",
+    "Irish Independent",
+    "Extra.ie",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://www.irishmirror.ie/news/irish-news/sinead-oconnors-former-bray-home-37827463"
+  }
+ ]
+}

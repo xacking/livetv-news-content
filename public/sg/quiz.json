@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-30T20:42:03.648Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Local who once ‘hated Singapore’ changes his mind after studying overseas, appreciates life back home",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://theindependent.sg/local-who-once-hated-singapore-changes-his-mind-after-studying-overseas-appreciates-life-back-home"
+  },
+  {
+   "type": "section",
+   "headline": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "SCIENCE",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "SCIENCE",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Grab driver allegedly tells woman he can't go to Yishun destination as roads closed, takes her to Mandai on hour-long journey",
+   "options": [
+    "The Independent Singapore",
+    "BBC News",
+    "Mothership",
+    "Must Share News"
+   ],
+   "answer": 2,
+   "url": "https://mothership.sg/2026/10/woman-ride-hailing-cannot-get-to-yishun/"
+  },
+  {
+   "type": "source",
+   "headline": "250 goods vehicles caught by LTA for offences including overloading & carrying excess rear passengers",
+   "options": [
+    "Must Share News",
+    "The Independent Singapore",
+    "Mothership",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://mustsharenews.com/goods-vehicles-lta/"
+  }
+ ]
+}

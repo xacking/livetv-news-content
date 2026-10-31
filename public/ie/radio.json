@@ -1,0 +1,1180 @@
+{
+ "generatedAt": "2026-10-31T11:15:41.828Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "d037031b-f31e-4298-b36e-654eaad6416e",
+   "name": "Newstalk",
+   "url": "https://edge.audioxi.com/NT",
+   "hls": false,
+   "logo": "https://www.newstalk.com/i/android-icon-192x192.png",
+   "homepage": "https://www.newstalk.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": []
+  },
+  {
+   "id": "d0a1da9f-46b3-11e9-aa55-52543be04c81",
+   "name": "Today FM",
+   "url": "https://stream.audioxi.com/TD",
+   "hls": false,
+   "logo": "https://www.todayfm.com/favicon.ico",
+   "homepage": "https://www.todayfm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "9cd72f5e-5395-4c61-a9a3-923a70cbffcb",
+   "name": "Dublin's FM104",
+   "url": "https://wg.cdn.tibus.net/fm104MP3128",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/620/5d9f214ccc05f.png",
+   "homepage": "https://www.fm104.ie/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "ca6de309-f3fc-4e52-80e7-eacb885dd318",
+   "name": "RTÉ Radio 1",
+   "url": "https://liveaudio.rte.ie/hls-radio/radio1/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news",
+    "sport",
+    "talk",
+    "talk & speech"
+   ]
+  },
+  {
+   "id": "ad48771d-17a7-11ea-a620-52543be04c81",
+   "name": "Dublin's 98FM",
+   "url": "https://stream.audioxi.com/98",
+   "hls": false,
+   "logo": "https://www.98fm.com/favicon.ico?v=11",
+   "homepage": "https://www.98fm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "contemporary hits",
+    "news",
+    "pop",
+    "talk"
+   ]
+  },
+  {
+   "id": "f3d6ed6f-bdd3-42bf-b4a6-6db8eadd5bc0",
+   "name": "Radio Nova 100",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3",
+   "hls": false,
+   "logo": "https://www.nova.ie/wp-content/uploads/2024/11/color-logo.png",
+   "homepage": "https://www.nova.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock"
+   ]
+  },
+  {
+   "id": "6e6b07e9-8fcf-4ab5-b2cb-562e07e28ce6",
+   "name": "Sunshine 106.8",
+   "url": "https://live-bauerie.sharp-stream.com/SUN?_=808250",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/529/5e1463a7c9707.png",
+   "homepage": "https://www.sunshineradio.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "84992286-caac-4752-b362-844244393e62",
+   "name": "BOB FM",
+   "url": "https://bobfm-seanashmore.radioca.st/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://easycoast.fm/player/bobfm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "whatever"
+   ]
+  },
+  {
+   "id": "264a1e04-46a9-4f46-944d-ca65e1c2ff36",
+   "name": "Classic Hits 80s",
+   "url": "https://edge7.audioxi.com/CH80S",
+   "hls": false,
+   "logo": "https://www.google.com/imgres?q=classic%20hits%2080%27s%20icon&imgurl=https%3A%2F%2Fstatic.mytuner.mobi%2Fmedia%2Ftvos_radios%2F935%2Fclassic-hits-80s.570a3c5f.png&imgrefurl=https%3A%2F%2Fwww.radio-ireland.com%2Fclassic-hits-80s&docid=y6gt-Cu1A1HPtM&tbnid=Hla6m0zY1ls_TM&vet=12ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwjapfbv9NuKAxX4VEEAHWPxHa4QM3oECBUQAA",
+   "homepage": "https://www.classichits.ie/classic-hits-80s/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "80's"
+   ]
+  },
+  {
+   "id": "d45a9c6f-8526-11e9-aa30-52543be04c81",
+   "name": "Limerick's Live 95FM",
+   "url": "https://wg.cdn.tibus.net/Live95fm",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+   "homepage": "https://www.live95fm.ie/home/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "news",
+   "tags": [
+    "adult contemporary",
+    "local news",
+    "local radio",
+    "local talk",
+    "love songs"
+   ]
+  },
+  {
+   "id": "d1f3bbb8-bb22-4efd-9f23-0e22ad2ae209",
+   "name": "RTE 2 FM",
+   "url": "https://icecast.rte.ie/2fm",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/2fm/",
+   "codec": "MP3",
+   "bitrate": 160,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "395c7b09-6311-44d2-9593-61185e2c6b7a",
+   "name": "Newstalk Ireland",
+   "url": "https://edge.audioxi.com/NT",
+   "hls": false,
+   "logo": "https://www.newstalk.com/i/android-icon-192x192.png?v=6",
+   "homepage": "https://www.newstalk.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "65dc00f6-2a86-4195-a64f-91aed29bd153",
+   "name": "PowerFM Dublin 320Kbps MP3",
+   "url": "https://www.powerfm.org:8443/powerfm.mp3",
+   "hls": false,
+   "logo": "https://powerfm.org/favicon.ico",
+   "homepage": "https://www.powerfm.org/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "dance",
+    "drum and bass",
+    "electronic",
+    "house",
+    "jungle"
+   ]
+  },
+  {
+   "id": "aae9455c-4af5-43c5-9d6d-bfbf7ec50c86",
+   "name": "Easy Radio Ireland, Easy Mix",
+   "url": "https://streaming.exclusive.radio/uber/easymix/icecast.audio",
+   "hls": false,
+   "logo": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://easy.radio/station/47/665",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic pop",
+    "classic rock",
+    "pop",
+    "r&b"
+   ]
+  },
+  {
+   "id": "f11919a5-3545-47a9-a420-80c5be17fe38",
+   "name": "RTÉ 2FM",
+   "url": "https://liveaudio.rte.ie/hls-radio/2fm/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/2fm/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "popular music"
+   ]
+  },
+  {
+   "id": "96159d2f-0601-11e8-ae97-52543be04c81",
+   "name": "Highland Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/HIGHLAND_RADIO.mp3",
+   "hls": false,
+   "logo": "https://highlandradio.com/wp-content/uploads/2022/01/cropped-highland-favicon-01-180x180.png",
+   "homepage": "http://www.highlandradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "popular music",
+    "variety"
+   ]
+  },
+  {
+   "id": "aa2dca41-8713-4efe-8ca8-42cb67e57c8e",
+   "name": "LMFM",
+   "url": "https://wg.cdn.tibus.net/LMFM?aw_0_1st.playerId=wireless-website&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=284507",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/616/5d5138dc14031.png",
+   "homepage": "https://www.lmfm.ie/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "d31925ea-53d0-400e-acb0-ca62576d3a96",
+   "name": "Planet Radio ACC",
+   "url": "https://media.planetradio.ie/radio/8000/ACC",
+   "hls": false,
+   "logo": "https://planetradio.ie/wp-content/uploads/2020/06/PR-1800-x-1720-PNG.png",
+   "homepage": "https://planetradio.ie/",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "03fb50d2-3cb7-4224-82c7-bc1909f34347",
+   "name": "Deep House Radio",
+   "url": "https://listen.adtonos.com/deep-house-radio-dhr-4",
+   "hls": false,
+   "logo": "https://deephouse-radio.com/dhr-logo-bg.png",
+   "homepage": "https://deephouse-radio.com/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "chillout+lounge",
+    "deep house",
+    "deep techno",
+    "deephouse",
+    "house"
+   ]
+  },
+  {
+   "id": "3bdf6582-779c-4589-bb54-36f88c98872e",
+   "name": "Onic RnB",
+   "url": "https://live.onic.ie/stream-rnb?_=890764",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eed0efb2ee9.png",
+   "homepage": "https://www.onic.ie/player/onic-rnb/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "rap hiphop rnb",
+    "rnb"
+   ]
+  },
+  {
+   "id": "9c2a39db-f196-447a-9972-805755c5c4d1",
+   "name": "Phantom Radio Ireland",
+   "url": "https://streaming05.liveboxstream.uk/proxy/prienter?mp=/stream&_=1739569292206",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.phantomradio.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c422abf3-929d-41bc-9d39-bffdf56b7a7e",
+   "name": "Christmas FM Classical & Carols",
+   "url": "https://christmasfm.cdnstream1.com/2549_64.aac",
+   "hls": false,
+   "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-180x180.png",
+   "homepage": "https://christmasfm.com/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "carols",
+    "christmas",
+    "classical"
+   ]
+  },
+  {
+   "id": "79f786a8-0f1b-494c-a965-1fd4f90bfb73",
+   "name": "TrancePulse Dublin",
+   "url": "https://stream.trance.ie:8443/stream",
+   "hls": false,
+   "logo": "https://trancepulsefm.ie/wp-content/uploads/elementor/thumbs/Trancepulse-1-qhvmeannx5ha8zqboniuwvif323gi2k5pqrpcwjovs.png",
+   "homepage": "https://trancepulsefm.ie/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b27fcc5a-2949-4df6-8d0a-d812f6f48063",
+   "name": "Beat 102-103",
+   "url": "https://live-bauerie.sharp-stream.com/BEAT",
+   "hls": false,
+   "logo": "https://www.beat102103.com/images/ico/android-icon-192x192.png",
+   "homepage": "http://www.beat102103.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "124b8ece-53b7-11ea-be63-52543be04c81",
+   "name": "TodayFm",
+   "url": "https://edge.audioxi.com/TDAAC",
+   "hls": false,
+   "logo": "https://www.todayfm.com/i/android-icon-192x192.png?v=6",
+   "homepage": "https://todayfm.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "aa9ee750-9e83-4360-89db-ab8f4c416a79",
+   "name": "Freedom FM",
+   "url": "https://edge3.audioxi.com/FREEDOMFM",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/606/655bcddbaa77f.png",
+   "homepage": "https://freedomfm.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "00s",
+    "2000s",
+    "90s",
+    "dance",
+    "pop"
+   ]
+  },
+  {
+   "id": "6650bb57-12aa-41d3-8ae4-ed5dcf0909cd",
+   "name": "8Radio",
+   "url": "https://stream.rcast.net/66127",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://8radio.com/listen/8radio320k/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "indie rock"
+   ]
+  },
+  {
+   "id": "aa92d0d1-fce2-4897-9211-0a10fd879471",
+   "name": "Radio Siamsa",
+   "url": "https://cast02.siamsa.ie/radio/8000/radio.mp3",
+   "hls": false,
+   "logo": "https://siamsa.ie/favicon.ico",
+   "homepage": "https://siamsa.ie/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "irish traditional",
+    "mp3"
+   ]
+  },
+  {
+   "id": "b61dd7ab-6f38-4ac6-9c62-24a53358c656",
+   "name": "RTÉ lyric fm",
+   "url": "https://liveaudio.rte.ie/hls-radio/lyric/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/lyricfm/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical music",
+    "music"
+   ]
+  },
+  {
+   "id": "2e2e3729-2304-474c-a4d1-eeb91609f9bd",
+   "name": "Gem Radio New Wave",
+   "url": "https://gemradionw.radioca.st/;stream.nsv",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/3/111903.v1.png",
+   "homepage": "https://gemradio.webs.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70's",
+    "80's",
+    "new wave"
+   ]
+  },
+  {
+   "id": "1c33aa8c-bb01-412f-aa63-e94aa6c33770",
+   "name": "Clonmellon Community Radio",
+   "url": "https://eu8.fastcast4u.com/proxy/ccr?mp=/1",
+   "hls": false,
+   "logo": "https://www.liveradio.ie/files/images/344781/resized/180x172c/clonmellon_community_radio.jpg",
+   "homepage": "https://www.clonmelloncommunityradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "60s",
+    "70s",
+    "dance music",
+    "irish",
+    "irish music"
+   ]
+  },
+  {
+   "id": "e0e39893-e989-4ec3-a57a-e184c4e0af7a",
+   "name": "Scariff Bay Community Radio",
+   "url": "https://s4.radio.co/s87ac5cf5a/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.scariffbayradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "42aced42-4f18-4b3b-a7c4-a522f71877a7",
+   "name": "Onic Country",
+   "url": "https://live.onic.ie/stream-country?_=267164",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eece1b64dda.png",
+   "homepage": "https://www.onic.ie/player/onic-country/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "08d1d016-ff49-4e50-95be-e2ded8a32924",
+   "name": "HeadWax Radio",
+   "url": "https://headwaxradio.radioca.st/stream",
+   "hls": false,
+   "logo": "https://www.wix.com/favicon.ico",
+   "homepage": "https://www.headwaxradio.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "jazz fusion"
+   ]
+  },
+  {
+   "id": "e2a68842-b99a-4175-a139-4c842bd0268b",
+   "name": "RTÉ Gold",
+   "url": "https://liveaudio.rte.ie/hls-radio/gold/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/gold/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic hits"
+   ]
+  },
+  {
+   "id": "bf149353-e79c-4a67-bd8d-d6e961b22651",
+   "name": "Retro Rewind",
+   "url": "https://a10.asurahosting.com:7050/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.retrorewind.ie/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "90s",
+    "club dance",
+    "dance"
+   ]
+  },
+  {
+   "id": "6297d10b-e9a9-4f6b-8504-0aba01f646bd",
+   "name": "UCBI WORSHIP",
+   "url": "https://stream.btsstream.com/stream/iworship",
+   "hls": false,
+   "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fuk.radio.net%2Fimages%2Fbroadcasts%2F93%2F9f%2F130137%2F1%2Fc300.png&tbnid=_l8rjHnL2ip3MM&vet=12ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9..i&imgrefurl=https%3A%2F%2Fuk.radio.net%2Fs%2Fucbirelandworship&docid=LLoJBiNVqqetTM&w=300&h=300&q=ucbi%20worship&client=firefox-b-lm&ved=2ahUKEwjBkOeNpIaBAxWBs4sKHWJKCJwQMygAegQIARA9",
+   "homepage": "https://www.ucbireland.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "praise & worship"
+   ]
+  },
+  {
+   "id": "ab60fa96-0abd-4896-9156-91874f8240d2",
+   "name": "PlanetRadioie",
+   "url": "https://media.planetradio.ie/radio/8000/OnAir",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://planetradio.ie/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1960s and 1970s",
+    "1980s hits",
+    "1990s hits",
+    "classic hits"
+   ]
+  },
+  {
+   "id": "52637865-3e18-49af-b28d-191f4ff201eb",
+   "name": "Newstalk Ireland AAC",
+   "url": "https://live-bauerie.sharp-stream.com/NTAAC",
+   "hls": false,
+   "logo": "https://www.newstalk.com/i/android-icon-192x192.png",
+   "homepage": "http://www.newstalk.ie/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": []
+  },
+  {
+   "id": "069656f5-0e23-4564-bd0a-33d9b220415b",
+   "name": "Raidió na Gaeltachta",
+   "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "irish language",
+    "mixed"
+   ]
+  },
+  {
+   "id": "17bd5838-0913-498e-b914-bbdd564e2ee5",
+   "name": "RTÉ Raidió na Gaeltachta",
+   "url": "https://liveaudio.rte.ie/hls-radio/rnag/chunklist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.rte.ie/radio/rnag/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "gaelic",
+    "irish language",
+    "mixed"
+   ]
+  },
+  {
+   "id": "33f01714-75d1-43c7-bf21-f373e9dcd0ed",
+   "name": "iRadio",
+   "url": "https://live-bauerie.sharp-stream.com/IRADNWAAC",
+   "hls": false,
+   "logo": "https://pbs.twimg.com/profile_images/1425495497410818050/btb4eQjn_400x400.jpg",
+   "homepage": "https://iradio.ie/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "top 40"
+   ]
+  },
+  {
+   "id": "f399310e-9579-4ee1-9dcd-a51446c71003",
+   "name": "PHEVER Radio",
+   "url": "https://uk1.internet-radio.com/proxy/phever?mp=/live",
+   "hls": false,
+   "logo": "https://www.phever.ie/images/placeholder.png",
+   "homepage": "https://www.phever.ie/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "djs"
+   ]
+  },
+  {
+   "id": "df44c4d5-df63-4f39-9230-ea57fa8d916b",
+   "name": "Rewind",
+   "url": "https://christmasfm.cdnstream1.com/2551_128.mp3",
+   "hls": false,
+   "logo": "https://imgur.com/Kc1dhwp",
+   "homepage": "https://rewind.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic hits",
+    "gold",
+    "oldies"
+   ]
+  },
+  {
+   "id": "6e4ddbf5-2c69-4d7d-852c-8e79e4729d28",
+   "name": "Onic Kids",
+   "url": "https://live.onic.ie/stream-kids?_=661229",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eecf376f000.png",
+   "homepage": "https://www.onic.ie/player/onic-kids/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "kids"
+   ]
+  },
+  {
+   "id": "8f4d9243-18e1-466f-ab9d-ccb0f3eef312",
+   "name": "XT Alternative",
+   "url": "https://xt.stream.ie:8443/xt",
+   "hls": false,
+   "logo": "https://pri.ie/wp-content/uploads/2025/01/5b80707a-6c35-40eb-98bb-f1f29938c3cd.png",
+   "homepage": "https://pri.ie/xt_independent_alternative",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "alternative / indie",
+    "alternative indie rock",
+    "alternative rock",
+    "indie"
+   ]
+  },
+  {
+   "id": "1944c914-af4a-406a-b108-9b71781c598b",
+   "name": "BRIAN DALY",
+   "url": "https://uksoutha.streaming.broadcast.radio:28140/lifefm",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.lifefm.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "community radio",
+    "religious"
+   ]
+  },
+  {
+   "id": "85038c56-31f9-455b-a4bd-e43a5264d51f",
+   "name": "MPB Radio 1",
+   "url": "https://sc.mpbnl.nl/radio1.mp3",
+   "hls": false,
+   "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio1.png",
+   "homepage": "https://mpbradio1.com",
+   "codec": "AAC+",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "pop music",
+    "pop",
+    "hit music"
+   ]
+  },
+  {
+   "id": "6de5904b-f41d-45f6-be47-c1307df27633",
+   "name": "Q102",
+   "url": "https://wg.cdn.tibus.net/q102MP3128",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "8a4afabd-a6f3-4bae-8c1a-1ffb781b9835",
+   "name": "PlayFm Dublin",
+   "url": "https://stream.playfmdublin.com/radio192.mp3",
+   "hls": false,
+   "logo": "https://playfmdublin.com/wp-content/uploads/2023/08/Fav.jpg",
+   "homepage": "https://playfmdublin.com/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "afro house",
+    "balearic",
+    "chillout",
+    "deep house",
+    "disco"
+   ]
+  },
+  {
+   "id": "64d8a757-8514-415e-8aa6-0ea0fd9e22b4",
+   "name": "Live95FM",
+   "url": "https://wg.cdn.tibus.net/Live95fm?aw_0_1st.playerId=wireless-website&listenerid=48213c18339e02bbc93dc6ed298c2192&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&_=796350",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+   "homepage": "https://www.live95fm.ie/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6ed98dba-c585-42a8-85de-a2b45e8b7d45",
+   "name": "Onic 80s",
+   "url": "https://live.onic.ie/stream-80s?_=184336",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eecd2991bb4.png",
+   "homepage": "https://www.onic.ie/player/onic-country/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "80s"
+   ]
+  },
+  {
+   "id": "25b78904-5bff-4fe1-985b-0440774c7ba2",
+   "name": "Funky Ass Tunes",
+   "url": "https://ams1.reliastream.com/proxy/john12/stream",
+   "hls": false,
+   "logo": "https://funkyasstunes.com/public_3a05_aceb1777f3554a7da05b8a52cb676132.png",
+   "homepage": "https://funkyasstunes.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "funk",
+    "lounge",
+    "rare groove",
+    "soul"
+   ]
+  },
+  {
+   "id": "efc272c7-1db4-4e49-b94f-3106ad623746",
+   "name": "Energy 106 Belfast Northern Ireland",
+   "url": "https://stream1.hippynet.co.uk:8189/Studio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.energy106.co.uk/",
+   "codec": "AAC+",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "electronic dance music"
+   ]
+  },
+  {
+   "id": "6cafffd6-6368-47ff-a6e4-fc82945f7125",
+   "name": "The Zone - Dublin",
+   "url": "https://uk1.internet-radio.com/proxy/thezone/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.thezonedublin.org/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "alternative / indie",
+    "classic rock",
+    "indie"
+   ]
+  },
+  {
+   "id": "04cf4250-cc1b-4a50-98e9-886058ab3096",
+   "name": "Wired FM - FM 99.9 - Limerick, Ireland",
+   "url": "https://s2.radio.co/sf0986595a/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.wiredfm.ie/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "college",
+    "education",
+    "science",
+    "technology"
+   ]
+  },
+  {
+   "id": "e2d36184-272d-4976-9518-4a174e17d11a",
+   "name": "MPB Radio 2 90s & 00s",
+   "url": "https://sc.mpbnl.nl/radio2-90s00s.mp3",
+   "hls": false,
+   "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio2-90s00s.png",
+   "homepage": "https://mpbradio2.com",
+   "codec": "AAC+",
+   "bitrate": 384,
+   "category": "music",
+   "tags": [
+    "pop music",
+    "pop",
+    "hit music",
+    "90s music",
+    "rave"
+   ]
+  },
+  {
+   "id": "8207a7a8-9644-4088-9949-05a98709f159",
+   "name": "Off The Ball",
+   "url": "https://stream.audioxi.com/OTB?aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.playerId=BMIE_GoLoudWeb&aw_0_1st.premium=false",
+   "hls": false,
+   "logo": "https://www.offtheball.com/images/logo-stacked-otb.svg?v1694182767",
+   "homepage": "https://www.offtheball.com/",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "ireland",
+    "sport",
+    "sports news",
+    "sports talk"
+   ]
+  },
+  {
+   "id": "973aedb0-2763-4e70-8ab7-90978ab4278d",
+   "name": "CFC FM",
+   "url": "https://visual.shoutca.st/stream/crcfm",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://crcfm.ie/index.html",
+   "codec": "AAC+",
+   "bitrate": 384,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ca8c736b-8547-46a3-a5ea-b5c729f4dbf4",
+   "name": "Free FM Ireland",
+   "url": "https://rocafmadrid.radioca.st/stream",
+   "hls": false,
+   "logo": "https://3.bp.blogspot.com/-BTWauI1ML7o/XZOklz5WuRI/AAAAAAAAAeA/R8qBxhme8UEELRogqYOhtWG4p0BVhiwVgCK4BGAYYCw/s752/free%2Bancho.jpg",
+   "homepage": "http://freefmradio.net/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "#free",
+    "#freefm",
+    "80s",
+    "90s",
+    "free fm"
+   ]
+  },
+  {
+   "id": "6a434991-0bdf-4d94-bb07-0efc0e881292",
+   "name": "Ignore Radio shoegaze",
+   "url": "https://sp1.autopo.st/8026/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://ignoreradio.com/wp/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "88a59146-5416-46ad-97d0-747ef2ad87fb",
+   "name": "Live95 Limerick",
+   "url": "https://live.onic.ie/stream-live95",
+   "hls": false,
+   "logo": "https://mm.aiircdn.com/617/5d77b07fec8c4.png",
+   "homepage": "https://www.live95fm.ie/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "91bbf0a0-0a94-4363-ac42-c86992c6872f",
+   "name": "Midlands 103",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDLANDS_103.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.midlands103.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "cfd84c16-fd97-410e-8333-f6498996c754",
+   "name": "Midwest Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIDWEST_RADIOAAC.m3u8",
+   "hls": true,
+   "logo": "https://www.midwestradio.ie/wp-content/uploads/2024/11/Midwest_Radio.jpg",
+   "homepage": "https://www.midwestradio.ie/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "946f6cec-2fce-4c2e-b89d-6875f313154d",
+   "name": "HITMIX RADIO IRELAND",
+   "url": "https://a8.asurahosting.com:7180/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://hitmixradioireland.blogspot.com/?m=1",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "dance",
+    "top 40",
+    "variety"
+   ]
+  },
+  {
+   "id": "826ea1a0-238b-44c2-8964-4c1449a299e6",
+   "name": "Onic Hits",
+   "url": "https://live.onic.ie/stream-hits?_=408214",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eea1328caba.png",
+   "homepage": "https://www.onic.ie/player/onic-hits/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hits"
+   ]
+  },
+  {
+   "id": "147538f0-2ca5-4844-97af-90cd2be99c28",
+   "name": "98fm Dance",
+   "url": "https://edge.audioxi.com/98DANCE",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.98fm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7daeeed1-ab41-44b2-af95-532ad0ab0fc7",
+   "name": "Circle Of White Light Radio",
+   "url": "https://eu4.fastcast4u.com/proxy/cowlradio?mp=/1",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.circleofwhitelight.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "local talk",
+    "news",
+    "news talk",
+    "world"
+   ]
+  },
+  {
+   "id": "98301d1a-ed24-4653-afbe-e7113ea8f0e7",
+   "name": "Onic Movies",
+   "url": "https://live.onic.ie/stream-movies?_=55552",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/67eecfc515e09.png",
+   "homepage": "https://www.onic.ie/player/onic-movies/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "movie scores",
+    "movie soundtracks",
+    "movies"
+   ]
+  },
+  {
+   "id": "dab42837-8e90-43e0-8d50-c8e3742b4d3f",
+   "name": "Christmas FM Ireland",
+   "url": "https://christmasfm.cdnstream1.com/2547_128.mp3?listenerId=esTrackblock097016&aw_0_1st.playerid=esPlayer&aw_0_1st.skey=1692448019",
+   "hls": false,
+   "logo": "https://christmasfm.com/wp-content/uploads/cropped-cfm-hat-512x512-1-192x192.png",
+   "homepage": "https://christmasfm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "32e96359-9dbb-4cc8-adf9-7d5a948223db",
+   "name": "Spin1038",
+   "url": "https://live-bauerie.sharp-stream.com/SP",
+   "hls": false,
+   "logo": "https://www.spin1038.com/i/android-icon-192x192.png",
+   "homepage": "http://www.spin1038.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "65f29258-bc0a-4e9d-877d-6a6ef688e1a9",
+   "name": "University College Cork",
+   "url": "https://stream.btsstream.com:8060/ucc.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.ucc.ie/en/983fm/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "college",
+    "cork",
+    "ireland",
+    "ucc"
+   ]
+  },
+  {
+   "id": "b75b0946-9f42-4c9d-bff2-ea13f9141356",
+   "name": "Cork's RedFM",
+   "url": "https://live-bauerie.sharp-stream.com/RED",
+   "hls": false,
+   "logo": "https://www.redfm.ie/i/android-chrome-192x192.png",
+   "homepage": "https://www.redfm.ie/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "d63753bc-0514-4bb4-8559-7be104fa189e",
+   "name": "Today FM 80s",
+   "url": "https://live-bauerie.sharp-stream.com/T80",
+   "hls": false,
+   "logo": "https://www.todayfm.com/i/android-icon-192x192.png",
+   "homepage": "http://www.todayfm.com/TodayFM80s",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "128a4337-41ce-423a-bedf-28ff5d27e8dd",
+   "name": "MPB Radio 2",
+   "url": "https://sc.mpbnl.nl/radio2.mp3",
+   "hls": false,
+   "logo": "https://radiodns.mpbnl.nl/logos/mpb/radio2.png",
+   "homepage": "https://mpbradio2.com",
+   "codec": "AAC+",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "pop music",
+    "pop",
+    "hit music",
+    "70s",
+    "80s"
+   ]
+  },
+  {
+   "id": "cbaff03f-5f1a-4b25-9822-900325aee353",
+   "name": "MPB Radio 1 Dance",
+   "url": "https://icy1.mpbnl.nl/radio1-mm",
+   "hls": false,
+   "logo": "https://www.mpbradio1.com/_next/image?url=%2Fincludes%2Fpng%2Flogo.png&w=128&q=80",
+   "homepage": "https://www.mpbradio1.com/",
+   "codec": "AAC+",
+   "bitrate": 384,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e9a7b860-6641-491d-bde2-24cad72c3026",
+   "name": "98FM Throwback",
+   "url": "https://live-bauerie.sharp-stream.com/98",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.98fm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5f374674-a09e-44f4-9700-a2647915bfc8",
+   "name": "Minimal & Deep-tech on MixLive.net",
+   "url": "https://free.rcast.net/200710",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.mixlive.net/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "deep and minimalist sounds"
+   ]
+  },
+  {
+   "id": "316ce48f-fc79-43cd-b669-73a6bd460c23",
+   "name": "Ambient Lounge on MixLive.net",
+   "url": "https://free.rcast.net/200707",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.mixlive.net/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "downtempo",
+    "easy listening"
+   ]
+  },
+  {
+   "id": "c3d4c77d-e090-44a4-ab26-dea91ab5d215",
+   "name": "FM104",
+   "url": "https://wg.cdn.tibus.net/fm104MP3128?aw_0_1st.playerId=wireless-website&listenerid=79ac2cc9cb7616aca4d7286d94dd9291&awparams=companionAds%3Atrue&aw_0_req.gdpr=false&aw_0_req.userConsentV2=undefined&aw_0_1st.octave_permutive=%5B%2282977%22%5D&_=472417",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/301/63435a48d085e.png",
+   "homepage": "https://www.fm104.ie/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-30T15:51:41.798Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "인천공항서 中항공사 발권 시스템 5시간 오류… 1200명 발 묶여",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.chosun.com/national/national_general/2026/10/31/PZC6YCADDZDQLJ7NA4X7VK4QEE/"
+  },
+  {
+   "type": "section",
+   "headline": "‘총의 나라’ 美서 활로 사슴과 전쟁 벌이는 ‘시티 헌터’",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/international/international_general/2026/10/31/WYJW3DSO2BFMFPI3LKUFPPKGIQ/"
+  },
+  {
+   "type": "section",
+   "headline": "SK 사장단 인사… 반도체는 ‘안정’ 에너지는 ‘쇄신’",
+   "options": [
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.chosun.com/economy/industry-company/2026/10/31/DZJOPOALBVCLPDVL6N752K4IYM/"
+  },
+  {
+   "type": "source",
+   "headline": "카카오 노사협상안을 네이버 노조가 이끄나",
+   "options": [
+    "BBC News 코리아",
+    "매일경제",
+    "조선일보",
+    "오마이뉴스"
+   ],
+   "answer": 1,
+   "url": "https://www.mk.co.kr/news/business/12089062"
+  },
+  {
+   "type": "source",
+   "headline": "李 “다문화가정 과잉 우대, 극우 선동 빌미 될 수 있어”",
+   "options": [
+    "조선일보",
+    "오마이뉴스",
+    "BBC News 코리아",
+    "매일경제"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/politics/politics_general/2026/10/30/3CPCRCS35FAA7LQZDPVF4SE3N4/"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "minAppVersion": "1.0.0",
+ "ads": {
+  "enabled": true,
+  "nativeEvery": 6,
+  "interstitialAfterQuizzes": 2
+ },
+ "features": {
+  "liveTv": true,
+  "radio": true,
+  "quiz": true,
+  "shorts": false,
+  "leagues": true
+ },
+ "refreshMinutes": 15
+}

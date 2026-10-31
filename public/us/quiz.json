@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T05:31:50.969Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "US approves proposed $2.1B sale of Patriot interceptors to Ukraine",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://abcnews.com/US/wireStory/us-approves-proposed-21-billion-sale-patriot-interceptors-137720328"
+  },
+  {
+   "type": "section",
+   "headline": "Carney expects to conclude talks in June on making Canada EU's first associate member",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://abcnews.com/International/wireStory/prime-minister-carney-expects-conclude-talks-june-making-137703585"
+  },
+  {
+   "type": "section",
+   "headline": "How Southeast Asia can realize its commercial promise amid geopolitical rivalry",
+   "options": [
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://fortune.com/2026/10/31/how-southeast-asia-can-realize-its-commercial-promise-amid-geopolitical-rivalry/"
+  },
+  {
+   "type": "source",
+   "headline": "WATCH: Runner looks forward to his 50th straight NYC marathon",
+   "options": [
+    "BBC News",
+    "The Hill",
+    "ABC News",
+    "UPI"
+   ],
+   "answer": 2,
+   "url": "https://abcnews.com/video/137720336/"
+  },
+  {
+   "type": "source",
+   "headline": "Judge blocks DOJ from threatening election officials over noncitizen voting claims",
+   "options": [
+    "ABC News",
+    "BBC News",
+    "UPI",
+    "The Hill"
+   ],
+   "answer": 3,
+   "url": "https://thehill.com/regulation/court-battles/6185891-judge-stops-trump-election-threats/"
+  }
+ ]
+}

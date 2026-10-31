@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:06:56.255Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Hier kannst du am Samstag auf die Piste – auf der grünen Wiese",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/schweiz/bern/trotz-rekordsommer-hier-kannst-du-am-samstag-auf-die-piste/nkrhbdg"
+  },
+  {
+   "type": "section",
+   "headline": "Lufthansa-Crewmitglied in Indien tödlich verletzt",
+   "options": [
+    "ENTERTAINMENT",
+    "HEALTH",
+    "WORLD",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/ausland/lufthansa-crewmitglied-in-indien-toedlich-verletzt/gwysr0b"
+  },
+  {
+   "type": "section",
+   "headline": "Anzeige: Beliebte Dyson-Alternative: Akku-Staubsauger f�r weniger als 140 Euro im Amazon-Angebot",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.golem.de/news/anzeige-beliebte-dyson-alternative-akku-staubsauger-fuer-weniger-als-140-euro-im-amazon-angebot-2610-214707.html"
+  },
+  {
+   "type": "section",
+   "headline": "Davoser drehen das Spiel dank Last-Minute-Shorthander",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.blick.ch/sport/eishockey/nl/national-league-davos-dreht-das-spiel-gegen-die-lakers/khfrwte"
+  },
+  {
+   "type": "section",
+   "headline": "Zoe Torinesi spricht offen über ihre Fehlgeburten",
+   "options": [
+    "NATION",
+    "WORLD",
+    "SPORTS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/people-tv/schweiz/zoe-torinesi-moderatorin-ueber-fehlgeburten-tv-kuss-treue/1j3f651"
+  }
+ ]
+}

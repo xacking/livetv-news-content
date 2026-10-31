@@ -1,0 +1,1147 @@
+{
+ "generatedAt": "2026-10-31T11:15:55.165Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "00dc2e9a-578c-430b-bdc2-244b71444dfc",
+   "name": "Qmusic Belgium",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+   "hls": false,
+   "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "529b71b3-ac05-426c-bd8c-6ae981713900",
+   "name": "JOE",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+   "homepage": "https://joe.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "9e31c4e7-03b6-4a80-a4e2-5977b023d32c",
+   "name": "Tomorrowland One World Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+   "hls": false,
+   "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+   "homepage": "https://www.tomorrowland.com/home/radio",
+   "codec": "AAC+",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "451491bd-624e-41e8-ab4c-71816f10611e",
+   "name": "Nostalgie Vlaanderen",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWHATAFEELING.mp3?dist=radiobrowser",
+   "hls": false,
+   "logo": "https://nl.nostalgie.be/icons/icon-144x144.png?v=f2b073e495322d52deec159c8bdcaf20",
+   "homepage": "https://nl.nostalgie.be/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "70's",
+    "80's",
+    "90's",
+    "oldies"
+   ]
+  },
+  {
+   "id": "7bfe222c-6b98-4aec-8550-93c491bb2d1f",
+   "name": "Willy",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be/aac",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s308770/images/logod.jpg",
+   "homepage": "https://www.willy.radio/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "ad3d3e30-76e8-11e9-8b97-52543be04c81",
+   "name": "RTBF Classic 21",
+   "url": "https://radios.rtbf.be/classic21-128.mp3",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/classic21/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "961d37d6-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF La Première",
+   "url": "https://radios.rtbf.be/laprem1ere-64.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/lapremiere/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "news",
+    "rtbf",
+    "variety"
+   ]
+  },
+  {
+   "id": "73b1c888-e135-49db-a5c5-09e104088c13",
+   "name": "Tipik",
+   "url": "https://radios.rtbf.be/pure-128.mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
+   "homepage": "https://www.rtbf.be/radio/liveradio/tipik",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "alternative pop",
+    "chansons françaises",
+    "pop"
+   ]
+  },
+  {
+   "id": "cdf1baaf-ed22-41c5-8c9e-90b4133fda8f",
+   "name": "Joe 80's & 90's",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_80s_90s.mp3",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/x7fzbddfxjqy.jpg",
+   "homepage": "https://joe.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "80's",
+    "90's",
+    "hits"
+   ]
+  },
+  {
+   "id": "f6e76c0f-9453-4ffc-ac1c-1e26e302ec61",
+   "name": "100% Retro",
+   "url": "https://server.musicstars.online/radio/8000/listen",
+   "hls": false,
+   "logo": "https://www.starradio.online/favicon-194x194.png?v=0.3.0",
+   "homepage": "https://www.starradio.online/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "130f37a8-bcba-4d2d-a39d-a1881df1f185",
+   "name": "Qmusic",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s87683/images/logod.png",
+   "homepage": "https://qmusic.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "960ee5c9-0601-11e8-ae97-52543be04c81",
+   "name": "Fun Radio",
+   "url": "https://funradiobe.ice.infomaniak.ch/funradiobe-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://funradio.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "109338aa-a5fb-4c1b-a0cc-78961a55324c",
+   "name": "joe easy",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://streams.radio.dpgmedia.cloud/redirect/joe_easy/aac",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "smoothest songs"
+   ]
+  },
+  {
+   "id": "4dad0ae3-720a-434e-b350-7186e4c5ea6f",
+   "name": "MyNoise Pure Nature",
+   "url": "https://purenature-mynoise.radioca.st/stream",
+   "hls": false,
+   "logo": "https://mynoise.net/apple-touch-icon.png",
+   "homepage": "https://mynoise.net/",
+   "codec": "MP3",
+   "bitrate": 160,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "ambient and relaxation music",
+    "nature"
+   ]
+  },
+  {
+   "id": "db4e7fb7-dfe8-4e2d-a11c-f67420a14ed8",
+   "name": "VRT Radio 1",
+   "url": "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
+   "hls": true,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/yeD5X7FMM5.png",
+   "homepage": "https://radio1.be/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "music",
+    "news",
+    "talk"
+   ]
+  },
+  {
+   "id": "ef1c8706-bb25-4087-90f0-63b05a2bd8d0",
+   "name": "Musiq3 Baroque",
+   "url": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
+   "hls": false,
+   "logo": "https://www.rtbf.be/favicon.ico",
+   "homepage": "https://www.rtbf.be/radio/liveradio/musiq3-baroque",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "364d5674-440e-4b2b-a2fb-a7688a8738a0",
+   "name": "Nostalgie Belgique",
+   "url": "https://stream.rcs.revma.com/5gd04cwptg0uv",
+   "hls": false,
+   "logo": "https://www.nostalgie.be/build/images/favicon.png",
+   "homepage": "https://www.nostalgie.be/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "64kbps",
+    "aac",
+    "belgium",
+    "chanson française",
+    "classic hits"
+   ]
+  },
+  {
+   "id": "e48ae8dd-5c38-4f3a-b91e-1b3afeee20c8",
+   "name": "Classic 21 80's New Wave",
+   "url": "https://redbeemedia.streamabc.net/redbm-c2180snw-mp3-128-2391383?sABC=65084369%230%232qqpnss01895rqr0s8oq129o03s183o0%23zr&aw_0_1st.playerid=me&amsparams=playerid:me;skey:1695040361",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/m4US9L9A3g.jpg",
+   "homepage": "https://www.rtbf.be/radio/liveradio/classic21_80_new_wave",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "1980's",
+    "new wave"
+   ]
+  },
+  {
+   "id": "a1ec55ee-e8fe-416c-9ee3-dc174bb4d186",
+   "name": "Q Music België",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.s-music.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "bae70c5c-9f3f-42fc-a83d-6c13920590e0",
+   "name": "Kiosk Radio",
+   "url": "https://kioskradiobxl.out.airtime.pro/kioskradiobxl_b",
+   "hls": false,
+   "logo": "https://kioskradio.com/favicon.png",
+   "homepage": "https://kioskradio.com/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "independent",
+    "music",
+    "variety",
+    "dj sets",
+    "electro"
+   ]
+  },
+  {
+   "id": "66617a79-5235-44d1-b59d-f996eae58a65",
+   "name": "Nostalgie 80's",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAF80.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.nostalgie.be/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "93e04f4d-f964-453a-9c64-9dd7bc32f21d",
+   "name": "Tomorrowland One World Radio - Anthems",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_ANTHEMS_ADP.aac",
+   "hls": false,
+   "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+   "homepage": "https://www.tomorrowland.com/home/radio",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance",
+    "edm",
+    "electronic"
+   ]
+  },
+  {
+   "id": "00610e32-00e0-477f-ab33-86e89da59aee",
+   "name": "48FM",
+   "url": "https://stream.48fm.com:8000/listen",
+   "hls": false,
+   "logo": "https://48fm.com/wp-content/uploads/48FM_Logo_header-site.png",
+   "homepage": "https://48fm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f9373e82-f848-4562-a617-032f075f0d0d",
+   "name": "BEST OLDIES RADIO",
+   "url": "https://a8.asurahosting.com:8090/radio.mp3",
+   "hls": false,
+   "logo": "https://impro.usercontent.one/appid/oneComWsb/domain/bestoldiesstation.com/media/bestoldiesstation.com/onewebmedia/BOR%20radio%20%20transparant%20favicon.png?etag=%222260-66d60cec%22&sourceContentType=image%2Fpng",
+   "homepage": "https://www.bestoldiesstation.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "78858bff-5418-4eba-9b98-4a6dadbab948",
+   "name": "Radio 1",
+   "url": "https://icecast.vrtcdn.be/radio1-mid.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://radio1.be/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "classics",
+    "information",
+    "news",
+    "news talk",
+    "traffic information"
+   ]
+  },
+  {
+   "id": "1fcdd3c4-5215-4cb2-b5b4-3c0aa3e606d8",
+   "name": "Joe Gold",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.joe.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "3ab448f4-5fc7-4760-a3cb-ece46f4996a9",
+   "name": "Q-music België",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/aac",
+   "hls": false,
+   "logo": "https://images.ctfassets.net/765y2hpj99ul/2uCTS3b1HUbwUKoFO7t2Jp/5d180f2fd667e917156df6194db05511/Qmusic-logo.png?w=640&q=70&fm=webp",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "top hits"
+   ]
+  },
+  {
+   "id": "0fe4a08f-cab6-4925-b561-f8a3cb5b8ec2",
+   "name": "Joe - All the way",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOE.mp3",
+   "hls": false,
+   "logo": "https://www.joe.be/favicon.ico",
+   "homepage": "https://www.joe.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "53317636-6b4d-4a76-91e1-d983022aba18",
+   "name": "Qmusic Maximum Hits",
+   "url": "https://audio-streaming.qmusic.be/q-maximum-hits.aac",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s348071/images/logod.jpg",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "dpgmedia",
+    "pop"
+   ]
+  },
+  {
+   "id": "960ede10-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - 60's",
+   "url": "https://radios.rtbf.be/wr-c21-60-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-60",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "60s",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "9638c05b-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF VivaCité Bruxelles",
+   "url": "https://radios.rtbf.be/vivabxl-64.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/vivacite/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rtbf"
+   ]
+  },
+  {
+   "id": "18755444-1a74-4b92-98ef-b7ad49d35a8c",
+   "name": "JOE BE",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe.mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s25741/images/logog.jpg?t=1",
+   "homepage": "https://joe.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "b181374f-fc11-4f7d-a3d6-09d0dad9bb4e",
+   "name": "Q-Foute Radio",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/q-foute-radio.aac?aw_0_1st.skey=1691506785&aw_0_1st.playerid=site-player",
+   "hls": false,
+   "logo": "https://qmusic.be/assets/qmusic-a1d81a5f88375b3c5507cbc0b064ce1fc8778a076a245bddfd4f2a3e2417c330.png",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "8e34646d-479e-451c-9bee-c3bb3cffad4f",
+   "name": "Joe - Top 2000",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://streams.radio.dpgmedia.cloud/redirect/top2000/mp3",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "fa4f0df3-5386-42ed-959d-e0ee2511fd36",
+   "name": "top radio retro",
+   "url": "https://str.topradio.be/topradioretroarena.mp3",
+   "hls": false,
+   "logo": "https://www.topradio.be/favicons/favicon-96x96.png",
+   "homepage": "https://www.topradio.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "96188fad-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - Reggae",
+   "url": "https://radios.rtbf.be/wr-eventradio-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbf.be/radio/liveradio/wr-eventradio",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "reggae",
+    "roots reggae",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "c69d5d10-7028-4713-ba7c-3172e2adba06",
+   "name": "One World Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OWR_INTERNATIONAL_ADP.aac",
+   "hls": false,
+   "logo": "https://www.tomorrowland.com/home/apple-touch-icon.png",
+   "homepage": "https://www.tomorrowland.com/home/radio",
+   "codec": "AAC+",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "id": "960ee12b-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF VivaCité Hainaut",
+   "url": "https://radios.rtbf.be/vivahainaut-64.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/vivacite/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rtbf"
+   ]
+  },
+  {
+   "id": "9619cb9f-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Musiq3",
+   "url": "https://radios.rtbf.be/musiq3-128.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/radio/musiq3/ico/favicon-musiq3-32x32.png",
+   "homepage": "https://www.rtbf.be/musiq3/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classical",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "5f1da2ec-e53e-45e3-9df4-54622bb90537",
+   "name": "Qmusic Q-Allstars",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/q-allstars.aac",
+   "hls": false,
+   "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": [
+    "00's",
+    "10's",
+    "80's",
+    "90's"
+   ]
+  },
+  {
+   "id": "c89e0869-1247-4d43-9a96-84a4e1524b0b",
+   "name": "Willy Class X",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s322560/images/logod.jpg",
+   "homepage": "https://www.willy.radio/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "960ef105-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF VivaCité Liège",
+   "url": "https://radios.rtbf.be/vivaliege-64.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/vivacite/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rtbf"
+   ]
+  },
+  {
+   "id": "5a402f92-4b08-429e-a6ec-a6e915830098",
+   "name": "'tis Vloms - Affligem, be",
+   "url": "https://cast1.torontocast.com:4605/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://cast1.torontocast.com:4605/stream",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "local radio",
+    "pop"
+   ]
+  },
+  {
+   "id": "478a2e26-158f-4ba6-8cfb-a59af612d50e",
+   "name": "Contact MAX",
+   "url": "https://contactmax.ice.infomaniak.ch/contactmax-192.mp3",
+   "hls": false,
+   "logo": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://contactmax.be&size=256",
+   "homepage": "http://contactmax.be/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "2000's",
+    "80's",
+    "90's"
+   ]
+  },
+  {
+   "id": "7be6cf34-f482-4ad5-9dc8-9928f2cfe2ed",
+   "name": "Classic 21 80’s Hits",
+   "url": "https://radio.rtbf.be/c21-80s/mp3-128/me",
+   "hls": false,
+   "logo": "https://www.rtbf.be/favicon.ico",
+   "homepage": "https://www.rtbf.be/classic21",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "80's",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "77c8c400-f516-4960-99bb-037ca80452c5",
+   "name": "VRT Studio Brussel",
+   "url": "https://icecast.vrtcdn.be/stubru.aac",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/VRT_Studio_Brussel4184x184.png",
+   "homepage": "https://www.vrt.be/vrtmax/livestream/audio/studio-brussel/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "2c968248-99eb-4d52-b2ef-75e62ed795ce",
+   "name": "Nostalgie Extra",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIEWAFEXTRA.mp3",
+   "hls": false,
+   "logo": "https://nl.nostalgie.be/icons/icon-144x144.png?v=afcbc45fada5babe32741403f76fa06c",
+   "homepage": "https://nl.nostalgie.be/radio-player/nostalgie-classics-top-2021",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "192kbps",
+    "easy listening",
+    "pop"
+   ]
+  },
+  {
+   "id": "53e16709-cf6c-4e57-b029-068b376fb257",
+   "name": "BRF2 Radio",
+   "url": "https://streaming.brf.be/brf2-high.mp3",
+   "hls": false,
+   "logo": "https://2.brf.be/wp-content/themes/pixelpress/dist/assets/images/3/icons/apple-icon-120x120.png",
+   "homepage": "https://2.brf.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5ede37ba-a332-4607-b0c6-2469318c3649",
+   "name": "Topradio TopBam",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TOPBAM.mp3",
+   "hls": false,
+   "logo": "https://www.topradio.be/favicons/favicon-196x196.png",
+   "homepage": "https://www.topradio.be/player/topbam",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "hard techno",
+    "hardcore",
+    "hardstyle"
+   ]
+  },
+  {
+   "id": "960edf98-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF VivaCité Charleroi",
+   "url": "https://radios.rtbf.be/vivacharleroi-64.aac",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/vivacite/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rtbf"
+   ]
+  },
+  {
+   "id": "8cbb329c-b837-48f4-822a-920d6f39703a",
+   "name": "Tip!k",
+   "url": "https://radios.rtbf.be/pure-128.mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/0/07/Logo_Tipik.png",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6b2d6960-c77c-41ac-9ea7-6ff236ee9bf8",
+   "name": "Qmusic Foute Radio",
+   "url": "https://audio-streaming.qmusic.be/q-foute-radio.aac",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s308757/images/logod.jpg",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "eb08fd6e-fc21-4c9f-b720-63bea8c7ef0f",
+   "name": "Qmusic BE",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/qmusic.aac",
+   "hls": false,
+   "logo": "https://qmusic.be/assets/favicon/default-67977c4f518d45d3a639958e1c6c072532dd2e05cbef9e42cb9f8ecde1964c97.ico",
+   "homepage": "https://qmusic.be/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a5e06b90-2234-40e9-838a-3c3fb1e5e6b4",
+   "name": "Q-Foute Radio BE",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
+   "hls": false,
+   "logo": "https://qmusic.be/favicon.ico",
+   "homepage": "https://qmusic.be/kanalen/q-foute-radio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "053cc818-fc17-41cd-9447-c3f38264dd91",
+   "name": "Willy Classix",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/mp3",
+   "hls": false,
+   "logo": "https://www.willy.radio/favicon.ico",
+   "homepage": "https://www.willy.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classics"
+   ]
+  },
+  {
+   "id": "af77f69a-7d0b-4044-937c-784a799819d6",
+   "name": "BUZZ RADIO",
+   "url": "https://buzzradio.ice.infomaniak.ch/buzzradio-128.mp3?ua=Buzz%20Radio%20-%20audio%20player%201",
+   "hls": false,
+   "logo": "https://www.buzzradio.be/wp-content/uploads/2015/04/Buzzban.png",
+   "homepage": "https://www.buzzradio.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2d664b9c-6a7e-4497-bf0d-8dce07357db7",
+   "name": "ZZRock",
+   "url": "https://axtran.radioca.st/stream",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/4e31c3_ede9d3a6d2844853ac326447082428c2~mv2.png/v1/fill/w_238,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/ZZROCK.png",
+   "homepage": "https://www.zzrock.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9874e170-e211-4f09-a418-a59f764bb2af",
+   "name": "Vlaamse Wonderjaren",
+   "url": "https://cast1.torontocast.com:3305/stream",
+   "hls": false,
+   "logo": "https://vlaamsewonderjaren.be/wp-content/uploads/2018/11/cropped-vlaamse-wonderjaren-logo-transparant-180x180.png",
+   "homepage": "https://vlaamsewonderjaren.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "folklore",
+    "golden oldies",
+    "goldies",
+    "nederlandstalig",
+    "oldies"
+   ]
+  },
+  {
+   "id": "adc91d61-678e-48e4-a8af-8ca40d817276",
+   "name": "Topradio retro",
+   "url": "https://str.topradio.be/topradioretroarena.mp3",
+   "hls": false,
+   "logo": "https://www.topradio.be/favicons/favicon-96x96.png",
+   "homepage": "https://www.topradio.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "32f2eb10-b498-4c85-96aa-7d9c266d9910",
+   "name": "NRJ België",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NRJBELGIE.mp3?dist=radiobrowser",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://nl.nrj.be/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "hits",
+    "top 40"
+   ]
+  },
+  {
+   "id": "3ca26ed3-0fdf-4f35-b03a-c8b11883f0b9",
+   "name": "Nostalgie +",
+   "url": "https://stream.rcs.revma.com/s9mkgtsqtg0uv",
+   "hls": false,
+   "logo": "https://www.nostalgie.be/build/images/favicon.png",
+   "homepage": "https://www.nostalgie.be/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "60s",
+    "64kbps",
+    "70s",
+    "aac",
+    "belgium"
+   ]
+  },
+  {
+   "id": "e5649a5c-0a5b-4298-b4be-df18e1e74184",
+   "name": "Nostalgie_Love",
+   "url": "https://stream.rcs.revma.com/53zabb43ehuvv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.nostalgie.be/radioplayer/love",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "bf0d0d82-827f-43e4-a788-e9ad91c72a10",
+   "name": "Radio Oost-West",
+   "url": "https://icecast.movemedia.be/oostwest",
+   "hls": false,
+   "logo": "https://www.radiooostwest.be/wp-content/uploads/2018/01/cropped-Logo-enkel-32x32.png",
+   "homepage": "https://www.radiooostwest.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dutch music",
+    "french music",
+    "local music",
+    "local radio",
+    "rock"
+   ]
+  },
+  {
+   "id": "44c203b3-6c5f-4f8f-9ac8-5509ee6108de",
+   "name": "Nostalgie Cinema",
+   "url": "https://stream.rcs.revma.com/urds0v43ehuvv",
+   "hls": false,
+   "logo": "https://www.nostalgie.be/favicon.ico",
+   "homepage": "https://www.nostalgie.be/radioplayer/cinema",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "cinema",
+    "classic",
+    "french",
+    "movie",
+    "ost"
+   ]
+  },
+  {
+   "id": "964fea63-0601-11e8-ae97-52543be04c81",
+   "name": "Pure",
+   "url": "https://radios.rtbf.be/pure-128.mp3",
+   "hls": false,
+   "logo": "https://www.static.rtbf.be/rtbf/home/images/ico/favicon-info-32x32.png",
+   "homepage": "https://www.rtbf.be/pure/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "78fa40fb-d58a-4048-af2b-a30c94c1fa0c",
+   "name": "Willy Radio",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/willy.mp3",
+   "hls": false,
+   "logo": "https://www.willy.radio/",
+   "homepage": "https://www.willy.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c0f09661-faba-40c7-a6a7-1da8dfa7af14",
+   "name": "' t Is Vloms - Affligem, be",
+   "url": "https://cast1.torontocast.com:4605/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://tisvloms.eu/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "nederlandstalig"
+   ]
+  },
+  {
+   "id": "0df0cfb3-33a3-447c-8dd4-5e0a2e1edf4e",
+   "name": "De Geluidsfabriek",
+   "url": "https://s5.radio.co/s4674a3b1c/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.degeluidsfabriek.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "blues",
+    "classic rock",
+    "dutch music",
+    "jazz",
+    "pop"
+   ]
+  },
+  {
+   "id": "960edbcb-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - 90's",
+   "url": "https://radios.rtbf.be/wr-c21-90-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-90",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "90s",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "5b8e8e14-bd7c-413e-9fc5-acd875f3e6a6",
+   "name": "100% Retro Starradio",
+   "url": "https://server.musicstars.online/radio/8000/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.starradio.online/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "960ef299-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - Metal",
+   "url": "https://radios.rtbf.be/wr-c21-metal-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-metal",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "metal",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "539ecd46-8e75-48b8-9167-966441e9317d",
+   "name": "Musiq3 Jazz",
+   "url": "https://radios.rtbf.be/wr-m3-baroque-128.mp3",
+   "hls": false,
+   "logo": "https://www.rtbf.be/favicon.ico",
+   "homepage": "https://www.rtbf.be/radio/liveradio/webradio-musiq3-jazz",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "943ab33e-ef1c-48c4-b020-29b02257dec4",
+   "name": "Radio Wfm 105.4 - Westerlo, be",
+   "url": "https://mcp-2.mm-stream.nl:8126/WFM",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://wfm.be/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "variety"
+   ]
+  },
+  {
+   "id": "04f624fd-bc47-4f7a-af7e-0fd06dec4f98",
+   "name": "Nostalgie Italia",
+   "url": "https://stream.rcs.revma.com/81ta7143ehuvv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.nostalgie.be/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "musica italiana"
+   ]
+  },
+  {
+   "id": "9d4d67e0-686d-496a-bb68-24a629b93664",
+   "name": "RTBF Viva+",
+   "url": "https://radios.rtbf.be/vivaplus-128.mp3",
+   "hls": false,
+   "logo": "https://www.radio.fr/300/rtbfvivaplus.jpeg",
+   "homepage": "https://www.rtbf.be/vivaplus",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "668fc454-7978-4a54-b90c-084fdefae485",
+   "name": "VRT Radio 1 NWS",
+   "url": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://progressive-audio.vrtcdn.be/content/fixed/11_11niws-snip_hi.mp3",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1a6b6947-09e1-4f18-8494-214589bcd681",
+   "name": "Joe Lage Landen",
+   "url": "https://icecast-qmusicbe-cdp.triple-it.nl/joe_lage_landen.mp3",
+   "hls": false,
+   "logo": "https://joe.be/favicon.ico",
+   "homepage": "https://joe.be/luister/joe_lage_landen",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "960edd4c-0601-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - 80's",
+   "url": "https://radios.rtbf.be/wr-c21-80-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbf.be/radio/liveradio/webradio-classic21-80",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "80s",
+    "rtbf"
+   ]
+  },
+  {
+   "id": "4b6cfd36-ac02-4236-ab14-7458ad012328",
+   "name": "Q-Allstars",
+   "url": "https://streams.radio.dpgmedia.cloud/redirect/qbe_allstars/mp3",
+   "hls": false,
+   "logo": "https://cdn-radio.dpgmedia.net/6/98/d5/1a/111/Q-ALL_STARS-7-WEBSITE-220x220.png",
+   "homepage": "https://qmusic.be/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "17ea1f66-168a-11e8-ae97-52543be04c81",
+   "name": "RTBF Classic 21 - Route 66",
+   "url": "https://radios.rtbf.be/wr-c21-route66-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.rtbfradioplayer.be/radio/liveradio/webradio-classic21-66",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "country",
+    "rtbf"
+   ]
+  }
+ ]
+}

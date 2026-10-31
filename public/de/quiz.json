@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:12.630Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Berlin: Elif Eralp erhält Polizeischutz beim Linken-Parteitag",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/deutschland/2026-10/elif-eralp-berlin-polizeischutz-die-linke-spiegel"
+  },
+  {
+   "type": "section",
+   "headline": "Krieg gegen die Ukraine: USA billigen Verkauf von 500 Patriot-Raketen an die Ukraine",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+  },
+  {
+   "type": "section",
+   "headline": "Nasdaq mit Rekordtagesverlust : Wall Street geht gefleddert ins Wochenende",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "HEALTH",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.n-tv.de/wirtschaft/Wall-Street-geht-gefleddert-ins-Wochenende-id31478576.html"
+  },
+  {
+   "type": "source",
+   "headline": "\"Gemeinsame Entscheidung\": Scheidung bei \"The Substance\"-Star Margaret Qualley und Jack Antonoff",
+   "options": [
+    "ntv",
+    "Tagesspiegel",
+    "ZEIT ONLINE",
+    "DW"
+   ],
+   "answer": 0,
+   "url": "https://www.n-tv.de/leute/Scheidung-bei-The-Substance-Star-Margaret-Qualley-und-Jack-Antonoff-id31478695.html"
+  },
+  {
+   "type": "source",
+   "headline": "Erneut Attacke auf Jugendlichen in Potsdam: Polizeieinsatz am Rande einer Halloween-Party",
+   "options": [
+    "ntv",
+    "DW",
+    "Tagesspiegel",
+    "ZEIT ONLINE"
+   ],
+   "answer": 2,
+   "url": "https://www.tagesspiegel.de/potsdam/erneut-attacke-auf-jugendlichen-in-potsdam-polizeieinsatz-am-rande-einer-halloween-party-16221942.html"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:06.479Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Över 5 000 döda i utbrottet",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1502610&utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "CUF-toppen: ”Vill S se V i regering eller inte?”",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://omni.se/cuf-toppen-vill-s-se-v-i-regering-eller-inte/a/QgLmaA"
+  },
+  {
+   "type": "section",
+   "headline": "Helene fick jobb efter 600 ansökningar: ”Tackade såklart ja”",
+   "options": [
+    "ENTERTAINMENT",
+    "WORLD",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.aftonbladet.se/minekonomi/a/9kagVq/helene-fick-jobb-efter-600-ansokningar-tackade-saklart-ja?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Över 5 000 döda i ebolautbrottet",
+   "options": [
+    "Omni",
+    "Aftonbladet",
+    "Dagens ETC",
+    "Svenska Dagbladet"
+   ],
+   "answer": 1,
+   "url": "https://www.aftonbladet.se/nyheter/a/7725P8/over-5000-doda-i-ebolautbrottet?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Martina Montelius: ”Vad är ett förstört liv?”",
+   "options": [
+    "Svenska Dagbladet",
+    "Omni",
+    "Dagens ETC",
+    "Aftonbladet"
+   ],
+   "answer": 2,
+   "url": "https://www.etc.se/play/podd/martina-montelius-vad-aer-ett-foerstoert-liv?utm_source=rss"
+  }
+ ]
+}

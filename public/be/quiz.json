@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:36.171Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Kernkabinet om 21 uur afgelopen: “Geen doorbraken te noteren”",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/binnenland/kernkabinet-om-21-uur-afgelopen-geen-doorbraken-te-noteren~a9cb0fe2/"
+  },
+  {
+   "type": "section",
+   "headline": "Hoofd Pools Grondwettelijk Hof geschorst, oproeragenten gaan gebouw binnen na protesten: president annuleert reis",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "WORLD",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.hln.be/buitenland/hoofd-pools-grondwettelijk-hof-geschorst-oproeragenten-gaan-gebouw-binnen-na-protesten-president-annuleert-reis~acc61dc37/"
+  },
+  {
+   "type": "section",
+   "headline": "Na nettoverlies van 6 miljard: Volkswagen pauzeert ontwikkeling elektrische Golf",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.hln.be/autobedrijven/na-nettoverlies-van-6-miljard-volkswagen-pauzeert-ontwikkeling-elektrische-golf~a16bf2cf/"
+  },
+  {
+   "type": "source",
+   "headline": "LIVE. Max Verstappen ruziet met Liam Lawson in tweede vrije training, Charles Leclerc wederom de snelste",
+   "options": [
+    "Knack",
+    "Het Nieuwsblad",
+    "De Standaard",
+    "HLN"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/formule-1/live-max-verstappen-ruziet-met-liam-lawson-in-tweede-vrije-training-charles-leclerc-wederom-de-snelste~a2dde4d2/"
+  },
+  {
+   "type": "source",
+   "headline": "Coca-Cola sprankelt, Pepsico smaakt vooral zout",
+   "options": [
+    "Knack",
+    "Het Nieuwsblad",
+    "HLN",
+    "De Standaard"
+   ],
+   "answer": 3,
+   "url": "https://www.standaard.be/economie/geld/coca-cola-sprankelt-pepsico-smaakt-vooral-zout/163716948.html"
+  }
+ ]
+}

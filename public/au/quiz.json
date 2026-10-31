@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-30T15:50:26.173Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "SBS, ABC reject antisemitism envoy proposal for external ombudsman on Middle East",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.sbs.com.au/news/article/antisemitism-envoy-external-ombudsman-reporting/6tme8mttw"
+  },
+  {
+   "type": "section",
+   "headline": "Fears for two Australians caught up in Spanish train disaster",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/australians-in-spain-train-crash/jbj65mxn5"
+  },
+  {
+   "type": "section",
+   "headline": "Queensland Land Court approves proposed $1b coal mine",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.abc.net.au/news/2026-10-30/whitehaven-coalmine-expansion-approval-qld-land-court/107328464"
+  },
+  {
+   "type": "source",
+   "headline": "Evacuation begins from ravaged Russian-controlled Ukrainian city",
+   "options": [
+    "ABC News",
+    "7NEWS",
+    "SBS News",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://www.abc.net.au/news/2026-10-30/oleshky-evacuation-russian-controlled-city-ukrainian-war/107330652"
+  },
+  {
+   "type": "source",
+   "headline": "2027 Mitsubishi Triton GSR review",
+   "options": [
+    "7NEWS",
+    "BBC News",
+    "SBS News",
+    "ABC News"
+   ],
+   "answer": 0,
+   "url": "https://7news.com.au/motoring/2027-mitsubishi-triton-gsr-review-c-23096263"
+  }
+ ]
+}

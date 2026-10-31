@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T00:07:09.866Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Zeehondencentrum voorlopig gered van faillissement na 'overweldigende steun'",
+   "options": [
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/binnenland/6414990/zeehondencentrum-voorlopig-gered-van-faillissement-na-overweldigende-steun.html"
+  },
+  {
+   "type": "section",
+   "headline": "Zeldzame vondst in Pompeï: 2.000 jaar oude kast vol persoonlijke bezittingen",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/buitenland/6415002/zeldzame-vondst-in-pompei-2000-jaar-oude-kast-vol-persoonlijke-bezittingen.html"
+  },
+  {
+   "type": "section",
+   "headline": "Apple gaat Nvidia voorbij en is waardevolste beursbedrijf ter wereld",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/economie/6415001/apple-gaat-nvidia-voorbij-en-is-waardevolste-beursbedrijf-ter-wereld.html"
+  },
+  {
+   "type": "section",
+   "headline": "Hack en miljardenroof bij Binance laten zien wie echt de baas is over je cryptogeld",
+   "options": [
+    "SCIENCE",
+    "SPORTS",
+    "WORLD",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/economie/6414940/hack-en-miljardenroof-bij-binance-laten-zien-wie-echt-de-baas-is-over-je-cryptogeld.html"
+  },
+  {
+   "type": "section",
+   "headline": "Verstappen klokt vijfde tijd na opmerkelijk incident met Lawson in tweede training",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/formule-1/6415006/verstappen-klokt-vijfde-tijd-na-opmerkelijk-incident-met-lawson-in-tweede-training.html"
+  }
+ ]
+}

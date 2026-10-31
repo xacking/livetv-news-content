@@ -1,0 +1,66 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-30T15:51:11.276Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "東京メトロ 29年に運賃値上げへ",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://news.livedoor.com/article/detail/32695961/"
+  },
+  {
+   "type": "section",
+   "headline": "ソウル雑踏事故の映像をゲームに使用、遺族が米企業に削除求める",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SCIENCE",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.com/japanese/articles/cr0qk21qj482o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "【エミン・ユルマズ氏が語る】どうなる？日本株の行方／オルカンだけでは勿体無い？／気になる金利の行方/AI相場は材料不足？／日米の為替動向／注目の業種・セクター | ビジネス | 東洋経済オンライン",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://toyokeizai.net/articles/-/963142?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "AMD Ryzen 9 9950X3D×RX 9070 XT搭載PCが10万7000円引き！ パソコンショップSEVENの10月31日限定セール",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://ascii.jp/elem/000/004/447/4447094/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "槙野監督の猛抗議を機に、J2にVARが導入されない事情を解説",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://news.livedoor.com/article/detail/32696004/"
+  }
+ ]
+}

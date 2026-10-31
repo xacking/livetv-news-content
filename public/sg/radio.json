@@ -1,0 +1,360 @@
+{
+ "generatedAt": "2026-10-31T11:15:48.847Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "eef37dac-e2b2-4f37-bb86-81ac3fe65135",
+   "name": "CAPITAL 958",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/capital-958.png",
+   "homepage": "https://www.melisten.sg/radio/capital-958",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "8153ae5a-0cb6-4ed2-b54d-6e24ca5be5b6",
+   "name": "LOVE 972",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/love-972.png",
+   "homepage": "https://www.melisten.sg/radio/love-972",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "a0d91c55-3965-4a03-a0b7-2e76c8faa2cd",
+   "name": "YES 933",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/yes-933.png",
+   "homepage": "https://www.melisten.sg/radio/yes-933",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "f699e43f-b717-41d1-8d05-b5e07506a2d0",
+   "name": "WARNA 942",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/warna-942.png",
+   "homepage": "https://www.melisten.sg/radio/warna-942",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "82102b0e-68e9-411e-87b8-7cae36046096",
+   "name": "987FM",
+   "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www.melisten.sg/static/apple-icon-120x120.png",
+   "homepage": "https://www.melisten.sg/radio/987",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "music",
+    "news"
+   ]
+  },
+  {
+   "id": "b81bb1bf-879e-4e04-83f2-b04d824c378b",
+   "name": "GOLD 905",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/gold-905.png",
+   "homepage": "https://www.melisten.sg/radio/gold-905",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "aba522d0-e676-4098-b051-87e1db850716",
+   "name": "CLASS 95",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/class-95.png",
+   "homepage": "https://www.melisten.sg/radio/class-95",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "3f006a1e-172c-4e3e-a6f7-cb9ab9df21ca",
+   "name": "UFM 1003",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003_SC",
+   "hls": false,
+   "logo": "https://www.ufm1003.sg/wp-content/assets/5/img/NAV_01_Logo_1003.svg",
+   "homepage": "https://www.ufm1003.sg/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7122f761-9a93-48be-834c-a3c718bb54f5",
+   "name": "Singapore Chinese POP YES FM 933",
+   "url": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.melisten.sg/radio/yes-933/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "8c8b010b-07ec-4c69-a668-3c600d95e9bf",
+   "name": "Oli 96.8 FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+   "hls": false,
+   "logo": "https://www.melisten.sg/static/apple-touch-icon.png?v=2023",
+   "homepage": "https://www.melisten.sg/radio/oli968?c=968fm",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "d77838fc-f8dc-4b29-addc-dbe0de47b56c",
+   "name": "987",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/987.png",
+   "homepage": "https://www.melisten.sg/radio/987",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "ca8099de-1d34-424b-8a52-a1ee99ae6f4e",
+   "name": "OLI 968",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/oli-968.png",
+   "homepage": "https://www.melisten.sg/radio/oli-968",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "02835fc1-4cc9-4fc4-b103-bd846fea2792",
+   "name": "Beam FM",
+   "url": "https://beamfm.streeemer.com/listen/beam_fm/radio.aac",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/817/beam-fm-uk.edf8798f.png",
+   "homepage": "https://x.com/beamFmLive",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "hits",
+    "pop",
+    "top 40"
+   ]
+  },
+  {
+   "id": "9bb4c812-be47-49ff-a199-5c112ef70f26",
+   "name": "Power 98 Love Songs",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://camokakis.sg/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "4d1d714a-904d-4c33-abd4-a19da2ffbfb6",
+   "name": "CNA 938",
+   "url": "https://22893.live.streamtheworld.com/938NOW_SC",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://melisten.sg/cna938",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "e7b4d0c0-6516-4e75-841d-427489eaa9fa",
+   "name": "Kiss92",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+   "hls": false,
+   "logo": "https://static.kiss92.sg/uploads/sites/5/2017/10/ABOUT_US_Station_920.png",
+   "homepage": "https://www.kiss92.sg/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "pop music"
+   ]
+  },
+  {
+   "id": "ec714979-7130-483a-b25d-d2642b47e82c",
+   "name": "One FM 91.3",
+   "url": "https://22283.live.streamtheworld.com/ONE_FM_913AAC_SC",
+   "hls": false,
+   "logo": "https://cdn.webrad.io/images/logos/radiosingapore-org/one-fm.png",
+   "homepage": "https://www.onefm.sg/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "4b621a64-46d8-4115-a18a-740d0f161bad",
+   "name": "Radio Melody with Brother Bjorn",
+   "url": "https://ssl.geckohost.nz/proxy/bjorn?mp=/stream&1703130377563",
+   "hls": false,
+   "logo": "https://www.rmelody.net/img/static_logo.jpg",
+   "homepage": "https://www.rmelody.net/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "4c0c6e5a-e891-4879-8171-61e783c1f562",
+   "name": "Money FM 89.3",
+   "url": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+   "hls": false,
+   "logo": "https://static.moneyfm893.sg/uploads/sites/3/2017/12/ABOUT_US_Station_893-768x432.png",
+   "homepage": "https://www.moneyfm893.sg/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7c4653df-6d49-466f-896f-db2de5a19608",
+   "name": "CNA938",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/cna-938.png",
+   "homepage": "https://www.melisten.sg/radio/cna938",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "8b143b5e-e16c-4413-86d4-484b0ae55357",
+   "name": "Bible Witness Web Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://biblewitness.com/bwwr/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "54ed3626-3156-456f-922f-f39864923ede",
+   "name": "RIA 897",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/ria-897.png",
+   "homepage": "https://www.melisten.sg/radio/ria-897",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "2e484061-ac27-4fec-92ed-d5924a77c17e",
+   "name": "Symphony 924",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/symphony-924.png",
+   "homepage": "https://www.melisten.sg/radio/symphony-924",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "9b866c6a-f3b5-4032-ad24-62856c925b4c",
+   "name": "indiego",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac",
+   "hls": false,
+   "logo": "https://www16.mediacorp.sg/melisten/radiostation-logos/indiego.png",
+   "homepage": "https://www.melisten.sg/radio/indiego",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "melisten"
+   ]
+  },
+  {
+   "id": "a31df372-cfc9-430e-86b4-cc8e289f4d7d",
+   "name": "AXR Manila",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.axr.online/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a6921526-777c-46c4-8222-d7b8b972e295",
+   "name": "973FM: Blasts That Last radio",
+   "url": "https://c16.radioboss.fm:18115/stream?icecast",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://global.superradio.cc/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "hits",
+    "music",
+    "pop",
+    "top40"
+   ]
+  }
+ ]
+}

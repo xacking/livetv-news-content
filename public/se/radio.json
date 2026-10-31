@@ -1,0 +1,1147 @@
+{
+ "generatedAt": "2026-10-31T11:15:30.033Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "0772676d-9fe4-4945-b63f-3e88e5aeb374",
+   "name": "Mix Megapol 104,3",
+   "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+   "hls": false,
+   "logo": "https://assets.planetradio.co.uk/img/ConfigWebListenBarLogoImageUrl/451.jpg",
+   "homepage": "https://radioplay.se/mixmegapol",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "e4f6d392-f704-4cf0-8d26-9c931cebeaf6",
+   "name": "Sveriges Radio - P3",
+   "url": "https://live1.sr.se/p3-mp3-96",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p3.png",
+   "homepage": "https://sverigesradio.se/p3",
+   "codec": "MP3",
+   "bitrate": 148,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "960c660b-0601-11e8-ae97-52543be04c81",
+   "name": "Sveriges Radio - P1",
+   "url": "https://live1.sr.se/p1-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+   "homepage": "https://sverigesradio.se/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news",
+    "public radio",
+    "sveriges radio"
+   ]
+  },
+  {
+   "id": "78563d75-79f2-4c67-a80d-291891e2fb88",
+   "name": "Bandit Metal",
+   "url": "https://wr03-ice.stream.khz.se/wr03_mp3",
+   "hls": false,
+   "logo": "https://www.phonostar.de/images/auto_created/bandit_metal2184x184.png",
+   "homepage": "https://www.viaplayradio.se/banditmetal/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "death metal",
+    "hard rock",
+    "metal"
+   ]
+  },
+  {
+   "id": "0d3a2fd0-4c71-46ee-8700-2686fb699307",
+   "name": "RIX FM 106,7",
+   "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/161x80/c4b8642fb86f50849ac5ca144afdc365.png",
+   "homepage": "https://www.ilikeradio.se/rixfm",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "ac551e97-29fe-4eb2-979f-7438ad647d15",
+   "name": "Sveriges Radio P4 Stockholm",
+   "url": "https://edge1.sr.se/p4sth-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+   "homepage": "https://www.sverigesradio.se/stockholm",
+   "codec": "AAC",
+   "bitrate": 312,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "01a0db86-1f60-4473-9601-1de61587b255",
+   "name": "Sveriges Radio P3",
+   "url": "https://edge1.sr.se/p3-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p3.png",
+   "homepage": "https://www.sverigesradio.se/p3",
+   "codec": "AAC",
+   "bitrate": 328,
+   "category": "music",
+   "tags": [
+    "music",
+    "youth"
+   ]
+  },
+  {
+   "id": "003dea75-02eb-40c2-8a92-5150a709b74d",
+   "name": "Sveriges Radio P4 Göteborg",
+   "url": "https://live1.sr.se/p4gbg-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+   "homepage": "https://www.sverigesradio/p4goteborg",
+   "codec": "AAC",
+   "bitrate": 312,
+   "category": "music",
+   "tags": [
+    "local radio",
+    "music"
+   ]
+  },
+  {
+   "id": "12824d18-3891-402f-b7a9-b8d75bfe3b99",
+   "name": "Bandit Ballads",
+   "url": "https://wr21-ice.stream.khz.se/wr21_aac",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/90x90/7b209b9e4cb15399730e27e4c89e5a64.png",
+   "homepage": "https://www.ilikeradio.se/banditballads/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "ballads",
+    "rock"
+   ]
+  },
+  {
+   "id": "e79af81b-db6d-4f60-9ce1-39ff9b5874ab",
+   "name": "Gamla Favoritter",
+   "url": "https://wr09-ice.stream.khz.se/wr09_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/180x180/a70c1024cd53244ef1d912961ca37be4.png",
+   "homepage": "https://www.ilikeradio.se/gamlafavoriter/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2808c734-6166-4cda-9bbd-d4e05c0c4c32",
+   "name": "Relax & Meditation",
+   "url": "https://mml1.prostream.se/listen/relax_meditation/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "meditation",
+    "new age",
+    "relaxation"
+   ]
+  },
+  {
+   "id": "1e6e8797-ca3e-41d2-881b-56fa455f3ee1",
+   "name": "Sveriges Radio P1",
+   "url": "https://live1.sr.se/p1-aac-32",
+   "hls": false,
+   "logo": "https://static-cdn.sr.se/images/3632/2276510_512_512.jpg",
+   "homepage": "https://sverigesradio.se/p1",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news talk music"
+   ]
+  },
+  {
+   "id": "d1620588-c6f3-4e40-a828-a0fd3f945c07",
+   "name": "RIX FM",
+   "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/rixfm/wp-content/themes/ilikeradio/assets/images/apple-icon-touch.png",
+   "homepage": "https://www.ilikeradio.se/rixfm",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "96148cf5-0601-11e8-ae97-52543be04c81",
+   "name": "Polushon",
+   "url": "https://whsh4u-clients.com:18323/proxy/ndhfnbqx?mp=/stream",
+   "hls": false,
+   "logo": "https://thumbnailer.mixcloud.com/unsafe/300x300/profile/5/d/0/1/aa1b-e4e6-48e8-9128-75506e38dd92.jpg",
+   "homepage": "http://polushon.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "experimental",
+    "jazz",
+    "world music"
+   ]
+  },
+  {
+   "id": "613dbc09-c205-4285-bb0f-7e71a67015dd",
+   "name": "SR P4 Malmöhus",
+   "url": "https://live1.sr.se/p4malm-mp3-96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sverigesradio.se/tabla.aspx?programid=207",
+   "codec": "MP3",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "39a437bb-aa17-420b-a748-41b35312d1de",
+   "name": "P4 Västerbotten",
+   "url": "https://live1.sr.se/p4vbtn-mp3-96",
+   "hls": false,
+   "logo": "https://static-cdn.sr.se/images/109/b945bd34-5b64-4190-a82f-fd3ac87c5d64.jpg?preset=100x100",
+   "homepage": "https://sverigesradio.se/vasterbotten",
+   "codec": "MP3",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1497077e-2db2-4579-a911-5f8cddff3529",
+   "name": "Sveriges Radion P4 Östergötland",
+   "url": "https://live1.sr.se/p4ostg-mp3-96",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+   "homepage": "https://sverigesradio.se/ostergotland",
+   "codec": "MP3",
+   "bitrate": 156,
+   "category": "news",
+   "tags": [
+    "local news",
+    "local talk",
+    "music",
+    "sport",
+    "östergötland"
+   ]
+  },
+  {
+   "id": "287a4851-de0c-4184-8255-b435d6b62e0b",
+   "name": "Sveriges Radio - P2 Klassiskt",
+   "url": "https://live1.sr.se/p2-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+   "homepage": "https://sverigesradio.se/p2",
+   "codec": "AAC",
+   "bitrate": 304,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5352f351-b5ac-4141-b886-9c44ac446511",
+   "name": "P4 Kalmar",
+   "url": "https://live1.sr.se/p4kalm-mp3-96",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+   "homepage": "https://sverigesradio.se/kalmar",
+   "codec": "MP3",
+   "bitrate": 176,
+   "category": "news",
+   "tags": [
+    "news talk music"
+   ]
+  },
+  {
+   "id": "40dfa430-7988-4b02-ae1b-ce5fe8b5aad3",
+   "name": "Bandit Classic Rock",
+   "url": "https://wr11-ice.stream.khz.se/wr11_mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.ilikeradio.se/banditclassicrock/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock"
+   ]
+  },
+  {
+   "id": "5c85225c-75b9-4452-b3e0-998a2bf80532",
+   "name": "Northern Metal Radio Extreme",
+   "url": "https://s2.free-shoutcast.com/stream/18092",
+   "hls": false,
+   "logo": "https://usercontent.one/wp/www.northernmetalradio.com/wp-content/uploads/2023/05/NMR-Extreme-1.png?media=1686508177",
+   "homepage": "https://www.northernmetalradio.com/station/northern-metal-radio-extreme/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c48371b8-52d2-4eff-8a72-a7ab3fa7066b",
+   "name": "HitMix90's",
+   "url": "https://wr19-ice.stream.khz.se/wr19_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/700x700/1ea69de586d07cf14bd6fba152fe8d00.png",
+   "homepage": "https://www.ilikeradio.se/hitmix90s/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f075cd6b-dc5a-4268-bc81-dc873da77bee",
+   "name": "Sveiges Radio - P4 Kristianstad",
+   "url": "https://live1.sr.se/p4krist-mp3-96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sverigesradio.se/kristianstad",
+   "codec": "MP3",
+   "bitrate": 158,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3f589db8-fb66-4d2a-b4d9-03a8bece9b7e",
+   "name": "RIX FM Fresh",
+   "url": "https://wr04-ice.stream.khz.se/wr04_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/700x700/63d7c54c7bc4a8d5cd1ee7b9296beef8.png",
+   "homepage": "https://www.ilikeradio.se/rixfmfresh/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop music"
+   ]
+  },
+  {
+   "id": "80d51b29-02d0-48e6-a1b5-a613daa79a3c",
+   "name": "Radio Rivendell",
+   "url": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radiorivendell.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "fantasy"
+   ]
+  },
+  {
+   "id": "2151bfe6-6792-4cbe-8c7c-2d9fe54fdbc0",
+   "name": "Sveriges Radio P4 Dalarna",
+   "url": "https://live1.sr.se/p4dala-aac-320",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.sverigesradio.se/nyheter/p4-dalarna",
+   "codec": "AAC",
+   "bitrate": 312,
+   "category": "music",
+   "tags": [
+    "local"
+   ]
+  },
+  {
+   "id": "6dfb955d-609a-4c53-af79-39f9660a408d",
+   "name": "The ERICADE Radio Network",
+   "url": "https://radio.ericade.net/sc/stream/1/",
+   "hls": false,
+   "logo": "https://radio.ericade.net/favicon.png",
+   "homepage": "https://radio.ericade.net/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e63482bc-f704-41ec-8890-67ece72578d2",
+   "name": "Sveriges Radio P4 Gävleborg",
+   "url": "https://live1.sr.se/p4gavl-mp3-96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.sverigesradio.se/nyheter/p4-gavleborg",
+   "codec": "MP3",
+   "bitrate": 188,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a20f86e9-ec1b-425a-9ebe-831720249f74",
+   "name": "Sveriges Radio - P4 Blekinge",
+   "url": "https://live1.sr.se/p4blek-mp3-96",
+   "hls": false,
+   "logo": "https://static-cdn.sr.se/images/105/6a0862c4-ed4b-4e04-b703-c73cd1067ac7.jpg?preset=100x100",
+   "homepage": "https://sverigesradio.se/blekinge",
+   "codec": "MP3",
+   "bitrate": 160,
+   "category": "talk",
+   "tags": [
+    "local",
+    "music",
+    "talkshow"
+   ]
+  },
+  {
+   "id": "ec17a150-5a0c-11e8-b0ce-52543be04c81",
+   "name": "SVT P1 192kps",
+   "url": "https://live1.sr.se/p1-mp3-96",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p1.png",
+   "homepage": "https://sverigesradio.se/p1#",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "79d17f42-620e-437d-b7e6-ed1c1d26c670",
+   "name": "Sveriges Radio P4 Halland",
+   "url": "https://live1.sr.se/p4hall-aac-128",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-p4.png",
+   "homepage": "https://www.sverigesradio.se/nyheter/p4-halland",
+   "codec": "AAC",
+   "bitrate": 112,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7bc5f4f0-7103-4a14-bd86-eaed014a24db",
+   "name": "90s Rewind",
+   "url": "https://mml1.prostream.se/listen/90s_rewind/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "90s",
+    "hits",
+    "pop",
+    "retro"
+   ]
+  },
+  {
+   "id": "1953e58a-7374-459e-8ac2-f5a8af912ad5",
+   "name": "Power Hit Radio",
+   "url": "https://fm04-ice.stream.khz.se/fm04_mp3",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/powerhitradio/wp-content/themes/ilikeradio/favicon.png",
+   "homepage": "https://www.ilikeradio.se/powerhitradio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9e1e37f2-ae49-4497-ba91-3dccaf2bd85f",
+   "name": "Sveriges Radio P4 Uppland",
+   "url": "https://live1.sr.se/p4uppl-aac-320",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.sr.se/",
+   "codec": "AAC",
+   "bitrate": 312,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "681d2589-e135-46bd-a11a-272d8d13e8f8",
+   "name": "American Truckers",
+   "url": "https://mml2.prostream.se/listen/american_truckers/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "americana",
+    "country",
+    "rock"
+   ]
+  },
+  {
+   "id": "e0e2a64e-3ec4-4da4-8aec-a4aa7b502163",
+   "name": "Disco 54",
+   "url": "https://wr15-ice.stream.khz.se/wr15_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/700x700/6b59e6982399fcdbc7f545c1e23d4896.png",
+   "homepage": "https://www.ilikeradio.se/disco54/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "disco",
+    "i like radio"
+   ]
+  },
+  {
+   "id": "8b00bcfc-4d94-11ea-b877-52543be04c81",
+   "name": "Retro FM Skåne",
+   "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.retrofm.se/",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "960c62c1-0601-11e8-ae97-52543be04c81",
+   "name": "Sveriges Radio - P2",
+   "url": "https://live1.sr.se/p2-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+   "homepage": "https://sverigesradio.se/",
+   "codec": "AAC",
+   "bitrate": 304,
+   "category": "music",
+   "tags": [
+    "sveriges radio"
+   ]
+  },
+  {
+   "id": "962c1da9-0601-11e8-ae97-52543be04c81",
+   "name": "Sveriges Radio - P4 Plus",
+   "url": "https://live1.sr.se/p4plus-aac-320",
+   "hls": false,
+   "logo": "https://sverigesradio.se/dist/images/apple-touch-icon-default.png",
+   "homepage": "https://sverigesradio.se/",
+   "codec": "AAC",
+   "bitrate": 304,
+   "category": "music",
+   "tags": [
+    "00s",
+    "30s",
+    "40s",
+    "50s",
+    "60s"
+   ]
+  },
+  {
+   "id": "271de73b-4fa6-4c19-8132-33397f31bf7c",
+   "name": "REPLAY NEWS - Svenska",
+   "url": "https://replaynewsse.ice.infomaniak.ch/replaynewsse-128.mp3",
+   "hls": false,
+   "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-SE.png",
+   "homepage": "https://www.replaynews.net/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "0d11fc90-1129-4b76-b42d-98fe127c9317",
+   "name": "Sauna Radio",
+   "url": "https://stream.saunaradio.com/live",
+   "hls": false,
+   "logo": "https://cdn.prod.website-files.com/68299d95b4257010638944e5/6a95f1c5530f9b3492a55af3_sauna-radio-favicon-512.png",
+   "homepage": "https://www.saunaradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "community radio",
+    "dj sets",
+    "electronic",
+    "live",
+    "stockholm"
+   ]
+  },
+  {
+   "id": "95048711-523b-45d6-bed8-a8d4b0ab7666",
+   "name": "Back to the 80s",
+   "url": "https://mml1.prostream.se/listen/back_to_the_80s/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "80s",
+    "hits",
+    "pop",
+    "retro"
+   ]
+  },
+  {
+   "id": "d906e09f-49da-469e-9937-5f5273fc9006",
+   "name": "Jazz",
+   "url": "https://mml1.prostream.se/listen/jazz/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "bebop",
+    "jazz",
+    "swing"
+   ]
+  },
+  {
+   "id": "19ea3079-8757-467a-befb-0db17b50d1be",
+   "name": "Epic Soundtracks Only",
+   "url": "https://mml2.prostream.se/listen/epic_soundtracks_only/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "cinematic",
+    "film music",
+    "orchestral",
+    "soundtracks"
+   ]
+  },
+  {
+   "id": "101f70e8-15f9-4a1c-b48f-7cbd4a7838f7",
+   "name": "Go Country",
+   "url": "https://wr14-ice.stream.khz.se/wr14_mp3",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+   "homepage": "https://www.ilikeradio.se/gocountry/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "4b089827-c6e2-44d7-8689-00c47c9d8650",
+   "name": "Power Club",
+   "url": "https://wr06-ice.stream.khz.se/wr06_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/700x700/413c0945925c2a8eefe0f574c5a01a15.png",
+   "homepage": "https://www.ilikeradio.se/powerclub/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "club",
+    "i like radio"
+   ]
+  },
+  {
+   "id": "817d37ef-474f-4072-bc48-8619eedafd97",
+   "name": "Dansbandskanalen",
+   "url": "https://fm09-ice.stream.khz.se/fm09_mp3",
+   "hls": false,
+   "logo": "https://dansbandskanalen.se/wp-content/uploads/2021/10/logo.png",
+   "homepage": "http://dansbandskanalen.se/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "id": "ffc8d7d5-7244-4738-bfee-22fcf0340edf",
+   "name": "Harmony Frequencies",
+   "url": "https://mml2.prostream.se/listen/harmony_frequencies_radio/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "healing",
+    "meditation",
+    "new age"
+   ]
+  },
+  {
+   "id": "1808e244-4ca2-4a4d-be3a-17babddef88a",
+   "name": "Höganäs Närradio",
+   "url": "https://deb.patrikmalmgrenrask.se:10443/",
+   "hls": false,
+   "logo": "https://www.radio-kullabygden.se/wp-content/uploads/2016/04/hnfloggo_100px.png",
+   "homepage": "https://radio-kullabygden.se/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "1950s",
+    "1960s",
+    "blues",
+    "classic rock",
+    "country"
+   ]
+  },
+  {
+   "id": "6fbe6280-8425-4673-a740-7e1fa12a2da5",
+   "name": "Radio45",
+   "url": "https://streaming.943.se/radio45",
+   "hls": false,
+   "logo": "https://radio45.se/webplayer/favicon-96x96.png",
+   "homepage": "https://radio45.se/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5baebcb0-15c1-4562-b4f8-4219b32cea5d",
+   "name": "Radio Rainbow",
+   "url": "https://wr20-ice.stream.khz.se/wr20_mp3?platform=web",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+   "homepage": "https://www.ilikeradio.se/radiorainbow/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance",
+    "dj remix",
+    "house"
+   ]
+  },
+  {
+   "id": "fa0f560a-e7f4-4918-b02d-d61a740b075e",
+   "name": "Soul Classics",
+   "url": "https://wr08-ice.stream.khz.se/wr08_mp3",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/wp-content/themes/ilikeradio/favicon.png",
+   "homepage": "https://www.ilikeradio.se/soulclassics/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic soul"
+   ]
+  },
+  {
+   "id": "79930fba-66b9-42cc-8b40-cf766176a38d",
+   "name": "Spinning Seal FM",
+   "url": "https://stream.zeno.fm/9q3ez3k3fchvv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://spinning-seal-fm-home-website.hxkprogram.repl.co/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2e16a698-2fe8-47eb-8b1d-74fa2bcc9f10",
+   "name": "Radio Uppsala",
+   "url": "https://radio.mediarosenqvist.com/listen/radio-uppsala/radio.mp3",
+   "hls": false,
+   "logo": "https://radiouppsala.se/favicon.png",
+   "homepage": "https://radiouppsala.se/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "community",
+    "local",
+    "music",
+    "uppsala"
+   ]
+  },
+  {
+   "id": "678cb641-f43d-456b-8980-cba70cb7c414",
+   "name": "Guldkanalen",
+   "url": "https://stream.dbmedia.se/gk80tal96",
+   "hls": false,
+   "logo": "https://playnow.se/wp-content/uploads/gk_play.jpg",
+   "homepage": "https://playnow.se/guldkanalen-webbradio/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b30f805d-8402-4555-b182-dcf5fa0820da",
+   "name": "STAR FM 107,1",
+   "url": "https://fm05-ice.stream.khz.se/fm05_mp3",
+   "hls": false,
+   "logo": "https://cdn.khz.se/images/90x90/283491c5df7ee85947ab916a80f50578.png",
+   "homepage": "https://www.ilikeradio.se/starfm",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "be9cd5b3-570c-410c-ab98-7f99af678b20",
+   "name": "Radio Nostalgi SE",
+   "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+   "hls": false,
+   "logo": "https://radioplay.se/tesla/static/favicons/radioplay-se/apple-touch-icon.png",
+   "homepage": "https://radioplay.se/radio-nostalgi/play/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3a7f738e-a823-4680-ba93-c5de8217e3df",
+   "name": "Retro FM Sverige",
+   "url": "https://stream.rcs.revma.com/25knctp5vepwv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.retrofm.se/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "4b804728-3074-4697-bd39-ffa6111542e6",
+   "name": "Power Street",
+   "url": "https://wr07-ice.stream.khz.se/wr07_mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.viaplayradio.se/powerstreet/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "06a92160-00e0-4546-ac0d-44c28f80da6c",
+   "name": "Radio Nostalgi",
+   "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+   "hls": false,
+   "logo": "https://media.bauerradio.com/image/upload/c_crop,g_custom/v1675257327/brand_manager/stations/lhx9kbonnysevy9wq7zx.svg",
+   "homepage": "https://radioplay.se/radio-nostalgi/",
+   "codec": "AAC+",
+   "bitrate": 56,
+   "category": "music",
+   "tags": [
+    "80's"
+   ]
+  },
+  {
+   "id": "db511060-495a-4756-95d2-5070bc529f57",
+   "name": "Sveriges Radio - P4 Väst",
+   "url": "https://live1.sr.se/p4vast-mp3-96",
+   "hls": false,
+   "logo": "https://www.sverigesradio.se/default.aspx?programid=125",
+   "homepage": "https://www.sverigesradio.se/vast",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "893636b3-4cd9-4df0-8487-9004f398e0b5",
+   "name": "Radio Båstad",
+   "url": "https://audio-edge-5r6yd.cdg.o.radiomast.io/0cf89221-143e-4e91-8c1a-3668a99404ac",
+   "hls": false,
+   "logo": "https://impro.usercontent.one/appid/oneComWsb/domain/radiobastad.se/media/radiobastad.se/onewebmedia/256742-314242-gh757dh3xq.png?etag=%2215a98-64edeed2%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=576%2B576&extract=0%2B0%2B576%2B544",
+   "homepage": "https://radiobastad.se/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "058e8017-4257-4565-bc22-fc6a17c32a2e",
+   "name": "Sveriges Radio P4 Malmöhus",
+   "url": "https://live1.sr.se/p4malm-mp3-96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sverigesradio.se/tabla.aspx?programid=207",
+   "codec": "MP3",
+   "bitrate": 168,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "97c34f30-8378-4c76-824c-9e950f008db1",
+   "name": "Kpop",
+   "url": "https://mml2.prostream.se/listen/kpop/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "k-pop",
+    "korean pop",
+    "kpop"
+   ]
+  },
+  {
+   "id": "03130c0f-bf62-4fda-bb6a-c99781b28475",
+   "name": "Alt Edge Radio",
+   "url": "https://mml2.prostream.se/listen/alt_edge_radio/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "grunge",
+    "indie"
+   ]
+  },
+  {
+   "id": "9d1b673a-7a6b-4e0a-82b6-e0edfabfcb28",
+   "name": "Punk Classics",
+   "url": "https://mml2.prostream.se/listen/punk_classics/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classic punk",
+    "hardcore",
+    "punk"
+   ]
+  },
+  {
+   "id": "22567e75-4c10-4dde-9c51-5940b128f6cb",
+   "name": "Bandit ÍRock",
+   "url": "https://fm02-ice.stream.khz.se/fm02_mp3",
+   "hls": false,
+   "logo": "https://www.ilikeradio.se/banditrock/wp-content/themes/ilikeradio/favicon.png",
+   "homepage": "https://www.ilikeradio.se/banditrock/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "a6a09847-6e2e-4076-9b30-773023caf2e7",
+   "name": "Guldkanalen 60-tal",
+   "url": "https://stream.dbmedia.se/gk60tal96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://stream.dbmedia.se/gk60tal96",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "5edaeb8f-63d3-4a73-a684-a153b1cca9a5",
+   "name": "Radio Gbg Sevdah",
+   "url": "https://stream.radiogbg.se:8050/relay4",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://radiogbg.se/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "bosna",
+    "sevdah",
+    "sevdah 24 sata"
+   ]
+  },
+  {
+   "id": "bfb5ad64-4a32-45cb-ae1d-a4b4d9415470",
+   "name": "SR P1",
+   "url": "https://live1.sr.se/p1-aac-32",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.sverigesradio.se/kanaler",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "public service"
+   ]
+  },
+  {
+   "id": "b5bd600f-9d41-4a52-8dbb-91eaccfe4ebf",
+   "name": "P4 Jämtland",
+   "url": "https://live1.sr.se/p4jmtl-aac-320",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sr.se/",
+   "codec": "AAC",
+   "bitrate": 312,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7cd8a7f7-138e-453b-a3fc-4ced0968f86b",
+   "name": "DansBandsRadio.se",
+   "url": "https://sc.dansbandsradio.se/dbr64.aac",
+   "hls": false,
+   "logo": "https://dansbandsradio.se/images/dbr2.png",
+   "homepage": "https://dansbandsradio.se/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "dans",
+    "dansband",
+    "dansbandsradio",
+    "danseband",
+    "dansk"
+   ]
+  },
+  {
+   "id": "48798f54-d904-426b-b9e3-cd75aa5816b2",
+   "name": "Radio Sandviken",
+   "url": "https://shout.rs8990.com/;",
+   "hls": false,
+   "logo": "https://radiosandviken.se/wp-content/uploads/2024/12/rslogotyp2-1.png",
+   "homepage": "https://radiosandviken.se/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "eb6986d8-2f1f-4034-9afe-dad3cade2e35",
+   "name": "Roxette",
+   "url": "https://stream.pcradio.ru/Roxette-hi",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://pcradio.ru/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "discography"
+   ]
+  },
+  {
+   "id": "73b5026f-40f2-49e8-846d-4d6f77e20d18",
+   "name": "P4 Västmanland",
+   "url": "https://live1.sr.se/p4vstm-mp3-96",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sverigesradio.se/",
+   "codec": "MP3",
+   "bitrate": 120,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "af0682ee-3a81-40d6-b474-70e3f2ce5468",
+   "name": "Sveriges Radio P2",
+   "url": "https://live1.sr.se/p2-aac-128",
+   "hls": false,
+   "logo": "https://www.sverigesradio.se/dist/images/apple-touch-icon-p2.png",
+   "homepage": "https://sverigesradio.se/p2",
+   "codec": "AAC",
+   "bitrate": 120,
+   "category": "music",
+   "tags": [
+    "classical",
+    "classical music",
+    "folk",
+    "jazz",
+    "opera"
+   ]
+  },
+  {
+   "id": "9fcf5f38-9bfe-4d2a-a453-a655a1729fde",
+   "name": "Linköpings närradio",
+   "url": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.linkopingsnarradio.se/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "734e8191-c34d-4b78-98fc-0a69dafd323e",
+   "name": "Mad Mix Beats",
+   "url": "https://mml1.prostream.se/listen/mad_mix_beats/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classics",
+    "hits",
+    "mixed",
+    "pop"
+   ]
+  },
+  {
+   "id": "70a1dbfb-486b-4f90-b385-eb5837005fec",
+   "name": "Radio 789",
+   "url": "https://mml1.prostream.se/listen/radio_789/radio.mp3",
+   "hls": false,
+   "logo": "https://madmix.se/images/logo.jpg",
+   "homepage": "https://madmix.se/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classics",
+    "hits",
+    "oldies",
+    "rock"
+   ]
+  },
+  {
+   "id": "d1c40bbb-618a-11e8-b15b-52543be04c81",
+   "name": "SceneSat Radio",
+   "url": "https://streams.scenesat.com/main/mobile.aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://scenesat.com/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "demoscene"
+   ]
+  }
+ ]
+}
