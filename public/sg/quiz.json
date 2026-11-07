@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-07T16:20:55.781Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Malaysian PR in Singapore says girlfriend's unemployment is straining their finances",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://theindependent.sg/malaysian-pr-in-singapore-says-girlfriend-s-unemployment-is-straining-their-finances"
+  },
+  {
+   "type": "section",
+   "headline": "New Zealand election 'too close to call' - so who will be next PM?",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/videos/c6kgl7m1g9m1o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "'My mortgage is going up £200 a month': How rising interest rates are hitting people's pockets",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Woman in M'sia gives thank you envelopes to KLCC Park cleaners every Friday",
+   "options": [
+    "Must Share News",
+    "The Independent Singapore",
+    "BBC News",
+    "Mothership"
+   ],
+   "answer": 3,
+   "url": "https://mothership.sg/2026/11/malaysia-woman-thank-you-envelopes-cleaners/"
+  },
+  {
+   "type": "source",
+   "headline": "Woman in M’sia arrested for allegedly offering S$470 bribe to traffic police officer",
+   "options": [
+    "Mothership",
+    "The Independent Singapore",
+    "BBC News",
+    "Must Share News"
+   ],
+   "answer": 3,
+   "url": "https://mustsharenews.com/woman-bribe-traffic-police/"
+  }
+ ]
+}

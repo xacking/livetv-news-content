@@ -1,0 +1,1169 @@
+{
+ "generatedAt": "2026-11-07T16:20:38.397Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "cc9c0708-d100-43cc-a76b-e1fef63d2e43",
+   "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+   "url": "https://s26.myradiostream.com:20274/listen.mp3",
+   "hls": false,
+   "logo": "https://fm906.co.nz/images/nzc-logo.jpg",
+   "homepage": "https://fm906.co.nz/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "chinese",
+    "culture",
+    "information",
+    "lifestyle",
+    "music"
+   ]
+  },
+  {
+   "id": "bc9ac88d-9af6-4564-9cb4-57edf4d36865",
+   "name": "The Rock - NZ's #1 rock radio station",
+   "url": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.therock.net.nz/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "alternative rock",
+    "classic rock",
+    "hard rock",
+    "pop rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "dbc8afb2-b62d-4e2f-8620-b81fab471288",
+   "name": "Newstalk ZB",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_01AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9631949606&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9631949606&stationid=6187&terminalId=162&territory=NZ",
+   "hls": true,
+   "logo": "https://imgs.search.brave.com/QjtEBTpORhVUY18YIpMVH0rjS2nn2AgtIe7sK-Hak4U/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pLmlo/ZWFydC5jb20vdjMv/cmUvbmV3X2Fzc2V0/cy81ZmRiYTRlN2M1/MDYxN2Q0MDhiNjAx/YTI_b3BzPWZpdCg5/NjAsOTYwKSxyZXNp/emUoMCwzOTAp.jpeg",
+   "homepage": "https://www.newstalkzb.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "legacy media",
+    "talkback hosts"
+   ]
+  },
+  {
+   "id": "a8fa8771-648a-4b70-8ee6-5994b8b2a315",
+   "name": "Sleep Radio",
+   "url": "https://cast4.my-control-panel.com/proxy/sleeprad/stream?1721309187745",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/02acb2_6cce978449504683b9d9a5b6861b25e3.png/v1/fill/w_180%2ch_180%2clg_1%2cusm_0.66_1.00_0.01/02acb2_6cce978449504683b9d9a5b6861b25e3.png",
+   "homepage": "https://www.sleepradio.co.nz/listen",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b61e2d85-286e-4510-b6af-a7549cfeb13d",
+   "name": "Sport Nation",
+   "url": "https://sen.streamguys1.com/SENZ-AAC/playlist.m3u8",
+   "hls": true,
+   "logo": "https://sportnation.nz/radio.png",
+   "homepage": "https://sportnation.nz/",
+   "codec": "AAC",
+   "bitrate": 50,
+   "category": "sports",
+   "tags": [
+    "sports",
+    "cricket"
+   ]
+  },
+  {
+   "id": "74ee4b8c-1c55-4a2f-8fa6-2d6136e6fb8f",
+   "name": "The Breeze 93.4",
+   "url": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s17930/images/logod.png?t=638017388010000000",
+   "homepage": "http://www.thebreeze.co.nz/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "be963cd8-af71-4fa6-b87e-0eedddc667a9",
+   "name": "Channel X",
+   "url": "https://mediaworks.streamguys1.com/chx_net_icy",
+   "hls": false,
+   "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/logos/Channel-X-600-x-600.jpg",
+   "homepage": "https://www.trb.co.nz/brand-profiles/channel-x",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "143e3091-129f-44f7-9d9f-615bf19a7896",
+   "name": "Humm Radio",
+   "url": "https://mediaworks.streamguys1.com/humm_net_icy",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/jB7Xr58rYS.jpg",
+   "homepage": "https://rova.nz/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "bollywood hits",
+    "indian radio"
+   ]
+  },
+  {
+   "id": "35732d95-d390-4097-94c5-017385c081ca",
+   "name": "Radioactive.FM 88.6",
+   "url": "https://radio123-gecko.radioca.st/radioactivefm",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radioactive.fm/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "indie",
+    "local radio",
+    "student radio"
+   ]
+  },
+  {
+   "id": "b562983d-1c3d-456c-acdd-bcef491f245e",
+   "name": "Radio One 91FM",
+   "url": "https://play.r1.co.nz/live",
+   "hls": false,
+   "logo": "https://www.r1.co.nz/images/logo.png",
+   "homepage": "https://www.r1.co.nz/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "community radio",
+    "disco",
+    "local news",
+    "maori culture",
+    "news"
+   ]
+  },
+  {
+   "id": "0f9588db-66d9-411f-800d-de63753e741c",
+   "name": "George FM",
+   "url": "https://mediaworks.streamguys1.com/george_net_icy",
+   "hls": false,
+   "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/22814443_10155347753227013_9008123902810078771_n.jpg",
+   "homepage": "https://rova.nz/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "64a74374-c09a-46e6-a4b5-2fbd29e23576",
+   "name": "Coast FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ",
+   "hls": true,
+   "logo": "https://i.postimg.cc/8k3S3mQP/coast-fm.png",
+   "homepage": "https://www.thecoast.net.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "80's"
+   ]
+  },
+  {
+   "id": "f244451c-2d6c-4f02-aebb-3b985d362aac",
+   "name": "iHeartCountry New Zealand",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_09AAC.m3u8",
+   "hls": true,
+   "logo": "https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c",
+   "homepage": "https://www.iheartcountry.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "country",
+    "country music"
+   ]
+  },
+  {
+   "id": "2fa6da4e-e494-4a5f-a29a-bf94bd77c864",
+   "name": "The Hits",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ",
+   "hls": true,
+   "logo": "https://i.postimg.cc/gkQ2VPks/the-hits-c99846c6.png",
+   "homepage": "https://www.thehits.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "contemporary hits"
+   ]
+  },
+  {
+   "id": "55274882-6130-4c33-bb2b-72012215dca1",
+   "name": "The Sound",
+   "url": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
+   "hls": true,
+   "logo": "https://www.thesound.co.nz/etc.clientlibs/mws-sites-nextgen/clientlibs/clientlib-thesound/resources/favicons/apple-touch-icon-180x180.png",
+   "homepage": "https://www.thesound.co.nz/home.html",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "classic rock"
+   ]
+  },
+  {
+   "id": "1bd2a096-3167-43b3-a030-69b43780577d",
+   "name": "Magic FM",
+   "url": "https://mediaworks.streamguys1.com/magic_net_icy",
+   "hls": false,
+   "logo": "https://static-media.streema.com/media/cache/c7/c1/c7c1117b7e50c5b753703c52b2dc1a16.jpg",
+   "homepage": "https://rova.nz/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "the songs you love"
+   ]
+  },
+  {
+   "id": "9d17a168-6f90-41e4-a9fd-a55af86e868b",
+   "name": "The Cheese",
+   "url": "https://station.thecheese.co.nz/hls/the_cheese/live.m3u8",
+   "hls": true,
+   "logo": "https://station.thecheese.co.nz/static/uploads/the_cheese/album_art.1716808937.png",
+   "homepage": "https://thecheese.co.nz/",
+   "codec": "AAC",
+   "bitrate": 52,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "70e66e79-c288-4690-a4f3-a1359cd72d63",
+   "name": "Life FM",
+   "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+   "hls": false,
+   "logo": "https://player.streamguys.com/rhema-lifefm/sgplayer/include/assets/img/logo-lifefm.jpg",
+   "homepage": "https://www.lifefm.co.nz",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "christian",
+    "christian contemporary"
+   ]
+  },
+  {
+   "id": "27d7c6f3-d1dd-4cab-b4c7-ca9ffdd21434",
+   "name": "George FM - DnB",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGE_DNB_S01.aac",
+   "hls": false,
+   "logo": "https://images.ctfassets.net/r65x6q43xsmv/2CBBxwPWsAwKU0bjzHM8y1/76fd3e4bab34449b2dff2d2adc719e1d/GRG_George_FM_DnB_Hundy_600x600px.png?fm=png&w=200&q=95&f=center",
+   "homepage": "https://www.rova.nz/playlists/george-dnb",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dnb",
+    "drum & bass",
+    "drum and bass"
+   ]
+  },
+  {
+   "id": "8fb48975-d64f-4d36-b2b8-d27b877cb317",
+   "name": "Gaia FM",
+   "url": "https://s2.stationplaylist.com:9000/gaiafm.aac",
+   "hls": false,
+   "logo": "https://gaiafm.stationplaylist.com/logo.gif",
+   "homepage": "https://gaiafm.stationplaylist.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "celtic",
+    "easy listening",
+    "instrumental",
+    "jazz",
+    "newage"
+   ]
+  },
+  {
+   "id": "bb35748f-3cf8-4916-99a1-fa289b6cc7a9",
+   "name": "More FM Canterbury",
+   "url": "https://mediaworks.streamguys1.com/more-chc-high_icy",
+   "hls": false,
+   "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+   "homepage": "https://www.rova.nz/radio/more-fm",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "adult contemporary"
+   ]
+  },
+  {
+   "id": "f17c2043-dff0-4a74-8be1-099064ae2b81",
+   "name": "The Rock",
+   "url": "https://digitalstreams.mediaworks.nz/rock_net/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.therock.net.nz/home.html",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "0df7ff35-422f-4599-be5d-b9d84599e0cb",
+   "name": "95bFM",
+   "url": "https://streams.95bfm.com/stream95",
+   "hls": false,
+   "logo": "https://95bfm.com/sites/all/themes/bfm_ui/favicons/favicon-128.png",
+   "homepage": "https://95bfm.com/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "university radio",
+    "university of auckland",
+    "auckland",
+    "alternative"
+   ]
+  },
+  {
+   "id": "69b26bba-7b57-46c8-91f2-032febb52473",
+   "name": "Magic",
+   "url": "https://digitalstreams.mediaworks.nz/mmusic_net/playlist.m3u8",
+   "hls": true,
+   "logo": "https://www.magic.co.nz/experience-fragments/mws-sites-nextgen/magic/en/site/header/master/_jcr_content/root/container/container_545837448/image.coreimg.svg/1662540657531/logo-01.svg",
+   "homepage": "https://www.magic.co.nz/home/music.html",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "oldies"
+   ]
+  },
+  {
+   "id": "e1011281-2179-42c2-b3bf-bbc5b4298d25",
+   "name": "Mushroom Escape",
+   "url": "https://cast3.my-control-panel.com/proxy/jonatha1/escape?1664781783632",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://mushroomfm.com/escape",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "old time radio"
+   ]
+  },
+  {
+   "id": "8fcf0980-e6e2-4ab6-a815-0a655274e63f",
+   "name": "New Zealand Net Radio",
+   "url": "https://radio.nznetradio.net.nz/stream3",
+   "hls": false,
+   "logo": "https://i0.wp.com/www.nznetradio.net.nz/wp-content/uploads/2025/08/cropped-NZ-Net-Radio-logo-2025-2048-600.jpg?resize=768%2C401&ssl=1",
+   "homepage": "https://www.nznetradio.net.nz/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "95c328e9-49a3-46e7-ae10-2e0c54715fab",
+   "name": "Radio Robotic",
+   "url": "https://stream.zeno.fm/x4hneey2vwzuv",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/3e4049_c61d1cbe9d9f4edd919ee7b6376b0f9b~mv2.jpg/v1/fill/w_97,h_97,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/RR_blueonblack-1.jpg",
+   "homepage": "https://www.radiorobotic.com/",
+   "codec": "AAC",
+   "bitrate": 160,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "dream pop",
+    "electronic",
+    "indie",
+    "post punk"
+   ]
+  },
+  {
+   "id": "6b0dee5f-2288-4b49-a1e2-497959078190",
+   "name": "JAZZ CAFE",
+   "url": "https://radio.wanderingsheep.net:8000/jazzcafe",
+   "hls": false,
+   "logo": "https://wsradio.net/wp-content/uploads/2016/08/cropped-WanderingsheepRadioLogoSQ-big-192x192.png",
+   "homepage": "https://wsradio.net/djs/jazz-cafe/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "easy listening",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "0c144adf-06dd-481e-b425-be47c76cc0be",
+   "name": "More FM - Nelson",
+   "url": "https://mediaworks.streamguys1.com/more-nsn-high_icy",
+   "hls": false,
+   "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+   "homepage": "https://www.rova.nz/radio/more-fm",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a13f9a34-e6ca-459a-a6f1-26439858cc21",
+   "name": "Maunganui FM",
+   "url": "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://maunganui.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0bf0f31b-dff2-4e42-a18e-f1b44c7c029e",
+   "name": "Tiri 2",
+   "url": "https://servidor34-4.brlogic.com:7138/live?source=website",
+   "hls": false,
+   "logo": "https://i.postimg.cc/RVdL50ZZ/Tiri-2.jpg",
+   "homepage": "https://tiri2.webradiosite.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classic pop",
+    "classic rock",
+    "pirate"
+   ]
+  },
+  {
+   "id": "97ecfd87-6e7f-4055-8282-f0121db9322f",
+   "name": "https://badradio.nz/ - 24/7 PHONK",
+   "url": "https://s2.radio.co/s2b2b68744/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://badradio.nz/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "80cf7a66-748f-4538-8de4-893e57827d8c",
+   "name": "Raglan Communtiy Radio",
+   "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956",
+   "hls": false,
+   "logo": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/RaglanICO.png",
+   "homepage": "https://raglanradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "fb02ee16-e123-40fa-88a0-355b3d38382a",
+   "name": "Radiowave NZ",
+   "url": "https://listen.radioking.com/radio/106324/stream/145267",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radiowavenz.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "80s",
+    "90s",
+    "hits",
+    "today",
+    "tourist info"
+   ]
+  },
+  {
+   "id": "e0c08e17-4b92-4625-b090-df6a57b67018",
+   "name": "Brian FM 91.2 Whanganui NZ",
+   "url": "https://ais-sa1.streamon.fm/7100_128k.aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://brianfm.com/whanganui/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "73661f64-fd47-41a7-ab60-ecb7e3ee91d9",
+   "name": "The Platform Kiwi",
+   "url": "https://hls.exiledkiwi.nz/theplatform.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://theplatform.kiwi/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "89d7bca7-76a0-43ce-8546-7028022b21e9",
+   "name": "Vinyl Radio NZ",
+   "url": "https://s40.myradiostream.com:17794/listen.aac?",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/favicon-194x194.png",
+   "homepage": "https://onlineradiobox.com/nz/vinylnz/",
+   "codec": "AAC+",
+   "bitrate": 160,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "hits",
+    "old hits"
+   ]
+  },
+  {
+   "id": "5799d3ff-4115-4da4-b8c0-17de590a6c92",
+   "name": "Radio Bollybop",
+   "url": "https://s3.radio.co/s2f19d44d0/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://s3.radio.co/s2f19d44d0/listen",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "270a3bee-247e-4398-b31f-9ce35f71d247",
+   "name": "Sub FM",
+   "url": "https://fmsub.radioca.st/stream?type=http&nocache=140",
+   "hls": false,
+   "logo": "https://www.sub.fm/wp-content/uploads/2017/07/cropped-black-sub-180x180.png",
+   "homepage": "https://www.sub.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "deep house",
+    "drum 'n' bass",
+    "dub",
+    "dubstep",
+    "garage"
+   ]
+  },
+  {
+   "id": "343467aa-9c72-43ea-8a8f-53d89acefebe",
+   "name": "Keep Laughing Forever Radio",
+   "url": "https://la-ssd.myautodj.com:1160/stream?_=1790929716573",
+   "hls": false,
+   "logo": "https://klc-radio.web.app/radio/img/logo.png",
+   "homepage": "https://www.keeplaughingforever.com/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "1980s",
+    "1990s",
+    "80s",
+    "90s",
+    "retro"
+   ]
+  },
+  {
+   "id": "9c69a400-cc27-4d7f-9c37-389e446b10f0",
+   "name": "Retro Hit Radio",
+   "url": "https://riphel02.radioca.st/;",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://retrohitradio.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 80,
+   "category": "music",
+   "tags": [
+    "1980s",
+    "1990s",
+    "adult hits",
+    "classic hits",
+    "pop rock"
+   ]
+  },
+  {
+   "id": "e5c509ad-aa7e-4910-8dc3-05f26d75081e",
+   "name": "Drop FM",
+   "url": "https://s2.radio.co/s7649837db/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.dropfm.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "bass",
+    "listener supported",
+    "underground"
+   ]
+  },
+  {
+   "id": "4de83f70-0ac9-4630-9786-cab9d4804540",
+   "name": "531pi",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/new_assets/60fded128d281279cae3068e",
+   "homepage": "https://pmn.co.nz/radio-stations/531-pi",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "music",
+    "news",
+    "pacific cultures"
+   ]
+  },
+  {
+   "id": "54316866-201d-461d-b35e-2411c36fbebc",
+   "name": "RADIO PANJABI",
+   "url": "https://s20.reliastream.com/stream/8134",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.radiopanjabi.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "folk",
+    "hip-hop",
+    "news",
+    "news talk",
+    "podcast"
+   ]
+  },
+  {
+   "id": "ecd25517-406f-4a06-baee-3d332b0e57bb",
+   "name": "George Fm Club Classics",
+   "url": "https://mediaworks.streamguys1.com/george_net/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "electronic"
+   ]
+  },
+  {
+   "id": "5705e8c2-6208-41c9-8ad1-3fb780405548",
+   "name": "Kiwi Folk Radio",
+   "url": "https://streamer.radio.co/sde527a41e/listen",
+   "hls": false,
+   "logo": "https://i.postimg.cc/pLDxX33r/Kiwi-Folk.jpg",
+   "homepage": "https://www.kiwifolk.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "folk",
+    "local"
+   ]
+  },
+  {
+   "id": "0340763e-26ad-4d2c-8cde-8df14c72d6c6",
+   "name": "RNZ National",
+   "url": "https://radionz.streamguys1.com/national/national/national/national-mainstream/chunks.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "talk",
+   "tags": [
+    "talk & community"
+   ]
+  },
+  {
+   "id": "42ade87d-8430-4599-9384-c792b1c97b9a",
+   "name": "Bollybop",
+   "url": "https://s3.radio.co/s2f19d44d0/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://s3.radio.co/s2f19d44d0/listen",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "2e1c8d8a-605a-4b18-bfe2-751a3648713d",
+   "name": "The Edge",
+   "url": "https://digitalstreams.mediaworks.nz/edge_net/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.theedge.co.nz/home.html",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5c7eccdb-3b30-46a2-9810-e5d7a54e6378",
+   "name": "Heads FM Mangawhai 106.4",
+   "url": "https://headsfm.radioca.st/stream",
+   "hls": false,
+   "logo": "https://www.headsfm.co.nz/wp-content/uploads/2017/06/heads_logo_1064.png",
+   "homepage": "https://www.headsfm.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "community",
+    "rock"
+   ]
+  },
+  {
+   "id": "e7aa06ad-2f82-4ad5-b2b9-b04b280c4f1e",
+   "name": "Radio Universo FM",
+   "url": "https://stationplaylist.com:7140/listen.aac",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/997731_6db60f6e7a53483b81213fa9eac4da43~mv2.jpg/v1/fill/w_250,h_116,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/a%20logo.jpg",
+   "homepage": "https://www.radiouniversofm.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 32,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ffe72800-6dbb-4db0-bede-a9c3790e0745",
+   "name": "My Dee Jay Radio",
+   "url": "https://radio.mydeejayradio.com/listen/my_dee_jay_radio/radio.mp3",
+   "hls": false,
+   "logo": "https://mydeejayradio.com/logo-512.png",
+   "homepage": "https://mydeejayradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "afrobeats",
+    "dance",
+    "dj mixes",
+    "hip hop",
+    "house"
+   ]
+  },
+  {
+   "id": "1e3bed93-a6a3-454d-b8ab-fead7d526812",
+   "name": "BayRock",
+   "url": "https://stream-15.aiir.com/okom9fklptitv",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/2997c4_b380cf8662944f00b372e715be70b53a~mv2.png/v1/fill/w_745,h_238,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Bayrock%20Main%20Logo.png",
+   "homepage": "https://www.bayrock.co.nz/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b836f4e5-19c2-454f-ad63-67da218e8358",
+   "name": "George FM - Chillsville",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CHILLSVILLE_S01.aac",
+   "hls": false,
+   "logo": "https://images.ctfassets.net/r65x6q43xsmv/6fBl7Yr0fvCSKEDkPOFJT7/346791405202f33f8316c8d0001f9659/chillsville_boby_armor_sqaure.png?fm=png&w=200&q=95&f=center",
+   "homepage": "https://www.rova.nz/playlists/george-fm-chillsville",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "chill house"
+   ]
+  },
+  {
+   "id": "acd1ebf1-84e3-4983-bf6a-329af607cfeb",
+   "name": "George FM - Club Classics",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GEORGEFM_CC_S01.aac",
+   "hls": false,
+   "logo": "https://images.ctfassets.net/r65x6q43xsmv/1hs2ejFCmf8irHi0j8KmZn/1c10053daace384f82288a7b85c22095/Club_Classics_1080x1080.png?fm=png&w=200&q=95&f=center",
+   "homepage": "https://www.rova.nz/playlists/george-club-classics",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "90s dance",
+    "club hits",
+    "dance"
+   ]
+  },
+  {
+   "id": "b9d42ae3-7b57-4e5e-a037-e3ead4f4018b",
+   "name": "Beagle Radio",
+   "url": "https://stream.beagleradio.co.nz/stream",
+   "hls": false,
+   "logo": "https://www.beagleradio.co.nz/wp-content/uploads/2025/02/beagle-dog-logo-100.png",
+   "homepage": "https://www.beagleradio.co.nz/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a5cafde1-44e4-438e-ba98-e224acd75fb7",
+   "name": "FreshFM",
+   "url": "https://live.accessmedia.nz/Fresh.stream_aac/chunklist_w1462567576.m3u8",
+   "hls": true,
+   "logo": "https://www.freshfm.net/favicon.ico",
+   "homepage": "https://www.freshfm.net/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "blenheim",
+    "community",
+    "nelson",
+    "takaka"
+   ]
+  },
+  {
+   "id": "7156f7c4-1b9d-4c2b-a446-5ac5d6607f49",
+   "name": "Radio Chinese FM90.6",
+   "url": "https://s26.myradiostream.com/:20274/listen.mp3?nocache=1628504081",
+   "hls": false,
+   "logo": "https://fm906.co.nz/images/logo-h.png",
+   "homepage": "https://fm906.co.nz/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "98d8ab1e-729a-42ea-b397-4505b159a69c",
+   "name": "Bandwagon Radio",
+   "url": "https://streaming.radio.co/scfae3b30e/listen",
+   "hls": false,
+   "logo": "https://static2.mytuner.mobi/media/tvos_radios/602/bandwagon-radio.8250a334.jpg",
+   "homepage": "https://mytuner-radio.com/radio/bandwagon-radio-516602/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "d714b8c3-9a52-4e17-aa62-a971f17f9462",
+   "name": "Brian FM 105.6 Nelson NZ",
+   "url": "https://ais-sa1.streamon.fm/7358_128k.aac/playlist.m3u8",
+   "hls": true,
+   "logo": "https://s3.amazonaws.com/streaming-player-assets/BrianFMNel/custom/images/brianfmnel-logo-20190225094751.png",
+   "homepage": "https://brianfm.com/nelson/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ccce596d-1af3-49de-900b-b4aa4e1eeb0d",
+   "name": "CFM Coromandel",
+   "url": "https://stream.cfm.co.nz/low",
+   "hls": false,
+   "logo": "https://i.postimg.cc/6qgdcWxL/CFM.jpg",
+   "homepage": "https://cfm.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "community radio",
+    "contemporary",
+    "decades"
+   ]
+  },
+  {
+   "id": "9c0a69e6-c2be-47b8-bd25-818b6227f49b",
+   "name": "The Hawk NZ",
+   "url": "https://cast5.asurahosting.com/proxy/thehawkf/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://thehawk.nz/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "91828462-6d40-4ca4-b71a-a0d3246e65a3",
+   "name": "Radio Hauraki",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_04AAC_SC",
+   "hls": false,
+   "logo": "https://www.hauraki.co.nz/content/music/images/interface/icons/hauraki/apple-touch-icon.png",
+   "homepage": "https://www.hauraki.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "96134f5a-0601-11e8-ae97-52543be04c81",
+   "name": "Rhema",
+   "url": "https://rhema-radio.streamguys1.com/rhema.mp3",
+   "hls": false,
+   "logo": "https://origin-player.streamguys.com/rhema/sgplayer/include/assets/img/logo-rhema.jpg",
+   "homepage": "https://rhema.co.nz/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "christian"
+   ]
+  },
+  {
+   "id": "6ef99996-450b-487a-b900-cb9e7bdf8897",
+   "name": "Ski FM",
+   "url": "https://s2.radio.co/s6436891bc/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://skifmnetwork.co.nz/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "contemporary hits",
+    "ski mountain"
+   ]
+  },
+  {
+   "id": "6bccda6d-4c9f-4501-a3bf-0f01699282d8",
+   "name": "RAG-FM 107.7FM",
+   "url": "https://cast6.asurahosting.com/proxy/ragfmcom/stream",
+   "hls": false,
+   "logo": "https://i.postimg.cc/br29f0dX/RAG-FM.jpg",
+   "homepage": "https://www.ragfm.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "kiwi",
+    "oldies"
+   ]
+  },
+  {
+   "id": "b5587c5a-f745-45f0-87df-cfcfb845a003",
+   "name": "East FM",
+   "url": "https://listen.eastfm.nz/stream.aac",
+   "hls": false,
+   "logo": "https://listen.eastfm.nz/logo.png",
+   "homepage": "https://www.eastfm.nz/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2670cbc0-8aaf-4ddc-b085-65faf884a6ac",
+   "name": "The Wireless",
+   "url": "https://stream.zeno.fm/lamr6x1fxrruv",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://thewireless.nz/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "f93ed26a-d2f9-4fa6-8509-4413d885138c",
+   "name": "SayHiFM",
+   "url": "https://play.radioking.io/sayhifm",
+   "hls": false,
+   "logo": "https://sayhifm.com/images/favicon.ico",
+   "homepage": "https://sayhifm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "filipino radio in new zealand",
+    "filipino station",
+    "radio new zealand"
+   ]
+  },
+  {
+   "id": "b35e26d9-1962-4dd5-9c5c-e931eceff1c4",
+   "name": "Radio Hawkes Bay",
+   "url": "https://live.accessmedia.nz/Kidnappers.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "https://cdn3.firecrestsystems.com/FC_Kidnappers/Images/RadioHawkesBay-Logo-NB.png",
+   "homepage": "https://radiohawkesbay.org.nz/Default.aspx",
+   "codec": "MP3",
+   "bitrate": 134,
+   "category": "music",
+   "tags": [
+    "community radio",
+    "music",
+    "show"
+   ]
+  },
+  {
+   "id": "c6723382-d7b8-45e2-99ad-40a4b2b3a009",
+   "name": "Sanctuary",
+   "url": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac",
+   "hls": false,
+   "logo": "https://yoursanctuary.nz/_ipx/_/images/cover.jpg",
+   "homepage": "https://yoursanctuary.nz/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "christian",
+    "worship"
+   ]
+  },
+  {
+   "id": "903bad58-6ccb-4789-9b32-98a1b7b456f7",
+   "name": "MIX FM Wellington",
+   "url": "https://stream.mixfm.nz/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://mixfm.nz/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "d7c29592-79f0-4067-9886-90d1915fd52a",
+   "name": "Flava",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_08AAC.aac",
+   "hls": false,
+   "logo": "https://www.flava.co.nz/content/music/images/interface/icons/flava/apple-touch-icon.png",
+   "homepage": "https://www.flava.co.nz/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "hip hop",
+    "old school hip hop",
+    "rnb",
+    "urban"
+   ]
+  },
+  {
+   "id": "4bcd4860-b8b6-4dc7-834c-d0dce43e9291",
+   "name": "3ABN Christian Radio",
+   "url": "https://stream.3abnaustralia.org.au:8443/stream",
+   "hls": false,
+   "logo": "https://3abn.org/icons/3abn-apple-icon-120x120.png",
+   "homepage": "https://3abn.org/3abn-radio.html",
+   "codec": "AAC+",
+   "bitrate": 56,
+   "category": "music",
+   "tags": [
+    "bible teaching",
+    "christian",
+    "music"
+   ]
+  },
+  {
+   "id": "37c0ef87-6e7f-4a80-89e4-51822225a746",
+   "name": "More FM - Bay of Plenty",
+   "url": "https://mediaworks.streamguys1.com/more-tga-high_icy",
+   "hls": false,
+   "logo": "https://s3-ap-southeast-2.amazonaws.com/the-radio-bureau/assets/more-fm-icon.png",
+   "homepage": "https://www.rova.nz/radio/more-fm",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": [
+    "adult contemporary"
+   ]
+  },
+  {
+   "id": "b5be29e8-1d3c-4402-823a-cf1c941f8884",
+   "name": "Niu FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/new_assets/60fdf21e8d281279cae30692",
+   "homepage": "https://pmn.co.nz/radio-stations/niu-fm",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "talk",
+   "tags": [
+    "culture",
+    "music",
+    "pacific"
+   ]
+  },
+  {
+   "id": "48a88c41-f9cb-4a15-b504-97c48af247fc",
+   "name": "UP FM 107.5",
+   "url": "https://stream.upfm.live/radio/8000/radio.mp3",
+   "hls": false,
+   "logo": "https://liveonlineradio.net/wp-content/uploads/2013/09/Up-FM.jpg",
+   "homepage": "https://twitter.com/upfm",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "id": "5d0d5fd3-6b10-48ee-b0fe-e0ee469965d9",
+   "name": "Raglan Community Radio",
+   "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546",
+   "hls": false,
+   "logo": "https://cdn3.firecrestsystems.com/FC_RaglanCR/Images/cropped-Raglan-Community-Radio.png",
+   "homepage": "https://raglanradio.com/Default.aspx",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5eb16e09-548b-46a1-9fba-4dc5fc998ab6",
+   "name": "The Generator FM",
+   "url": "https://s1.myradiostream.com/14268/stream/1/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://thegenerator.co.nz/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "4ce90075-d450-44eb-8503-be054b2dc5c7",
+   "name": "Radio Control 99.4FM",
+   "url": "https://michae14-gecko.radioca.st/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://radiocontrol.org.nz/welcome/",
+   "codec": "AAC",
+   "bitrate": 160,
+   "category": "talk",
+   "tags": [
+    "kiwi",
+    "maori culture",
+    "massey university",
+    "random",
+    "student"
+   ]
+  }
+ ]
+}

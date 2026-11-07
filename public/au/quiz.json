@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-07T16:20:07.760Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Australia's biggest cultural project since the Opera House goes live",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/powerhouse-parramatta-opening-weekend-sydney-november-2026/qfjn3d7kd"
+  },
+  {
+   "type": "section",
+   "headline": "New Zealand election still on a knife edge with more than 90 per cent of votes counted",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.sbs.com.au/news/article/national-party-conservative-coalition-off-to-a-strong-start-in-new-zealand-election/65jddrzgf"
+  },
+  {
+   "type": "section",
+   "headline": "Home battery subsidy scheme lauded despite government's search for cuts",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.abc.net.au/news/2026-11-07/environment-minister-murray-watt-home-battery-subsidy-scheme/107359436"
+  },
+  {
+   "type": "source",
+   "headline": "Who Gives A Crap confirms customer data exposed in third party software breach",
+   "options": [
+    "ABC News",
+    "7NEWS",
+    "SBS News",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://www.abc.net.au/news/2026-11-08/who-gives-a-crap-hack/107359858"
+  },
+  {
+   "type": "source",
+   "headline": "2027 Volvo ES90 review",
+   "options": [
+    "7NEWS",
+    "BBC News",
+    "SBS News",
+    "ABC News"
+   ],
+   "answer": 0,
+   "url": "https://7news.com.au/motoring/2027-volvo-es90-review-c-23130496"
+  }
+ ]
+}

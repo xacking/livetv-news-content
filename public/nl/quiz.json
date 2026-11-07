@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:13.148Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Man op Schiphol aangehouden voor valse bommelding vlucht naar Praag",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/binnenland/6415780/man-op-schiphol-aangehouden-voor-valse-bommelding-vlucht-naar-praag.html"
+  },
+  {
+   "type": "section",
+   "headline": "Trump vervangt stafchef Witte Huis, opvolger is man achter streng immigratiebeleid",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.nu.nl/buitenland/6415772/trump-vervangt-stafchef-witte-huis-opvolger-is-man-achter-streng-immigratiebeleid.html"
+  },
+  {
+   "type": "section",
+   "headline": "Rechtbank signaleert misstanden rond nabetalingen van uitkeringen",
+   "options": [
+    "HEALTH",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/economie/6415779/rechtbank-signaleert-misstanden-rond-nabetalingen-van-uitkeringen.html"
+  },
+  {
+   "type": "section",
+   "headline": "NCTV: Cyberdreigingen ontwikkelen zich te snel voor bedrijven en overheden",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/tech/6415745/nctv-cyberdreigingen-ontwikkelen-zich-te-snel-voor-bedrijven-en-overheden.html"
+  },
+  {
+   "type": "section",
+   "headline": "Livestreams bij tennistraining uitgeschakeld na rel rond 'diva'-opmerking Pegula",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/tennis/6415783/livestreams-bij-tennistraining-uitgeschakeld-na-rel-rond-diva-opmerking-pegula.html"
+  }
+ ]
+}

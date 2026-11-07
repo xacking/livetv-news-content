@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:16.218Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Vanessa Emde: Berliner Linkspartei fordert Vanessa Emde zum Mandatsverzicht auf",
+   "options": [
+    "ENTERTAINMENT",
+    "HEALTH",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.zeit.de/politik/deutschland/2026-11/vanessa-emde-linke-berlin-nahost-konflikt-mandat"
+  },
+  {
+   "type": "section",
+   "headline": "Krieg gegen die Ukraine: Selenskyj kritisiert Klitschko nach Stromausfällen in Kyjiw",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog"
+  },
+  {
+   "type": "section",
+   "headline": "Wochenvorschau: Termine bis 15. November 2026",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-15-November-2026-id31484408.html"
+  },
+  {
+   "type": "source",
+   "headline": "Nasdaq legt zu: KI-Werte erholen sich vom Kursgemetzel",
+   "options": [
+    "DW",
+    "Tagesspiegel",
+    "ntv",
+    "ZEIT ONLINE"
+   ],
+   "answer": 2,
+   "url": "https://www.n-tv.de/wirtschaft/KI-Werte-erholen-sich-vom-Kursgemetzel-id31505838.html"
+  },
+  {
+   "type": "source",
+   "headline": "Staatskrise in Südamerika: Santiago Peña als Präsident Paraguays abgesetzt",
+   "options": [
+    "Tagesspiegel",
+    "DW",
+    "ntv",
+    "ZEIT ONLINE"
+   ],
+   "answer": 0,
+   "url": "https://www.tagesspiegel.de/internationales/dpa-staatskrise-in-sudamerika-santiago-pena-als-prasident-paraguays-abgesetzt-16254578.html"
+  }
+ ]
+}

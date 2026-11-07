@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:20:53.637Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Brann i historisk bygning i Kongsvinger",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/artikkel/brann-i-historisk-bygning-i-kongsvinger-1532375"
+  },
+  {
+   "type": "section",
+   "headline": "Gift som 14-åring: – Jeg gråter over den tapte barndommen min",
+   "options": [
+    "WORLD",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.nrk.no/norge/flere-barn-blir-giftet-bort-etter-krigen-i-gaza_-ifolge-fn-1.18050659"
+  },
+  {
+   "type": "section",
+   "headline": "Dropper Cybertruck",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://e24.no/boers-og-finans/i/VgOyV4/dropper-cybertruck?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Nå kan du oppleve 2006 igjen, og grafikken er vanvittig",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://itavisen.no/2026/11/06/nvidia-geforce-8800-gtx-20-ar-gratis-grafikkdemo-dlss-4-5/"
+  },
+  {
+   "type": "section",
+   "headline": "Barry-dobbel fikset Everton-seier",
+   "options": [
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.nrk.no/sport/barry-dobbel-fikset-everton-seier-1.18076182"
+  }
+ ]
+}

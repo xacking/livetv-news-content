@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:04.636Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "'Mærkelige' anmodninger rammer mange forsyningsselskaber: Branche frygter, det kan bruges til et cyberangreb",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.dr.dk/nyheder/indland/maerkelige-anmodninger-rammer-mange-forsyningsselskaber-branche-frygter-det-kan-bruges-til-et"
+  },
+  {
+   "type": "section",
+   "headline": "Putin strammer grebet om russere, der bor i udlandet",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.dr.dk/nyheder/udland/putin-strammer-grebet-om-russere-der-bor-i-udlandet"
+  },
+  {
+   "type": "section",
+   "headline": "Efter voldsom dag på aktiemarkedet: Hårdest ramte pensionskunder mistede 26.000 kroner for hver million",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "NATION",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://www.dr.dk/nyheder/penge/efter-voldsom-dag-paa-aktiemarkedet-haardest-ramte-pensionskunder-mistede-26-000-kroner-hver-million"
+  },
+  {
+   "type": "section",
+   "headline": "Tesla stopper produktionen af Cybertruck for at bygge robotaxaer",
+   "options": [
+    "TECHNOLOGY",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.recordere.dk/2026/11/tesla-stopper-produktionen-af-cybertruck-for-at-bygge-robotaxaer/"
+  },
+  {
+   "type": "section",
+   "headline": "Drøm gik i opfyldelse for dansk teenager med VM-scoring",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/sporten/ishockey/danske-spillere-kan-slet-ikke-vente-til-vm-paa-hjemmebane"
+  }
+ ]
+}

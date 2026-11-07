@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:48.925Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Oulun poliisi: Tapon yritys kaupan edessä",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "TECHNOLOGY",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/oulun-seutu/art-2000012395682.html"
+  },
+  {
+   "type": "section",
+   "headline": "Kolmikko yritti salakuljettaa yli 3 000 tarantulaa likaisten sukkien seassa",
+   "options": [
+    "NATION",
+    "WORLD",
+    "ENTERTAINMENT",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.is.fi/ulkomaat/art-2000012395652.html"
+  },
+  {
+   "type": "section",
+   "headline": "Fazer vähentää sokeria ja suolaa tuotteissaan",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 2,
+   "url": "https://www.is.fi/taloussanomat/art-2000012389676.html"
+  },
+  {
+   "type": "section",
+   "headline": "Uusi pornolaki astui voimaan – aikuis­viihdeala huolissaan",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "HEALTH",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/digitoday/art-2000012394561.html"
+  },
+  {
+   "type": "section",
+   "headline": "VPS hankki kaksi huippu­vahvistusta",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "SCIENCE",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.is.fi/veikkausliiga/art-2000012394563.html"
+  }
+ ]
+}

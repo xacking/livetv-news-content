@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T02:58:15.934Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "‘We will go after this’ – Taoiseach vows to hunt down those behind bomb threats to Irish Independent and other media outlets",
+   "options": [
+    "ENTERTAINMENT",
+    "HEALTH",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/irish-news/we-will-go-after-this-taoiseach-vows-to-hunt-down-those-behind-bomb-threats-to-irish-independent-and-other-media-outlets/a/164175835.html"
+  },
+  {
+   "type": "section",
+   "headline": "Thomas Markle charged with possessing child abuse images",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/world-news/thomas-markle-charged-with-possessing-child-abuse-images/a/164219536.html"
+  },
+  {
+   "type": "section",
+   "headline": "Larry Goodman’s ABP Food Group to acquire Welsh lamb-processing plant",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/business/irish-business/larry-goodmans-abp-food-group-to-acquire-welsh-lamb-processing-plant/a/164188910.html"
+  },
+  {
+   "type": "source",
+   "headline": "Ireland player ratings: Hugh Keenan and Craig Casey shine brightest in stellar show against Argentina",
+   "options": [
+    "BBC News",
+    "Irish Mirror",
+    "Irish Independent",
+    "TheJournal.ie"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/sport/rugby/ireland-player-ratings-hugh-keenan-and-craig-casey-shine-brightest-in-stellar-show-against-argentina/a/164223636.html"
+  },
+  {
+   "type": "source",
+   "headline": "Who is behind the suspected ‘coordinated’ threats - and what if they keep coming?",
+   "options": [
+    "Irish Mirror",
+    "BBC News",
+    "Irish Independent",
+    "TheJournal.ie"
+   ],
+   "answer": 3,
+   "url": "https://www.thejournal.ie/rte-dublin-bomb-hoaxes-eu-presidency-hybrid-warfare-grey-zone-7217706-Nov2026/"
+  }
+ ]
+}

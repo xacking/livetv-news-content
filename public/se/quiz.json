@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:09.369Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Paraguays president avsatt – kan åtalas",
+   "options": [
+    "NATION",
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1504229&utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "C-draget hyllas: ”Det här ger en starkare position”",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://omni.se/c-draget-hyllas-det-har-ger-en-starkare-position/a/VxlM6l"
+  },
+  {
+   "type": "section",
+   "headline": "Företagen som reafuskat – kan stämmas",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.aftonbladet.se/minekonomi/a/R5J09a/reafusk-under-black-friday-har-ar-kedjorna-som-hotas-med-vite?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "”Gör kaffe och går igång som två tryckkokare”",
+   "options": [
+    "Omni",
+    "Dagens ETC",
+    "Aftonbladet",
+    "Svenska Dagbladet"
+   ],
+   "answer": 3,
+   "url": "https://www.svd.se/a/JrkKrR/petra-marklund-har-en-hel-skiva-i-fickan?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Kristersson: ”Kan vara lösningen”",
+   "options": [
+    "Dagens ETC",
+    "Omni",
+    "Aftonbladet",
+    "Svenska Dagbladet"
+   ],
+   "answer": 0,
+   "url": "https://www.etc.se/inrikes/kristersson-xxx?utm_source=rss"
+  }
+ ]
+}

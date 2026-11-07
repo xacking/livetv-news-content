@@ -1,0 +1,145 @@
+{
+ "countries": {
+  "us": {
+   "updatedAt": "2026-11-07T16:20:05.098Z",
+   "stories": 217,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "au": {
+   "updatedAt": "2026-11-07T16:20:07.763Z",
+   "stories": 215,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "no": {
+   "updatedAt": "2026-11-07T16:20:12.015Z",
+   "stories": 164,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "ch": {
+   "updatedAt": "2026-11-07T16:20:15.244Z",
+   "stories": 225,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "gb": {
+   "updatedAt": "2026-11-07T16:20:18.902Z",
+   "stories": 225,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "ca": {
+   "updatedAt": "2026-11-07T16:20:21.789Z",
+   "stories": 200,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "dk": {
+   "updatedAt": "2026-11-07T16:20:24.298Z",
+   "stories": 179,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "se": {
+   "updatedAt": "2026-11-07T16:20:28.770Z",
+   "stories": 184,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "nl": {
+   "updatedAt": "2026-11-07T16:20:32.118Z",
+   "stories": 215,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "de": {
+   "updatedAt": "2026-11-07T16:20:35.189Z",
+   "stories": 225,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "nz": {
+   "updatedAt": "2026-11-07T16:20:38.401Z",
+   "stories": 187,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "ie": {
+   "updatedAt": "2026-11-07T16:20:43.559Z",
+   "stories": 209,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "jp": {
+   "updatedAt": "2026-11-07T16:20:52.744Z",
+   "stories": 154,
+   "stations": 77,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "sg": {
+   "updatedAt": "2026-11-07T16:20:55.784Z",
+   "stories": 219,
+   "stations": 28,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "at": {
+   "updatedAt": "2026-11-07T16:20:58.999Z",
+   "stories": 224,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "be": {
+   "updatedAt": "2026-11-07T16:21:10.884Z",
+   "stories": 195,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "fi": {
+   "updatedAt": "2026-11-07T16:21:14.724Z",
+   "stories": 193,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "hk": {
+   "updatedAt": "2026-11-07T16:21:18.726Z",
+   "stories": 189,
+   "stations": 59,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "kr": {
+   "updatedAt": "2026-11-07T16:21:25.356Z",
+   "stories": 200,
+   "stations": 38,
+   "quiz": 5,
+   "quizType": "section"
+  },
+  "ae": {
+   "updatedAt": "2026-11-07T16:21:31.856Z",
+   "stories": 118,
+   "stations": 80,
+   "quiz": 5,
+   "quizType": "section"
+  }
+ },
+ "generatedAt": "2026-11-07T16:21:31.856Z"
+}

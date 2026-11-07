@@ -1,0 +1,1166 @@
+{
+ "generatedAt": "2026-11-07T16:20:15.240Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "962af9b5-0601-11e8-ae97-52543be04c81",
+   "name": "Vintage Radio",
+   "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://vintageradio.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "7fa043b5-6a69-40ce-abaa-2274634484bc",
+   "name": "Radio Pilatus",
+   "url": "https://stream.streambase.ch/radiopilatus/mp3-192/chmedia/",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.10.3/radiopilatus/device-icons/192x192.png",
+   "homepage": "https://www.radiopilatus.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "890b3eb9-4018-4c41-95ea-146cc5201745",
+   "name": "Radio SRF 3",
+   "url": "https://stream.srg-ssr.ch/m/drs3/aacp_96",
+   "hls": false,
+   "logo": "https://www.srf.ch/var/storage/assets/webpack/favicons/srf-apple-touch-icon.png",
+   "homepage": "https://www.srf.ch/radio-srf-3",
+   "codec": "AAC",
+   "bitrate": 112,
+   "category": "music",
+   "tags": [
+    "entertainment",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "be9fa6d2-aace-46ea-bdbf-68092402066f",
+   "name": "Radio24",
+   "url": "https://stream.streambase.ch/radio24/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.14.2/radio24/device-icons/48x48.png",
+   "homepage": "https://www.radio24.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "main",
+    "mainstream"
+   ]
+  },
+  {
+   "id": "c1d4b62b-cb16-43ca-ae3a-41c2eb31b6e7",
+   "name": "Virgin Radio Switzerland",
+   "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.virginradio.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "766a0b33-3936-458b-ab92-db8500dccaf9",
+   "name": "Radio Swiss Jazz",
+   "url": "https://stream.srg-ssr.ch/srgssr/rsj/aac/192",
+   "hls": false,
+   "logo": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+   "homepage": "https://www.radioswissjazz.ch/de",
+   "codec": "AAC",
+   "bitrate": 160,
+   "category": "music",
+   "tags": [
+    "jazz",
+    "srg ssr"
+   ]
+  },
+  {
+   "id": "3bb2d57f-f7a6-49e7-afb5-89daf251de9d",
+   "name": "RADIO ARGOVIA",
+   "url": "https://stream.streambase.ch/argovia/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://i.imgur.com/ccMg6qJ.png",
+   "homepage": "https://www.argovia.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2037c9d4-8d99-48f1-b5f1-eb60dc015773",
+   "name": "Jazz",
+   "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+   "hls": false,
+   "logo": "https://www.radioswissjazz.ch/social-media/rsj-web.png",
+   "homepage": "https://www.radioswissjazz.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "jazz",
+    "mp3",
+    "radio swiss"
+   ]
+  },
+  {
+   "id": "3786ca1c-bcbd-4c90-8ce2-6e363756b320",
+   "name": "RADIO FM1",
+   "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728",
+   "hls": false,
+   "logo": "https://i.imgur.com/zSVUQHv.png",
+   "homepage": "https://www.radiofm1.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rock pop"
+   ]
+  },
+  {
+   "id": "32fed468-cfe3-11e9-a861-52543be04c81",
+   "name": "80s Forever - We Keep The 80s Alive",
+   "url": "https://premium.shoutcastsolutions.com/radio/8050/256.mp3",
+   "hls": false,
+   "logo": "https://www.80sforever.radio/favicon.ico",
+   "homepage": "https://www.80sforever.radio/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "80s",
+    "alternative rock",
+    "eighties",
+    "gothic",
+    "indie"
+   ]
+  },
+  {
+   "id": "495a3710-7aae-4122-83b5-a49757c0a812",
+   "name": "Radio Zürisee",
+   "url": "https://mp3.radio.ch/radiozuerisee256k",
+   "hls": false,
+   "logo": "https://www.radiozuerisee.ch/assets/favicons/apple-icon-120x120.png",
+   "homepage": "https://www.radiozuerisee.ch/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "classic hits",
+    "classic rock",
+    "pop",
+    "top 100"
+   ]
+  },
+  {
+   "id": "f95f4310-ff8c-4106-9b8e-18f05e594f1f",
+   "name": "Vinyl-Valley Rock Radio",
+   "url": "https://listen.radioking.com/radio/265822/stream/311047",
+   "hls": false,
+   "logo": "https://image.radioking.io/radios/265822/logo/f46222eb-a1b8-4192-8a00-c6755d10080a.jpeg",
+   "homepage": "https://vvrr.page.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues rock",
+    "classic rock",
+    "hard rock",
+    "heavy metal",
+    "progressive metal"
+   ]
+  },
+  {
+   "id": "fb1add5d-4b7b-45cf-9be4-a1e8df712553",
+   "name": "Ambi Nature Radio",
+   "url": "https://nature-rex.radioca.st/stream",
+   "hls": false,
+   "logo": "https://cdn-radiotime-logos.tunein.com/s266086d.png",
+   "homepage": "https://www.ambinature.xyz/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "field recording",
+    "nature",
+    "sounds of nature"
+   ]
+  },
+  {
+   "id": "489f3786-3ff8-46c1-ad14-2a7c5d9cea99",
+   "name": "Energy Bern",
+   "url": "https://energybern.ice.infomaniak.ch/energybern-high.mp3",
+   "hls": false,
+   "logo": "https://cdn.energy.ch/energych-broadcast/covers/channels/logo_v2_bern_1638178870.svg",
+   "homepage": "https://energy.ch/stations/energy-bern",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "cb81fe62-e665-4469-bd2b-92bfad063453",
+   "name": "Kontrafunk",
+   "url": "https://s5.radio.co/sca4082ebb/low",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://kontrafunk.radio/de/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "conservative",
+    "news",
+    "politics",
+    "talk"
+   ]
+  },
+  {
+   "id": "31d78630-003c-4f95-9f66-dcff315336c7",
+   "name": "VirginRadio",
+   "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.52.1/virginrock/device-icons/48x48.png",
+   "homepage": "https://virginradio.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "3e7dcb14-de8b-4c9c-85de-272148ff92a1",
+   "name": "Radio Top",
+   "url": "https://radiotop.ice.infomaniak.ch/radiotop96.aac",
+   "hls": false,
+   "logo": "https://www.toponline.ch/fileadmin/templates/logos/apple-touch-icon.png",
+   "homepage": "https://www.toponline.ch/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "news",
+    "pop"
+   ]
+  },
+  {
+   "id": "ce442dac-727c-454c-a18b-d38cb7d350eb",
+   "name": "1.fm - Calming Piano",
+   "url": "https://strm112.1.fm/gospel_mobile_mp3",
+   "hls": false,
+   "logo": "https://radio.1cloud.fm/favicon/favicon.svg?v=2",
+   "homepage": "https://radio.1cloud.fm/station/calmingpiano",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "calm",
+    "classical piano",
+    "piano",
+    "relax",
+    "relaxing"
+   ]
+  },
+  {
+   "id": "e9fd4c54-4e08-4311-8d7e-3a5f65a72465",
+   "name": "GRRIF",
+   "url": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.grrif.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues",
+    "eclectic",
+    "electronic",
+    "indie",
+    "rock"
+   ]
+  },
+  {
+   "id": "40e0da97-9fd2-4729-8e86-4c65cdba7910",
+   "name": "A Fine Jazz Gumbo Radio",
+   "url": "https://streaming.smartradio.ch:9502/stream",
+   "hls": false,
+   "logo": "https://jazzgumboradio.com/favicon.ico",
+   "homepage": "https://jazzgumboradio.com/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
+   "id": "6d4127ba-cd83-45c2-90ad-57dfd90b1457",
+   "name": "SWISS GROOVE",
+   "url": "https://relay2.swissgroove.ch/;",
+   "hls": false,
+   "logo": "https://swissgroove.ch/favicon.ico",
+   "homepage": "https://swissgroove.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "funk",
+    "jazz",
+    "latin",
+    "lounge",
+    "nu grooves"
+   ]
+  },
+  {
+   "id": "00c9219e-61be-4972-ba96-cfa083cc9ac2",
+   "name": "1.fm Otto's Classical music",
+   "url": "https://strm112.1.fm/classical_mobile_aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.1.fm/station/classical",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "8c9041ef-372d-46d7-87ed-d9f1d1d92e38",
+   "name": "Pop",
+   "url": "https://stream.srg-ssr.ch/m/rsp/mp3_128",
+   "hls": false,
+   "logo": "https://www.radioswisspop.ch/favicon.ico",
+   "homepage": "https://www.radioswisspop.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "mp3",
+    "pop",
+    "radio swiss"
+   ]
+  },
+  {
+   "id": "980d4891-994c-46d9-9096-4ed0eb556aa8",
+   "name": "Radio 32",
+   "url": "https://stream.streambase.ch/radio32/mp3-192/chmedia-today-web",
+   "hls": false,
+   "logo": "https://www.presseportal-schweiz.ch/sites/default/files/radio_32_logo_neu.jpg",
+   "homepage": "https://www.radio32.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "local news",
+    "news",
+    "pop"
+   ]
+  },
+  {
+   "id": "95142051-a845-4523-a11a-2521e9ba0971",
+   "name": "RADIO BERN1",
+   "url": "https://stream.streambase.ch/radiobern1/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://static.az-cdn.ch/__ip/l0CfiOHmV_gzjlkA8MAghSK6CUs/c8f09de14b2030ffea76cb3ac3a3ab7887770731/remote.adjust.rotate=0&remote.size.w=1080&remote.size.h=1080&local.crop.h=1080&local.crop.w=1080&local.crop.x=0&local.crop.y=0&r=2,radio-162x162",
+   "homepage": "https://radio.radiobern1.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "aa5f5294-8a35-4844-9294-92e4659b13d7",
+   "name": "FLASHBACK FM",
+   "url": "https://flashback.streambase.ch/001",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.flashbackfm.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "1980's",
+    "1980s",
+    "80's",
+    "80s"
+   ]
+  },
+  {
+   "id": "3a30a7a5-5d7f-4ed2-87c3-c86d0650ac8d",
+   "name": "Radio SRF 4 News",
+   "url": "https://stream.srg-ssr.ch/m/drs4news/aacp_96",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Radio_SRF_4_News.svg/182px-Radio_SRF_4_News.svg.png",
+   "homepage": "https://www.srf.ch/radio-srf-4-news",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "news",
+   "tags": [
+    "information",
+    "news"
+   ]
+  },
+  {
+   "id": "cf128157-674e-46e1-a1b4-9251ee8d3ab7",
+   "name": "Radio Central",
+   "url": "https://stream.streambase.ch/rcentral/mp3-192/chmedia-radio-web/1723615196409_33800762",
+   "hls": false,
+   "logo": "https://login.chmedia-welcome.ch/resources/ge450/login/entertainment/img/faviconradiocentral.ico",
+   "homepage": "https://www.radiocentral.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5a21309d-1b3e-4167-9481-3ea9e4132f5a",
+   "name": "Brazilian Birds Radio",
+   "url": "https://strm112.1.fm/brazilianbirds_mobile_mp3",
+   "hls": false,
+   "logo": "https://www.radio.net/300/1fmbrazilianbirds.png?version=9ea0d9ee3e94be9259a863a05f7b56b0",
+   "homepage": "https://www.1.fm/station/brazilianbirds",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "209340db-4929-11e8-b1b0-52543be04c81",
+   "name": "Radio Suisse Classique",
+   "url": "https://stream.srg-ssr.ch/m/rsc_fr/mp3_128",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.srf.ch/radio-srf-1/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "05cbcecc-78c5-4b6f-a30c-f75d315b2c29",
+   "name": "Music Radio Deep House",
+   "url": "https://radio.musicradio.ai/listen/music_radio_chillout_deep_house/radio.mp3",
+   "hls": false,
+   "logo": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+   "homepage": "https://musicradio.ai/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "deep house",
+    "electronic",
+    "focus",
+    "house",
+    "work"
+   ]
+  },
+  {
+   "id": "6f39e62e-cb8a-4c07-a976-f92217c13950",
+   "name": "Radio SRF 1 Zentralschweiz",
+   "url": "https://stream.srg-ssr.ch/m/regi_zentr/aacp_32",
+   "hls": false,
+   "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+   "homepage": "https://www.srf.ch/audio/regionaljournal-zentralschweiz",
+   "codec": "AAC",
+   "bitrate": 96,
+   "category": "talk",
+   "tags": [
+    "commercial free",
+    "contemporary",
+    "culture",
+    "mixed programming",
+    "pop"
+   ]
+  },
+  {
+   "id": "1afd93f4-2061-48e2-ae13-df204c17c24c",
+   "name": "Radio Melody Schweiz",
+   "url": "https://stream.streambase.ch/rm/mp3-192/mytuner/",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.18.0/radiomelody/device-icons/512x512.png",
+   "homepage": "https://www.radiomelody.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "8e026737-4219-4681-aba8-77db205024da",
+   "name": "Radio Swiss Classic DE",
+   "url": "https://stream.srg-ssr.ch/srgssr/rsc_de/aac/192",
+   "hls": false,
+   "logo": "https://www.radioswissclassic.ch/social-media/rsc-web.png",
+   "homepage": "https://www.radioswissclassic.ch/de",
+   "codec": "AAC",
+   "bitrate": 176,
+   "category": "music",
+   "tags": [
+    "classical",
+    "srg ssr"
+   ]
+  },
+  {
+   "id": "2ab0f7aa-6360-4449-9a6d-2d93a9d51213",
+   "name": "Music Radio Zen",
+   "url": "https://radio.musicradio.ai/listen/music_radio_zen/radio.mp3",
+   "hls": false,
+   "logo": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+   "homepage": "https://musicradio.ai/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "focus",
+    "meditation",
+    "relax",
+    "zen"
+   ]
+  },
+  {
+   "id": "b614ffcb-684a-4fac-8395-17420f6ee27c",
+   "name": "Radio1.ch",
+   "url": "https://stream.radio1.ch/128k",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://radio1.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "2000s",
+    "80s",
+    "90s"
+   ]
+  },
+  {
+   "id": "e2af125a-58df-4264-9d82-589d96a7ab39",
+   "name": "Radio Fribourg",
+   "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+   "hls": false,
+   "logo": "https://radiofr.ch/favicons/apple-touch-icon.png",
+   "homepage": "https://radiofr.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "local news"
+   ]
+  },
+  {
+   "id": "7396ca2e-f495-4e74-ac43-7e6870cebc3d",
+   "name": "One FM Rock Oldies",
+   "url": "https://webradio0002.ice.infomaniak.ch/webradio0002-128.mp3",
+   "hls": false,
+   "logo": "https://www.onefm.ch/wp-content/themes/mog-child/webradios/ONE_app_WEBRADIO_Rock.png",
+   "homepage": "https://www.onefm.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a7a61f38-61e3-4491-a7ba-8c978fe51935",
+   "name": "Vintageradio.ch",
+   "url": "https://vintageradio.ice.infomaniak.ch/vintageradio-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://vintageradio,ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a879facb-7b92-4210-a1d3-578de4662736",
+   "name": "Spoon Radio - Classic Rock",
+   "url": "https://spoonradioclassicrock.ice.infomaniak.ch/spoon-classicrock-hd.aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "commercial-free",
+    "no ads",
+    "rock"
+   ]
+  },
+  {
+   "id": "786214bb-779f-4b09-b74d-3b7b1acd2469",
+   "name": "Swissgroove",
+   "url": "https://relay1.swissgroove.ch/",
+   "hls": false,
+   "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIm10ACGZckHaE4fC3Sgay0NjEpwn9mhnpw&s",
+   "homepage": "https://swissgroove.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "funk",
+    "jazz"
+   ]
+  },
+  {
+   "id": "4e4c0093-5980-47eb-8816-ef53f3870482",
+   "name": "1.fm top rap",
+   "url": "https://strm112.1.fm/jamz_mobile_mp3?aw_0_req.gdpr=true&listenerid=bc625eb7aaf609dd3942dc610e46ed40&awparams=companionAds%3Atrue",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.1.fm/station/jamz",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "rap hiphop rnb"
+   ]
+  },
+  {
+   "id": "3a19f974-53ee-4805-8432-4a592be49cd1",
+   "name": "Radio 24",
+   "url": "https://stream.streambase.ch/radio24/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/de/3/33/Radio_24_Logo.svg",
+   "homepage": "https://www.radio24.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "easy listening",
+    "pop music"
+   ]
+  },
+  {
+   "id": "4f6119c9-3e96-494d-8b79-696cd97f9a3d",
+   "name": "GOAT Radio",
+   "url": "https://20min.dmd2streaming.com/20minuten_radio_64.aac",
+   "hls": false,
+   "logo": "https://cdn.unitycms.io/images/DQapoIlBq478hc9HagcAw7.png",
+   "homepage": "https://audio.20min.ch/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6cb03e29-0706-445d-9a28-282e3c21dcd6",
+   "name": "Sunshine Radio",
+   "url": "https://stream.streambase.ch/rsunshine/mp3-192/chmedia-radio-web/1699795900047_8633080",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.3.1/radiosunshine/device-icons/512x512.png",
+   "homepage": "https://www.sunshine.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a58da318-7924-400f-a076-a5081c462906",
+   "name": "Music Radio Lo-Fi",
+   "url": "https://radio.musicradio.ai/listen/music_radio_lo-fi/radio.mp3",
+   "hls": false,
+   "logo": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+   "homepage": "https://musicradio.ai/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "chill",
+    "focus",
+    "instrumental",
+    "lofi",
+    "study"
+   ]
+  },
+  {
+   "id": "ca6ff887-138e-40b8-9866-577fb595cca1",
+   "name": "Klassik Radio",
+   "url": "https://klassikr.streamabc.net/klr-krschweiz-mp3-192-8951205",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.klassikradio.de/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "b829ee5e-776f-4bcd-9328-c721aed13498",
+   "name": "Spoon Radio - Acoustic Rock",
+   "url": "https://spoonradioacousticrock.ice.infomaniak.ch/spoon-acousticrock-hd.aac",
+   "hls": false,
+   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_SHiVIhu9EpfEEl-rxBhQSt3qk7NR6E7IVze0BnDOe8DwJDLNs3AVPxrV4X92gX1Npnm5MymhyphenhyphenU3abvbvqpoxKzvlbstflZlnzHwnA7radKNmrIURHHKN1SOlDP4S7qOGBOhBD73Hdi8S_HiVim5-fs1k8bNJ4kmbIDjqhyWa7Ih2wM8/s220/acoustic.png",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ac5fdde2-5bc3-435a-a016-37e93dfe79bc",
+   "name": "Radio Alta",
+   "url": "https://transmiss.ion.ovh/listen/alta/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://transmiss.ion.ovh/public/alta",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "christian",
+    "gospel",
+    "louange",
+    "worship"
+   ]
+  },
+  {
+   "id": "7344b0b8-2197-446f-a936-f61fb22f2fc8",
+   "name": "Radio Swiss Classic V2",
+   "url": "https://stream.srg-ssr.ch/m/rsc_de/mp3_128",
+   "hls": false,
+   "logo": "https://www.radioswissclassic.ch/favicon.ico",
+   "homepage": "https://www.radioswissclassic.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical",
+    "instrumental"
+   ]
+  },
+  {
+   "id": "c0bc1e9e-a0f3-43b4-bca4-33b30eec2f08",
+   "name": "Music Radio Country",
+   "url": "https://radio.musicradio.ai/listen/music_radio_country/radio.mp3",
+   "hls": false,
+   "logo": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+   "homepage": "https://musicradio.ai/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "americana",
+    "country",
+    "driving",
+    "road"
+   ]
+  },
+  {
+   "id": "8f076a3b-5b85-4fc4-8989-a629caf2d912",
+   "name": "Radio SRF 1",
+   "url": "https://stream.srg-ssr.ch/srgssr/srf1/aac/192",
+   "hls": false,
+   "logo": "https://www.srf.ch/static-assets/images/srf-apple-touch-icon.png",
+   "homepage": "https://www.srf.ch/radio-srf-1",
+   "codec": "AAC",
+   "bitrate": 184,
+   "category": "news",
+   "tags": [
+    "information",
+    "news",
+    "pop",
+    "srg ssr"
+   ]
+  },
+  {
+   "id": "3bc7e810-2b6f-4fb6-bee1-eaedbad4d868",
+   "name": "1.FM - Classic Country Radio",
+   "url": "https://strmreg.1.fm/ccountry_mobile_mp3",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/9/2619.v4.png",
+   "homepage": "http://www.1.fm/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "8c95e4db-a8d6-4bc6-a07d-b57160f8e109",
+   "name": "soundz",
+   "url": "https://stream.mysoundz.ch/streams/streema/3602b6f9ee3c4521bdec84ec/shared/stream",
+   "hls": false,
+   "logo": "https://imgur.com/a/IKmjmtF",
+   "homepage": "https://www.mysoundz.ch/de",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "dance",
+    "hip hop",
+    "house",
+    "indie",
+    "pop"
+   ]
+  },
+  {
+   "id": "6af343d5-1415-434d-aafd-469632f5087b",
+   "name": "1.FM - Love Classics Radio",
+   "url": "https://strmreg.1.fm/loveclassics_mobile_mp3",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/1/2731.v5.png",
+   "homepage": "http://www.1.fm/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3a88b9a3-0e12-4b0c-a1c3-f6ed2301d789",
+   "name": "Radio 32 Goldies",
+   "url": "https://stream.streambase.ch/r32goldies/mp3-192/direct/",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/4.22.1/radio32/device-icons/192x192.png",
+   "homepage": "https://radio.radio32.ch/?utm_source=website&utm_medium=logo&utm_campaign=header",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7213602e-7218-40cb-b1f6-ba3a7887cd38",
+   "name": "Swiss Jazz Room",
+   "url": "https://stream.srg-ssr.ch/m/rsj/mp3_128",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radioswissjazz.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3f92bfe7-33a4-4246-ae2d-0333a50c7961",
+   "name": "Christmas Radio FM",
+   "url": "https://xmasfm1.dmd2streaming.com/christmasradiofm-128.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://christmasradio.fm/christmasgateway/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "d7812182-df8f-4b71-90b2-86ccf9e4640e",
+   "name": "Radio Swiss Classic FR",
+   "url": "https://stream.srg-ssr.ch/srgssr/rsc_fr/aac/192",
+   "hls": false,
+   "logo": "https://www.radioswissclassic.ch/favicon.ico",
+   "homepage": "https://www.radioswissclassic.ch/fr",
+   "codec": "AAC",
+   "bitrate": 184,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "dae4c48b-e960-4b37-9d9b-0a633cfb3a9e",
+   "name": "Radio Freiburg",
+   "url": "https://radiofribourg.ice.infomaniak.ch/radiofribourg-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radiofr.ch/freiburg",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1901f7f2-727f-4fb1-b9d8-bf3f50e1419c",
+   "name": "Bear Metal Radio",
+   "url": "https://cast5.asurahosting.com/proxy/bear?mp=/stream",
+   "hls": false,
+   "logo": "https://www.bearmetalradio.com/images/logo.png",
+   "homepage": "https://www.bearmetalradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a0c231ae-3be7-4e6f-9409-142c899a8e0d",
+   "name": "1.FM - Sunshine",
+   "url": "https://strm112.1.fm/allmixedup_mobile_mp3?",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ac676dcb-934d-44c1-ad0d-f06d0222208a",
+   "name": "Radio Swiss Pop",
+   "url": "https://stream.srg-ssr.ch/srgssr/rsp/aac/192",
+   "hls": false,
+   "logo": "https://www.radioswisspop.ch/social-media/rsp-web.png",
+   "homepage": "https://www.radioswisspop.ch/de",
+   "codec": "AAC",
+   "bitrate": 184,
+   "category": "music",
+   "tags": [
+    "pop",
+    "srg ssr"
+   ]
+  },
+  {
+   "id": "ab911d7a-cc43-4640-96f0-771a651ccd25",
+   "name": "1.FM Beloved Ballads",
+   "url": "https://strm112.1.fm/onelive_mobile_mp3?",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c948d121-67fd-43b2-a40b-6d122e546e29",
+   "name": "Spoon Radio - Rock Ballads",
+   "url": "https://spoonradiorockballads.ice.infomaniak.ch/spoon-rockballads-hd.aac",
+   "hls": false,
+   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbbjzU-x-9v-CAfwTz9XrvauhyphenhyphencNyh2KpA0x46ci7cr5uir2tTbyeBoDeAJSm2xhtcnC50yQ8n6BUfkuT-LWS9DjFCOiKt8dm2RiYSHLpd3DtQOYXAcvMmjUMNL2AOW1eJylZcvocEj1fuXeUwcOQ9XX2DsvDYEEcKXNpUMz296cJEK32SDDPrvvKILPKw/s300/Rock%20Ballads.png",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c98f1648-2d03-44a0-a264-a4c248f467df",
+   "name": "Spoon Radio - Alternative Rock",
+   "url": "https://spoonradioalternativerock.ice.infomaniak.ch/spoon-alternativerock-hd.aac",
+   "hls": false,
+   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1RnmBp61JLpuFbCdDWy9jig_j6SBxZ_2vETott9_kRev4voROUJsIYHQxggUQl2r0-lqwuaslRzLCgqU8RhRZCH7WkR3-sGdcMgJTZjmawjC3tfwyNDBt11qJD6-ojoXjRE27kf1-PwJr7gQUtG-oez2TpiEfxo38_uY4eAx5lDf9YpU0ynV9WOTmGYMY/s300/Alternative%20Rock.png",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1eaa7a2e-8fbe-4936-b71c-18190cfb25e8",
+   "name": "Bachata Nation Radio",
+   "url": "https://stream.zeno.fm/vwcq5n2rruhvv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://stream.zeno.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1095cda6-6898-11ea-9d09-52543be04c81",
+   "name": "Energy Basel",
+   "url": "https://energybasel.ice.infomaniak.ch/energybasel-high.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://energy.ch/play/basel",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "charts",
+    "local news",
+    "pop"
+   ]
+  },
+  {
+   "id": "e4bb407b-9936-4d36-be5a-32612e7fb7e5",
+   "name": "Music Radio Classical",
+   "url": "https://radio.musicradio.ai/listen/music_radio_classical/radio.mp3",
+   "hls": false,
+   "logo": "https://musicradio.ai/wp-content/uploads/2025/01/logo-music-radio-avec-flou.png",
+   "homepage": "https://musicradio.ai/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classical",
+    "concentration",
+    "focus",
+    "orchestra",
+    "study"
+   ]
+  },
+  {
+   "id": "4d548e92-325f-4f5a-ab85-6dcf7b63ba79",
+   "name": "Radio Eviva",
+   "url": "https://stream.streambase.ch/reviva/mp3-192/direct/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://player.eviva.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a3fa1510-b4ce-4766-9104-cc6b26a42e5a",
+   "name": "hifreaksradio",
+   "url": "https://stream.laut.fm/hifreaksradio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://laut.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "indie",
+    "rock",
+    "songwriter",
+    "world music"
+   ]
+  },
+  {
+   "id": "d1be7849-79bc-4ad2-baf1-844dc2e40fd4",
+   "name": "1.FM - Absolute Country Hits Radio",
+   "url": "https://strmreg.1.fm/acountry_mobile_mp3",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/0/2730.v5.png",
+   "homepage": "http://www.1.fm/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "74b2242c-6e3c-42a0-b96a-b49537d4c826",
+   "name": "Spoon Radio - Hard Rock",
+   "url": "https://spoonradiohardrock.ice.infomaniak.ch/spoon-hardrock-hd.aac",
+   "hls": false,
+   "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixecxmgSlaR39iiMKCS7NHaJciyShaEmG-GvIqMq4mO3wpUufxZ-MKmicAbx6YBBoeyBEnGAH-0WdNXJSQZIB7WaK3joXdN6QOcPZX0bhon-Hx7fBHIun28nq_3Ye1b4szyd6G1Rv0sAzW3zsYyxcXhbEbdHKA1Ou0pub9borJQym1vgmv_efSkWLtUq71/s300/Hard%20Rock.png",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2cf05159-11e8-4368-9933-5aefa98155d5",
+   "name": "Radio SRF 1 Graubünden",
+   "url": "https://stream.srg-ssr.ch/m/regi_gr/aacp_96",
+   "hls": false,
+   "logo": "https://download-media.srf.ch/world/image/audio/2015/07/f10f17ef7b4c4befbebe7f8f6b5dd943.png",
+   "homepage": "https://www.srf.ch/audio/regionaljournal-graubuenden",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "commercial free",
+    "contemporary",
+    "culture",
+    "mixed programming",
+    "pop"
+   ]
+  },
+  {
+   "id": "7f32184f-e7f0-46e6-a5e4-516daa062ec7",
+   "name": "Radio Munot",
+   "url": "https://munot.ch-central-4.streaming.deliver.media/munot_mp3_128",
+   "hls": false,
+   "logo": "https://www.radiomunot.ch/assets/favicons/android-icon-192x192.png",
+   "homepage": "https://www.radiomunot.ch/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ed16b66c-340e-470f-bd76-1e45b145055e",
+   "name": "Happy Radio",
+   "url": "https://uksoutha.streaming.broadcast.radio/stream/11340/gtradio?1672903939995",
+   "hls": false,
+   "logo": "https://goodtimeradio.broadcast.radio/favicon.ico",
+   "homepage": "https://www.happy-radio.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f927ac2d-6b32-42f5-b8da-82f388537ef3",
+   "name": "Basspistol Radio",
+   "url": "https://radio.basspistol.com/listen/basspistol/radio.mp3",
+   "hls": false,
+   "logo": "https://basspistol.com/siteicon.png",
+   "homepage": "https://basspistol.com/radio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "dance",
+    "electronic",
+    "experimental",
+    "hiphop",
+    "indie"
+   ]
+  },
+  {
+   "id": "c68224d9-0082-47fb-976f-6c08e2e05b21",
+   "name": "Spoon Radio - Modern Rock",
+   "url": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.spoonradio.com/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "commercial-free",
+    "modern rock",
+    "no ads",
+    "rock"
+   ]
+  },
+  {
+   "id": "e3e08ba3-4ee0-4062-8e82-a75f8d22f52e",
+   "name": "Radio Melody",
+   "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=64726ssr%230%23565o8622n9638n515p1pqq82pnq6q099%23zlghare&aw_0_1st.playerid=mytuner&amsparams=playerid:mytuner;skey:1685221374",
+   "hls": false,
+   "logo": "https://ch.az-cdn.ch/static/3.3.2/radiomelody/device-icons/48x48.png",
+   "homepage": "https://www.radiomelody.ch/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classic hits",
+    "hits",
+    "top40"
+   ]
+  },
+  {
+   "id": "fb056b8d-24ae-4bc5-80dd-2a7020415383",
+   "name": "Radio Maxxima",
+   "url": "https://maxxima.mine.nu/maxxima.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.maxxima.org/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  }
+ ]
+}

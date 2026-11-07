@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T02:57:54.037Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "One of the year's most prolific meteor showers to light up the night sky this weekend",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/weather/articles/cmlykqq7zg9zo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Elon Musk appears to signal the end of the road for Cybertruck",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Ireland send out ominous warning with second-gear walloping of Argentina",
+   "options": [
+    "Evening Standard",
+    "Daily Mirror",
+    "BBC News",
+    "The Telegraph"
+   ],
+   "answer": 3,
+   "url": "https://www.telegraph.co.uk/rugby-union/2026/11/06/ireland-vs-argentina-live-score-latest-nations-championship/"
+  },
+  {
+   "type": "source",
+   "headline": "Stephen Fry ‘not looking where he was going’ before stage fall, companies say",
+   "options": [
+    "Evening Standard",
+    "BBC News",
+    "Daily Mirror",
+    "The Telegraph"
+   ],
+   "answer": 0,
+   "url": "https://www.standard.co.uk/news/crime/stephen-fry-o2-arena-high-court-john-brown-jack-hudson-b1303936.html"
+  }
+ ]
+}

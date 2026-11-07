@@ -1,0 +1,1169 @@
+{
+ "generatedAt": "2026-11-07T16:20:32.114Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "af6f51b1-0ca9-11ea-a87e-52543be04c81",
+   "name": "Intense Radio - We love Dance 256K",
+   "url": "https://secure.live-streams.nl/main",
+   "hls": false,
+   "logo": "https://www.intenseradio.net/wp-content/uploads/2023/09/intense-radio-vierkant-4d-2026.jpg",
+   "homepage": "https://www.intenseradio.net/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "clubhouse",
+    "dance",
+    "electronic",
+    "house",
+    "melodic"
+   ]
+  },
+  {
+   "id": "07eb6945-5023-461e-9064-234075472cff",
+   "name": "JOE",
+   "url": "https://stream.joe.nl/joe/aachigh",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg",
+   "homepage": "https://joe.nl/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "70's",
+    "80's",
+    "90's",
+    "hits"
+   ]
+  },
+  {
+   "id": "b20de429-e1b3-4624-a1ac-12e2bf0cadb0",
+   "name": "Sky Radio",
+   "url": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128",
+   "hls": false,
+   "logo": "https://www.skyradio.nl/favicon.ico",
+   "homepage": "https://www.skyradio.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "003d3c6f-e183-11e9-a8ba-52543be04c81",
+   "name": "Qmusic",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+   "hls": false,
+   "logo": "https://qmusic.nl/favicon.ico",
+   "homepage": "https://qmusic.nl/live",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5e45745b-7337-4299-bb93-6b99fafbc2b2",
+   "name": "Q music Nederland",
+   "url": "https://stream.qmusic.nl/qmusic/aachigh",
+   "hls": false,
+   "logo": "https://qmusic.nl/favicon.ico",
+   "homepage": "https://qmusic.nl/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "c19d0f8c-24a5-11e9-a80b-52543be04c81",
+   "name": "KINK",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+   "hls": false,
+   "logo": "https://kink.nl/static/apple-touch-icon.png",
+   "homepage": "https://kink.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f0ab0c5c-7125-476c-97a4-2eabc14f5f05",
+   "name": "538 Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.538.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "005636e9-2142-497b-8f51-606d536fb18a",
+   "name": "NPO Radio 2",
+   "url": "https://icecast.omroep.nl/radio2-bb-aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.nporadio2.nl/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "da5d71d1-d8cc-4301-9f86-b6abaa1201bd",
+   "name": "BNR Nieuwsradio",
+   "url": "https://stream.bnr.nl/bnr_mp3_128_20",
+   "hls": false,
+   "logo": "https://static.bnr.nl/assets/bnr-next/logo.png",
+   "homepage": "https://www.bnr.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "business",
+    "news",
+    "talk"
+   ]
+  },
+  {
+   "id": "46e55863-cef7-4f50-954e-3fa7feede49f",
+   "name": "NPO Radio 5",
+   "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+   "hls": false,
+   "logo": "https://www.nporadio5.nl/apple-touch-icon.png",
+   "homepage": "https://www.nporadio5.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "60's",
+    "70's",
+    "80's",
+    "evergreens"
+   ]
+  },
+  {
+   "id": "d58a82c3-b7f1-4c1c-83b1-9e45d42e1e19",
+   "name": "Arrow Classic Rock",
+   "url": "https://stream.player.arrow.nl/arrowcr",
+   "hls": false,
+   "logo": "https://player.arrow.nl/tmp/images/default.jpg",
+   "homepage": "https://www.arrow.nl/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "mp3",
+    "rock"
+   ]
+  },
+  {
+   "id": "4e9c82d5-97da-11e9-a605-52543be04c81",
+   "name": "Qmusic Non-Stop",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg",
+   "homepage": "https://qmusic.nl/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0adb24fb-a2fe-4a9b-97a4-bc82dfb1820c",
+   "name": "jungletrain.net - 24/7 drum and bass",
+   "url": "https://chat.jungletrain.net/streamtest/;stream/1",
+   "hls": false,
+   "logo": "https://jungletrain.net/jth-inc/images/jtlogo.png",
+   "homepage": "https://jungletrain.net/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "428fecbf-d5e2-4c30-bcde-6dd98b125434",
+   "name": "NPO Klassiek",
+   "url": "https://icecast.omroep.nl/radio4-bb-mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NPO_Klassiek_logo.svg/1200px-NPO_Klassiek_logo.svg.png",
+   "homepage": "https://www.nporadio4.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classical",
+    "klassiek"
+   ]
+  },
+  {
+   "id": "41537cc5-896b-4e5c-abf6-82449b6be5bd",
+   "name": "NPO Radio 1",
+   "url": "https://icecast.omroep.nl/radio1-sb-aac",
+   "hls": false,
+   "logo": "https://www.nporadio1.nl/svg/npo_radio1_logo.svg",
+   "homepage": "https://www.nporadio1.nl/",
+   "codec": "AAC",
+   "bitrate": 32,
+   "category": "news",
+   "tags": [
+    "international news",
+    "interviews",
+    "music",
+    "national news"
+   ]
+  },
+  {
+   "id": "6618c256-21a1-4f38-8180-c801dd180860",
+   "name": "JOE non-stop",
+   "url": "https://stream.joe.nl/nonstop/mp3",
+   "hls": false,
+   "logo": "https://cdn-radio.dpgmedia.net/2/b4/49/28/115/JOE_NON-STOP_WEBSITE_LOGO-JOE-NON-STOP_35298ac114.png",
+   "homepage": "https://joe.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "non-stop music"
+   ]
+  },
+  {
+   "id": "155b08b4-97da-11e9-a605-52543be04c81",
+   "name": "Qmusic Het Foute Uur",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Qmusic_logo.svg",
+   "homepage": "https://qmusic.nl/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "aaa01e21-7df4-4735-b1b3-ebcce5d22c2b",
+   "name": "Q-Music",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playerId=redirect",
+   "hls": false,
+   "logo": "https://qmusic.nl/favicon.ico",
+   "homepage": "https://qmusic.nl/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f4aea998-df4a-437b-ad2d-d160c821f91b",
+   "name": "Radio 10",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA",
+   "hls": false,
+   "logo": "https://www.radio10.nl/favicon.ico",
+   "homepage": "https://www.radio10.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1f6cc2e1-fe65-4356-a5e2-cdd6cc083ee7",
+   "name": "Tukker FM",
+   "url": "https://stream.tukkerfm.nl/tukkerfm",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.tukker.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "folk",
+    "oldies",
+    "piratenhits"
+   ]
+  },
+  {
+   "id": "0c62b9d7-8de0-4693-9842-6bf9b50229d3",
+   "name": "NPO 3FM",
+   "url": "https://icecast.omroep.nl/3fm-bb-mp3",
+   "hls": false,
+   "logo": "https://www.npo3fm.nl/apple-touch-icon.png",
+   "homepage": "https://www.npo3fm.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "9103990d-f203-410e-8764-0cd81b415e6d",
+   "name": "QMUSIC NEDERLAND",
+   "url": "https://stream.qmusic.nl/qmusic/mp3",
+   "hls": false,
+   "logo": "https://qmusic.nl/favicon.ico",
+   "homepage": "https://qmusic.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "416df3af-c4ed-44d2-a405-7417b17d2e0a",
+   "name": "Radio Veronica",
+   "url": "https://19993.live.streamtheworld.com/VERONICA_SC",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.radioveronica.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "ab16f423-6d03-47c2-bc7a-0e4751c51df4",
+   "name": "Classic NL",
+   "url": "https://classic.nl/streams/?s=main",
+   "hls": false,
+   "logo": "https://classic.nl/images/icons/favicon-32x32.png",
+   "homepage": "https://classic.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "classical",
+    "classical music",
+    "neoclassical"
+   ]
+  },
+  {
+   "id": "6a5d1e25-f9aa-4e5b-a9b0-5c68a9940f2d",
+   "name": "ABBAradio.com",
+   "url": "https://stream.radio.co/s0489f8245/listen",
+   "hls": false,
+   "logo": "https://abbaradio.com/wp-content/uploads/2025/07/ABBAradio.com-Logo-Tr-92x50-1.png",
+   "homepage": "https://abbaradio.com/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "1980s",
+    "70's",
+    "70s",
+    "80s",
+    "80s radio"
+   ]
+  },
+  {
+   "id": "949419a7-b875-45d3-869c-6f4fb2d107a4",
+   "name": "Synthwave City FM - New",
+   "url": "https://synthwave-rex.radioca.st/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://synthwavecityfm.com/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "f345ae46-3878-4a5d-b907-4df9c9666511",
+   "name": "Slow Radio Gold",
+   "url": "https://stream11.slowradio.com/",
+   "hls": false,
+   "logo": "https://en.slowradio.com/img/favicons/apple-touch-icon.png",
+   "homepage": "https://en.slowradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "slow"
+   ]
+  },
+  {
+   "id": "3ac246bf-557d-4c62-ae77-e8f1f928897b",
+   "name": "Radio Gelderland",
+   "url": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland",
+   "hls": false,
+   "logo": "https://s.regiogroei.cloud/Logo-los_1024.png",
+   "homepage": "https://www.gld.nl/radio/overzicht",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "103.5",
+    "news",
+    "public radio"
+   ]
+  },
+  {
+   "id": "af35355e-a601-4530-a806-0a18d42a52c6",
+   "name": "Radion Veronica Top 1000 AllerTijden",
+   "url": "https://28973.live.streamtheworld.com/WEB06_AAC.aac",
+   "hls": false,
+   "logo": "https://www.radioveronica.nl/veronica/favicon.ico",
+   "homepage": "https://www.radioveronica.nl/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "27bc1246-af93-43ec-b315-f54986cd0ca5",
+   "name": "After Hours – Melodic House & DnB",
+   "url": "https://r.bgp.rodeo/listen/after_hours/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://r.bgp.rodeo/public/after_hours",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "dance",
+    "deep house",
+    "dnb",
+    "drum and bass",
+    "electronic"
+   ]
+  },
+  {
+   "id": "a1189085-eed0-414c-b8d8-6652189767dd",
+   "name": "Fantasy Italo Dance 90s radio",
+   "url": "https://mscp2.live-streams.nl:8152/italodance",
+   "hls": false,
+   "logo": "https://jplayer-generator.live-streams.nl/upload/96142657.jpg",
+   "homepage": "https://italo.dance/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "90s",
+    "dance",
+    "eurobeat",
+    "italo",
+    "italodance"
+   ]
+  },
+  {
+   "id": "b5e70b7c-99d3-4892-b8e4-af493cdd03be",
+   "name": "80's Alive",
+   "url": "https://stream.80sa.live/80s-alive.mp3",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/211/80s-alive.f8d4a080.png",
+   "homepage": "https://alive.radio/80s/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "1980s"
+   ]
+  },
+  {
+   "id": "b9201e54-c66a-489b-9db5-f487c0c4bcdf",
+   "name": "Real Hardstyle Radio",
+   "url": "https://stream.realhardstyle.nl/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://realhardstyle.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "early hardstyle",
+    "euphoric hardstyle",
+    "freestyle",
+    "hardstyle",
+    "jumpstyle"
+   ]
+  },
+  {
+   "id": "dae1d092-9273-46fc-9014-43f61a6978bf",
+   "name": "Radio Rijnmond",
+   "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+   "hls": false,
+   "logo": "https://s.regiogroei.cloud/img/favicons/rijnmond/apple-touch-icon.png",
+   "homepage": "https://www.rijnmond.nl/radio",
+   "codec": "MP3",
+   "bitrate": 160,
+   "category": "news",
+   "tags": [
+    "80's",
+    "90's",
+    "interviews",
+    "music",
+    "news"
+   ]
+  },
+  {
+   "id": "fd255a97-f17b-402c-a7fc-d28d586b3623",
+   "name": "538 Classics",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+   "hls": false,
+   "logo": "https://images.ctfassets.net/3p0bn61n86ty/1UmRrGgak1DxWnJ98Tfch6/afe41001535ecba843cd1a2880ca8093/2021-538-logo-RGB-Zwart-nieuw.png",
+   "homepage": "https://www.538.nl/classics",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "00’s",
+    "10’s",
+    "90’s",
+    "dance smashes",
+    "throwbacks"
+   ]
+  },
+  {
+   "id": "9a3911a6-14ea-449e-b760-77fe6b76fe7c",
+   "name": "Alleen Klassiek",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3",
+   "hls": false,
+   "logo": "https://i.postimg.cc/XqS5LZRg/logog.webp",
+   "homepage": "http://www.alleenklassiek.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "klassiek"
+   ]
+  },
+  {
+   "id": "e3da695c-aa7f-4706-bce9-b5a5ed954bba",
+   "name": "Qmusic Foute Uur",
+   "url": "https://stream.qmusic.nl/fouteuur/aac",
+   "hls": false,
+   "logo": "https://i.postimg.cc/x1t1Z7W8/Qmusic-Foute-Uur.png",
+   "homepage": "https://qmusic.nl/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c1c834eb-e84e-43fc-8841-6749e19b4edc",
+   "name": "Radio 10 non-stop",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
+   "hls": false,
+   "logo": "https://www.radio10.nl/favicon.ico",
+   "homepage": "https://www.radio10.nl/non-stop",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "top hits"
+   ]
+  },
+  {
+   "id": "9719c3de-3975-42d5-b182-0489768d4f96",
+   "name": "Amsterdam Funk Channel",
+   "url": "https://live.afc.fm/",
+   "hls": false,
+   "logo": "https://afc.fm/favicon.ico",
+   "homepage": "https://www.afc.fm/",
+   "codec": "AAC+",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "80s",
+    "90s",
+    "funk",
+    "r&b",
+    "soul"
+   ]
+  },
+  {
+   "id": "074f6537-b3c4-11e9-acb2-52543be04c81",
+   "name": "Pinguin Blues",
+   "url": "https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://pinguinradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "blues",
+    "blues rock",
+    "pinguin radio"
+   ]
+  },
+  {
+   "id": "73215772-d300-4327-8c90-dd22692afe84",
+   "name": "100% NL Non-Stop",
+   "url": "https://stream.100p.nl/web02_mp3",
+   "hls": false,
+   "logo": "https://scale.100p.nl/imageScaled/?site=100pnl&file=1561108141_Nonstop.jpg&w=150&h=150&cropped=0",
+   "homepage": "https://www.100p.nl/digitalestations",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "29d481b8-bc37-4b73-a72f-c3b8ca025430",
+   "name": "Only 80's Radio",
+   "url": "https://server-28.stream-server.nl:8850/stream",
+   "hls": false,
+   "logo": "https://www.only80sradio.nl/favicon.ico",
+   "homepage": "https://www.only80sradio.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "80's",
+    "disco",
+    "italo disco",
+    "pop music"
+   ]
+  },
+  {
+   "id": "9e7c67dd-aa9d-41b7-bb50-43da85f05c5c",
+   "name": "Sterren.nl",
+   "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "fd7c6cd0-0e97-4fb1-90fc-7ecd8a3424c4",
+   "name": "The Finest Amsterdam",
+   "url": "https://live.thefinest.amsterdam/hq",
+   "hls": false,
+   "logo": "https://thefinest.amsterdam/wp-content/uploads/2026/01/The_Finest_Amsterdam_1200x1200-1.png",
+   "homepage": "https://thefinest.amsterdam/",
+   "codec": "AAC",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "boogie",
+    "dance classics",
+    "disco",
+    "electro",
+    "funk"
+   ]
+  },
+  {
+   "id": "466c6af1-bb23-4d42-8509-3fb73d872a14",
+   "name": "Groot Nieuws Radio Non-Stop",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3",
+   "hls": false,
+   "logo": "https://images.cvandaag.nl/artikel-foto/0fdee9961e3678d8bd55c560ea6f0384/groot-nieuws-radio.png",
+   "homepage": "https://www.grootnieuwsradio.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "non-stop",
+    "worship"
+   ]
+  },
+  {
+   "id": "b075db07-a741-4756-86d4-4035292a02f2",
+   "name": "JOE mp3",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/pkhqkus8dmde.jpg",
+   "homepage": "https://joe.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s",
+    "80s",
+    "90s",
+    "hits"
+   ]
+  },
+  {
+   "id": "c81f7ce5-a1fd-42d3-b843-8ec7ec867d48",
+   "name": "Classicnl Opera",
+   "url": "https://classic.nl/streams/?s=opera",
+   "hls": false,
+   "logo": "https://www.classic.nl/favicon.ico",
+   "homepage": "https://www.classic.nl/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "classical",
+    "opera"
+   ]
+  },
+  {
+   "id": "c4085d5b-e2e4-4cc8-9d18-42b860d89fc2",
+   "name": "Cream",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://creamradio.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "jazz"
+   ]
+  },
+  {
+   "id": "b282fce0-2462-49da-a9c8-2fef2fa280e6",
+   "name": "radio.DANCE 90s dance music",
+   "url": "https://radiodance.streamingmedia.it/audio.aac",
+   "hls": false,
+   "logo": "https://www.radio.dance/logo_radiodance90s_512.png",
+   "homepage": "https://www.radio.dance/",
+   "codec": "AAC+",
+   "bitrate": 321,
+   "category": "music",
+   "tags": [
+    "1990s",
+    "90s",
+    "90s dance",
+    "club dance",
+    "dance"
+   ]
+  },
+  {
+   "id": "266df8a9-3ff6-4592-a1fa-1ee7b9b4e41a",
+   "name": "Skyradio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+   "hls": false,
+   "logo": "https://skyradio.nl/favicon.ico",
+   "homepage": "https://skyradio.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "cfd71b17-5765-4365-8425-09a2073bf222",
+   "name": "Sublime Live",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
+   "hls": false,
+   "logo": "https://6nl7xj2ntppk.b-cdn.net/73cf20f2-a361-480b-bc2f-bec43b6a2bd5",
+   "homepage": "https://sublime.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "11714c16-d630-4ee9-af90-2f8f0ebae6a9",
+   "name": "FunX",
+   "url": "https://icecast.omroep.nl/funx-sb-aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.funx.nl/radio",
+   "codec": "AAC",
+   "bitrate": 32,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5e05cbdd-c9d0-46c7-ad8e-9e09925c70f8",
+   "name": "Joe 70s & 80s",
+   "url": "https://stream.joe.nl/joe/aachigh",
+   "hls": false,
+   "logo": "https://joe.nl/favicon.ico",
+   "homepage": "https://joe.nl/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": [
+    "70s",
+    "80s",
+    "non-stop"
+   ]
+  },
+  {
+   "id": "7edef5d0-588f-4f3a-b67a-f2958d7f188b",
+   "name": "RTV Noord Holland",
+   "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3",
+   "hls": false,
+   "logo": "https://www.nhnieuws.nl/nh/apple-touch-icon.png",
+   "homepage": "https://www.nhnieuws.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "518c3d03-c62e-4c01-9cca-6c0c9f02f15c",
+   "name": "90s Alive",
+   "url": "https://stream.90sa.live/90s-alive.mp3",
+   "hls": false,
+   "logo": "https://alive.radio/wp-content/uploads/2023/03/90s-alive-logo-2023-1000x1000-1-770x770.png",
+   "homepage": "https://alive.radio/90s/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "1990s"
+   ]
+  },
+  {
+   "id": "1f9a7a02-6f20-415b-8fd5-030d65e614df",
+   "name": "Sublime",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?dist=sublime_website",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://sublime.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "07a29552-b1cc-4f49-9f7a-de6de332e5ce",
+   "name": "Beatline – House & Electronic Mixes",
+   "url": "https://r.bgp.rodeo/listen/mixes/radio.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://beatline.live/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "dance",
+    "deep house",
+    "dj mix",
+    "edm",
+    "electronic"
+   ]
+  },
+  {
+   "id": "ead62101-c57c-4841-9677-8500f9097091",
+   "name": "Groot Nieuws Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3",
+   "hls": false,
+   "logo": "https://www.grootnieuwsradio.nl/favicons/favicon-1-180x180.png",
+   "homepage": "https://www.grootnieuwsradio.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "christian",
+    "christian music"
+   ]
+  },
+  {
+   "id": "c7ca444e-0bbf-450a-a744-64e8ebdda695",
+   "name": "Sublime Jazz",
+   "url": "https://stream.sublime.nl/web21_mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.sublime.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic jazz",
+    "jazz",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "6e06bb6b-c281-40e7-a459-2d7be467af6f",
+   "name": "Hardcore Power Radio",
+   "url": "https://hardcorepower.beheerstream.nl/8012/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.hardcorepower.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "gabber"
+   ]
+  },
+  {
+   "id": "aa01e1f5-9bb0-4cc1-a77d-88c3c2e712d4",
+   "name": "FRENCHCORE24FM Radio",
+   "url": "https://a8.asurahosting.com:7890/radio.mp3",
+   "hls": false,
+   "logo": "https://www.frenchcore24fm-radio.nl/apple-touch-icon.png",
+   "homepage": "https://www.frenchcore24fm-radio.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "frenchcore"
+   ]
+  },
+  {
+   "id": "3c25117b-709a-435b-b899-0581c5ae59ad",
+   "name": "Qmusic 10s",
+   "url": "https://stream.qmusic.nl/10s/aac",
+   "hls": false,
+   "logo": "https://i.postimg.cc/gj6RDdjb/Qmusic-10s.png",
+   "homepage": "https://qmusic.nl/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "be9fe886-6f1c-45b1-8c67-78d3e4d24685",
+   "name": "Simone FM",
+   "url": "https://stream.simone.nl/simone",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.simone.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "735c02c5-461d-4a6e-95cd-06ac47e4af05",
+   "name": "Sublime Soul Classics",
+   "url": "https://stream.sublime.nl/web22_mp3",
+   "hls": false,
+   "logo": "https://cdn-profiles.tunein.com/s308316/images/logoq.png",
+   "homepage": "https://www.sublime.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classics",
+    "soul",
+    "sublime"
+   ]
+  },
+  {
+   "id": "a76886de-703d-4c64-91ba-75673bfc7235",
+   "name": "Omroep Zeeland Radio",
+   "url": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio",
+   "hls": false,
+   "logo": "https://s.regiogroei.cloud/img/favicons/zeeland/android-chrome-192x192.png",
+   "homepage": "https://www.omroepzeeland.nl/radio-zeeland",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "classics",
+    "folk",
+    "local news",
+    "pop",
+    "regional"
+   ]
+  },
+  {
+   "id": "42319d9b-a6f3-4799-8cec-5f6b0da7fe9c",
+   "name": "AI Melodic Death Metal Radio Station",
+   "url": "https://a7.asurahosting.com/listen/melodeath.ai_radio_station/radio.mp3",
+   "hls": false,
+   "logo": "https://www.ai-metal-radio-station.nl/favicon/android-icon-192x192.png",
+   "homepage": "https://www.ai-metal-radio-station.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "dfbad1f3-3534-44fd-90dd-2da4837344a2",
+   "name": "Radio Veronica Live",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radioveronica.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "674e1f9d-4686-4bc0-8fc3-7e1517ed543a",
+   "name": "Q-Dance Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://radio.q-dance.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "hardcore",
+    "hardstyle"
+   ]
+  },
+  {
+   "id": "69e80c6d-8a40-4138-8946-20a7b0a0460c",
+   "name": "Alternative Rock Radio",
+   "url": "https://25243.live.streamtheworld.com/KINK_SC",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/yTMB8WVAUb.png",
+   "homepage": "https://kink.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "alternative rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "b2cb3f63-73d2-4b98-8489-39e6b3b1f192",
+   "name": "SkyRadio HITS",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01AAC.aac",
+   "hls": false,
+   "logo": "https://cldnr.prod.webx.talpa.digital/talpa-network/image/fetch/f_webp,c_limit,w_3840,q_auto/https://images.ctfassets.net/m3kfiwxadki8/5KXTwRJEUox1z5BvxhYDSs/c5fc79c07c63d1f504ef92bc2453b5c2/sky_logo_audio_dashboard.png",
+   "homepage": "https://www.skyradio.nl/zenders/hits",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "bd561f63-26fa-4bd1-b986-aa5025d7870b",
+   "name": "Christmas Hits Radio NL",
+   "url": "https://stream06.dotpoint.nl:8006/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.christmashits.net/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "season",
+    "seasonal",
+    "xmas",
+    "xmas rock"
+   ]
+  },
+  {
+   "id": "bcaca236-9f95-4cae-9cdc-6ae7917c9bce",
+   "name": "RADIONL",
+   "url": "https://stream.radionl.fm/radionl",
+   "hls": false,
+   "logo": "https://radionl.fm/wp-content/uploads/2024/10/logo-RADIONL-1.png",
+   "homepage": "https://radionl.fm/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "24/7",
+    "dutch music"
+   ]
+  },
+  {
+   "id": "459cda29-2f7e-4218-a581-34e8debb27ae",
+   "name": "Radio M Utrecht",
+   "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+   "hls": false,
+   "logo": "https://s.regiogroei.cloud/img/favicons/utrecht/apple-touch-icon.png?v=1698097333309",
+   "homepage": "https://www.rtvutrecht.nl/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "local news",
+    "smooth"
+   ]
+  },
+  {
+   "id": "1028583f-e87c-494e-8f50-669ae0d36bb8",
+   "name": "Piraten.fm Top stream 1",
+   "url": "https://piraten.fm/top/1",
+   "hls": false,
+   "logo": "https://piraten.fm/_nuxt/icons/icon_64x64.123069.png",
+   "homepage": "https://piraten.fm/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "456c476a-eda1-4d82-a784-29fcdff6002c",
+   "name": "Joe 70s and 80s",
+   "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+   "hls": false,
+   "logo": "https://joe.nl/favicon.ico",
+   "homepage": "https://joe.nl/",
+   "codec": "AAC+",
+   "bitrate": 95,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5573061e-a938-49a1-ad96-ac45e601e356",
+   "name": "538 Classics AAC",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac",
+   "hls": false,
+   "logo": "https://www.538.nl/favicon.ico",
+   "homepage": "https://www.538.nl/classics",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "00s",
+    "10s",
+    "90s",
+    "dance",
+    "throwbacks"
+   ]
+  },
+  {
+   "id": "ead0433e-c0d5-4ef0-be48-7d887990ce9a",
+   "name": "Sky Radio Nederland",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3?dist=skyradio_web&amp;ttag=talpa_consent:1&amp;gdpr=1&amp;gdpr_consent=CPd5woAPd5woAADABBNLCcCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA%22%20title=%22Sky%20Radio%20-%20Non-Stop%22",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://skyradio.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e173b0bb-cefd-45ab-9b3b-7b4a14c78d85",
+   "name": "Radio 10 60's & 70's Hits",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+   "hls": false,
+   "logo": "https://www.radio10.nl/favicon.png",
+   "homepage": "https://www.radio10.nl/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "60s",
+    "70s"
+   ]
+  },
+  {
+   "id": "ba7b54ea-7f05-4fe9-b600-385f1486fb09",
+   "name": "NPO Sterren NL",
+   "url": "https://www.mp3streams.nl/zender/npo-sterren-nl/stream/82-mp3-192",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.nporadio5.nl/sterrennl",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0b151d75-9932-4a2c-b522-8b9505872266",
+   "name": "Golden Oldies Radio",
+   "url": "https://sonic.magicdragon.nl/8022/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://goldenoldiesradio.nl/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "60er",
+    "70 80 hits",
+    "classic hits 60s 70a 80s",
+    "rotterdam"
+   ]
+  }
+ ]
+}

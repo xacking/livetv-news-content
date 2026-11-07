@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T09:56:27.750Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Grieving father of Learjet co-pilot defends his daughter's reputation after crash",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://abcnews.com/US/wireStory/dad-20-year-pilot-florida-learjet-crash-final-137919371"
+  },
+  {
+   "type": "section",
+   "headline": "Missiles target Kyiv and wound 5 as Ukraine prepares for talks with Russia and the US",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/International/wireStory/missiles-target-kyiv-injure-5-ukraine-prepares-talks-137937211"
+  },
+  {
+   "type": "section",
+   "headline": "Mark Zuckerberg’s fortune tops $200 billion. His 3 daughters won’t inherit most of it",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "NATION",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://fortune.com/2026/11/07/zuckerberg-chan-daughters-inheritance-99-percent-pledge/"
+  },
+  {
+   "type": "source",
+   "headline": "Democrats flip statehouses in midterm wave",
+   "options": [
+    "BBC News",
+    "ABC News",
+    "UPI",
+    "The Hill"
+   ],
+   "answer": 1,
+   "url": "https://abcnews.com/Politics/democrats-flip-statehouses-midterm-wave/story?id=137924342"
+  },
+  {
+   "type": "source",
+   "headline": "Tropical Storm Pena forms in the Pacific Ocean south of Hawaii",
+   "options": [
+    "ABC News",
+    "The Hill",
+    "BBC News",
+    "UPI"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/US/wireStory/tropical-storm-pena-forms-pacific-ocean-south-hawaii-137926670"
+  }
+ ]
+}

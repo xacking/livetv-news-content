@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:45.220Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Nederlandse politie arresteert man voor valse bommelding vlucht naar Praag",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.hln.be/buitenland/nederlandse-politie-arresteert-man-voor-valse-bommelding-vlucht-naar-praag~a8e82b28/"
+  },
+  {
+   "type": "section",
+   "headline": "“Dit was de afspraak niet!”: EnergyVision-CEO deelt mail van Conner Rousseau met zijn volgers na plannen voor uitbreiding effectentaks",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://www.hln.be/begroting/dit-was-de-afspraak-niet-energyvision-ceo-deelt-mail-van-conner-rousseau-met-zijn-volgers-na-plannen-voor-uitbreiding-effectentaks~a451d29b/"
+  },
+  {
+   "type": "section",
+   "headline": "Bluetooth wordt volgend jaar bijna vier keer sneller",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/tech/bluetooth-wordt-volgend-jaar-bijna-vier-keer-sneller~ad43f5b0/"
+  },
+  {
+   "type": "source",
+   "headline": "Wie trekt aan het langste eind in duel tussen Westerlo en Charleroi?",
+   "options": [
+    "De Standaard",
+    "Het Nieuwsblad",
+    "Knack",
+    "HLN"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/jupiler-pro-league/wie-trekt-aan-het-langste-eind-in-duel-tussen-westerlo-en-charleroi~a7565113/"
+  },
+  {
+   "type": "source",
+   "headline": "ANALYSE. “De Winter gooit nu al zijn internationale carrière weg. Daar snap je toch geen reet van?”",
+   "options": [
+    "De Standaard",
+    "Knack",
+    "HLN",
+    "Het Nieuwsblad"
+   ],
+   "answer": 3,
+   "url": "https://www.nieuwsblad.be/sport/sportregio/analyse.-de-winter-gooit-nu-al-zijn-internationale-carriere-weg.-daar-snap-je-toch-geen-reet-van/164221734.html"
+  }
+ ]
+}

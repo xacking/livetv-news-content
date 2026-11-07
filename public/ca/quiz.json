@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-07T09:56:40.977Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "McGill convicted murderer did not have fair process, his lawyer says",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/montreal/article/mcgill-convicted-murderer-did-not-have-fair-process-his-lawyer-says/"
+  },
+  {
+   "type": "section",
+   "headline": "U.S. military carries out new targeted strikes on Iran as Tehran’s leaders weigh mediator’s proposals",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.ctvnews.ca/world/article/us-military-carries-out-new-targeted-strike-on-iran-as-tehrans-leaders-weigh-mediators-proposals/"
+  },
+  {
+   "type": "section",
+   "headline": "Unifor says it thinks Stellantis has sold Brampton assembly plant",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/toronto/local/peel/article/unifor-says-it-thinks-stellantis-has-sold-brampton-assembly-plant/"
+  },
+  {
+   "type": "source",
+   "headline": "Amherstburg contractor charged in alleged $155K renovation fraud",
+   "options": [
+    "Daily Hive",
+    "Global News",
+    "CTV News",
+    "BBC News"
+   ],
+   "answer": 2,
+   "url": "https://www.ctvnews.ca/london/article/amherstburg-contractor-charged-in-alleged-155k-renovation-fraud/"
+  },
+  {
+   "type": "source",
+   "headline": "Gauthier scores winner as Ducks top Flames 5-3",
+   "options": [
+    "CTV News",
+    "Global News",
+    "BBC News",
+    "Daily Hive"
+   ],
+   "answer": 1,
+   "url": "https://globalnews.ca/news/12140939/gauthier-scores-winner-as-ducks-top-flames-5-3/"
+  }
+ ]
+}

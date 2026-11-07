@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-07T16:20:38.398Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Kem Ormond’s Vegetable Garden: How to attract more birds with a feeder and bath",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/the-country/news/kem-ormonds-vegetable-garden-how-to-attract-more-birds-with-a-feeder-and-bath/O7VXDHDMWZGEVHDYVLAH2IPXDI/"
+  },
+  {
+   "type": "section",
+   "headline": "Amazon to release Melania Trump TV series despite movie flop",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/world/amazon-to-release-melania-trump-tv-series-despite-movie-flop/2WX76M5ELZF6JCAYAQMPOSSRHU/"
+  },
+  {
+   "type": "section",
+   "headline": "Youth unemployment: The worrying issue our new Government will need to tackle fast – Liam Dann",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/the-worrying-issue-our-new-government-will-need-to-tackle-fast-liam-dann/premium/OF22M2XA7JECPLV6Z2E7NGNIOM/"
+  },
+  {
+   "type": "section",
+   "headline": "New York Times close to buying Auckland’s Letterboxd for US$330m",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "HEALTH",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/new-york-times-close-to-buying-aucklands-letterboxd-in-us330m-deal/7PMGXQD2UNDZNADY5W5RKZA2GE/"
+  },
+  {
+   "type": "section",
+   "headline": "All Blacks v Scotland: NZ remain unbeaten in Nations Championship, win at Murrayfield",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-v-scotland-live-updates-from-the-nations-championship-test-at-murrayfield/B2PRLAQZAVH2BOZXUSMKKVSZ7I/"
+  }
+ ]
+}

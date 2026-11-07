@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-07T16:21:25.352Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "‘은평 옛 연인 살해’ 60대 男 구속...法 “도망 염려”",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.chosun.com/national/national_general/2026/11/07/KBVGDEGSC5E3BOFN2TDZN7VX24/"
+  },
+  {
+   "type": "section",
+   "headline": "예멘서 잇단 인명 피해…후티 “사우디가 마을 공습, 22명 사망”",
+   "options": [
+    "WORLD",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/international/international_general/2026/11/07/MI2TGNJYME2DAYJSGY3DAMZYMI/"
+  },
+  {
+   "type": "section",
+   "headline": "매디슨 황, 입국 하루 앞두고 방한 취소…엔비디아 행사 예정대로",
+   "options": [
+    "ENTERTAINMENT",
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/07/GIYGMOBVGM3WIYRRGBTDKZLFGU/"
+  },
+  {
+   "type": "source",
+   "headline": "“반려동물 키운다면 꼭 보세요”…집 비운 사이 고양이가 불냈다 ‘발칵’",
+   "options": [
+    "BBC News 코리아",
+    "조선일보",
+    "매일경제",
+    "오마이뉴스"
+   ],
+   "answer": 2,
+   "url": "https://www.mk.co.kr/news/society/12201550"
+  },
+  {
+   "type": "source",
+   "headline": "돌 사진 한 장 없는, 사랑이 목말랐던 둘째 딸",
+   "options": [
+    "조선일보",
+    "매일경제",
+    "오마이뉴스",
+    "BBC News 코리아"
+   ],
+   "answer": 2,
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003282735"
+  }
+ ]
+}

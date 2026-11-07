@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-07T16:20:52.740Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "愛知県で最大震度5強の強い地震 愛知県・知多市",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://newsdig.tbs.co.jp/articles/-/3069807"
+  },
+  {
+   "type": "section",
+   "headline": "パラグアイ大統領を弾劾罷免、自宅軟禁に デジタル銀行破綻で",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.com/japanese/articles/c92033jxgmm6o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "ロシア当局による北海道新聞記者の拘束事件と､ロシア人のキリン事件とを絡めてはいけないこれだけの理由 | キャリア・教育 | 東洋経済オンライン",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://toyokeizai.net/articles/-/963628?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "RTX 5080搭載PCが7万2000円引き！ パソコンショップSEVEN、11月8日限定セール",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://ascii.jp/elem/000/004/448/4448584/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "工藤監督が“痛烈イジリ”「ウエートもやらなかったら」 大焦りの23歳右腕…周囲は笑顔",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://full-count.jp/2026/11/07/post2041996/"
+  }
+ ]
+}

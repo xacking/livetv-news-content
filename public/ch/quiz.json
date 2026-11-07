@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:20:56.206Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Die Schweiz im Würgegriff der Kriminaltouristen",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/schweiz/tessin/kriminaltourismus-in-der-schweiz-banden-schlagen-ueberall-zu/mnmxnbg"
+  },
+  {
+   "type": "section",
+   "headline": "Verhandelt er Europas Sicherheit einfach weg?",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/ausland/trumps-ukraine-deal-gefahr-fuer-europas-sicherheit/0nwv13b"
+  },
+  {
+   "type": "section",
+   "headline": "Benzinpreis fällt unter 2 Franken",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/wirtschaft/autofahrer-atmen-auf-benzinpreis-faellt-unter-2-franken/5vmpfbk"
+  },
+  {
+   "type": "section",
+   "headline": "Anzeige: Ladeger�t mit einziehbaren Kabeln f�r Zigarettenanz�nder nur 16 Euro bei Amazon",
+   "options": [
+    "TECHNOLOGY",
+    "SCIENCE",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.golem.de/news/anzeige-ladegeraet-mit-einziehbaren-kabeln-fuer-zigarettenanzuender-nur-16-euro-bei-amazon-2611-214934.html"
+  },
+  {
+   "type": "section",
+   "headline": "Dysli macht den YB-Express noch unaufhaltsamer",
+   "options": [
+    "NATION",
+    "WORLD",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/sport/fussball/frauen-fussball/womens-super-league/dysli-macht-den-yb-express-noch-unaufhaltsamer/e06rdl1"
+  }
+ ]
+}

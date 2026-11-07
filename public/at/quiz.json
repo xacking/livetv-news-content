@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-07",
+ "generatedAt": "2026-11-06T23:21:39.010Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Gerüchte um SPÖ-Chef Babler sorgen für massiven Unmut in der Volkshilfe",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://kurier.at/politik/inland/volkshilfe-andreas-babler-spoe-job-regierung-oegb-gewerkschaft/403203470"
+  },
+  {
+   "type": "section",
+   "headline": "Nach Wahldebakel: Trump feuert Stabschefin Susie Wiles",
+   "options": [
+    "WORLD",
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/politik/ausland/donald-trump-susie-wiles-entlassung-stabschefin-stephen-miller/403203550"
+  },
+  {
+   "type": "section",
+   "headline": "Zweites Chalet-Projekt in Tieschen innerhalb eines Jahres",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.kleinezeitung.at/artikel/41422865/zweites-chalet-projekt-in-tieschen-innerhalb-eines-jahres"
+  },
+  {
+   "type": "section",
+   "headline": "Sony bringt originale Walkman-Kopfhörer zurück",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://futurezone.at/produkte/sony-bringt-originale-walkman-tps-l2-kopfhoerer-zurueck/403203507"
+  },
+  {
+   "type": "section",
+   "headline": "Tennis-Doppel Miedler/Oberleitner steht in Paris im Halbfinale",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://kurier.at/sport/tennis/tennis-doppel-miedler-oberleitner-paris/403203551"
+  }
+ ]
+}
