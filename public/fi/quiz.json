@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T22:31:50.148Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Leipomo myi maito­allergikolle vääriä joulu­torttuja – asiakasta etsitään kuumeisesti",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SPORTS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/turun-seutu/art-2000012412088.html"
+  },
+  {
+   "type": "section",
+   "headline": "Rahtilaiva törmäsi matkustaja-alukseen Yhdysvalloissa",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/ulkomaat/art-2000012412156.html"
+  },
+  {
+   "type": "section",
+   "headline": "Miksi Nvidian Jensen Huang riskeerasi kaiken sala­suhteen vuoksi? Asiantuntija selittää",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/taloussanomat/art-2000012411004.html"
+  },
+  {
+   "type": "section",
+   "headline": "”Jensen Huangin ero­viesti ei mennyt perille” – poskettomat Outlook-meemit leviävät",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://www.is.fi/digitoday/art-2000012410282.html"
+  },
+  {
+   "type": "section",
+   "headline": "Tässä on Suomen vastustaja MM-välierään",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.is.fi/jaakiekko/art-2000012412158.html"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:39.627Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Denne puben er kåret til landets beste",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.nrk.no/tromsogfinnmark/karlsberger-pub-pa-svalbard-karet-til-landets-beste-1.18081590"
+  },
+  {
+   "type": "section",
+   "headline": "Frykt for krigens hittil tøffeste vinter i Ukraina: – Mye større",
+   "options": [
+    "NATION",
+    "WORLD",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.tv2.no/a/19427253"
+  },
+  {
+   "type": "section",
+   "headline": "Analyse: Avgift kan stenge oljefelt tidlig",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://e24.no/energi-og-klima/i/kMJR06/analyse-avgift-kan-stenge-oljefelt-tidlig?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Et tidløst eventyr",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.tek.no/i/qOn531"
+  },
+  {
+   "type": "section",
+   "headline": "Nederland med knockout i Nasjonsligaen",
+   "options": [
+    "SCIENCE",
+    "HEALTH",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nrk.no/sport/nederland-med-knockout-i-nasjonsligaen-1.18081680"
+  }
+ ]
+}

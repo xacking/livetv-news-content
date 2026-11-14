@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:43:07.748Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Ex-Grünen-Chef Kogler: „Bin für einen Russland-Untersuchungsausschuss“",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/politik/inland/kogler-sebastian-kurz-ruecktritt-spionage-wehrdienst-herbert-kickl/403205292"
+  },
+  {
+   "type": "section",
+   "headline": "Sicherheitsgründe: Landesweiter Flugstopp in den USA angeordnet",
+   "options": [
+    "WORLD",
+    "ENTERTAINMENT",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/politik/ausland/us-luftfahrtbehoerde-landesweiter-flugstopp-sicherheit-gruende/403205364"
+  },
+  {
+   "type": "section",
+   "headline": "Turbo-Prämie für Abfertigung: So baut VW Tausende Mitarbeiter ab",
+   "options": [
+    "HEALTH",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.kleinezeitung.at/artikel/41450565/turbo-praemie-fuer-abfertigung-so-baut-vw-tausende-mitarbeiter-ab"
+  },
+  {
+   "type": "section",
+   "headline": "Tschechischer Jet für die Ukraine: Das kann Skyfox gegen Russland leisten",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://futurezone.at/digital-life/aero-l-39ng-skyfox-drone-hunter-drohnen-ukraine-russland-tschechien-l-39-bewaffnung-leistung/403205295"
+  },
+  {
+   "type": "section",
+   "headline": "Nations-League: DFB-Elf gewann 3:1, Niederlande 7:0-Sieger gegen Griechen",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://kurier.at/sport/fussball/nations-league-deutschland-serbien-niederlande-griechenland/403205366"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:48.737Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "44 dödade i eboladrabbade Kongo-Kinshasa",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1505289&utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Ingen allvarligt skadad efter fartygskrocken i New Orleans",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://omni.se/alla-oskadda-efter-fartygskrocken-i-new-orleans/a/g3766a"
+  },
+  {
+   "type": "section",
+   "headline": "Årskullen som hamnar i kläm i nya pensionsavtalet",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/minekonomi/pension/a/1vkm0X/arskullen-som-hamnar-i-klam-i-nya-pensionsavtalet?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Flygstoppet har hävts – gammal hårdvara pekas ut",
+   "options": [
+    "Dagens ETC",
+    "Aftonbladet",
+    "Svenska Dagbladet",
+    "Omni"
+   ],
+   "answer": 2,
+   "url": "https://www.svd.se/a/kMJ6va/flyg-far-lyfta-fran-san-francisco?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Högerns ungdomsförbund är rena rama dokusåpan",
+   "options": [
+    "Aftonbladet",
+    "Omni",
+    "Svenska Dagbladet",
+    "Dagens ETC"
+   ],
+   "answer": 3,
+   "url": "https://www.etc.se/ledare/hoegerns-ungdomsfoerbund-aer-rena-rama-dokusaapan?utm_source=rss"
+  }
+ ]
+}

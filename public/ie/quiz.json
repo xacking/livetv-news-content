@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:58.082Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Record number of people in emergency accommodation as figure crosses 18,000 for first time",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/irish-news/record-number-of-people-in-emergency-accommodation-as-figure-crosses-18000-for-first-time/a/164543790.html"
+  },
+  {
+   "type": "section",
+   "headline": "Noel Fielding claims he has had ‘no contact’ with Russell Brand for many years",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/world-news/noel-fielding-claims-he-has-had-no-contact-with-russell-brand-for-many-years/a/164547572.html"
+  },
+  {
+   "type": "section",
+   "headline": "Race kicks off to replace Philip Lane as ECB chief economist",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/business/irish-business/race-kicks-off-to-replace-philip-lane-as-ecb-chief-economist/a/164527833.html"
+  },
+  {
+   "type": "source",
+   "headline": "Gardaí purchased Israeli anti-drone equipment for EU Presidency events",
+   "options": [
+    "TheJournal.ie",
+    "Irish Independent",
+    "BBC News",
+    "Irish Mirror"
+   ],
+   "answer": 0,
+   "url": "https://www.thejournal.ie/garda-bought-israeli-anti-drone-tech-7225221-Nov2026/"
+  },
+  {
+   "type": "source",
+   "headline": "Crude explosive device discovered in Dublin city centre made safe by bomb squad",
+   "options": [
+    "TheJournal.ie",
+    "Irish Mirror",
+    "BBC News",
+    "Extra.ie"
+   ],
+   "answer": 1,
+   "url": "https://www.irishmirror.ie/news/irish-news/dublin-bomb-scare-live-updates-37876191"
+  }
+ ]
+}

@@ -1,0 +1,443 @@
+{
+ "generatedAt": "2026-11-14T09:28:45.825Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "1cc29b79-7be3-11e9-aa30-52543be04c81",
+   "name": "SBS Power FM",
+   "url": "https://radiolive.sbs.co.kr/powerpc/powerfm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ0ODI0MDQsInBhdGgiOiIvcG93ZXJmbS5zdHJlYW0iLCJkdXJhdGlvbiI6LTEsInVubyI6IjgzMDdlMTljLTA4YWItNDgzNi1hOTcyLWJkNjNhY2NhYjQyYiIsImlhdCI6MTc5NDQzOTIwNH0.xOr45wRUFGsb0nk-YF2gR4EHoFj8TMbKOpkYmooMj_o",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.sbs.co.kr/",
+   "codec": "AAC",
+   "bitrate": 146,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c038a859-7be1-11e9-aa30-52543be04c81",
+   "name": "KBS Classic FM",
+   "url": "https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ2MTc5NTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Hhs86UwUW8hoS2zjw8e2cpekNhZvIOgSOFUzmKXEtan8zxJ2EMLUs~ugZ-tXajqj-H8bJ4t9xczeUf5IWuo5jich5fNLaLnn-5y5j~JLgZWiLKnCewOIyk3-kzu0h13gUtB49P3AXqnE-RzFhQ1aoECyECKfmrWBPeQe5~SIxpjC24RjvdlFmmYrtK7F8r-C1kEXzDtDQFhiD-4Htxv93e6YDnsbT8Il7jI~sjpoXQwtGyJbPVK5kIL3NDgi-tJc0inFWAwTxzhU59JlSc38SfKMvBbFn7keO6JaCEGbXz5As5yIrv2XuShYkeDWoAuKGcqHZ283SYV1HhxxeNeOSA__",
+   "hls": true,
+   "logo": "",
+   "homepage": "http://www.kbs.co.kr/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "24163c48-89c6-4d34-99b7-a3c2e9d4cadd",
+   "name": "yojosuknam Radio",
+   "url": "https://stream.yojosuknam.com/live.mp3",
+   "hls": false,
+   "logo": "https://music.yojosuknam.com/radio/icon-512.png",
+   "homepage": "https://music.yojosuknam.com/radio",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "24/7",
+    "gugak",
+    "jazz",
+    "korean",
+    "lofi"
+   ]
+  },
+  {
+   "id": "730d9f95-57a3-4eec-94a2-ed270baa64c8",
+   "name": "MBC FM for you",
+   "url": "https://minimw.imbc.com/dmfm/_definst_/mfm.stream/playlist.m3u8?_lsu_sa_=6E41B510F33A33040949A5ED3FC1AB49D5713575EF0642FE37F0F9a166283E36DEaFF3CC3C72874C50733E11E5bEB1DD866DFE57AB94D7462A956CEF807B1DF248C2192C0111EEB1E264DA81E37A20823C1E903DDBBC4E53B9577D4F15F64AD5B2D1190292A84B46F375B8C28A125A94",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://m.imbc.com/RadioMain",
+   "codec": "AAC",
+   "bitrate": 65,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "fc4c247a-7f66-11e9-aa30-52543be04c81",
+   "name": "MBC FM",
+   "url": "https://minisw.imbc.com/dsfm/_definst_/sfm.stream/playlist.m3u8?_lsu_sa_=64E1F515B3DD39F48D49D51B3F91F845A50235B5F40922623ED07Ca116813F96CCaF730F3DC2214C80793FA186bFA16366EDFB96805BA121B665FD1CA71F6B51539415FBACA311F4A80729A53AF1048CA6914FF7BE19FF3E13D0925748C307DD003B1B90C59F159D6854E59D759DDFEB",
+   "hls": true,
+   "logo": "",
+   "homepage": "http://www.imbc.com/",
+   "codec": "AAC",
+   "bitrate": 65,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7a72aa80-3902-4d73-a548-db81ac780240",
+   "name": "Big B Radio - Kpop",
+   "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://bigbradio.net/kpop",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "music",
+    "pop"
+   ]
+  },
+  {
+   "id": "10fbdfdd-2a6f-49fb-a035-8963c57f52e8",
+   "name": "YTN 라디오",
+   "url": "https://radiolive.ytn.co.kr/radio/_definst_/20211118_fmlive/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.ytn.co.kr/",
+   "codec": "AAC",
+   "bitrate": 131,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3043d560-4358-4583-9e29-9fce6777a09c",
+   "name": "CBS 음악 FM",
+   "url": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "",
+   "codec": "AAC",
+   "bitrate": 97,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0fc7173f-5106-4c47-9156-621124fb0803",
+   "name": "SBS Love FM",
+   "url": "https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ0NzY0MDgsInBhdGgiOiIvbG92ZWZtLnN0cmVhbSIsImR1cmF0aW9uIjotMSwidW5vIjoiOWI4NTQ5NTAtNTcxNy00N2Q1LWI2MjctNWZkNmY2YzM3MmZiIiwiaWF0IjoxNzk0NDMzMjA4fQ.uqWVJ4qFen1AFAZZe8Dj4U5MJL3BULftdL2eN2YZMX0",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.sbs.co.kr/",
+   "codec": "AAC",
+   "bitrate": 146,
+   "category": "music",
+   "tags": [
+    "kpop"
+   ]
+  },
+  {
+   "id": "01335461-d022-4ad8-9fbc-1bd3ef534def",
+   "name": "MBC 올댓뮤직",
+   "url": "https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6761451B43483EC4CA4A855E3CB1E54B458A3135E900D2B734D060a3666C38861Ca0C39C34D20347B0483B017Bb871907911C27F7F2486A8FE2BEC8CEB82D3C29DE012CFA9A8EEE21C5C3ABA53316FE0F511F9A3477AA0625C52E47157BF423F3A547CE2E5F95B40F107683BF8892B10",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.imbc.com/",
+   "codec": "AAC",
+   "bitrate": 67,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2672e98d-b642-456e-8d77-e331ab4e007c",
+   "name": "KBS Cool FM",
+   "url": "https://2fm-ad.gscdn.kbs.co.kr/2fm_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8yZm0tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQ2MDQ3NTd9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Py2T5OQDAWn40IQMtuVRLqluj6e70hxl9BymfL2hUMWh4mr92XwAzabJu5J7ZnG8rlBv1TkUKsyEHDfe84RVqpEXg7MNS57KXFgiN~uhq9djTTvf~1Tf4HEArAZXUfdU~N~cmW-wi2z3QqkUeb6Vz~ocrIrEXR5s4eE6iN5U6WPntYLVqmX9W9zcAeYmDL1sZVDawG2ElFzV1OLExmx9legDnX7PRaOmL~z~kgFSfMB4~hmnot~0xJrcJfvSyVOsn7npXrBF~9~W3ej1bZkzzpTHTQDnOpsEOGxzrytM7lIGO2FfOjaT9Oy-qzP~MuSEnjs7oVcetBFBgk2DcfqPXw__",
+   "hls": true,
+   "logo": "https://res.static.kbs.co.kr/favicon.png",
+   "homepage": "http://www.kbs.co.kr/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7e0188a0-b332-405d-af8f-57da3223369b",
+   "name": "Listen.moe Kpop",
+   "url": "https://listen.moe/kpop/fallback",
+   "hls": false,
+   "logo": "https://listen.moe/favicon.ico",
+   "homepage": "https://listen.moe/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "kpop"
+   ]
+  },
+  {
+   "id": "19f6670a-7d9f-4c71-af22-c112f7fee450",
+   "name": "CBS 파워라디오",
+   "url": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+   "hls": false,
+   "logo": "https://pic.qtfm.cn/2024/0524/20240524014731.gif",
+   "homepage": "https://cbsfm.modoo.at/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "6ad5927a-7ef7-456c-ad54-059873ff9f28",
+   "name": "TBS FM 95.1",
+   "url": "https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/chunklist.m3u8",
+   "hls": true,
+   "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+   "homepage": "https://tbs.seoul.kr/fm/index.do",
+   "codec": "AAC",
+   "bitrate": 414,
+   "category": "music",
+   "tags": [
+    "full service"
+   ]
+  },
+  {
+   "id": "3058649c-068d-43e8-8c47-4a5a89dbdc4c",
+   "name": "CBS 표준FM 98.1",
+   "url": "https://m-aac.cbs.co.kr/mweb_cbs981/_definst_/cbs981.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.cbs.co.kr/radio/",
+   "codec": "AAC",
+   "bitrate": 97,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "656c6a0b-f0a8-4c8f-a0ef-97c72d130eef",
+   "name": "하늘호수24",
+   "url": "https://cast2.sayclub.com/saycast2/24sky/llhls.m3u8",
+   "hls": true,
+   "logo": "https://sky24.inlive.co.kr/images/9.png",
+   "homepage": "https://me.sayclub.com/bdcst/bdcst-home?bdcstDomainId=24sky",
+   "codec": "AAC",
+   "bitrate": 125,
+   "category": "music",
+   "tags": [
+    "entertainment"
+   ]
+  },
+  {
+   "id": "9b8512b7-436d-4da8-8777-633ad9b6671f",
+   "name": "CBS JOY4U",
+   "url": "https://m-aac.cbs.co.kr/mweb_cbscmc/_definst_/cbscmc.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.cbs.co.kr/radio/",
+   "codec": "AAC",
+   "bitrate": 97,
+   "category": "music",
+   "tags": [
+    "ccm",
+    "christian",
+    "gospel",
+    "religious",
+    "worship"
+   ]
+  },
+  {
+   "id": "16c1e8aa-1e9e-422b-9611-842b61a70983",
+   "name": "KBS_kor",
+   "url": "https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDY0NTU5Mn19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=m7NtCF9kz15yqph9lQh5oHlyodZ2bl6BwGGqnbK93Jm5f1Tgot0vGKtv06oEfLfAkZIJpEetqYsa9GHPlEBFsW4yEX5~LSDFq8FPtBLzuw2QmnS98UZISk8SXUq~lSGYLOaZ3xMuYU~MK6VQy5VRF84Wh2V3hI96LfWQ1Rnc7bxyu5eMX~ynP98Nf7BB~RQoD14HP1kUy2csu5j7-h1W7jwcHicQ3hBaUyg2ra2WMjqxcohbNVDb4lo~WtrPaK48bKeNTQ6qO3uc6~msRtjB4xtN1CPsfGSAilJNAajRdcSZlNPmvwnHBlp8rWMeNTQhsDBlF0jPVdr-8wgxnSK-Uw__",
+   "hls": true,
+   "logo": "https://static.kbs.co.kr/www/20250220173400/resources/images/favicon/favicon.png",
+   "homepage": "https://radio.kbs.co.kr/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c60ab0ce-723c-43a9-85a4-ff544710f27f",
+   "name": "OBS 라디오",
+   "url": "https://vod3.obs.co.kr:444/live/obsstream1/radio.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "https://play-lh.googleusercontent.com/EQd7zsUgIsdtDSAldbre7DT0V2vsW-As6J51zcMnfycMpyJRgFIO311XvDExg-g-TA=w480-h960",
+   "homepage": "https://www.obs.co.kr/radio/",
+   "codec": "AAC",
+   "bitrate": 152,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e89958f1-bc76-44fe-b681-841b5ec4ceae",
+   "name": "TBS eFM 101.3",
+   "url": "https://cdnefm.tbs.seoul.kr/tbs/_definst_/tbs_efm_web_360.smil/chunklist.m3u8",
+   "hls": true,
+   "logo": "https://zuiai.tv/zb_users/upload/2026/3/2026030564925917_mini.jpg",
+   "homepage": "https://tbs.seoul.kr/eFm/index.do",
+   "codec": "AAC",
+   "bitrate": 414,
+   "category": "music",
+   "tags": [
+    "full service"
+   ]
+  },
+  {
+   "id": "8dc941a6-c866-4552-9fea-541c137cfb5d",
+   "name": "kbs해피fm",
+   "url": "https://2radio-bora.gscdn.kbs.co.kr/2radio-bora-01/2radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMnJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDcxNjM5MX19fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=jr9VycfTOKcE-JqPjCcXaq0Z~9UJeSGfyLSnU3K9GUrGLByw7zU~3GiQvfkz0UDti0bIM7z4Gdytvdu-M-T2Fa~~G4ZYWTLE8v-Yw2GNamTV8fc~gpdXomucbmTyLPBJJFhH~XYa7kKBpOwCQ9q1Mah7qwBYWwU6mwXP9LJatVpZCgDN~1N3CEy5bQkdBFo21qH6ms2UdQr874gr0m7nDfxwkEGKKbBQ2Y9w~agKzU9XnOzzzBAaKaiDcJijDfW2v4t6MwONe01qUd3R96rx-4N6c4urlIDaYPnPZBcE08EsSCB1XLbU0T2eNsRJ2SmQyBQKC2IoGP~MNqbTUx-h5w__",
+   "hls": true,
+   "logo": "",
+   "homepage": "",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "b2b7599e-16b9-4225-9ffa-263b0cb541a6",
+   "name": "안동MBC FM4U",
+   "url": "https://live.andongmbc.co.kr/live/fmlive/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://andongmbc.co.kr/main/radio/radio.php",
+   "codec": "AAC",
+   "bitrate": 36,
+   "category": "music",
+   "tags": [
+    "k-pop",
+    "music",
+    "pop"
+   ]
+  },
+  {
+   "id": "cb45bd69-ec15-4fe2-8a6f-0af262fb2aad",
+   "name": "JTV 매직FM",
+   "url": "https://61ff3340258d2.streamlock.net/jtv_radio/myStream/chunklist_w111659793.m3u8",
+   "hls": true,
+   "logo": "https://jtv.co.kr/2021/favicon.ico",
+   "homepage": "https://www.jtv.co.kr/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "38b5da3e-1859-47f3-9fb3-38e34741a84a",
+   "name": "CPBC",
+   "url": "https://cdn-radio-seoul.cpbc.co.kr/cpbcseoul/playlist.m3u8?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3OTQ1MDA0MTksInBhdGgiOiIvY3BiY3Nlb3VsIiwiZHVyYXRpb24iOi0xLCJ1bm8iOiI1MjFlMTRkMi0zNDcwLTQzMTMtYjcwNy0yMjFmMjA1OGQ4MmIiLCJpYXQiOjE3OTQ0NTcyMTl9.LlSkZjO9aUCm5V0mnqYQBbpame2XfiVrHfZUFEcsKjY",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.cpbc.co.kr/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "54ac5316-5788-452f-a15b-5a53c79d0375",
+   "name": "K-RADIO",
+   "url": "https://s5.radio.co/s0a9796fe3/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.am1660.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "2f47d2d9-ac17-49cd-9e1c-b5b295800e37",
+   "name": "Gugak FM",
+   "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.igbf.kr/gugak_web/main/",
+   "codec": "AAC",
+   "bitrate": 194,
+   "category": "music",
+   "tags": [
+    "classical",
+    "korean",
+    "korean music",
+    "traditional",
+    "world music"
+   ]
+  },
+  {
+   "id": "d9db0a16-9100-4917-b5f5-bd48a42a1e70",
+   "name": "경인방송",
+   "url": "https://stream.ifm.kr/live/aod1/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.ifm.kr/",
+   "codec": "AAC",
+   "bitrate": 125,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6f6ea925-4bc3-4dbc-8990-7f48c6f24cb9",
+   "name": "REPLAY NEWS - 한국어   5분마다 뉴스 라디오",
+   "url": "https://replaynewskr.ice.infomaniak.ch/replaynewskr-128.mp3",
+   "hls": false,
+   "logo": "https://www.publicsante.com/BIENVENU/LOGO%20REPLAY%20NEWS-KO.png",
+   "homepage": "https://www.replaynews.net/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "c72c8602-5359-4b23-95a8-a7c2b4d067de",
+   "name": "GugakFM",
+   "url": "https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/chunklist_w1653570079.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.igbf.kr/gugak_web/main/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "korean",
+    "traditional",
+    "world music"
+   ]
+  },
+  {
+   "id": "3df9fa02-ae92-4423-8f01-e007129c00ee",
+   "name": "국방FM",
+   "url": "https://mediaworks.dema.mil.kr/live_edge/audio.sdp/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://radio.dema.mil.kr/web/radio/main.do",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "4540380c-8d7c-49da-b0dc-699c1fb30ebc",
+   "name": "ebs tune in",
+   "url": "https://ebsonair.ebs.co.kr/fmradiofamilypc/familypc1m/playlist.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "http://www.ebs.co.kr/",
+   "codec": "AAC",
+   "bitrate": 625,
+   "category": "music",
+   "tags": [
+    "foreign languages"
+   ]
+  },
+  {
+   "id": "2b1b77a5-16d9-49eb-9359-38341f5674e4",
+   "name": "Fred Film Radio",
+   "url": "https://s10.webradio-hosting.com/proxy/fredradiokr/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.fred.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "culture",
+    "film",
+    "movie"
+   ]
+  }
+ ]
+}

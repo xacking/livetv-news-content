@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:43:12.068Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Kernkabinet geschorst, De Wever schakelt opnieuw over op bilaterale gesprekken",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/binnenland/kernkabinet-geschorst-de-wever-schakelt-opnieuw-over-op-bilaterale-gesprekken~a9cb0fe2/"
+  },
+  {
+   "type": "section",
+   "headline": "32 gewonden nadat riviercruiseschip geramd wordt door tanker en kapseist in haven van New Orleans: “Mirakel op de Mississippi”",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 1,
+   "url": "https://www.hln.be/buitenland/32-gewonden-nadat-riviercruiseschip-geramd-wordt-door-tanker-en-kapseist-in-haven-van-new-orleans-mirakel-op-de-mississippi~a4ca8c53/"
+  },
+  {
+   "type": "section",
+   "headline": "De pikante berichtjes van Jeff Bezos en de McDonald’s-baas die aandelen beloofde in ruil voor seks: ook deze CEO’s brachten hun bedrijf in de problemen met affaires",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/economie/de-pikante-berichtjes-van-jeff-bezos-en-de-mcdonalds-baas-die-aandelen-beloofde-in-ruil-voor-seks-ook-deze-ceos-brachten-hun-bedrijf-in-de-problemen-met-affaires~a7a520b3/"
+  },
+  {
+   "type": "source",
+   "headline": "Kiezen voor wereldindex die marktevolutie volgt, of die focust op aandelenfactoren?",
+   "options": [
+    "Knack",
+    "HLN",
+    "Het Nieuwsblad",
+    "De Standaard"
+   ],
+   "answer": 3,
+   "url": "https://www.standaard.be/economie/geld/kiezen-voor-wereldindex-die-marktevolutie-volgt-of-die-focust-op-aandelenfactoren/164346325.html"
+  },
+  {
+   "type": "source",
+   "headline": "Nachtwerkers hebben verhoogd risico op ontwikkelen van diabetes type 2",
+   "options": [
+    "Knack",
+    "HLN",
+    "De Standaard",
+    "Het Nieuwsblad"
+   ],
+   "answer": 3,
+   "url": "https://www.nieuwsblad.be/nieuws/nachtwerkers-hebben-verhoogd-risico-op-ontwikkelen-van-diabetes-type-2/164547684.html"
+  }
+ ]
+}

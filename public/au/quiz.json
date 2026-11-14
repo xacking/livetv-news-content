@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T16:48:05.225Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "The Microsoft outage is part of a growing trend. This is how to prepare for further disruption",
+   "options": [
+    "NATION",
+    "WORLD",
+    "SPORTS",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.sbs.com.au/news/article/the-microsoft-outage-is-part-of-a-growing-trend-this-is-how-to-prepare-for-further-disruption/z3ikdo2bb"
+  },
+  {
+   "type": "section",
+   "headline": "Microsoft services not 'fully returned to baseline' as recovery from outage continues",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.sbs.com.au/news/article/microsoft-outage-outlook-teams-copilot-onedrive/42bfiv3e0"
+  },
+  {
+   "type": "section",
+   "headline": "AI data centres to self-administer funds in Tasmanian community deal",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "SPORTS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 1,
+   "url": "https://www.abc.net.au/news/2026-11-13/tasmanian-data-centres-to-run-own-community-benefit-fund/107383452"
+  },
+  {
+   "type": "source",
+   "headline": "Breaking: UK police launch investigation into David Walliams",
+   "options": [
+    "SBS News",
+    "BBC News",
+    "7NEWS",
+    "ABC News"
+   ],
+   "answer": 3,
+   "url": "https://www.abc.net.au/news/2026-11-14/uk-police-launch-investigation-into-david-walliams/107385506"
+  },
+  {
+   "type": "source",
+   "headline": "Brave neighbour's quick thinking saves mother and son from alleged gun rampage at Huntingdale, Perth",
+   "options": [
+    "7NEWS",
+    "ABC News",
+    "SBS News",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://7news.com.au/news/crime/brave-neighbours-quick-thinking-saves-mother-and-son-from-alleged-gun-rampage-at-huntingdale-perth-c-23160850"
+  }
+ ]
+}

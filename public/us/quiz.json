@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T09:27:51.844Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "A gathering of ‘Rocky’ fans in Philadelphia breaks a world record",
+   "options": [
+    "NATION",
+    "WORLD",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/US/wireStory/50-years-after-iconic-film-gathering-rocky-fans-138126032"
+  },
+  {
+   "type": "section",
+   "headline": "Violent attacks on critics of China in Taiwan raise concern over transnational repression",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369"
+  },
+  {
+   "type": "section",
+   "headline": "A $300 million logistics hub is betting Vietnam can move beyond the assembly line—if Washington lets it, and Hanoi can deliver",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://fortune.com/2026/11/14/vietnam-superport-tariffs-yap-kwong-weng/"
+  },
+  {
+   "type": "source",
+   "headline": "Peoria police urge evacuations after reported bomb threat at Illinois plant",
+   "options": [
+    "UPI",
+    "BBC News",
+    "ABC News",
+    "The Hill"
+   ],
+   "answer": 2,
+   "url": "https://abcnews.com/US/peoria-police-urge-evacuations-after-reported-bomb-threat/story?id=138137440"
+  },
+  {
+   "type": "source",
+   "headline": "SpaceX’s attempt for a Starship double catch was thwarted when the booster ended up in the gulf",
+   "options": [
+    "ABC News",
+    "The Hill",
+    "UPI",
+    "BBC News"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/US/wireStory/spacexs-attempt-starship-double-catch-thwarted-booster-ended-138126391"
+  }
+ ]
+}

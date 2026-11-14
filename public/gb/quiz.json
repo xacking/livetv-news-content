@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:42.857Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "When to put up a real Christmas tree - according to an expert",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cq5y1k48k2v7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "options": [
+    "BBC News",
+    "Evening Standard",
+    "Daily Express",
+    "Daily Mirror"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "France pull off one of their greatest wins as Erasmus mind games backfire",
+   "options": [
+    "BBC News",
+    "Evening Standard",
+    "The Telegraph",
+    "Daily Express"
+   ],
+   "answer": 2,
+   "url": "https://www.telegraph.co.uk/rugby-union/2026/11/13/france-vs-south-africa-score-updates-nations-championship/"
+  }
+ ]
+}

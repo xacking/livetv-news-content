@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:41.868Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "«Die Hacker haben unser System über Nacht infiltriert»",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "NATION",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/schweiz/westschweiz/wallis/weltbekannte-gentlemen-hacker-greifen-bringhen-group-im-wallis-an/kder22m"
+  },
+  {
+   "type": "section",
+   "headline": "Luftfahrtbehörde verhängt landesweiten Flugstopp in den USA",
+   "options": [
+    "SPORTS",
+    "HEALTH",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/ausland/luftfahrtbehoerde-verhaengt-landesweiten-flugstopp-in-den-usa/vef20fz"
+  },
+  {
+   "type": "section",
+   "headline": "Das ist neu der längste Flug der Aviatik-Geschichte",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.blick.ch/wirtschaft/rekord-gebrochen-das-ist-neu-der-laengste-flug-der-welt/zpy12xt"
+  },
+  {
+   "type": "section",
+   "headline": "USA: Alle Flughäfen gesperrt",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.heise.de/news/USA-Alle-Flughaefen-gesperrt-11525181.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag"
+  },
+  {
+   "type": "section",
+   "headline": "HCD-Youngster Steiner zelebriert seinen ersten Doppelpack",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/sport/eishockey/nl/national-league-highlights-der-partie-davos-ambri-piotta-41/v68wvzb"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:52.385Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Bundeshaushalt: Bundesrechnungshof mahnt Union und SPD zu härterem Sparkurs",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "TECHNOLOGY",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.zeit.de/politik/deutschland/2026-11/bundesrechnungshof-ansgar-heveling-cdu-bundeshaushalt-schuldenregel"
+  },
+  {
+   "type": "section",
+   "headline": "Dreiergipfel in China: USA kündigen Dreiertreffen von Trump mit Xi und Putin an",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/ausland/2026-11/donald-trump-xi-jinping-wladimir-putin-china-apec-gipfel-atomwaffen"
+  },
+  {
+   "type": "section",
+   "headline": "Tausende Flüge ausgefallen: Flugzeuge in den USA dürfen wieder starten",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.n-tv.de/wirtschaft/Flugzeuge-in-den-USA-duerfen-wieder-starten-id31533283.html"
+  },
+  {
+   "type": "source",
+   "headline": "Weihnachtsmarkt: Wie viel eine Tasse Glühwein kostet",
+   "options": [
+    "Tagesspiegel",
+    "ntv",
+    "DW",
+    "ZEIT ONLINE"
+   ],
+   "answer": 0,
+   "url": "https://www.tagesspiegel.de/wirtschaft/dpa-weihnachtsmarkt-wie-viel-eine-tasse-gluhwein-kostet-16283972.html"
+  },
+  {
+   "type": "source",
+   "headline": "Endspurt für neue Regierung: Mecklenburg-Vorpommern: Linke stimmt Koalitionsvertrag zu",
+   "options": [
+    "Tagesspiegel",
+    "ZEIT ONLINE",
+    "ntv",
+    "DW"
+   ],
+   "answer": 0,
+   "url": "https://www.tagesspiegel.de/politik/dpa-endspurt-fur-neue-regierung-mecklenburg-vorpommern-linke-stimmt-koalitionsvertrag-zu-16283859.html"
+  }
+ ]
+}

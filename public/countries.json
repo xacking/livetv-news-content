@@ -1,0 +1,2538 @@
+{
+ "brand": {
+  "name": "Ontivo",
+  "packagePrefix": "com.livetv.news",
+  "contentBaseUrl": "https://xacking.github.io/livetv-news-content",
+  "admobAppId": "ca-app-pub-6129187532841682~1762065341",
+  "accent": "#0A5BD3",
+  "supportEmail": "verxion@proton.me"
+ },
+ "topics": [
+  "TOP",
+  "NATION",
+  "WORLD",
+  "BUSINESS",
+  "TECHNOLOGY",
+  "SPORTS",
+  "ENTERTAINMENT",
+  "HEALTH",
+  "SCIENCE"
+ ],
+ "countries": [
+  {
+   "code": "us",
+   "country": "United States",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "America/New_York",
+   "currency": "USD",
+   "ecpmRank": 1,
+   "accent": "#1d3c8f",
+   "tempUnit": "fahrenheit",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-US",
+    "gl": "US",
+    "ceid": "US:en"
+   },
+   "radio": {
+    "countrycode": "US"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://abcnews.go.com/abcnews/topstories",
+     "source": "ABC News"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://rss.upi.com/news/top_news.rss",
+     "source": "UPI"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://abcnews.go.com/abcnews/usheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://thehill.com/feed/",
+     "source": "The Hill"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://abcnews.go.com/abcnews/internationalheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://rss.upi.com/news/world_news.rss",
+     "source": "UPI"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://fortune.com/feed/",
+     "source": "Fortune"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://feeds.businessinsider.com/custom/all",
+     "source": "Business Insider"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://abcnews.go.com/abcnews/moneyheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.arstechnica.com/arstechnica/index",
+     "source": "Ars Technica"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.theverge.com/rss/index.xml",
+     "source": "The Verge"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://abcnews.go.com/abcnews/technologyheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://abcnews.go.com/abcnews/sportsheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://rss.upi.com/news/sports_news.rss",
+     "source": "UPI"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://abcnews.go.com/abcnews/entertainmentheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://rss.upi.com/news/entertainment_news.rss",
+     "source": "UPI"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://kffhealthnews.org/feed/",
+     "source": "KFF Health News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://abcnews.go.com/abcnews/healthheadlines",
+     "source": "ABC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.nasa.gov/feed/",
+     "source": "NASA"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.livescience.com/feeds/all",
+     "source": "Live Science"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "au",
+   "country": "Australia",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "Australia/Sydney",
+   "currency": "AUD",
+   "ecpmRank": 2,
+   "accent": "#012169",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-AU",
+    "gl": "AU",
+    "ceid": "AU:en"
+   },
+   "radio": {
+    "countrycode": "AU"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.abc.net.au/news/feed/45910/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://7news.com.au/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.sbs.com.au/news/topic/australia/feed",
+     "source": "SBS News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://7news.com.au/news/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.abc.net.au/news/feed/51120/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.sbs.com.au/news/topic/world/feed",
+     "source": "SBS News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://7news.com.au/news/world/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.abc.net.au/news/feed/51892/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://thewest.com.au/business/rss",
+     "source": "The West Australian"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://7news.com.au/business/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://thewest.com.au/technology/rss",
+     "source": "The West Australian"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://7news.com.au/technology/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.abc.net.au/news/feed/45924/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://7news.com.au/sport/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://thewest.com.au/sport/rss",
+     "source": "The West Australian"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://7news.com.au/entertainment/rss",
+     "source": "7NEWS"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://thewest.com.au/entertainment/rss",
+     "source": "The West Australian"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.abc.net.au/news/feed/9167762/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.abc.net.au/news/feed/6849844/rss.xml",
+     "source": "ABC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "no",
+   "country": "Norway",
+   "lang": "no",
+   "dir": "ltr",
+   "timezone": "Europe/Oslo",
+   "currency": "NOK",
+   "ecpmRank": 3,
+   "accent": "#ba0c2f",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "no",
+    "gl": "NO",
+    "ceid": "NO:no"
+   },
+   "radio": {
+    "countrycode": "NO"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.nrk.no/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.vg.no/rss/feed/?limit=30",
+     "source": "VG"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.tv2.no/rss/nyheter",
+     "source": "TV 2"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.nrk.no/norge/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.tv2.no/rss/nyheter/innenriks",
+     "source": "TV 2"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.nrk.no/urix/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.tv2.no/rss/nyheter/utenriks",
+     "source": "TV 2"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.vg.no/rss/feed/?categories=1070&limit=30",
+     "source": "VG"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://e24.no/rss2/",
+     "source": "E24"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.aftenposten.no/rss/okonomi",
+     "source": "Aftenposten"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.tek.no/feeds/general.xml",
+     "source": "Tek.no"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://itavisen.no/feed/",
+     "source": "ITavisen"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.nrk.no/sport/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.vg.no/rss/feed/?categories=1072&limit=30",
+     "source": "VG"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.tv2.no/rss/sport",
+     "source": "TV 2"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.tv2.no/rss/underholdning",
+     "source": "TV 2"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.nrk.no/kultur/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.aftenposten.no/rss/kultur",
+     "source": "Aftenposten"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.tv2.no/rss/nyheter/helse",
+     "source": "TV 2"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.nrk.no/viten/toppsaker.rss",
+     "source": "NRK"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.nrk.no/viten/toppsaker.rss",
+     "source": "NRK"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "ch",
+   "country": "Switzerland",
+   "lang": "de",
+   "dir": "ltr",
+   "timezone": "Europe/Zurich",
+   "currency": "CHF",
+   "ecpmRank": 4,
+   "accent": "#d52b1e",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "de-CH",
+    "gl": "CH",
+    "ceid": "CH:de"
+   },
+   "radio": {
+    "countrycode": "CH"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.blick.ch/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.blick.ch/schweiz/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.blick.ch/politik/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.blick.ch/ausland/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://rss.dw.com/xml/rss-de-all",
+     "source": "DW"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.blick.ch/wirtschaft/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.n-tv.de/wirtschaft/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.heise.de/rss/heise-atom.xml",
+     "source": "heise online"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+     "source": "Golem.de"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.blick.ch/sport/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.blick.ch/sport/fussball/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.blick.ch/people-tv/rss.xml",
+     "source": "Blick"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/gesundheit",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://newsfeed.zeit.de/gesundheit/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406",
+     "source": "Spektrum.de"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.n-tv.de/wissen/rss",
+     "source": "ntv"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "gb",
+   "country": "United Kingdom",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "Europe/London",
+   "currency": "GBP",
+   "ecpmRank": 5,
+   "accent": "#012169",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-GB",
+    "gl": "GB",
+    "ceid": "GB:en"
+   },
+   "radio": {
+    "countrycode": "GB"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://feeds.bbci.co.uk/news/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.telegraph.co.uk/rss.xml",
+     "source": "The Telegraph"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.standard.co.uk/rss",
+     "source": "Evening Standard"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.standard.co.uk/news/rss",
+     "source": "Evening Standard"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.express.co.uk/posts/rss/1/uk",
+     "source": "Daily Express"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.mirror.co.uk/news/world-news/?service=rss",
+     "source": "Daily Mirror"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.express.co.uk/posts/rss/78/world",
+     "source": "Daily Express"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.cityam.com/feed/",
+     "source": "City AM"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.thisismoney.co.uk/money/index.rss",
+     "source": "This is Money"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.theregister.com/headlines.atom",
+     "source": "The Register"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+     "source": "BBC Sport"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.standard.co.uk/sport/rss",
+     "source": "Evening Standard"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.mirror.co.uk/sport/?service=rss",
+     "source": "Daily Mirror"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.radiotimes.com/feed/",
+     "source": "Radio Times"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.dailymail.co.uk/health/index.rss",
+     "source": "Daily Mail"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.dailymail.co.uk/sciencetech/index.rss",
+     "source": "Daily Mail"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "ca",
+   "country": "Canada",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "America/Toronto",
+   "currency": "CAD",
+   "ecpmRank": 6,
+   "accent": "#c8102e",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-CA",
+    "gl": "CA",
+    "ceid": "CA:en"
+   },
+   "radio": {
+    "countrycode": "CA"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://globalnews.ca/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/category/canada/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://globalnews.ca/canada/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://dailyhive.com/feed/canada",
+     "source": "Daily Hive"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/category/world/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://globalnews.ca/world/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/category/business/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.bnnbloomberg.ca/arc/outboundfeeds/rss/?outputType=xml",
+     "source": "BNN Bloomberg"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://globalnews.ca/tech/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.tsn.ca/arc/outboundfeeds/rss/?outputType=xml",
+     "source": "TSN"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.sportsnet.ca/feed/",
+     "source": "Sportsnet"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://globalnews.ca/sports/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://globalnews.ca/entertainment/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/category/entertainment/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://globalnews.ca/health/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://globalnews.ca/science/feed/",
+     "source": "Global News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.ctvnews.ca/arc/outboundfeeds/rss/category/climate-and-environment/?outputType=xml",
+     "source": "CTV News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "dk",
+   "country": "Denmark",
+   "lang": "da",
+   "dir": "ltr",
+   "timezone": "Europe/Copenhagen",
+   "currency": "DKK",
+   "ecpmRank": 7,
+   "accent": "#c60c30",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "da",
+    "gl": "DK",
+    "ceid": "DK:da"
+   },
+   "radio": {
+    "countrycode": "DK"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.avisen.dk/rss.aspx",
+     "source": "Avisen.dk"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.dr.dk/nyheder/service/feeds/indland",
+     "source": "DR"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.dr.dk/nyheder/service/feeds/indland",
+     "source": "DR"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.avisen.dk/rss.aspx",
+     "source": "Avisen.dk"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.recordere.dk/feed/",
+     "source": "Recordere.dk"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.dr.dk/nyheder/service/feeds/kultur",
+     "source": "DR"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://videnskab.dk/rss.xml",
+     "source": "Videnskab.dk"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.dr.dk/nyheder/service/feeds/viden",
+     "source": "DR"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://videnskab.dk/rss.xml",
+     "source": "Videnskab.dk"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.dr.dk/nyheder/service/feeds/udland",
+     "source": "DR"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.dr.dk/nyheder/service/feeds/penge",
+     "source": "DR"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.dr.dk/nyheder/service/feeds/sporten",
+     "source": "DR"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "se",
+   "country": "Sweden",
+   "lang": "sv",
+   "dir": "ltr",
+   "timezone": "Europe/Stockholm",
+   "currency": "SEK",
+   "ecpmRank": 8,
+   "accent": "#006aa7",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "sv",
+    "gl": "SE",
+    "ceid": "SE:sv"
+   },
+   "radio": {
+    "countrycode": "SE"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/senastenytt/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.svd.se/feed/articles.rss",
+     "source": "Svenska Dagbladet"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://omni.se/rss.xml",
+     "source": "Omni"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/nyheter/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.etc.se/rss.xml",
+     "source": "Dagens ETC"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://omni.se/rss.xml",
+     "source": "Omni"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/ekonomi/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://computersweden.se/feed/",
+     "source": "Computer Sweden"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feber.se/rss/",
+     "source": "Feber"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/sportbladet/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/nojesbladet/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://rss.aftonbladet.se/rss2/small/pages/sections/halsa/",
+     "source": "Aftonbladet"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://fof.se/feed",
+     "source": "Forskning & Framsteg"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "nl",
+   "country": "Netherlands",
+   "lang": "nl",
+   "dir": "ltr",
+   "timezone": "Europe/Amsterdam",
+   "currency": "EUR",
+   "ecpmRank": 9,
+   "accent": "#ae1c28",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "nl",
+    "gl": "NL",
+    "ceid": "NL:nl"
+   },
+   "radio": {
+    "countrycode": "NL"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.nu.nl/rss/Algemeen",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.ad.nl/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.telegraaf.nl/rss",
+     "source": "De Telegraaf"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.nu.nl/rss/Binnenland",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.ad.nl/binnenland/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.nu.nl/rss/Buitenland",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.ad.nl/buitenland/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.nu.nl/rss/Economie",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.ad.nl/economie/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.volkskrant.nl/economie/rss.xml",
+     "source": "de Volkskrant"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.nu.nl/rss/Tech",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.ad.nl/tech/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.bright.nl/rss",
+     "source": "Bright"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.nu.nl/rss/Sport",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.ad.nl/sport/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.nu.nl/rss/Entertainment",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.ad.nl/show/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.volkskrant.nl/cultuur-media/rss.xml",
+     "source": "de Volkskrant"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.nu.nl/rss/Gezondheid",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.ad.nl/gezond/rss.xml",
+     "source": "AD"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.nu.nl/rss/Wetenschap",
+     "source": "NU.nl"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.volkskrant.nl/wetenschap/rss.xml",
+     "source": "de Volkskrant"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.scientias.nl/feed/",
+     "source": "Scientias.nl"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "de",
+   "country": "Germany",
+   "lang": "de",
+   "dir": "ltr",
+   "timezone": "Europe/Berlin",
+   "currency": "EUR",
+   "ecpmRank": 10,
+   "accent": "#1f1f1f",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "de",
+    "gl": "DE",
+    "ceid": "DE:de"
+   },
+   "radio": {
+    "countrycode": "DE"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.n-tv.de/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/home",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://newsfeed.zeit.de/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://newsfeed.zeit.de/politik/deutschland/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/politik",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.n-tv.de/politik/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://newsfeed.zeit.de/politik/ausland/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/internationales",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://rss.dw.com/xml/rss-de-all",
+     "source": "DW"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.n-tv.de/wirtschaft/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/wirtschaft",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://newsfeed.zeit.de/wirtschaft/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.heise.de/rss/heise-atom.xml",
+     "source": "heise online"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://rss.golem.de/rss.php?feed=RSS2.0",
+     "source": "Golem.de"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://newsfeed.zeit.de/digital/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.n-tv.de/sport/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/sport",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://newsfeed.zeit.de/sport/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.n-tv.de/leute/rss",
+     "source": "ntv"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/kultur",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/gesundheit",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://newsfeed.zeit.de/gesundheit/index",
+     "source": "ZEIT ONLINE"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.spektrum.de/alias/rss/spektrum-de-rss-feed/996406",
+     "source": "Spektrum.de"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.tagesspiegel.de/contentexport/feed/wissen",
+     "source": "Tagesspiegel"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.n-tv.de/wissen/rss",
+     "source": "ntv"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "nz",
+   "country": "New Zealand",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "Pacific/Auckland",
+   "currency": "NZD",
+   "ecpmRank": 11,
+   "accent": "#012169",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-NZ",
+    "gl": "NZ",
+    "ceid": "NZ:en"
+   },
+   "radio": {
+    "countrycode": "NZ"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/curated/78/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.stuff.co.nz/rss",
+     "source": "Stuff"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/nz/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.stuff.co.nz/rss/nz-news",
+     "source": "Stuff"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/world/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.stuff.co.nz/rss/world-news",
+     "source": "Stuff"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/business/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.stuff.co.nz/rss/business",
+     "source": "Stuff"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/technology/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/sport/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.stuff.co.nz/rss/sport",
+     "source": "Stuff"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.nzherald.co.nz/arc/outboundfeeds/rss/section/entertainment/?outputType=xml",
+     "source": "NZ Herald"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.stuff.co.nz/rss/culture",
+     "source": "Stuff"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.stuff.co.nz/rss/health",
+     "source": "Stuff"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "ie",
+   "country": "Ireland",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "Europe/Dublin",
+   "currency": "EUR",
+   "ecpmRank": 12,
+   "accent": "#169b62",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-IE",
+    "gl": "IE",
+    "ceid": "IE:en"
+   },
+   "radio": {
+    "countrycode": "IE"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.independent.ie/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.thejournal.ie/feed/",
+     "source": "TheJournal.ie"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.independent.ie/irish-news/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.irishmirror.ie/news/irish-news/?service=rss",
+     "source": "Irish Mirror"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.extra.ie/feed",
+     "source": "Extra.ie"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.independent.ie/world-news/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.irishmirror.ie/news/world-news/?service=rss",
+     "source": "Irish Mirror"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.independent.ie/business/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.independent.ie/business/technology/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.siliconrepublic.com/feed",
+     "source": "Silicon Republic"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.independent.ie/sport/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.the42.ie/feed/",
+     "source": "The42"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.irishmirror.ie/sport/?service=rss",
+     "source": "Irish Mirror"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.independent.ie/entertainment/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.irishmirror.ie/showbiz/?service=rss",
+     "source": "Irish Mirror"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.independent.ie/irish-news/health/rss",
+     "source": "Irish Independent"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.siliconrepublic.com/feed",
+     "source": "Silicon Republic"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "jp",
+   "country": "Japan",
+   "lang": "ja",
+   "dir": "ltr",
+   "timezone": "Asia/Tokyo",
+   "currency": "JPY",
+   "ecpmRank": 13,
+   "accent": "#bc002d",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "ja",
+    "gl": "JP",
+    "ceid": "JP:ja"
+   },
+   "radio": {
+    "countrycode": "JP"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://newsdig.tbs.co.jp/list/feed/rss",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://news.livedoor.com/topics/rss/top.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://news.livedoor.com/topics/rss/dom.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://newsdig.tbs.co.jp/list/feed/rss",
+     "source": "TBS NEWS DIG"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/japanese/rss.xml",
+     "source": "BBCニュース"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://news.livedoor.com/topics/rss/int.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://toyokeizai.net/list/feed/rss",
+     "source": "東洋経済オンライン"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://news.livedoor.com/topics/rss/eco.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://ascii.jp/rss.xml",
+     "source": "ASCII.jp"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.gizmodo.jp/index.xml",
+     "source": "ギズモード・ジャパン"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://news.livedoor.com/topics/rss/spo.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://full-count.jp/feed/",
+     "source": "Full-Count"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://the-ans.jp/feed/",
+     "source": "THE ANSWER"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://news.livedoor.com/topics/rss/ent.xml",
+     "source": "ライブドアニュース"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://sorae.info/feed",
+     "source": "sorae"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://scienceportal.jst.go.jp/feed/",
+     "source": "サイエンスポータル"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://nazology.kusuguru.co.jp/feed",
+     "source": "ナゾロジー"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "sg",
+   "country": "Singapore",
+   "lang": "en",
+   "dir": "ltr",
+   "timezone": "Asia/Singapore",
+   "currency": "SGD",
+   "ecpmRank": 14,
+   "accent": "#ef3340",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "en-SG",
+    "gl": "SG",
+    "ceid": "SG:en"
+   },
+   "radio": {
+    "countrycode": "SG"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://mothership.sg/feed/",
+     "source": "Mothership"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://theindependent.sg/feed/",
+     "source": "The Independent Singapore"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://theindependent.sg/news/singapore-news/feed/",
+     "source": "The Independent Singapore"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://mustsharenews.com/feed/",
+     "source": "Must Share News"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://mothership.sg/feed/",
+     "source": "Mothership"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://vulcanpost.com/feed/",
+     "source": "Vulcan Post"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.techinasia.com/feed",
+     "source": "Tech in Asia"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+     "source": "BBC Sport"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.thesmartlocal.com/feed/",
+     "source": "TheSmartLocal"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+     "source": "BBC News"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+     "source": "BBC News"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "at",
+   "country": "Austria",
+   "lang": "de",
+   "dir": "ltr",
+   "timezone": "Europe/Vienna",
+   "currency": "EUR",
+   "ecpmRank": 15,
+   "accent": "#c8102e",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "de-AT",
+    "gl": "AT",
+    "ceid": "AT:de"
+   },
+   "radio": {
+    "countrycode": "AT"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://kurier.at/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.kleinezeitung.at/rss/top",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://api.krone.at/v1/rss/rssfeed-google.xml?id=2311992",
+     "source": "Krone"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://kurier.at/politik/inland/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.kleinezeitung.at/rss/oesterreich",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://kurier.at/politik/ausland/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.kleinezeitung.at/rss/international",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://kurier.at/wirtschaft/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.kleinezeitung.at/rss/wirtschaft",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://futurezone.at/xml/rss",
+     "source": "futurezone"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.heise.de/rss/heise-atom.xml",
+     "source": "heise online"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://kurier.at/sport/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.kleinezeitung.at/rss/sport",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://kurier.at/stars/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://kurier.at/kultur/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.kleinezeitung.at/rss/kultur",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.kleinezeitung.at/rss/gesundheit",
+     "source": "Kleine Zeitung"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://kurier.at/gesund/xml/rss",
+     "source": "KURIER"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://futurezone.at/science/xml/rss",
+     "source": "futurezone"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://kurier.at/wissen/xml/rss",
+     "source": "KURIER"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "be",
+   "country": "Belgium",
+   "lang": "nl",
+   "dir": "ltr",
+   "timezone": "Europe/Brussels",
+   "currency": "EUR",
+   "ecpmRank": 16,
+   "accent": "#1f1f1f",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "nl",
+    "gl": "BE",
+    "ceid": "BE:nl"
+   },
+   "radio": {
+    "countrycode": "BE"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.hln.be/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.standaard.be/rss",
+     "source": "De Standaard"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.nieuwsblad.be/rss",
+     "source": "Het Nieuwsblad"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.hln.be/binnenland/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.standaard.be/binnenland/rss",
+     "source": "De Standaard"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.knack.be/nieuws/belgie/feed/",
+     "source": "Knack"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.hln.be/buitenland/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.standaard.be/buitenland/rss",
+     "source": "De Standaard"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.knack.be/nieuws/wereld/feed/",
+     "source": "Knack"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.hln.be/economie/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.standaard.be/economie/rss",
+     "source": "De Standaard"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.nieuwsblad.be/economie/rss",
+     "source": "Het Nieuwsblad"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.hln.be/tech/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.demorgen.be/tech-wetenschap/rss.xml",
+     "source": "De Morgen"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.hln.be/sport/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.standaard.be/sport/rss",
+     "source": "De Standaard"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.bruzz.be/topic/sport/rss.xml",
+     "source": "BRUZZ"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.hln.be/showbizz/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.bruzz.be/culture/rss.xml",
+     "source": "BRUZZ"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.hln.be/gezondheid/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.knack.be/nieuws/gezondheid/feed/",
+     "source": "Knack"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.knack.be/nieuws/wetenschap/feed/",
+     "source": "Knack"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.hln.be/wetenschap/rss.xml",
+     "source": "HLN"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.demorgen.be/tech-wetenschap/rss.xml",
+     "source": "De Morgen"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "fi",
+   "country": "Finland",
+   "lang": "fi",
+   "dir": "ltr",
+   "timezone": "Europe/Helsinki",
+   "currency": "EUR",
+   "ecpmRank": 17,
+   "accent": "#002f6c",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "fi",
+    "gl": "FI",
+    "ceid": "FI:fi"
+   },
+   "radio": {
+    "countrycode": "FI"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.is.fi/rss/tuoreimmat.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.aamulehti.fi/rss/tuoreimmat.xml",
+     "source": "Aamulehti"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.is.fi/rss/kotimaa.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.aamulehti.fi/rss/kotimaa.xml",
+     "source": "Aamulehti"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.is.fi/rss/ulkomaat.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.is.fi/rss/taloussanomat.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.is.fi/rss/digitoday.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.mobiili.fi/feed/",
+     "source": "Mobiili.fi"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.is.fi/rss/urheilu.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.aamulehti.fi/rss/urheilu.xml",
+     "source": "Aamulehti"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.is.fi/rss/viihde.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.aamulehti.fi/rss/kulttuuri.xml",
+     "source": "Aamulehti"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.is.fi/rss/terveys.xml",
+     "source": "Ilta-Sanomat"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.is.fi/rss/tiede.xml",
+     "source": "Ilta-Sanomat"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "hk",
+   "country": "Hong Kong",
+   "lang": "zh-Hant",
+   "dir": "ltr",
+   "timezone": "Asia/Hong_Kong",
+   "currency": "HKD",
+   "ecpmRank": 18,
+   "accent": "#de2910",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "zh-HK",
+    "gl": "HK",
+    "ceid": "HK:zh-Hant"
+   },
+   "radio": {
+    "countrycode": "HK"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.i-cable.com/category/%e9%a6%96%e9%a0%81%e6%96%b0%e8%81%9e/feed/",
+     "source": "有線新聞"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.bastillepost.com/hongkong/feed",
+     "source": "巴士的報"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.i-cable.com/category/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/%e6%b8%af%e8%81%9e/feed/",
+     "source": "有線新聞"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.inmediahk.net/rss.xml",
+     "source": "香港獨立媒體網"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.i-cable.com/category/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/%e5%85%a9%e5%b2%b8%e5%9c%8b%e9%9a%9b/feed/",
+     "source": "有線新聞"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
+     "source": "BBC News 中文"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.rfi.fr/tw/rss",
+     "source": "法廣 RFI"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.i-cable.com/category/%e8%b2%a1%e7%b6%93%e8%b3%87%e8%a8%8a/feed/",
+     "source": "有線新聞"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://unwire.hk/feed/",
+     "source": "unwire.hk"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.unwire.pro/feed/",
+     "source": "unwire.pro"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.i-cable.com/category/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/%e9%ab%94%e8%82%b2/feed/",
+     "source": "有線新聞"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://feeds.feedburner.com/ettoday/star",
+     "source": "ETtoday"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://heho.com.tw/feed",
+     "source": "Heho健康"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://feeds.feedburner.com/ettoday/health",
+     "source": "ETtoday"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://pansci.asia/feed",
+     "source": "泛科學"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.rfi.fr/tw/%E7%A7%91%E6%8A%80%E8%88%87%E6%96%87%E5%8C%96/rss",
+     "source": "法廣 RFI"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "kr",
+   "country": "South Korea",
+   "lang": "ko",
+   "dir": "ltr",
+   "timezone": "Asia/Seoul",
+   "currency": "KRW",
+   "ecpmRank": 19,
+   "accent": "#003478",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "ko",
+    "gl": "KR",
+    "ceid": "KR:ko"
+   },
+   "radio": {
+    "countrycode": "KR"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.mk.co.kr/rss/30000001/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://rss.ohmynews.com/rss/ohmynews.xml",
+     "source": "오마이뉴스"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/national/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/politics/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.mk.co.kr/rss/50400012/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/international/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.mk.co.kr/rss/30300018/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://feeds.bbci.co.uk/korean/rss.xml",
+     "source": "BBC News 코리아"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/economy/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.mk.co.kr/rss/30100041/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.mk.co.kr/rss/50100032/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://feeds.feedburner.com/zdkorea",
+     "source": "지디넷코리아"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/sports/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.mk.co.kr/rss/71000001/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/entertainments/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.mk.co.kr/rss/30000023/",
+     "source": "매일경제"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.chosun.com/arc/outboundfeeds/rss/category/medical/?outputType=xml",
+     "source": "조선일보"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://kormedi.com/feed/",
+     "source": "코메디닷컴"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  },
+  {
+   "code": "ae",
+   "country": "United Arab Emirates",
+   "lang": "ar",
+   "dir": "rtl",
+   "timezone": "Asia/Dubai",
+   "currency": "AED",
+   "ecpmRank": 20,
+   "accent": "#00732f",
+   "tempUnit": "celsius",
+   "news": {
+    "provider": "publisher-feeds",
+    "hl": "ar",
+    "gl": "AE",
+    "ceid": "AE:ar"
+   },
+   "radio": {
+    "countrycode": "AE"
+   },
+   "feeds": [
+    {
+     "topic": "TOP",
+     "url": "https://www.skynewsarabia.com/rss.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "TOP",
+     "url": "https://www.alkhaleej.ae/rssFeed/0",
+     "source": "الخليج"
+    },
+    {
+     "topic": "NATION",
+     "url": "https://www.alkhaleej.ae/rssFeed/157",
+     "source": "الخليج"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.skynewsarabia.com/rss/world.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.skynewsarabia.com/rss/middle-east.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "WORLD",
+     "url": "https://www.alkhaleej.ae/rssFeed/159",
+     "source": "الخليج"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.skynewsarabia.com/rss/business.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "BUSINESS",
+     "url": "https://www.alkhaleej.ae/rssFeed/158",
+     "source": "الخليج"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.skynewsarabia.com/rss/technology.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "TECHNOLOGY",
+     "url": "https://www.alkhaleej.ae/rssFeed/160/17",
+     "source": "الخليج"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.skynewsarabia.com/rss/sport.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "SPORTS",
+     "url": "https://www.alkhaleej.ae/rssFeed/161",
+     "source": "الخليج"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.alkhaleej.ae/rssFeed/160/16",
+     "source": "الخليج"
+    },
+    {
+     "topic": "ENTERTAINMENT",
+     "url": "https://www.skynewsarabia.com/rss/varieties.xml",
+     "source": "سكاي نيوز عربية"
+    },
+    {
+     "topic": "HEALTH",
+     "url": "https://www.alkhaleej.ae/rssFeed/160/18",
+     "source": "الخليج"
+    },
+    {
+     "topic": "SCIENCE",
+     "url": "https://www.alkhaleej.ae/rssFeed/160/17",
+     "source": "الخليج"
+    }
+   ],
+   "appLabel": "Ontivo",
+   "ads": {
+    "bannerUnit": "ca-app-pub-6129187532841682/5318166974",
+    "interstitialUnit": "ca-app-pub-6129187532841682/1378921963",
+    "nativeUnit": "ca-app-pub-6129187532841682/6766980010",
+    "rewardedUnit": "ca-app-pub-6129187532841682/8635604611",
+    "rewardedInterstitialUnit": "ca-app-pub-6129187532841682/6439676955",
+    "appOpenUnit": "ca-app-pub-6129187532841682/7402413994"
+   }
+  }
+ ]
+}

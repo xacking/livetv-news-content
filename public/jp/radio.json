@@ -1,0 +1,915 @@
+{
+ "generatedAt": "2026-11-14T09:28:26.010Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "a6d3e86c-0d17-4dd5-a587-5b30f31fd837",
+   "name": "NHK WORLD RADIO",
+   "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media2/index.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "international",
+    "news"
+   ]
+  },
+  {
+   "id": "1bca74bf-82e7-4631-87b6-1e96be3bae43",
+   "name": "SOUND UP STATION NFRS",
+   "url": "https://stream2.rcast.net/70945",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/ficons/1173e1_15807acf4a474b03a67c854178f38727~mv2.ico",
+   "homepage": "https://www.nfrsradio.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "indie",
+    "jpop"
+   ]
+  },
+  {
+   "id": "0eed3332-c2b2-4eda-9d0c-897322162663",
+   "name": "NHKワールド・ラジオ日本",
+   "url": "https://masterpl.hls.nhkworld.jp/hls/r1/live/master.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/assets/images/statics/ja_nw_premium_img_2019.png",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/ja/",
+   "codec": "AAC+",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "90cbb60b-5a04-4e3a-aa30-5dc9307070e7",
+   "name": "BOX : Japan City Pop - 日本のシティポップ",
+   "url": "https://play.streamafrica.net/japancitypop",
+   "hls": false,
+   "logo": "https://assets.radioapi.me/radios/01J65CR99GVHS3A7CT7D53C415.jpg",
+   "homepage": "https://boxradio.net/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "city pop",
+    "japanese"
+   ]
+  },
+  {
+   "id": "248a7684-7e28-4912-9812-efefc2bba2e1",
+   "name": "Gensokyo Radio",
+   "url": "https://stream.gensokyoradio.net/3",
+   "hls": false,
+   "logo": "https://gensokyoradio.net/favicon.ico",
+   "homepage": "https://gensokyoradio.net/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "anime",
+    "touhou"
+   ]
+  },
+  {
+   "id": "38930961-d11a-451b-b8ee-cdadce9057ba",
+   "name": "Anime Para Ti",
+   "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
+   "hls": false,
+   "logo": "https://images.zeno.fm/TrBD3tEtOJbMAdKu3XR64pWUT2XTjBhzgn2n2w_lFnE/rs:fit:500:500/g:ce:0:0/aHR0cHM6Ly9zdHJlYW0tdG9vbHMuemVub21lZGlhLmNvbS9jb250ZW50L3N0YXRpb25zL2FneHpmbnBsYm04dGMzUmhkSE55TWdzU0NrRjFkR2hEYkdsbGJuUVlnSUNBeF92bDF3b01DeElPVTNSaGRHbHZibEJ5YjJacGJHVVlnSUNBZ0lEeWlBb01vZ0VFZW1WdWJ3L2ltYWdlLz9yZXNpemU9NTAweDUwMCZ1cGRhdGVkPTE2NjI3NzM0MjEwMDA.webp",
+   "homepage": "https://www.facebook.com/radioanimeparati",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "anime",
+    "anime openings",
+    "jpop",
+    "music"
+   ]
+  },
+  {
+   "id": "f72771a3-cf3a-4cc5-af91-2493ca31c54d",
+   "name": "J-Pop Sakura",
+   "url": "https://quincy.torontocast.com:2070/stream.mp3",
+   "hls": false,
+   "logo": "https://moremalc.com/natsukashii.jpeg",
+   "homepage": "https://asiadreamradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "j-pop",
+    "japanese",
+    "jpop",
+    "oldies"
+   ]
+  },
+  {
+   "id": "57cf528a-02be-4805-a510-6d05bb0ff996",
+   "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+   "url": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
+   "hls": false,
+   "logo": "https://www.publicsante.com/BIENVENU/LOGO REPLAY NEWS-JA.png",
+   "homepage": "https://www.replaynews.net/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "news",
+   "tags": [
+    "information",
+    "news"
+   ]
+  },
+  {
+   "id": "da391117-93a3-4f25-8dc3-c8aa604dde6a",
+   "name": "Súper Tokio Radio",
+   "url": "https://streamer.radio.co/s83eb8ff39/listen",
+   "hls": false,
+   "logo": "https://supertokio.com/favicon.ico",
+   "homepage": "https://supertokio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "ee614813-177f-4b83-ae6a-5e5b22d440d1",
+   "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+   "url": "https://s3.radio.co/sc8d895604/listen",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_1070,h_1080,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
+   "homepage": "https://ashiya.radio/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "bossa nova",
+    "jazz",
+    "piano jazz"
+   ]
+  },
+  {
+   "id": "7ea8bc67-c0b9-4cc6-b1bd-f3e1770fad74",
+   "name": "J-Pop Christmas",
+   "url": "https://cast3.torontocast.com:1170/;",
+   "hls": false,
+   "logo": "https://moremalc.com/jc512.jpeg",
+   "homepage": "https://asiadreamradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "christmas",
+    "j-pop",
+    "japanese"
+   ]
+  },
+  {
+   "id": "10bad67d-8ada-4430-8a45-a92dfd4bfc87",
+   "name": "City Poppers",
+   "url": "https://stream.zeno.fm/ricmeoweux2uv",
+   "hls": false,
+   "logo": "https://images.zeno.fm/DLSVIBWBYKpUn-nz7V1aA5IAtvvjzpPVVSeAH04VGHU/rs:fill:152:152/q:75/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvNjY0NzU4MTQtYWJiMy00NWFhLThjZWUtMDk3YzIzOTIyOTQ0L2ltYWdlLz91PTE2NzcxNTExNDEwMDA",
+   "homepage": "https://zeno.fm/radio/citypoppers/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "city pop",
+    "citypop",
+    "japanese",
+    "japanese music"
+   ]
+  },
+  {
+   "id": "836b2af3-7941-4c02-b5bc-ed28e46cda43",
+   "name": "Radi.fm 中文古典音乐",
+   "url": "https://live.radi.fm/stream/zh.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/ZhongwenGudianYinyue/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "df402746-9d27-4b53-8d07-ab4634ac8b66",
+   "name": "大富ラジオ",
+   "url": "https://stream.zeno.fm/oaxp6mswcqltv",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.daifutv.com/j/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5a2cbfe7-0518-44e9-aca6-0fd41e466ff0",
+   "name": "Fred Film Radio",
+   "url": "https://s10.webradio-hosting.com/proxy/fredradiojp/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.fred.fm/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "culture",
+    "film",
+    "movie"
+   ]
+  },
+  {
+   "id": "9d4aa07b-f080-4d6c-87e8-15c080c72dd2",
+   "name": "Miku Radio",
+   "url": "https://miku.fm/listen/miku/mp3-128",
+   "hls": false,
+   "logo": "https://miku.fm/static/uploads/browser_icon/60.1740888865.png",
+   "homepage": "https://miku.fm/public/miku",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3e112758-54c7-483b-8c1b-73b3e41aae1e",
+   "name": "Animenfo",
+   "url": "https://stream.zenolive.com/xwa8ckz7mzzuv.aac",
+   "hls": false,
+   "logo": "https://liveonlineradio.net/wp-content/uploads/2014/11/Animenfo-Radio.jpg",
+   "homepage": "https://radiofm.novawap.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "5a4eb5bc-7fbd-43fb-a6a4-cc4517ce6ac4",
+   "name": "J1 HITS",
+   "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+   "hls": false,
+   "logo": "https://mmo.aiircdn.com/387/5e763985f1dab.png",
+   "homepage": "https://www.j1fm.tokyo/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a3923012-3b2c-4930-87b2-00058121709c",
+   "name": "Beethoven Piano Sonatas",
+   "url": "https://mpc1.mediacp.eu/stream/globaltopcharts",
+   "hls": false,
+   "logo": "https://cdn.radoxo.com/images/japan/beethoven-piano-sonatas.webp?v=1791194402",
+   "homepage": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "beethoven",
+    "classical",
+    "classical music",
+    "piano"
+   ]
+  },
+  {
+   "id": "02cf24a8-b1a6-4196-bf1c-d5553d2090bd",
+   "name": "asia DREAM radio - Japan Hits",
+   "url": "https://quincy.torontocast.com:2020/stream.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://asiadreamradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "j-pop",
+    "japanese",
+    "jpop",
+    "pop"
+   ]
+  },
+  {
+   "id": "2396ce2c-9fde-4353-98a8-7e307daefddc",
+   "name": "Real Love Music - Radio Future Funk",
+   "url": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+   "hls": false,
+   "logo": "https://zeno.fm/favicon.ico",
+   "homepage": "https://zeno.fm/radio/future-fnk/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "84551b58-cc37-4ec2-8712-b29002804be9",
+   "name": "J-POP Powerplay",
+   "url": "https://kathy.torontocast.com:3560/",
+   "hls": false,
+   "logo": "https://cdn-radiotime-logos.tunein.com/s260995g.png",
+   "homepage": "http://www.asiadreamradio.com/stations/en/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "405566fa-dd30-437e-b20b-934fcdbe768f",
+   "name": "Kamakura FM",
+   "url": "https://stream.laut.fm/kamakura",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://kamakurafm.co.jp/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0bca37e5-153c-40fa-a26f-b52d46523b72",
+   "name": "Otaku Music Radio",
+   "url": "https://kathy.torontocast.com:2880/;?type=http&nocache=1606748882",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.otakumusicradio.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1e054608-8472-4535-a9b5-f36c6282b958",
+   "name": "83.4MHz FMSETAGAYA",
+   "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+   "hls": false,
+   "logo": "https://fmsetagaya.com/wp/wp-content/uploads/2020/02/1400-300x300.jpg",
+   "homepage": "https://fmsetagaya.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e4f7dac4-db05-446d-9282-d79a56ce7327",
+   "name": "Jazz Sakura",
+   "url": "https://kathy.torontocast.com:3330/;",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "813c17ee-abc0-46ce-974f-6640a3909d3c",
+   "name": "NHK WORLD RADIO 11",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/gs2/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/ja/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "149b595b-9490-4cf9-9e25-8bc46806d75a",
+   "name": "NFRS Radio",
+   "url": "https://securestreams.autopo.st:2592/stream?t=1769818665235",
+   "hls": false,
+   "logo": "https://static.wixstatic.com/media/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg/v1/fill/w_192%2Ch_192%2Clg_1%2Cusm_0.66_1.00_0.01/1173e1_f007caeef2d94fb0bf49c6def3226b8f%7Emv2.jpg",
+   "homepage": "https://www.nfrsradio.com/",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": [
+    "country",
+    "dj sets",
+    "pop"
+   ]
+  },
+  {
+   "id": "f12f63d5-fe51-4515-b7bf-898bdc9b2dde",
+   "name": "All Classical New Releases",
+   "url": "https://mpc1.mediacp.eu:8038/stream",
+   "hls": false,
+   "logo": "https://cdn.radoxo.com/images/japan/all-classical-new-releases.webp?v=1791194402",
+   "homepage": "https://cdn.radoxo.com/images/japan/all-classical-piano-chamber-works-and-concertos.webp?v=1791194402",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical",
+    "opera"
+   ]
+  },
+  {
+   "id": "12ac30d1-1900-4edc-baef-7c027232ee64",
+   "name": "J-Rock PowerPlay",
+   "url": "https://kathy.torontocast.com:3340/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "50a6d113-5dde-4e2f-beb2-404c6e7cabd6",
+   "name": "VRC放送局",
+   "url": "https://vrc.gate.vrtv.jp/live?p=g&u=d",
+   "hls": true,
+   "logo": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vrctv.jp/&size=128",
+   "homepage": "https://vrctv.jp/",
+   "codec": "AAC",
+   "bitrate": 1353,
+   "category": "music",
+   "tags": [
+    "video games"
+   ]
+  },
+  {
+   "id": "b2805728-e405-406a-882a-021e76972b53",
+   "name": "Radio Shiga",
+   "url": "https://sv10.hdradios.net:21920/stream",
+   "hls": false,
+   "logo": "https://cdn.radoxo.com/images/japan/radio-shiga.webp?v=1791194402",
+   "homepage": "https://wp.radioshiga.com/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "talk",
+   "tags": [
+    "culture"
+   ]
+  },
+  {
+   "id": "e5a8c394-aa9e-4350-8d6c-50cf67141588",
+   "name": "Vocaloid Radio",
+   "url": "https://stream.zeno.fm/0qmy834zm7zuv?aw_0_req_lsid=466c98abd83ac97274346856d171d0ba",
+   "hls": false,
+   "logo": "https://cdn.onlineradiobox.com/img/l/6/12926.v4.png",
+   "homepage": "https://vocaloidradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "21fece77-9763-4223-8f01-358adbddeac7",
+   "name": "Nonstop Casiopea",
+   "url": "https://nonstopcasiopea.radioca.st/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://nonstopcasiopea.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "90c96d5f-8c72-49fb-8f47-3c07cb636264",
+   "name": "MILCpod",
+   "url": "https://radio.milradio.info:9000/milcpod.m3u8",
+   "hls": true,
+   "logo": "https://booth.pximg.net/1b3b1730-3c83-47fb-bb90-5043af605d63/i/8135483/4636d6a4-f95b-45b3-abd8-cad490173211_base_resized.jpg",
+   "homepage": "https://radio.milradio.info/",
+   "codec": "AAC",
+   "bitrate": 211,
+   "category": "music",
+   "tags": [
+    "music",
+    "video games"
+   ]
+  },
+  {
+   "id": "a0a57bb8-21fe-45db-a3a8-7f5ae8cc7e12",
+   "name": "NHK WORLD RADIO 8",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs5/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/ja/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "a9034ee4-f44a-4d55-b2bc-18b854434fa7",
+   "name": "RadiCro",
+   "url": "https://radicrojapan.out.airtime.pro/radicrojapan_a",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radicro.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "0fd7abf3-e2c7-48c5-bb93-ab868fb3edb4",
+   "name": "Radio Hayama",
+   "url": "https://server10.reliastream.com/proxy/radiohayama",
+   "hls": false,
+   "logo": "https://static.mytuner.mobi/media/tvos_radios/3gzybhgwj45v.png",
+   "homepage": "https://radiohayama.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e06ae684-fbb4-43d0-ad17-4b9870703e6b",
+   "name": "神戸長田FMわぃわぃ",
+   "url": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3",
+   "hls": false,
+   "logo": "https://cdn.instant.audio/images/logos/jpradio-jp/fmyy.png",
+   "homepage": "https://tcc117.jp/fmyy/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "talk",
+   "tags": [
+    "culture"
+   ]
+  },
+  {
+   "id": "a4fc8fc6-5eae-4e2e-9881-7770556abd01",
+   "name": "Gotanno Radio micro FM station",
+   "url": "https://radio.gotanno.love/;",
+   "hls": false,
+   "logo": "https://yt3.googleusercontent.com/ytc/AIdro_mdnuovYgEJ9KclQYa5ECb4eR_94VbI-hNx4-Ml5YA7OQ=s900-c-k-c0x00ffffff-no-rj",
+   "homepage": "https://gotanno.love/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "jpop"
+   ]
+  },
+  {
+   "id": "1516904a-7c53-4443-82b2-e710eb814be4",
+   "name": "VR Soundscape TV",
+   "url": "https://stream.vrstv.jp/",
+   "hls": true,
+   "logo": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://vrstv.jp/&size=128",
+   "homepage": "https://vrstv.jp/",
+   "codec": "AAC",
+   "bitrate": 1450,
+   "category": "music",
+   "tags": [
+    "music",
+    "video games"
+   ]
+  },
+  {
+   "id": "3b1b2706-069d-44a9-a1a7-34e8699ab5a8",
+   "name": "NHK WORLD RADIO-2",
+   "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media11/index.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "0d926201-13b3-4e14-9348-68b7666be53d",
+   "name": "R/a/dio",
+   "url": "https://relay0.r-a-d.io/main.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://r-a-d.io/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "49439c31-b641-4251-b3b0-ab979ab514d2",
+   "name": "NHK WORLD RADIO 7",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs2/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "ecbcdd6f-ac5f-408f-9d9b-cc979e5344c4",
+   "name": "J-Pop Powerplay Kawaii",
+   "url": "https://kathy.torontocast.com:3060/;?shoutcast",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music",
+    "pop"
+   ]
+  },
+  {
+   "id": "53e7d317-c9e8-4054-87a4-2e21893e80cc",
+   "name": "J-Club Powerplay HipHop",
+   "url": "https://kathy.torontocast.com:3350/;?shoutcast",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://asiadreamradio.torontocast.stream/stations/en/index.html",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "ce46492b-3512-48e5-bf12-e992df4b4906",
+   "name": "Big B Radio #JPOP",
+   "url": "https://antares.dribbcast.com/proxy/jpop?mp=/s",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://bigbradio.net/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "054efc50-2a18-43ae-8226-5bed835d78d5",
+   "name": "Oreo Chii",
+   "url": "https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&raw=1",
+   "hls": false,
+   "logo": "https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0",
+   "homepage": "https://www.dropbox.com/scl/fi/cr0fnz92285jehid72r7p/Romanji-Hitorigotsu-by-Hachiware-Chiikawa-Full-lyrics-English-Vietnamese-Translation.mp3?rlkey=9naoagjdv4469sxx1ak7m9f1k&st=xjp5067g&dl=0",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "chiikawa",
+    "oreo",
+    "oreo chiikawa"
+   ]
+  },
+  {
+   "id": "dbc6d144-67d0-4581-a93d-6b3d69a13079",
+   "name": "NHK WORLD RADIO 12",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/kai/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "608b153d-8eb9-4564-a98f-76f075a6eda4",
+   "name": "NHK WORLD RADIO 13",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/sin/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "c3567819-a747-4d38-9cdc-a97d601cd5fd",
+   "name": "NHK WORLD RADIO-3",
+   "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media12/index.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "baa56155-7308-4085-bcf6-174e5bb22494",
+   "name": "Radi.fm クラシック Nippon",
+   "url": "https://live.radi.fm/stream/ja.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/ClassicNippon/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "603d37de-50aa-47f3-b8ad-10c72cff4282",
+   "name": "羊飼いラジオ",
+   "url": "https://streaming.radio.co/se4a8e6a93/low",
+   "hls": false,
+   "logo": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
+   "homepage": "https://www.hitsujikai-radio.com/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e93b7f21-b06d-4c2a-a3dc-cf87dbee0408",
+   "name": "NHK WORLD RADIO 9",
+   "url": "https://master.nhkworld.jp/nhkworld-radio/playlist/rs4/live.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/ja/assets/images/common/bnr_rj.png",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/ja/",
+   "codec": "AAC",
+   "bitrate": 66,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "b031573d-4d75-4b3b-beef-57724438e63d",
+   "name": "NHK WORLD RADIO-4",
+   "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media13/index.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "ff0d02bb-1922-407b-9ae7-3b2c86c86725",
+   "name": "NHK WORLD RADIO-5",
+   "url": "https://nhkworld-radio.nhkworld.jp/hls/live/nhkworld-radio-media3/index.m3u8",
+   "hls": true,
+   "logo": "https://www3.nhk.or.jp/nhkworld/common/assets/parts/images/logo_world.svg",
+   "homepage": "https://www3.nhk.or.jp/nhkworld/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "international"
+   ]
+  },
+  {
+   "id": "838460ee-30f9-4aa6-92b0-0bdc4b9bd621",
+   "name": "Radi.fm Clásica Global",
+   "url": "https://live.radi.fm/stream/es.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/ClasicaGlobal/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "e0485a8b-0fc9-445a-97fe-95b701cdcec9",
+   "name": "Radi.fm Monde Classique",
+   "url": "https://live.radi.fm/stream/fr.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/MondeClassique/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "0347b46a-91c7-4fe3-943d-a9eb02cdd9b9",
+   "name": "Rainwave All",
+   "url": "https://relay.rainwave.cc/all.mp3?1:MF0d8GHw2d",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://rainwave.cc/all/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "08f17b3c-6072-4cb9-8c42-5e5edd51bcda",
+   "name": "An Opera Celebration",
+   "url": "https://mpc1.mediacp.eu/stream/beethoveninsequence",
+   "hls": false,
+   "logo": "https://cdn.radoxo.com/images/japan/an-opera-celebration.webp?v=1791194402",
+   "homepage": "https://tuneyou.com/radio/jp/an-opera-celebration",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical",
+    "opera"
+   ]
+  },
+  {
+   "id": "87dabf49-c5ad-4906-b0bb-9716b710385a",
+   "name": "Justplay",
+   "url": "https://justplay.stream.laut.fm/justplay",
+   "hls": false,
+   "logo": "https://assets.laut.fm/e2ba4c2950bdc47c7af05acebcdb9661",
+   "homepage": "https://radiostream.novawap.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "j-pop",
+    "pop",
+    "pop-rock"
+   ]
+  },
+  {
+   "id": "5808e2da-b25a-49e7-9ba3-7667499f2d00",
+   "name": "Radi.fm Klassik DACH",
+   "url": "https://live.radi.fm/stream/de.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/KlassikDACH/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "1f016377-53ec-4c97-9c51-21d7ce54a7bd",
+   "name": "Radi.fm Nippon",
+   "url": "https://live.radi.fm/live/stn%3Af7df1c8bba9c4e50/index.m3u8",
+   "hls": true,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/ClassicNippon/",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "a9e24bdd-0f5e-490e-88d5-a1fa1c0ac7e3",
+   "name": "Radi.fm Classical Global",
+   "url": "https://live.radi.fm/stream/en.aac",
+   "hls": false,
+   "logo": "https://www.xpand.website/assets/images/Radifm_0600.png",
+   "homepage": "https://radi.fm/ClassicalGlobal/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "f224c900-8796-4063-8aca-0bb3afd8507f",
+   "name": "A Radio for ACG & others",
+   "url": "https://hkradio.myaddr.io/listen/new_radio/radio.aac",
+   "hls": false,
+   "logo": "https://hkradio.myaddr.io/api/station/new_radio/art/a6ea0df6141aff3b0519c707-1744450585.jpg",
+   "homepage": "https://hkradio.myaddr.io/public/new_radio",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": []
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:45.080Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Forsvaret vil efterforske læk af hemmelig flådeplan til DR",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.dr.dk/nyheder/indland/forsvaret-vil-efterforske-laek-af-hemmelig-flaadeplan-til-dr"
+  },
+  {
+   "type": "section",
+   "headline": "Trump skal torsdag mødes med Putin og Xi i Kina",
+   "options": [
+    "SCIENCE",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.dr.dk/nyheder/udland/trump-skal-torsdag-moedes-med-putin-og-xi-i-kina"
+  },
+  {
+   "type": "section",
+   "headline": "Billig benzin redder ikke pendlere med langt til arbejde",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/penge/billig-benzin-redder-ikke-pendlere-med-langt-til-arbejde"
+  },
+  {
+   "type": "section",
+   "headline": "YouTube virker ikke for alle på det nye Apple TV 4K: Sådan løser du det",
+   "options": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.recordere.dk/2026/11/youtube-virker-ikke-for-alle-paa-det-nye-apple-tv-4k-saadan-loeser-du-det/"
+  },
+  {
+   "type": "section",
+   "headline": "Keeper får lang straf for kollision, som kostede Tenerife-spiller livet",
+   "options": [
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/sporten/fodbold/seneste-og-vigtigste-nyt-om-fodbold?focusId=12832509#liveblog-embed"
+  }
+ ]
+}

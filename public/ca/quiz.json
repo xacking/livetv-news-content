@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T09:28:02.471Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Owner says they can keep dog-wolf hybrid Onyx, at least for now",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 1,
+   "url": "https://www.ctvnews.ca/northern-ontario/article/owner-says-they-can-keep-dog-wolf-hybrid-onyx-at-least-for-now/"
+  },
+  {
+   "type": "section",
+   "headline": "Canadian airports warn more delays expected after U.S. FAA lifts ground stop",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/world/article/canadian-airports-warn-more-delays-expected-after-us-faa-lifts-ground-stop/"
+  },
+  {
+   "type": "section",
+   "headline": "Stelco to recall 175 laid-off workers in Hamilton, Ont., on Dec. 1",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/toronto/local/hamilton/article/stelco-to-recall-175-laid-off-workers-in-hamilton-ont-on-dec-1/"
+  },
+  {
+   "type": "source",
+   "headline": "London Knights lose in shootouts",
+   "options": [
+    "Daily Hive",
+    "Global News",
+    "CTV News",
+    "BBC News"
+   ],
+   "answer": 2,
+   "url": "https://www.ctvnews.ca/london/article/london-knights-lose-in-shootouts/"
+  },
+  {
+   "type": "source",
+   "headline": "Canada, Philippines conclude negotiations for free-trade agreement, aiming for 2027",
+   "options": [
+    "BBC News",
+    "Daily Hive",
+    "CTV News",
+    "Global News"
+   ],
+   "answer": 3,
+   "url": "https://globalnews.ca/news/12150796/canada-philippines-trade-deal/"
+  }
+ ]
+}

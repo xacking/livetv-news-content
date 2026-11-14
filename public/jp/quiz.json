@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T16:48:45.863Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "脱北者が語る「北朝鮮軍サイバー部隊」 ネット黎明期に金正日総書記が創設…中学から選抜しエリートが部隊へ【news23】",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://newsdig.tbs.co.jp/articles/-/3085686"
+  },
+  {
+   "type": "section",
+   "headline": "米マイクロソフトで大規模障害、サービス停止 復旧作業も「期待通りには」進まずと",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.com/japanese/articles/cm5y13kry5l4o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "マイクロソフトのソフトウエアで世界的な障害､金融市場は昔ながらの電話とファクスが頼みに | 政治・経済・投資 | 東洋経済オンライン",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "SCIENCE",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://toyokeizai.net/articles/-/964828?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "AMD Ryzen 9 9900X＋RTX 5070 Ti搭載PCが6万4000円引き！ パソコンショップSEVEN、11月14日限定セール",
+   "options": [
+    "TECHNOLOGY",
+    "SCIENCE",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://ascii.jp/elem/000/004/450/4450801/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "井口ジャパン、4本塁打で韓国撃破 8回に4点差追いつかれるも…宗山の決勝弾で2戦全勝",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 2,
+   "url": "https://full-count.jp/2026/11/13/post2044552/"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T16:48:34.872Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Cop’s Killer Beez boyfriend Jordan William Bridger jailed for laundering $1 million in drug money",
+   "options": [
+    "WORLD",
+    "NATION",
+    "TECHNOLOGY",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/nz/killer-beez-member-jordan-william-bridger-jailed-for-laundering-1-million-in-drug-money/premium/LDWURQNHOJDBHK22GJ5ENHNXU4/"
+  },
+  {
+   "type": "section",
+   "headline": "US, Ukraine say Europe to join Russia talks as Putin sticks to hardline stance",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/world/putin-suggests-no-ukraine-compromise-in-meeting-with-us-envoys/7UHR4TPS55HSBF3YE4C6P2RM2M/"
+  },
+  {
+   "type": "section",
+   "headline": "The slingshot that flung Rocket Lab spacecraft toward Mars",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/the-slingshot-that-flung-rocket-lab-spacecraft-toward-mars/premium/6GTZCY4PFREFPNZFPIDMU3ZID4/"
+  },
+  {
+   "type": "section",
+   "headline": "Rachael Archer wins three straight United States GNCC titles in off-road racing",
+   "options": [
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/sport/motorsport/rachael-archer-wins-three-straight-us-gncc-titles-in-off-road-racing/WSIUFRAB3BDLRBH66LGKYQVHPA/"
+  },
+  {
+   "type": "section",
+   "headline": "BBM Motivation founder Dave Letele reveals how he lost 36kg after regaining half his weight",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/lifestyle/bbm-motivation-founder-dave-letele-reveals-how-he-lost-36kg-after-regaining-half-his-weight/MF4MR2DBSNCHFOLOSHPKPBSYI4/"
+  }
+ ]
+}

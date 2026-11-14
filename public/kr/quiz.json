@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T16:49:11.635Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "올해 마지막 단풍일까… 오늘 전국 곳곳 비소식",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/national/national_general/2026/11/14/YA2UXHOY6RFIBNMR4OYXKMHJ7E/"
+  },
+  {
+   "type": "section",
+   "headline": "“뱁새 가랑이 찢어져”… 이란, 청해부대 겨냥 한국어 경고",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.chosun.com/international/international_general/2026/11/14/HR6EJUL6GNAIVBDLDP5SAKAREM/"
+  },
+  {
+   "type": "section",
+   "headline": "뉴욕증시, 10월 PPI 둔화 속 장 초반 혼조세",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/economy/stock-finance/2026/11/14/G5SGIOLFMJTDAMTBHE3DGYZWHA/"
+  },
+  {
+   "type": "source",
+   "headline": "폰에 깔려 있어도 안 쓰던 구글맵…간판 기능 봉인 해제에 네카오 ‘긴장’",
+   "options": [
+    "매일경제",
+    "오마이뉴스",
+    "조선일보",
+    "BBC News 코리아"
+   ],
+   "answer": 0,
+   "url": "https://www.mk.co.kr/news/it/12208595"
+  },
+  {
+   "type": "source",
+   "headline": "\"한덕수 석방 단정 말라\"는 대법원... 특검은 이미 석방 이후 대비",
+   "options": [
+    "조선일보",
+    "BBC News 코리아",
+    "매일경제",
+    "오마이뉴스"
+   ],
+   "answer": 3,
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284793"
+  }
+ ]
+}

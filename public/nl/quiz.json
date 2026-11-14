@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T02:42:50.851Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Politie arresteert pakketbezorger die inreed op hardlopers in Barneveld",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.nu.nl/binnenland/6416552/politie-arresteert-pakketbezorger-die-inreed-op-hardlopers-in-barneveld.html"
+  },
+  {
+   "type": "section",
+   "headline": "Vliegverkeer in de Verenigde Staten hervat na grote communicatiestoring",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 2,
+   "url": "https://www.nu.nl/buitenland/6416557/vliegverkeer-in-de-verenigde-staten-hervat-na-grote-communicatiestoring.html"
+  },
+  {
+   "type": "section",
+   "headline": "Microsoft kan nog niet zeggen wanneer wereldwijde storing voorbij is",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/tech/6416534/microsoft-kan-nog-niet-zeggen-wanneer-wereldwijde-storing-voorbij-is.html"
+  },
+  {
+   "type": "section",
+   "headline": "Podcast | 'Alle lof voor Xavi, we hebben in jaren niet zo genoten van Oranje'",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/afspelen/6416555/alle-lof-voor-xavi-we-hebben-in-jaren-niet-zo-genoten-van-oranje.html"
+  },
+  {
+   "type": "section",
+   "headline": "Doe Maar-drummer Jan Pijnenburg (70) plotseling overleden",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/muziek/6416540/doe-maar-drummer-jan-pijnenburg-70-plotseling-overleden.html"
+  }
+ ]
+}

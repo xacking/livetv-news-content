@@ -1,0 +1,1263 @@
+{
+ "generatedAt": "2026-11-14T09:27:54.359Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "1653b791-7005-4e95-be20-4e7b626a4a20",
+   "name": "Sky News Australia Radio",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_SKYNEWSAAC.aac",
+   "hls": false,
+   "logo": "https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/SKY_News_Australia_logo.png",
+   "homepage": "https://www.skynews.com.au/sky-news-radio",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "news",
+   "tags": [
+    "conservative",
+    "discussion",
+    "news",
+    "politics",
+    "rightwing"
+   ]
+  },
+  {
+   "id": "0d9fefee-774a-469c-9610-af4cf2615a38",
+   "name": "80s 90s Super Pop Hits",
+   "url": "https://s4.myradiostream.com:7344/listen.mp3?",
+   "hls": false,
+   "logo": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/au.png",
+   "homepage": "https://www.radio-australia.org/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "80s",
+    "90s",
+    "hits"
+   ]
+  },
+  {
+   "id": "44161d8e-73a9-42f9-b6e6-bf6a31da81c1",
+   "name": "ABC Jazz HLS",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/index.m3u8",
+   "hls": true,
+   "logo": "https://www.abc.net.au/core-assets/jazz/favicon-32x32.png",
+   "homepage": "https://www.abc.net.au/jazz",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "abc",
+    "jazz",
+    "public radio"
+   ]
+  },
+  {
+   "id": "bfbd506c-9fdc-4605-bf65-2f751aafb597",
+   "name": "CNN",
+   "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://tunein.cdnstream1.com/2868_96.mp3",
+   "codec": "MP3",
+   "bitrate": 96,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "20a4b05b-aca0-43f9-82ca-32787f0efd8a",
+   "name": "ABC NewsRadio",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/newsradio.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/21b0d1767efbf09b96ab726650be17f3",
+   "homepage": "https://www.abc.net.au/listen/news",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "national news",
+    "national radio",
+    "news",
+    "public radio",
+    "sports news"
+   ]
+  },
+  {
+   "id": "7078d270-62b8-49c3-a729-ad325d60d29c",
+   "name": "SBS PopAsia",
+   "url": "https://sbs-ice.streamguys1.com/sbs-popasia-sbs-web",
+   "hls": false,
+   "logo": "https://www.sbs.com.au/_next/static/img/language/app-icon_128x128-18ef105.png",
+   "homepage": "https://www.sbs.com.au/popasia/",
+   "codec": "AAC+",
+   "bitrate": 97,
+   "category": "music",
+   "tags": [
+    "c-pop",
+    "cantonese",
+    "chinese pop",
+    "cpop",
+    "hong kong music"
+   ]
+  },
+  {
+   "id": "241e1e0d-dbd0-4797-9fb9-ed3b391ac60a",
+   "name": "Nightride FM Chillsynth",
+   "url": "https://stream.nightride.fm/chillsynth.mp3",
+   "hls": false,
+   "logo": "https://f4.bcbits.com/img/0021204033_20.jpg",
+   "homepage": "https://nightride.fm/?station=chillsynth",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "chillsynth",
+    "chillwave",
+    "instrumental"
+   ]
+  },
+  {
+   "id": "61499fbc-41ef-4289-a25c-9d7473e790de",
+   "name": "AC878 澳洲华语FM电台",
+   "url": "https://stream4.rcast.net/71937/#?.mp3",
+   "hls": false,
+   "logo": "https://ac878.com.au/wp-content/uploads/2025/02/1024x1024.png",
+   "homepage": "https://ac878.com.au/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "full service"
+   ]
+  },
+  {
+   "id": "7f058c26-9b7d-4bba-ace3-bad95ad80f30",
+   "name": "774 ABC Melbourne",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localmelbourne.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/7e54f885c81cb93e2f248a49423c4369",
+   "homepage": "https://www.abc.net.au/listen/live/melbourne",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "news"
+   ]
+  },
+  {
+   "id": "a4c32662-98bc-42bd-b05b-dcf656272369",
+   "name": "Gold 104.3",
+   "url": "https://ais-arn.streamguys1.com/au_004_icy",
+   "hls": false,
+   "logo": "https://www.gold1043.com.au/wp-content/themes/arn/assets/favicons/favicon_gold/favicon-32x32.png",
+   "homepage": "https://www.gold1043.com.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "classic hits"
+   ]
+  },
+  {
+   "id": "82c590d5-f2ad-4b74-85fa-8194f74da278",
+   "name": "102.5 ABC Perth",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localperth.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/796b9b5ca19c35a28b2a0825d804957d",
+   "homepage": "https://www.abc.net.au/listen/live/perth",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "8b23672d-9ac5-438f-bf1a-8e853ab69e29",
+   "name": "Triple M Adelaide",
+   "url": "https://legacy.scahw.com.au/5mmm_32",
+   "hls": false,
+   "logo": "https://triplem.listnr.com/wp-content/uploads/2024/04/cropped-mmm-favicon-180x180.png",
+   "homepage": "https://www.triplem.com.au/adelaide",
+   "codec": "AAC+",
+   "bitrate": 33,
+   "category": "music",
+   "tags": [
+    "80s",
+    "rock"
+   ]
+  },
+  {
+   "id": "a91e7dfe-5b4d-4df1-be98-6a73d93f8057",
+   "name": "ABC Radio Melbourne",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/masterhq.m3u8",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/ca6ab5978de9c6130441e5518e335c3d",
+   "homepage": "https://www.abc.net.au/listen/live/melbourne",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "news",
+    "talk"
+   ]
+  },
+  {
+   "id": "2f1079f1-0986-4e33-99a7-009f723726b7",
+   "name": "Free FM Rock Austral",
+   "url": "https://freefmrock.radioca.st/",
+   "hls": false,
+   "logo": "https://1.bp.blogspot.com/-zqFqeHIezoQ/XWwTN0Jl0OI/AAAAAAAAAck/JiBc3HIncUIIrenqBm_BaIfLAGLxCQF4ACLcBGAs/s1600/free%2Bfm%2Brock.jpg",
+   "homepage": "http://freefmradio.net/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "#free",
+    "classic rock",
+    "free fm",
+    "free fm rock",
+    "hard rock"
+   ]
+  },
+  {
+   "id": "a66f3f7e-a44b-4c7b-a840-2e7a41203726",
+   "name": "702 ABC Sydney",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localsydney.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/c6e5221766a21780b205abe8c3dbedda",
+   "homepage": "https://www.abc.net.au/listen/live/sydney",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "7b961b39-0ca5-46a8-998d-3f497a80f58e",
+   "name": "ABC Jazz",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/abcjazz.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/1d3fcd8ee593c191730231c7981e23e2",
+   "homepage": "https://www.abc.net.au/listen/jazz/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "blues",
+    "jazz",
+    "public radio",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "f3046015-246d-4175-ad7f-718a0cc8a393",
+   "name": "triple j",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038308/triplejnsw/master.m3u8",
+   "hls": true,
+   "logo": "https://www.abc.net.au/core-assets/triplej/favicon-32x32.png",
+   "homepage": "https://triplej.net.au/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "dance",
+    "hip-hop",
+    "metal",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "0f5d89f0-66fa-40ce-b939-9f29f61fc505",
+   "name": "Perth Fire and Rescue Service Command",
+   "url": "https://stream.warsug.info/WARSUG",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://warsug.info/viewtopic.php?f=3&t=5454",
+   "codec": "MP3",
+   "bitrate": 24,
+   "category": "music",
+   "tags": [
+    "fire scanner"
+   ]
+  },
+  {
+   "id": "3af3be8d-da3e-4051-a604-d5958f410732",
+   "name": "The Prog Rock Machine",
+   "url": "https://theproganrockmachine.out.airtime.pro/theproganrockmachine_b",
+   "hls": false,
+   "logo": "https://progrockmachine.com/favicon.ico",
+   "homepage": "https://progrockmachine.com/",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "progressive rock"
+   ]
+  },
+  {
+   "id": "5ca4267a-2783-4b77-b521-a4936f00191e",
+   "name": "ABC Classic 2 HLS",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038317/classic2/index.m3u8",
+   "hls": true,
+   "logo": "https://www.radio.de/images/broadcasts/ff/c4/36275/c175.png",
+   "homepage": "https://www.abc.net.au/classic",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "abc",
+    "classical",
+    "public radio"
+   ]
+  },
+  {
+   "id": "121379c2-2353-456c-8d2d-fd3aa5655c5d",
+   "name": "ABC Triple J Queensland 20220701",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038347/triplejqld/masterhq.m3u8",
+   "hls": true,
+   "logo": "https://www.abc.net.au/favicon.ico",
+   "homepage": "https://www.abc.net.au/triplej/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "news",
+   "tags": [
+    "current affairs",
+    "news",
+    "progressive",
+    "rock",
+    "youth"
+   ]
+  },
+  {
+   "id": "92cc5362-c7d2-4b83-adc9-56d16c57fc19",
+   "name": "ABC Country",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/abccountry.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/498b1d68a7fef49f03e8c8d476ea6583",
+   "homepage": "https://www.abc.net.au/listen/live/country/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "americana",
+    "bluegrass",
+    "country",
+    "folk",
+    "public radio"
+   ]
+  },
+  {
+   "id": "108aa26e-5523-4ebd-9ebc-ffa8b411fab7",
+   "name": "ABC Classic",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/classicfmnsw.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/1613925515143520dff362b9f5bdf0cf",
+   "homepage": "https://www.abc.net.au/listen/classic/",
+   "codec": "AAC",
+   "bitrate": 238,
+   "category": "music",
+   "tags": [
+    "classical",
+    "opera",
+    "orchestral",
+    "public radio"
+   ]
+  },
+  {
+   "id": "54b53ad4-56f4-4579-a08f-5d7ce1160f3a",
+   "name": "Fresh 92.7",
+   "url": "https://live.fresh927.com.au/freshaac",
+   "hls": false,
+   "logo": "https://fresh927.com.au/graphics/favicon.png",
+   "homepage": "https://fresh927.com.au/",
+   "codec": "AAC",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "community radio",
+    "music",
+    "pop"
+   ]
+  },
+  {
+   "id": "d44c03de-5d38-48de-b59a-6968ffcdad63",
+   "name": "ABC Radio National HLS",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038318/rnnsw/index.m3u8",
+   "hls": true,
+   "logo": "https://static.mytuner.mobi/media/radios-150px/H8C4F9yENt.png",
+   "homepage": "https://www.abc.net.au/radionational",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "abc",
+    "information",
+    "news",
+    "public radio",
+    "talk"
+   ]
+  },
+  {
+   "id": "bf7abc5e-1537-4881-b848-1fa57f60c931",
+   "name": "ABC Jazz 20220701",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038319/abcjazz/masterhq.m3u8",
+   "hls": true,
+   "logo": "https://www.abc.net.au/favicon.ico",
+   "homepage": "https://www.abc.net.au/jazz/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "blues",
+    "jazz",
+    "smooth jazz"
+   ]
+  },
+  {
+   "id": "2c7a8ddb-8f0d-48e3-9f08-895e34d2306a",
+   "name": "PBS FM - Melbourne - 106.7 FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.m3u8",
+   "hls": true,
+   "logo": "https://i.ibb.co/JFs5dGh/images.png",
+   "homepage": "https://www.pbsfm.org.au/",
+   "codec": "AAC",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "australian music",
+    "community radio",
+    "independent"
+   ]
+  },
+  {
+   "id": "a86c866e-1b57-4564-8fc1-8cb5c873b6be",
+   "name": "100.9 Port Stephens FM",
+   "url": "https://audio-edge-jfbmv.sin.d.radiomast.io/8df8102b-51bf-45fb-aac5-aa0254d6b177?t=heatwave",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.psrfm.org.au/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "e9c80983-35cd-4268-a850-4b1b0c20db26",
+   "name": "Swingtime Radio",
+   "url": "https://stream.laut.fm/swingtime",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://swingtimeradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "1930s",
+    "1940s",
+    "big band",
+    "jazz",
+    "retro"
+   ]
+  },
+  {
+   "id": "1a409519-a8f6-426e-919d-12b29d9b6f25",
+   "name": "612 ABC Brisbane",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localbrisbane.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/ccc34914876c243fe649833beb449371",
+   "homepage": "https://www.abc.net.au/listen/live/brisbane",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "abf0d086-aeaa-4c06-9196-bc9a0721b8b8",
+   "name": "PBS 106.7FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3PBS_FMAACHIGH.aac",
+   "hls": false,
+   "logo": "https://www.pbsfm.org.au/",
+   "homepage": "https://www.pbsfm.org.au/",
+   "codec": "AAC+",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "australian music",
+    "blues",
+    "community radio",
+    "electronic",
+    "funk"
+   ]
+  },
+  {
+   "id": "90d91f17-5c1c-4189-a218-e7a0cfff4732",
+   "name": "MIBL Radio — Instrumental",
+   "url": "https://www.miblradio.com.au/mibl2",
+   "hls": false,
+   "logo": "https://www.miblradio.com.au/LOGO.webp",
+   "homepage": "https://www.miblradio.com.au/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "24/7",
+    "ai music",
+    "ambient",
+    "australia",
+    "electronic"
+   ]
+  },
+  {
+   "id": "09eb32c0-5958-4797-92f2-1d8e8537c4e7",
+   "name": "2GB 873 Sydney",
+   "url": "https://28093.live.streamtheworld.com/2GBAAC_O/HLS/playlist.m3u8",
+   "hls": true,
+   "logo": "https://www.2gb.com/wp-content/themes/2gb/assets/img/favicon/apple-touch-icon.png",
+   "homepage": "https://www.2gb.com/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "news",
+   "tags": [
+    "news",
+    "sport",
+    "talk",
+    "talkback"
+   ]
+  },
+  {
+   "id": "89dda6cb-e1f1-4498-9b6f-ce0054707c01",
+   "name": "ABC News Radio",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2109425/newsradio/v0-221.m3u8",
+   "hls": true,
+   "logo": "https://radioinfo.com.au/wp-content/uploads/2024/08/ABC-NewsRadio-.jpeg",
+   "homepage": "https://www.abc.net.au/listen/news",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "news"
+   ]
+  },
+  {
+   "id": "022ee200-6337-418d-b497-530fb365191e",
+   "name": "Oye Radio",
+   "url": "https://stream.oye.radio/listen/oye_radio/radio.mp3",
+   "hls": false,
+   "logo": "https://oye.radio/wp-content/uploads/2022/07/cropped-Oye-radio-logo-270x270.png",
+   "homepage": "https://oye.radio/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "news",
+   "tags": [
+    "bollywood",
+    "desi",
+    "indian",
+    "news",
+    "punjabi"
+   ]
+  },
+  {
+   "id": "6f49ac73-88fc-4fa0-907f-2211bd9e021f",
+   "name": "ABC Kids listen",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/abcextra.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/fca9b9528d2502f6ed38568557274e21",
+   "homepage": "https://www.abc.net.au/kidslisten/",
+   "codec": "AAC",
+   "bitrate": 238,
+   "category": "music",
+   "tags": [
+    "children",
+    "education",
+    "music",
+    "public radio"
+   ]
+  },
+  {
+   "id": "fec48022-a4a1-4544-bd10-8caf1688f9de",
+   "name": "ABC triple j",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/triplejnsw.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/c170c3d8b69f13bf43865be27b027687",
+   "homepage": "https://www.abc.net.au/triplej/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "alternative",
+    "electronic",
+    "hip-hop",
+    "indie",
+    "indie rock"
+   ]
+  },
+  {
+   "id": "3cb76cc7-fa20-4c22-b33c-5268a2437e38",
+   "name": "ABC Country HLS",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038322/abccountry/index.m3u8",
+   "hls": true,
+   "logo": "https://www.abc.net.au/core-assets/music/fallback-country.png",
+   "homepage": "https://www.abc.net.au/country",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "abc",
+    "country",
+    "public radio"
+   ]
+  },
+  {
+   "id": "9e831aa4-192f-4e32-b1d0-fef1fd490de9",
+   "name": "Nightride FM Datawave",
+   "url": "https://stream.nightride.fm/datawave.mp3",
+   "hls": false,
+   "logo": "https://f4.bcbits.com/img/0021204033_20.jpg",
+   "homepage": "https://nightride.fm/?station=datawave",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": [
+    "glitchy synthwave",
+    "idm",
+    "retro computing"
+   ]
+  },
+  {
+   "id": "36adafc9-18f9-40af-a3ad-e608e313786c",
+   "name": "Australia Forest Sounds - Dereel VIC",
+   "url": "https://dn721903.ca.archive.org/0/items/australian-forest-sounds/08%20Calm%20creek%20flowing%2C%20frogs%20and%20birds%20_Dereel%20VIC.mp3",
+   "hls": false,
+   "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Internet_Archive_logo_and_wordmark.svg/1280px-Internet_Archive_logo_and_wordmark.svg.png",
+   "homepage": "https://archive.org/details/australian-forest-sounds",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "news",
+   "tags": [
+    "bird",
+    "forest",
+    "insects",
+    "rainforest",
+    "sounds of nature"
+   ]
+  },
+  {
+   "id": "9989ba6f-0cf0-4c7a-8890-b1fe40f01710",
+   "name": "2SM Sydney 1269AM",
+   "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://2sm.com.au/",
+   "codec": "AAC+",
+   "bitrate": 32,
+   "category": "talk",
+   "tags": [
+    "talkback"
+   ]
+  },
+  {
+   "id": "4f5d2b6c-6664-49e4-8e83-793d69adb3bc",
+   "name": "Nova 91.9",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_919_AAC48.aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://www.nova919.com.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "hits"
+   ]
+  },
+  {
+   "id": "a8724e5c-90d0-4a9d-9ca8-4cfb169242a3",
+   "name": "AC/DC",
+   "url": "https://stream.pcradio.ru/ac_dc-hi",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://pcradio.ru/",
+   "codec": "AAC",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "discography"
+   ]
+  },
+  {
+   "id": "9eec0ef4-c468-470c-b673-47ad75c19029",
+   "name": "ABC Radio Adelaide",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038298/localadelaide/index.m3u8",
+   "hls": true,
+   "logo": "https://upload.wikimedia.org/wikipedia/en/f/f6/ABC_Radio_Adelaide_logo.png",
+   "homepage": "https://www.abc.net.au/listen/live/adelaide",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "news",
+    "talkback"
+   ]
+  },
+  {
+   "id": "f81ba4e2-6db5-41e6-92d4-5cb1ba1a21c2",
+   "name": "ABC Cricket",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/itinerantone.m3u8",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/36344ff0468bfce4d5af6b50f5ebcedd",
+   "homepage": "https://www.abc.net.au/listen/live/cricket",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "sports",
+   "tags": [
+    "cricket",
+    "live sports",
+    "sport"
+   ]
+  },
+  {
+   "id": "c25d8820-d034-4419-9a4a-ef851c6dc0d5",
+   "name": "96fm",
+   "url": "https://ais-arn.streamguys1.com/au_012/playlist.m3u8",
+   "hls": true,
+   "logo": "https://www.96fm.com.au/wp-content/uploads/sites/8/2021/03/fm96_stacked.png",
+   "homepage": "https://www.96fm.com.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ed56eecb-faf7-4e68-830a-d94fb72a5ac8",
+   "name": "KIIS 106.5",
+   "url": "https://ais-arn.streamguys1.com/au_007_icy",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.kiis1065.com.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "adult top 40"
+   ]
+  },
+  {
+   "id": "5b0d30db-aded-4315-b62f-1010e8e84a37",
+   "name": "105.7 ABC Darwin",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localdarwin.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/47ad01da8160d123daf46c6111315c88",
+   "homepage": "https://www.abc.net.au/listen/live/darwin",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "24c6a745-cc1a-4886-bd5e-fb8fb7b41c77",
+   "name": "Buddha",
+   "url": "https://legacy.scahw.com.au/2buddha_32",
+   "hls": false,
+   "logo": "https://dbs.radioline.fr/pictures/radio_4367c1a121aef5cb0dae701812759a28/logo200.jpg",
+   "homepage": "https://www.listnr.com/stations/buddha",
+   "codec": "AAC+",
+   "bitrate": 33,
+   "category": "music",
+   "tags": [
+    "00s",
+    "chill"
+   ]
+  },
+  {
+   "id": "daf5768f-048b-4c70-8084-a795fae32eb1",
+   "name": "World Buddhist Radio",
+   "url": "https://26343.live.streamtheworld.com/SAM11AAC025.mp3",
+   "hls": false,
+   "logo": "https://bdcu.org.au/sangye/wp-content/uploads/2023/12/favicon.jpg",
+   "homepage": "https://bdcu.org.au/listen-to-buddhist-radio/",
+   "codec": "MP3",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "buddhism",
+    "meditation"
+   ]
+  },
+  {
+   "id": "606a9d73-34ca-465b-8b2c-836bfa656e9c",
+   "name": "ABC AFL",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038314/itinerantone/masterhq.m3u8",
+   "hls": true,
+   "logo": "https://static.wikia.nocookie.net/australia/images/e/e7/ABCSport_2020.png",
+   "homepage": "https://www.abc.net.au/news/sport/audio",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "sports",
+   "tags": [
+    "live sports",
+    "sports talk"
+   ]
+  },
+  {
+   "id": "1ab478cb-0343-4134-99d9-e51d58531eaa",
+   "name": "Mix 102.3",
+   "url": "https://ais-arn.streamguys1.com/au_003_icy",
+   "hls": false,
+   "logo": "https://www.mix1023.com.au/wp-content/themes/arn/assets/favicons/favicon_1023/apple-touch-icon.png",
+   "homepage": "https://www.mix1023.com.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "hot adult contemporary"
+   ]
+  },
+  {
+   "id": "c64a999f-2856-4b99-a34b-dea8bedb663b",
+   "name": "Rich Nigga Radio",
+   "url": "https://richnigga.wtf/radio/stream",
+   "hls": false,
+   "logo": "https://www.richnigga.wtf/logo.png",
+   "homepage": "https://richnigga.wtf/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "comedy",
+    "disco",
+    "funk",
+    "hiphop",
+    "house"
+   ]
+  },
+  {
+   "id": "53d5a75f-94d7-492f-99d1-a64b1ca88b25",
+   "name": "ABC Double J",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/doublejnsw.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/fe840de7a554fe27949bd9f6ee74c67d",
+   "homepage": "https://www.abc.net.au/listen/doublej/",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "adult album alternative",
+    "alternative",
+    "eclectic",
+    "indie",
+    "public radio"
+   ]
+  },
+  {
+   "id": "25846e2f-5ab8-4311-a8eb-338345cb421b",
+   "name": "ABC Radio Australia English",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/raeng.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/d8b8cd1b5366b1de160f7fa09eff978c",
+   "homepage": "https://www.abc.net.au/pacific/live/",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "international",
+    "news",
+    "public radio",
+    "talk",
+    "world news"
+   ]
+  },
+  {
+   "id": "4c4d372f-f576-4b97-9c26-ede60fa2f161",
+   "name": "ABC Radio Midwest & Wheatbelt",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localwheatbelt.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/1137abebdac56a6d7d44cc05e87240ad",
+   "homepage": "https://www.abc.net.au/listen/live/wheatbelt/",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "3f048f57-51db-4954-88b2-740c8cbcb3c5",
+   "name": "Fox 101.9",
+   "url": "https://legacy.scahw.com.au/3fox_128",
+   "hls": false,
+   "logo": "https://hit.listnr.com/wp-content/uploads/2024/04/cropped-hit-favicon-180x180.png",
+   "homepage": "https://www.hit.com.au/fox",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "9b52804e-1d9e-4e36-b70f-42519f4bcff5",
+   "name": "Smooth Sailing Radio",
+   "url": "https://s44.myradiostream.com/9144/listen.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://smoothsailingradio.com/",
+   "codec": "AAC+",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "rnb",
+    "soul",
+    "yacht rock"
+   ]
+  },
+  {
+   "id": "adbcdfba-5ed6-44dc-a0b6-9838b88927d4",
+   "name": "Double J",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2108567/doublejnsw/v0-221.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.abc.net.au/listen/doublej",
+   "codec": "UNKNOWN",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "fe3cb4c2-1a75-415b-b489-17a31fc69178",
+   "name": "ABC Radio Alice Springs",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localalicesprings.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/314e7a690600c50441dfcfbebccc54a1",
+   "homepage": "https://www.abc.net.au/listen/live/alicesprings/",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "970e27a1-ca89-4e76-9343-96de20702a89",
+   "name": "2MBS Fine Music Sydney AAC 256",
+   "url": "https://radio12.shoutcast.net.au:2020/stream/2MBS-ICE",
+   "hls": false,
+   "logo": "https://www.2mbsfinemusicsydney.com/wp-content/uploads/2024/11/cropped-242703-2mbs-fine-music-sydney_2mbs-app-670df87165b0-270x270.png",
+   "homepage": "https://www.2mbsfinemusicsydney.com/",
+   "codec": "AAC",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "classical",
+    "contemporary",
+    "jazz",
+    "sydney"
+   ]
+  },
+  {
+   "id": "e473dd9e-fd28-407d-8519-d5bc88c1d8ac",
+   "name": "澳大利亚SBS Radio 1",
+   "url": "https://sbs-ice.streamguys1.com/sbs1-sbs-web",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "AAC+",
+   "bitrate": 32,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "eee408cd-7d2d-45bd-a20c-3467c6c88202",
+   "name": "Happy Radio",
+   "url": "https://hq3.yesstreaming.net/happyradio/stream",
+   "hls": false,
+   "logo": "https://hq3.yesstreaming.net/media/happyradio/station_11/logos/logo_1779921747353.png",
+   "homepage": "https://happyradio.live/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "talk",
+   "tags": [
+    "70s",
+    "80s",
+    "90s",
+    "love",
+    "pop"
+   ]
+  },
+  {
+   "id": "63dc20d1-47f3-43c4-bac6-25fb474ca71d",
+   "name": "NIGE!",
+   "url": "https://ais-arn.streamguys1.com/au_030/playlist.m3u8",
+   "hls": true,
+   "logo": "https://nige.au/e42d030b5a4d24bab6ebde3377a2b23e.png",
+   "homepage": "https://nige.au/",
+   "codec": "AAC+",
+   "bitrate": 48,
+   "category": "music",
+   "tags": [
+    "alternative rock",
+    "classic rock",
+    "hard rock",
+    "heavy metal",
+    "progressive rock"
+   ]
+  },
+  {
+   "id": "6911054a-d8fc-4e12-8f99-b8e9b391be10",
+   "name": "Curtin Radio - A lifetime of music",
+   "url": "https://usa7.fastcast4u.com/proxy/curtinfm?mp=%2F1",
+   "hls": false,
+   "logo": "https://www.curtinfm.com.au/wp-content/uploads/2019/12/cropped-CR-192x192.png",
+   "homepage": "https://www.curtinfm.com.au/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "talk",
+   "tags": [
+    "adult contemporary",
+    "music",
+    "talk"
+   ]
+  },
+  {
+   "id": "19b4f64b-3983-4493-85f8-c4e6d7778e63",
+   "name": "Station X - XRN Australia",
+   "url": "https://us01.xrn.com.au/listen/stx/StxSd",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://xrn.com.au/",
+   "codec": "AAC+",
+   "bitrate": 64,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "oldies",
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "44220107-c921-4890-8a2c-93538b620079",
+   "name": "Voice FM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VOICEFMAAC.aac",
+   "hls": false,
+   "logo": "https://www.voicefm.org.au//wp-content/uploads/2025/09/Voice_FM-500px-NoBG.png",
+   "homepage": "https://www.voicefm.org.au/",
+   "codec": "AAC+",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5afef9ef-3b92-4f8a-83b5-0eea3f54b059",
+   "name": "107.9 LIFE Adelaide",
+   "url": "https://stream04.sigile.net/1079life-64-aac",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://mylifefm.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "christian",
+    "community"
+   ]
+  },
+  {
+   "id": "71a8ea7b-860a-40b9-85cb-e9efcd8b4ca0",
+   "name": "Radio Trainwreck Live",
+   "url": "https://stream.radiotrainwreck.live/live",
+   "hls": false,
+   "logo": "https://radiotrainwreck.live/trainwreck_thumbnail.jpg",
+   "homepage": "https://radiotrainwreck.live/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "talk",
+   "tags": [
+    "rock/talk/philosophy"
+   ]
+  },
+  {
+   "id": "d02491fc-78c7-4f02-ac3b-56bbe491b602",
+   "name": "Woolworths Radio",
+   "url": "https://arn-instore.streamguys1.com/wwr_007",
+   "hls": false,
+   "logo": "https://i.iheart.com/v3/re/new_assets/617f2881bd5039e366ef0289",
+   "homepage": "https://www.iheart.com/live/woolworths-radio-9195/",
+   "codec": "AAC+",
+   "bitrate": 49,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "c1081e0b-f7fb-44c4-9930-1977f72b27b8",
+   "name": "Triple M Classic Rock",
+   "url": "https://sa47.scastream.com.au/live/2classicrock_128.stream/playlist.m3u8",
+   "hls": true,
+   "logo": "https://images.ctfassets.net/yxg7lydfj6tc/75f6ebae-ad7f-4935-8219-0cb890d0bf74/50e3f1e17371c7eb028659c162b3058b/0004-classicrock.png",
+   "homepage": "https://www.triplem.com.au/classicrock/",
+   "codec": "AAC",
+   "bitrate": 130,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "5547b37d-c1fb-40a5-af58-2f504bc0a6c9",
+   "name": "Double J QLD",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038342/doublejqld/index.m3u8",
+   "hls": true,
+   "logo": "",
+   "homepage": "https://www.abc.net.au/listen/doublej",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "30ae0649-b3f0-4c3e-9b8a-ae55d0fe7696",
+   "name": "8KIN CAAMA Radio",
+   "url": "https://streamer.radio.co:80/sa67d9a81d/listen",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.caama.com.au/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "aee3c144-cdbf-4290-be40-7418849fe3ae",
+   "name": "3ABN Australia Radio",
+   "url": "https://stream.3abnaustralia.org.au:8443/stream",
+   "hls": false,
+   "logo": "https://www.3abnaustralia.org.au/favicon.ico",
+   "homepage": "https://www.3abnaustralia.org.au/",
+   "codec": "AAC+",
+   "bitrate": 56,
+   "category": "music",
+   "tags": [
+    "gospel"
+   ]
+  },
+  {
+   "id": "55ac0b76-2876-4ca2-a114-e473c3bd750e",
+   "name": "8-bit Remix Radio",
+   "url": "https://terminal-dystopia.com/radio/stream.mp3",
+   "hls": false,
+   "logo": "https://terminal-dystopia.com/images/radio.png",
+   "homepage": "https://terminal-dystopia.com/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "8bit",
+    "game",
+    "retro"
+   ]
+  },
+  {
+   "id": "6ed96231-3901-4c28-a82a-34494e39885c",
+   "name": "FG - David Guetta",
+   "url": "https://n02-us2.rcs.revma.com/88h6r9dusd3vv?rj-ttl=5&rj-tok=AAABodN-JoIAMZcb36uY6Rrd0w&CAID=202611131553403202660257&consent=CQtnz4AQtnz4AAHABBENC4FsAP_AAEPgAAAALPwDwANgA1AFwAVkAxQBoAERAI9AUsAvMBgIDLAIyAWDAs-CwcAYAGoBigEegLzAZYBYMAAA.ILPwDwANgA1AFwAVkAxQBoAERAI9AUsAvMBgIDLAIyAWDAs-.f_gACHwAAAAA&trk_ir_c=0",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.radiofg.com/fg-david-guetta",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6d09ecbb-99a0-4154-8145-ae41eee9ef09",
+   "name": "ABC Classic SA HLS",
+   "url": "https://mediaserviceslive.akamaized.net/hls/live/2038351/classicfmsa/index.m3u8",
+   "hls": true,
+   "logo": "https://www.radio.de/images/broadcasts/db/5c/35809/1/c175.png",
+   "homepage": "https://www.abc.net.au/classic",
+   "codec": "AAC",
+   "bitrate": 252,
+   "category": "music",
+   "tags": [
+    "abc",
+    "classical",
+    "public radio"
+   ]
+  },
+  {
+   "id": "aa39ef6c-784a-433c-9878-5ce2952ccc2b",
+   "name": "ABC Radio Far North",
+   "url": "https://streaming.abc-cdn.net.au/audio/hls/localfarnorth.m3u8?source=web",
+   "hls": true,
+   "logo": "https://live-production.wcms.abc-cdn.net.au/733a172ccd7908cd2484d722c5af8323",
+   "homepage": "https://www.abc.net.au/listen/live/farnorth/",
+   "codec": "AAC",
+   "bitrate": 115,
+   "category": "news",
+   "tags": [
+    "local",
+    "local information",
+    "local news",
+    "local radio",
+    "local talk"
+   ]
+  },
+  {
+   "id": "78cab6a8-19cb-4916-82ec-8963d53c495e",
+   "name": "2NURFM",
+   "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/2NURFM.mp3",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.2nurfm.com.au/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "easy listening"
+   ]
+  },
+  {
+   "id": "04d2e939-4968-47b3-8a34-e63b687dd4d6",
+   "name": "ASP Radio",
+   "url": "https://aspradio.au/listen/asp_radio/radio.mp3",
+   "hls": false,
+   "logo": "https://aspradio.au/static/uploads/browser_icon/original.1709873524.png",
+   "homepage": "https://aspradio.au/public/asp_radio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s 80s 90s music"
+   ]
+  }
+ ]
+}

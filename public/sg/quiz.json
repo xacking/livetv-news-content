@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-13T16:48:48.551Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "‘She wanted to show us off’: Singapore man says mother pressured children to succeed despite little support",
+   "options": [
+    "NATION",
+    "WORLD",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://theindependent.sg/she-wanted-to-show-us-off-singapore-man-says-mother-pressured-children-to-succeed-despite-little-support"
+  },
+  {
+   "type": "section",
+   "headline": "Australian cricket's sandpapergate is back - and it cuts deep in a 'nation of good sports'",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/c6702z750zvyo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Singapore stocks gained S$670 billion on Indonesia in 2026. Is that why Jakarta is so angry?",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://vulcanpost.com/914227/singapore-stocks-gained-670-billion-on-indonesia-in-2026/"
+  },
+  {
+   "type": "source",
+   "headline": "Brazilian superfan in S'pore rallying 500-strong crowd for Brazil vs Japan match at The Kallang on Nov. 14",
+   "options": [
+    "Mothership",
+    "The Independent Singapore",
+    "BBC News",
+    "Must Share News"
+   ],
+   "answer": 0,
+   "url": "https://mothership.sg/2026/11/brazilian-superfan-brazil-vs-japan/"
+  },
+  {
+   "type": "source",
+   "headline": "56-year-old man found dead in Toa Payoh home after foul smell detected from flat",
+   "options": [
+    "Must Share News",
+    "Mothership",
+    "BBC News",
+    "The Independent Singapore"
+   ],
+   "answer": 0,
+   "url": "https://mustsharenews.com/man-found-dead-toa-payoh/"
+  }
+ ]
+}
