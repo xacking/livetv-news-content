@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T08:12:50.454Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Famed Marine Corps veteran under federal investigation over undisclosed allegations",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/US/wireStory/famed-marine-corps-veteran-federal-investigation-undisclosed-allegations-138336684"
+  },
+  {
+   "type": "section",
+   "headline": "Athlete swims in Strait of Hormuz to highlight Iran war's impact on wildlife",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/International/wireStory/endurance-athlete-swims-strait-hormuz-highlight-iran-wars-138338972"
+  },
+  {
+   "type": "section",
+   "headline": "One hand on the controller, one on the pizza roll: How America fed itself through GTA VI’s $3.79 billion launch night",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://fortune.com/2026/11/20/gta-grand-theft-auto-6-vi-food-delivery-services-orders/"
+  },
+  {
+   "type": "source",
+   "headline": "Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles",
+   "options": [
+    "The Hill",
+    "BBC News",
+    "UPI",
+    "ABC News"
+   ],
+   "answer": 3,
+   "url": "https://abcnews.com/US/wireStory/federal-jury-convicts-man-starting-deadly-2025-palisades-138333574"
+  },
+  {
+   "type": "source",
+   "headline": "Virginia reports first measles-related death of 2026",
+   "options": [
+    "The Hill",
+    "BBC News",
+    "UPI",
+    "ABC News"
+   ],
+   "answer": 0,
+   "url": "https://thehill.com/policy/healthcare/6234958-virginia-child-measles-death-elimination-status/"
+  }
+ ]
+}

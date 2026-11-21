@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-21T16:18:02.749Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "【ピックルボール】15歳の世界王者が元相棒・船水雄太を撃破 ！ 日本から参戦のTHE DOTS TOKYOは初黒星",
+   "options": [
+    "SCIENCE",
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://newsdig.tbs.co.jp/articles/-/3103674"
+  },
+  {
+   "type": "section",
+   "headline": "AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.com/japanese/articles/cwlyl6ymz841o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "｢\"三日坊主\"を英語で｣がとっさにわからなくても大丈夫→わざわざ調べなくても伝えられる｢シンプルな発想｣ | ライフ | 東洋経済オンライン",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://toyokeizai.net/articles/-/964730?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "AMD Ryzen 9 9900X×RTX 5080搭載PCが7万9000円引き！ パソコンショップSEVEN、11月22日限定セール",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://ascii.jp/elem/000/004/453/4453400/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "球界から消えた“388億円男” 現在地に米驚愕…学生に交じり「ただのアンソニーに」",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://full-count.jp/2026/11/21/post2048090/"
+  }
+ ]
+}

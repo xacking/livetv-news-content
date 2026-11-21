@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:54:21.474Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Eurojackpotissa täysosuma – tänne se meni",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/kotimaa/art-2000012428196.html"
+  },
+  {
+   "type": "section",
+   "headline": "Matemaatikko teki hämmästyttävän väitteen – tekoäly saattoi ratkaista 167 vuotta vanhan arvoituksen",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/ulkomaat/art-2000012428284.html"
+  },
+  {
+   "type": "section",
+   "headline": "New Yorkin pörssissä rysähti",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/taloussanomat/art-2000012428265.html"
+  },
+  {
+   "type": "section",
+   "headline": "J.D. Vance yritti ratsastaa GTA-huumalla – nolo loppu",
+   "options": [
+    "TECHNOLOGY",
+    "ENTERTAINMENT",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/digitoday/art-2000012426732.html"
+  },
+  {
+   "type": "section",
+   "headline": "Ilveksestä aivan käsittämätön tilasto",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/sm-liiga/art-2000012428260.html"
+  }
+ ]
+}

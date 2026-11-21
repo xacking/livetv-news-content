@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-21T16:18:33.116Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "추성훈, 복수 못한 은퇴전... 22년 격투 인생 마침표",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/national/national_general/2026/11/21/BGYURZ6B3VESHKOM7WVOLNJ4XE/"
+  },
+  {
+   "type": "section",
+   "headline": "EU, 인도네시아와 무역협정 체결… 관세 90％ 이상 철폐",
+   "options": [
+    "WORLD",
+    "TECHNOLOGY",
+    "HEALTH",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/international/international_general/2026/11/22/HEYDSODBGBRDGZRSHE2WIOBVMI/"
+  },
+  {
+   "type": "section",
+   "headline": "울산 전통시장 찾은 李 “내년엔 더 좋아질 것”",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.chosun.com/economy/economy_general/2026/11/21/GVSGKNRTMFRDONBZHA3GINBVME/"
+  },
+  {
+   "type": "source",
+   "headline": "‘띠링띠링’에 딱 걸렸어…21일 국가자격시험서 부정행위 6건 적발",
+   "options": [
+    "조선일보",
+    "BBC News 코리아",
+    "매일경제",
+    "오마이뉴스"
+   ],
+   "answer": 2,
+   "url": "https://www.mk.co.kr/news/society/12215350"
+  },
+  {
+   "type": "source",
+   "headline": "버려진 염전의 대변신... '유리꽃' 피어난 박물관이 있다",
+   "options": [
+    "오마이뉴스",
+    "BBC News 코리아",
+    "매일경제",
+    "조선일보"
+   ],
+   "answer": 0,
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003285123"
+  }
+ ]
+}

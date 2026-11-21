@@ -1,0 +1,1222 @@
+{
+ "generatedAt": "2026-11-21T16:18:39.683Z",
+ "source": "radio-browser.info",
+ "stations": [
+  {
+   "id": "a63988bf-dc92-41aa-8bd8-1c9fe0d1f621",
+   "name": "Exclusively Led Zeppelin - Only Hits",
+   "url": "https://streaming.exclusive.radio/er-app/ledzeppelinhits/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "70s",
+    "album rock",
+    "arena rock",
+    "british blues",
+    "british metal"
+   ]
+  },
+  {
+   "id": "f41fc2e8-94ef-4c9e-b799-97b90c99e85a",
+   "name": "Exclusively Iron Maiden",
+   "url": "https://streaming.exclusive.radio/er/ironmaiden/icecast.audio",
+   "hls": false,
+   "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "heavy metal",
+    "iron maiden"
+   ]
+  },
+  {
+   "id": "7cca8bd6-a173-4fca-9a74-ca1e15a631e5",
+   "name": "Quran Radio From Sharjah",
+   "url": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://l3.itworkscdn.net/smcquranlive/quranradiolive/icecast.audio",
+   "codec": "AAC+",
+   "bitrate": 56,
+   "category": "music",
+   "tags": [
+    "islam"
+   ]
+  },
+  {
+   "id": "a20107ea-1e10-4f28-adc1-64b50b7b1d74",
+   "name": "sky news arabia radio",
+   "url": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+   "hls": true,
+   "logo": "https://skynewsarabia.com/apple-touch-icon-72x72.png",
+   "homepage": "https://skynewsarabia.com/",
+   "codec": "AAC",
+   "bitrate": 530,
+   "category": "news",
+   "tags": [
+    "country"
+   ]
+  },
+  {
+   "id": "d7b6cb10-52e8-485c-9e38-5fcdad55aa90",
+   "name": "Exclusively Deep Purple",
+   "url": "https://streaming.exclusive.radio/er/deeppurple/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "arena rock",
+    "british metal",
+    "classic rock",
+    "hard rock",
+    "heavy metal"
+   ]
+  },
+  {
+   "id": "1b11baf5-e16e-45ac-bf81-cd8b28db7837",
+   "name": "Exclusive Radio – Black Sabbath",
+   "url": "https://streaming.exclusive.radio/er/blacksabbath/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/00db5f78-23c8-40c6-86da-e0b06858e062.jpg",
+   "homepage": "https://play.exclusive.radio/station/51/318",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "black sabbath",
+    "doom metal",
+    "heavy metal"
+   ]
+  },
+  {
+   "id": "619478a1-fb89-4864-bf88-80e9ba7382ce",
+   "name": "Radio Mirchi Dubai",
+   "url": "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://eu8.fastcast4u.com/proxy/clyedupq/?mp=/1",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "f845b385-3414-42fe-8e23-fe7cafe7a61b",
+   "name": "Big FM 106.2 UAE",
+   "url": "https://funasia.streamguys1.com/live4",
+   "hls": false,
+   "logo": "https://big1062.com/wp-content/uploads/2020/11/BIG-02.png",
+   "homepage": "https://big1062.com/",
+   "codec": "AAC",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "ae29bf78-4b5f-41bf-ac3a-3ac3743d0885",
+   "name": "Classical Radio - Chopin",
+   "url": "https://drive.uber.radio/uber/crchopin/icecast.audio",
+   "hls": false,
+   "logo": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+   "homepage": "https://www.classicalradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "392993a8-7601-4d2f-bda7-c6798406db1b",
+   "name": "Exclusively Frank Sinatra",
+   "url": "https://2.mystreaming.net/er/franksinatra/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/c1dddbeb-24eb-4f77-8fe4-594956fc5c68.jpg",
+   "homepage": "https://play.you.radio/station/384",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "big band",
+    "standards",
+    "swing"
+   ]
+  },
+  {
+   "id": "f9fe49ba-0806-4d31-a478-c24bfb0b78ac",
+   "name": "Exclusive Radio – Bob Marley",
+   "url": "https://streaming.exclusive.radio/er/bobmarley/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/station/51/163",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "6e8ee846-b671-4a94-9e86-3501e9e0f4ef",
+   "name": "Exclusively The Doors",
+   "url": "https://streaming.exclusive.radio/er-app/doors/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "album rock",
+    "art rock",
+    "classic rock",
+    "hard rock",
+    "psychedelic"
+   ]
+  },
+  {
+   "id": "63e84e5a-7419-49c6-82e2-92934ada4938",
+   "name": "Exclusively Dire Straits",
+   "url": "https://2.mystreaming.net/er/direstraits/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/6fbeb789-537d-46b5-8862-83d4e948b520.jpg",
+   "homepage": "https://play.you.radio/station/501",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues rock",
+    "pub rock",
+    "roots rock"
+   ]
+  },
+  {
+   "id": "e91f0c88-ab95-4278-9b8a-71ea66f8755e",
+   "name": "Exclusively Genesis",
+   "url": "https://2.mystreaming.net/er/genesis/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/e82e9b96-c422-49ac-99fc-ae6cf3747bef.jpg",
+   "homepage": "https://play.you.radio/station/507",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "art rock",
+    "progressive rock"
+   ]
+  },
+  {
+   "id": "f37ed4e9-b930-4ff3-a7c6-a44a96c5877e",
+   "name": "Easy Classical",
+   "url": "https://streaming.exclusive.radio/uber/easyclassical/icecast.audio",
+   "hls": false,
+   "logo": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://easy.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "ffc0f74d-d912-4f2c-b50c-cc02948a7243",
+   "name": "Exclusiv Kraftwerk",
+   "url": "https://streaming.exclusive.radio/er/kraftwerk/icecast.audio",
+   "hls": false,
+   "logo": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/a7/61/68a761ec-059b-456b-9992-9175d614eccd/190295194482.jpg/250x250bb.jpg",
+   "homepage": "https://you.radio/station/exclusiveradio-kraftwerk",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "experimental electronic music",
+    "progressive trance",
+    "synthesizer"
+   ]
+  },
+  {
+   "id": "9479da9d-8253-47c9-925c-46fe2e101757",
+   "name": "Exclusively ABBA",
+   "url": "https://streaming.exclusive.radio/er/abba/icecast.audio",
+   "hls": false,
+   "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop",
+    "pop music"
+   ]
+  },
+  {
+   "id": "7e595aa8-9cf7-460b-ad7d-22d06613fc6c",
+   "name": "Exclusively Pink Floyd",
+   "url": "https://streaming.exclusive.radio/er/pinkfloyd/icecast.audio",
+   "hls": false,
+   "logo": "https://s1.qwant.com/thumbr/474x316/9/c/c7c07b531c2a5efb3f78e3e05fe286b3efb3f51ca0450cd2b875c5c724dd38/OIP.iAveVg4WM9IyCkPL_0w-mwHaE8.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.iAveVg4WM9IyCkPL_0w-mwHaE8%3Fpid%3DApi&q=0&b=1&p=0&a=0",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "pink floyd",
+    "rock"
+   ]
+  },
+  {
+   "id": "0da4c682-0ca5-4d90-baaf-33202e30f872",
+   "name": "Radio Relax",
+   "url": "https://online.radiorelax.ua/RadioRelax_Int_HD",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://online.radiorelax.ua/",
+   "codec": "MP3",
+   "bitrate": 320,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "babc5512-1063-452e-92ce-36aaa9d44da4",
+   "name": "Exclusively Pink Floyd - HITS",
+   "url": "https://streaming.exclusive.radio/er-app/pinkfloydhits/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://you.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "progressive rock"
+   ]
+  },
+  {
+   "id": "55ef86d6-d820-49cd-9e79-c613609a52c2",
+   "name": "Exclusively - Metallica",
+   "url": "https://streaming.exclusive.radio/er/metallica/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://play.you.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "exclusive",
+    "metallica"
+   ]
+  },
+  {
+   "id": "b9d4fc70-a132-4556-8cfb-919aeccaaa11",
+   "name": "Classical Radio - Vivaldi",
+   "url": "https://drive.uber.radio/uber/crvivaldi/icecast.audio",
+   "hls": false,
+   "logo": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+   "homepage": "https://www.classicalradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "7b12f985-c6d6-42a1-ba75-221531eae0f2",
+   "name": "Exclusively Santana",
+   "url": "https://streaming.exclusive.radio/er/santana/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "album rock",
+    "blues rock",
+    "classic rock",
+    "electric guitar",
+    "fusion"
+   ]
+  },
+  {
+   "id": "404380df-281c-4b31-83db-2e7c7de7547e",
+   "name": "Exclusively Creedence Clearwater Revival",
+   "url": "https://streaming.exclusive.radio/er/creedence/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "60s",
+    "70s",
+    "am pop",
+    "classic rock",
+    "pop rock"
+   ]
+  },
+  {
+   "id": "48ae1490-5094-46ca-8148-d15ba501ffca",
+   "name": "Greatest Hits Motown",
+   "url": "https://drive.uber.radio/uber/starboxmotown/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=300,quality=80/https://manager.uber.radio/static/uploads/station/7857a5df-ffec-406b-a4a1-141a0d257c85.png",
+   "homepage": "https://you.radio/station/greatesthits-motown",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "disco",
+    "motown"
+   ]
+  },
+  {
+   "id": "df780cad-9144-4ee2-85fb-4ab6bac84ce2",
+   "name": "Positively Sleep Classical -om",
+   "url": "https://streaming.positivity.radio/pr/sleepclassical/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/3176fe92-b3c4-4c03-a69b-85712502e83c.png",
+   "homepage": "https://play.you.radio/station/1149",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient",
+    "classic",
+    "sleep"
+   ]
+  },
+  {
+   "id": "3131d8f6-5d2d-4bb0-956c-24dda25ae3e0",
+   "name": "Mirchi FM 102.4",
+   "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1",
+   "hls": false,
+   "logo": "",
+   "homepage": "",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "32f1ac32-3b5c-4209-be6c-bb612d384041",
+   "name": "Exclusively Nirvana",
+   "url": "https://streaming.exclusive.radio/er/nirvana/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "90s",
+    "alternative rock",
+    "grunge"
+   ]
+  },
+  {
+   "id": "3d91ba0d-c4fa-4a30-ae4d-73aff8e9bc91",
+   "name": "Fun Radio For Kids - Bedtime Stories",
+   "url": "https://drive.uber.radio/uber/forkidzbedtimestories/icecast.audio",
+   "hls": false,
+   "logo": "https://forkids.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://forkids.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "talk",
+   "tags": [
+    "books",
+    "children",
+    "kids",
+    "radio reading service",
+    "reading"
+   ]
+  },
+  {
+   "id": "32b2e232-8634-4eb5-a820-af28ae9709f2",
+   "name": "Exclusively Guns N’ Roses",
+   "url": "https://streaming.exclusive.radio/er/gunsnroses/icecast.audio",
+   "hls": false,
+   "logo": "https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/05/11/127542/1/c300.png",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "guns n' roses",
+    "hard rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "a233d9b0-e7a9-4a46-a713-a31a5b3a3cf6",
+   "name": "Exclusively Depeche Mode",
+   "url": "https://streaming.exclusive.radio/er/depechemode/icecast.audio",
+   "hls": false,
+   "logo": "https://s2.qwant.com/thumbr/474x474/c/7/639b274b2bd476723d0162a161c6952c31b4ad5ba6d6f8ef76c1d9dfa101c7/OIP.VhZ8btSxfFH-1DVnQMo7LAHaHa.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.VhZ8btSxfFH-1DVnQMo7LAHaHa%3Fpid%3DApi&q=0&b=1&p=0&a=0",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop"
+   ]
+  },
+  {
+   "id": "319a9758-9b6b-4aa6-8415-432e43c46d1e",
+   "name": "Exclusively Madonna",
+   "url": "https://streaming.exclusive.radio/er/madonna/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/brand/af0845bf-87b2-4abd-a401-8e0029bb2696.png",
+   "homepage": "http://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "madonna"
+   ]
+  },
+  {
+   "id": "24718db6-7ced-4a28-a7de-e0c09eeb0095",
+   "name": "Abu Dhabi fm",
+   "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/abudhabi_fm/abudhabi_fm_hls_nd/index.m3u8",
+   "hls": true,
+   "logo": "https://www.admn.ae/Content/Admedia/images/favicon/favicon.png",
+   "homepage": "https://www.admn.ae/en/brand/4197610/abu-dhabi-fm",
+   "codec": "AAC",
+   "bitrate": 637,
+   "category": "music",
+   "tags": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "a3a70ee8-6dd5-4d23-aa22-29a671dfc239",
+   "name": "Classical Radio - Beethoven",
+   "url": "https://drive.uber.radio/uber/crbeethoven/icecast.audio",
+   "hls": false,
+   "logo": "https://cdn.audioaddict.com/classicalradio.com/assets/apple-touch-icon-120x120-7922555f3bb73e6e492c46abda410434ea8ca2dd3349ce116a1511dde6f4f584.png",
+   "homepage": "https://www.classicalradio.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classical"
+   ]
+  },
+  {
+   "id": "f3b19087-2ab7-435d-b9f3-02b24d9e2f34",
+   "name": "Al Khaleejiya 100.9 FM",
+   "url": "https://stream.radiojar.com/5wpf9e4erxquv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.1009.ae/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "arabic pop",
+    "music"
+   ]
+  },
+  {
+   "id": "197bb600-d9e5-4cdc-8071-e65c798ae12f",
+   "name": "Exclusively Bee Gees",
+   "url": "https://streaming.exclusive.radio/er/beegees/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "am pop",
+    "baroque pop",
+    "disco",
+    "psychedelic pop"
+   ]
+  },
+  {
+   "id": "9227a11c-56e9-4ad5-986a-af39cd952e17",
+   "name": "Exclusively Supertramp",
+   "url": "https://streaming.exclusive.radio/er/supertramp/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "90fcfb03-8ee7-4835-a5ac-6955a66a3ecd",
+   "name": "Positively Sleep Baby -om",
+   "url": "https://streaming.positivity.radio/pr/sleepbaby/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/ee7a91c9-47e7-4931-9bb3-d35e222c7d71.png",
+   "homepage": "https://play.you.radio/station/1146",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music",
+    "baby",
+    "lullaby",
+    "piano"
+   ]
+  },
+  {
+   "id": "28317be8-2e51-406e-9613-70ce124b633f",
+   "name": "Exclusively 50 Cent",
+   "url": "https://streaming.exclusive.radio/er/50cent/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "eastcoast rap",
+    "gangsta rap",
+    "hardcore rap",
+    "rap"
+   ]
+  },
+  {
+   "id": "391315c2-470c-411e-a2a5-2fa0d5e285ae",
+   "name": "Exclusively Jethro Tull",
+   "url": "https://streaming.exclusive.radio/er/jethrotull/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "a1645f8e-e00d-4dcc-8e60-e56220b38f70",
+   "name": "Tinder Radio - Bollywood",
+   "url": "https://drive.uber.radio/uber/bollywoodmix/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://tinder.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "bollywood",
+    "world"
+   ]
+  },
+  {
+   "id": "c374fc26-5b40-4384-ae0e-1e5ebf038edc",
+   "name": "Exclusively Pet Shop Boys",
+   "url": "https://streaming.exclusive.radio/er/petshopboys/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "7c1c7536-459e-487e-aa1f-f015aa92d6f8",
+   "name": "Positively Stress Relief -om",
+   "url": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/127496a8-d79b-4b7b-9981-a7112fb3922c.png",
+   "homepage": "https://streaming.positivity.radio/pr/stressrelief/icecast.audio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient"
+   ]
+  },
+  {
+   "id": "7275e882-2777-4e24-94bc-7e83fe9661b9",
+   "name": "Exclusively Fleetwood Mac",
+   "url": "https://streaming.exclusive.radio/er/fleetwoodmac/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "album rock",
+    "blues rock",
+    "british blues",
+    "regional blues"
+   ]
+  },
+  {
+   "id": "508de341-4ecf-4cc7-bed0-6571ad5bde39",
+   "name": "Positively Sleep Relax -om",
+   "url": "https://streaming.positivity.radio/pr/sleeprelax/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/908c3c4f-367a-4962-b9ea-8a2f458e80da.png",
+   "homepage": "https://play.you.radio/station/1145",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music"
+   ]
+  },
+  {
+   "id": "6b296117-aab3-405c-998c-a97fc7bf5590",
+   "name": "City 1016",
+   "url": "https://n07.radiojar.com/gmwyu8xdrxquv?_=760588&rj-tok=AAABkXoon2EAToxxtPXBLFkydw&rj-ttl=5",
+   "hls": false,
+   "logo": "https://onlineradiofm.in/assets/image/radio/180/city-1016-india.jpg",
+   "homepage": "https://www.city1016.ae/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "3a8242b5-a042-466f-b1ad-45ebe013602a",
+   "name": "DJ Radio Dubai",
+   "url": "https://listen.radioking.com/radio/623812/stream/685903",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.djradio.ae/",
+   "codec": "MP3",
+   "bitrate": 192,
+   "category": "music",
+   "tags": [
+    "dance"
+   ]
+  },
+  {
+   "id": "ee0672cd-c3cb-4c47-8694-e601ef92b22d",
+   "name": "Exclusively Diana Krall",
+   "url": "https://nl4.mystreaming.net/er/dianakrall/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/64da41ad-3742-4f62-907d-96f1cf11d81a.jpg",
+   "homepage": "https://play.you.radio/station/379",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "bossa nova",
+    "jazz",
+    "standards"
+   ]
+  },
+  {
+   "id": "7bcabdad-dc4e-4a92-a935-30289f8ce368",
+   "name": "Emarat fm",
+   "url": "https://admn-radio-cdn-lb.starzplayarabia.com/out/v1/admn_radio_enc/emarat_fm/emarat_fm_hls_nd/index.m3u8",
+   "hls": true,
+   "logo": "https://www.admn.ae/Content/Admedia/images/favicon/favicon.png",
+   "homepage": "https://www.admn.ae/en/brand/4197611/emarat-fm",
+   "codec": "AAC",
+   "bitrate": 637,
+   "category": "music",
+   "tags": [
+    "arabic"
+   ]
+  },
+  {
+   "id": "fb8603a6-cd95-408a-9868-974f7a676918",
+   "name": "Exclusively Van Halen",
+   "url": "https://streaming.exclusive.radio/er/vanhalen/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "rock"
+   ]
+  },
+  {
+   "id": "82c50aa8-9d3f-4706-bc88-e90a691efd86",
+   "name": "Positively Peaceful 432Hz -om",
+   "url": "https://streaming.positivity.radio/pr/posipeaceful/icecast.audio",
+   "hls": false,
+   "logo": "https://thumbs.dreamstime.com/b/flower-life-colorful-illustration-white-background-34947889.jpg",
+   "homepage": "http://www.radiowelle.com/de/radio:50020063278",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music"
+   ]
+  },
+  {
+   "id": "6419e369-9a02-45e6-a4ca-51042b0db04d",
+   "name": "Positively Sleep Max Richter -om",
+   "url": "https://streaming.positivity.radio/pr/maxrichter/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/cea14a8d-e13f-4370-9feb-77df48b3b3cc.png",
+   "homepage": "https://play.you.radio/station/1148",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music",
+    "sleep"
+   ]
+  },
+  {
+   "id": "f4556a0b-054d-4fbb-8436-aa05d2f2f7f2",
+   "name": "Dubai Eye 103.8",
+   "url": "https://gbradio.cdn.tibus.net/U105?aw_0_1st.playerId=wireless-website&_=477645",
+   "hls": false,
+   "logo": "https://www.dubaieye1038.com/favicon",
+   "homepage": "https://www.dubaieye1038.com/",
+   "codec": "AAC",
+   "bitrate": 127,
+   "category": "music",
+   "tags": [
+    "variety",
+    "world middle east"
+   ]
+  },
+  {
+   "id": "721b8f32-8071-4cca-a10f-c999d3b65346",
+   "name": "Exclusively BTS",
+   "url": "https://streaming.exclusive.radio/er/bts/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "k-pop",
+    "kpop"
+   ]
+  },
+  {
+   "id": "d52a564e-5117-4b65-a8ea-a84405ab7e86",
+   "name": "Exclusively Shakira",
+   "url": "https://streaming.exclusive.radio/er/shakira/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporany",
+    "club dance",
+    "dance pop",
+    "female vocalists",
+    "female vocals"
+   ]
+  },
+  {
+   "id": "b577d001-7e85-434d-bd32-0fd998d606d8",
+   "name": "Exclusively Coldplay",
+   "url": "https://streaming.exclusive.radio/er/coldplay/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "classic rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "cf1034ef-0380-4771-b1d0-31d652a1eb44",
+   "name": "Easy Instrumentals",
+   "url": "https://streaming.exclusive.radio/uber/easyinstrumentals/icecast.audio",
+   "hls": false,
+   "logo": "https://easy.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://easy.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "smoothest instrumentals"
+   ]
+  },
+  {
+   "id": "4df198b9-fe52-41a1-bc4e-d4a667ca198d",
+   "name": "Rolling Stones",
+   "url": "https://streaming.exclusive.radio/er/rollingstones/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": []
+  },
+  {
+   "id": "1ee6530c-1890-4fbe-807f-69135a8c6f49",
+   "name": "Al Arabiya 99 FM",
+   "url": "https://stream.radiojar.com/s1mygd1frxquv",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://www.99fm.ae/",
+   "codec": "MP3",
+   "bitrate": 0,
+   "category": "music",
+   "tags": [
+    "arabic pop",
+    "music"
+   ]
+  },
+  {
+   "id": "110422be-5cca-4c9d-a488-045d19135c4f",
+   "name": "Exclusively Rory Gallagher",
+   "url": "https://streaming.exclusive.radio/er/rorygallagher/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues rock"
+   ]
+  },
+  {
+   "id": "4be3d384-ec90-4c2f-ab84-35365dce5f77",
+   "name": "Exclusively George Michael",
+   "url": "https://streaming.exclusive.radio/er/georgemichael/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "contemporary r&b",
+    "dance pop",
+    "dance rock",
+    "pop"
+   ]
+  },
+  {
+   "id": "585edbea-e697-4791-9ff0-8746a6e46152",
+   "name": "Positively Rejuvenate 528 Hz -om",
+   "url": "https://streaming.positivity.radio/pr/rejuvenate/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/61662c9c-3f89-4151-804a-f1f7e9207533.png",
+   "homepage": "https://play.you.radio/station/2002",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music",
+    "healing"
+   ]
+  },
+  {
+   "id": "385e8dc7-eb7f-4ccb-b95c-335e2cafae9f",
+   "name": "Exclusively Johnny Cash",
+   "url": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "country",
+    "country folk",
+    "country gospel",
+    "country pop",
+    "cowboy"
+   ]
+  },
+  {
+   "id": "a2936e90-af4f-4bfb-9e41-666e76324054",
+   "name": "Exclusively Amy Winehouse",
+   "url": "https://streaming.exclusive.radio/er/amywinehouse/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "contemporary r&b",
+    "crossover jazz",
+    "female vocalists",
+    "female vocals"
+   ]
+  },
+  {
+   "id": "ae5ae7aa-b82e-4b87-8970-f19200e0a5e9",
+   "name": "Abdulwali Al-Arkani",
+   "url": "https://serverkw.quran-uni.com:8238/",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://serverkw.quran-uni.com/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "3a7eee21-0645-4475-b386-d960d6d387c8",
+   "name": "Greatest Hits 1920's",
+   "url": "https://drive.uber.radio/uber/boomerang1920s/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://greatesthits.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "1920s"
+   ]
+  },
+  {
+   "id": "a2d85de7-3b0e-498c-8b49-629adb60495c",
+   "name": "Exclusively Earth, Wind & Fire",
+   "url": "https://nl4.mystreaming.net/er/earthwindandfire/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/36f022c1-8177-4966-ad76-4933888ef846.jpg",
+   "homepage": "https://play.you.radio/station/147",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "disco",
+    "funk",
+    "pop",
+    "progressive soul",
+    "r&b"
+   ]
+  },
+  {
+   "id": "a7633680-8e05-448e-8a73-bc87d2aec697",
+   "name": "Exclusively Gary Moore",
+   "url": "https://nl4.mystreaming.net/er/garymoore/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://you.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "blues",
+    "rock"
+   ]
+  },
+  {
+   "id": "853ea2b7-52a2-413b-9bda-9e258dacba24",
+   "name": "Exclusively REM",
+   "url": "https://streaming.exclusive.radio/er/rem/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "http://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "adult contemporary",
+    "alternative pop rock",
+    "american underground",
+    "college rock",
+    "contemporary pop rock"
+   ]
+  },
+  {
+   "id": "0d17a57f-3940-41d5-95e6-fefc800aa5bb",
+   "name": "Rak Radio UAE",
+   "url": "https://stream.chiliradio.app/gulfradio",
+   "hls": false,
+   "logo": "https://rakradio.ae/wp-content/uploads/2025/05/fac-LOGO-RAK.jpg",
+   "homepage": "https://rakradio.ae/",
+   "codec": "MP3",
+   "bitrate": 256,
+   "category": "music",
+   "tags": [
+    "00s",
+    "2000s",
+    "70s",
+    "80s",
+    "90s"
+   ]
+  },
+  {
+   "id": "e160390d-2e3a-42b0-8bdc-eb0d8be48d7b",
+   "name": "Exclusively Backstreet Boys",
+   "url": "https://streaming.exclusive.radio/er/backstreetboys/icecast.audio",
+   "hls": false,
+   "logo": "https://play.exclusive.radio/static/assets/img/apple-icon-120x120.png",
+   "homepage": "https://play.exclusive.radio/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "90s",
+    "boy band",
+    "love songs",
+    "pop",
+    "teen pop"
+   ]
+  },
+  {
+   "id": "6014fd73-f56c-43e3-9c7b-43ef280f278f",
+   "name": "Rock The World - Punk Rock",
+   "url": "https://drive.uber.radio/uber/rtwpunk/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/8107965e-0523-42b9-b474-e6e6af05df9d.png",
+   "homepage": "https://play.you.radio/station/2351",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "punk rock",
+    "rock"
+   ]
+  },
+  {
+   "id": "ef329573-a7ab-48bb-abda-a705aff8d152",
+   "name": "Tinder Radio - Christmas Carols",
+   "url": "https://streaming.exclusive.radio/er/christmascarols/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/9af2a0dc-ea99-4bcc-9752-a18c7f2e2e06.png",
+   "homepage": "https://tinder.radio/station/110/119",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "christmas",
+    "christmas carols",
+    "christmas music",
+    "youradio"
+   ]
+  },
+  {
+   "id": "5e044680-0a7b-45a5-a3ee-3d46ba544193",
+   "name": "Exclusively Queen",
+   "url": "https://nl4.mystreaming.net/er/queen/icecast.audio",
+   "hls": false,
+   "logo": "https://you.radio/cdn-cgi/image/width=400,quality=75/https://manager.uber.radio/static/uploads/station/a939910d-b074-4dbb-884f-69d0aab6cb14.jpg",
+   "homepage": "https://play.you.radio/station/335",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop",
+    "rock"
+   ]
+  },
+  {
+   "id": "7eee67d7-200e-4dc2-8649-3701b54d40d4",
+   "name": "Positively Relaxation -om",
+   "url": "https://streaming.positivity.radio/pr/relaxation/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/05195052-fc0f-4478-afe1-359cb12fa6e7.png",
+   "homepage": "https://play.you.radio/station/1133",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music"
+   ]
+  },
+  {
+   "id": "34910038-5ae0-40d6-a79b-4cf0d29a4926",
+   "name": "Positively Calm -om",
+   "url": "https://streaming.positivity.radio/pr/calm/icecast.audio",
+   "hls": false,
+   "logo": "https://manager.uber.radio/static/uploads/station/105614e4-f852-42d8-ab77-7d10b03b46c7.png",
+   "homepage": "https://play.you.radio/station/1123",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "ambient and relaxation music"
+   ]
+  },
+  {
+   "id": "a3f97919-2519-4e58-b0b4-386d1402e367",
+   "name": "Exclusively Daft Punk",
+   "url": "https://streaming.exclusive.radio/er/daftpunk/icecast.audio",
+   "hls": false,
+   "logo": "https://s1.qwant.com/thumbr/474x417/3/3/21b782748f67f388be3191f5da59cac34ecf41b4f9ed1aed813ee1bf42b5c9/OIP.yaVwX9A_nE0thDI2xIa-IAHaGh.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%2Fid%2FOIP.yaVwX9A_nE0thDI2xIa-IAHaGh%3Fpid%3DApi&q=0&b=1&p=0&a=0",
+   "homepage": "https://exclusive.radio/all-stations",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "techno"
+   ]
+  },
+  {
+   "id": "b2e5ba52-4d2b-4ed9-b562-b1ea08b98245",
+   "name": "Love Radio - Turkish Love songs",
+   "url": "https://drive.uber.radio/uber/lrturkish/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://loveradio.love/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "pop",
+    "turkish music",
+    "turkish pop"
+   ]
+  },
+  {
+   "id": "61035dbf-1b3c-466b-acc1-051fb0be7f8d",
+   "name": "Love radio bollywood",
+   "url": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://drive.uber.radio/uber/lrbollywood/icecast.audio",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "music"
+   ]
+  },
+  {
+   "id": "9e929f18-507e-42b9-a4e3-36491c332431",
+   "name": "Love Radio - Romantic Piano",
+   "url": "https://drive.uber.radio/uber/lrromanticpiano/icecast.audio",
+   "hls": false,
+   "logo": "",
+   "homepage": "https://loveradio.love/",
+   "codec": "MP3",
+   "bitrate": 128,
+   "category": "music",
+   "tags": [
+    "piano",
+    "pop",
+    "romance",
+    "romantic"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:45.678Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Uppgifter: ”Ensam hemma” gör comeback",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/nyheter/a/Rr77qd/aftonbladet-direkt?pinnedEntry=1506608&utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Analys: Trump hyllade Brexit – nu för han dem närmare",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://omni.se/analys-trump-hyllade-brexit-nu-for-han-dem-narmare/a/dJO01O"
+  },
+  {
+   "type": "section",
+   "headline": "Glädjebeskedet – då aktiveras pensionsgasen",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/minekonomi/pension/a/wdPkWL/pensionsgasen-aktiveras-beslutet-ar-fattat?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Döms för start av Palisadesbrand",
+   "options": [
+    "Omni",
+    "Aftonbladet",
+    "Svenska Dagbladet",
+    "Dagens ETC"
+   ],
+   "answer": 1,
+   "url": "https://www.aftonbladet.se/nyheter/a/R1R2gr/doms-for-start-av-palisadesbrand?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Välkommen till det globala inbördeskriget",
+   "options": [
+    "Dagens ETC",
+    "Svenska Dagbladet",
+    "Omni",
+    "Aftonbladet"
+   ],
+   "answer": 0,
+   "url": "https://www.etc.se/kommentar/vaelkommen-till-det-globala-inboerdeskriget?utm_source=rss"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:35.238Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Erste Verhaftungen bei Demo in Zürich",
+   "options": [
+    "NATION",
+    "SPORTS",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/schweiz/zuerich/erste-verhaftungen-bei-demo-in-zuerich/s6v3591"
+  },
+  {
+   "type": "section",
+   "headline": "Trump fordert Ukraine-Friedensdeal bis Anfang Januar",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/ausland/trump-fordert-ukraine-friedensdeal-bis-anfang-januar/z1eqf4p"
+  },
+  {
+   "type": "section",
+   "headline": "Swatch widmet Zürich eine eigene Uhr – mit bissigem Namen",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.blick.ch/wirtschaft/swatch-zuriich-neue-uhr-nimmt-zuercher-preise-aufs-korn/n10gsww"
+  },
+  {
+   "type": "section",
+   "headline": "Tesla Assisted Driving: Tesla darf in Italien schon autonom fahren",
+   "options": [
+    "WORLD",
+    "NATION",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.golem.de/news/tesla-assisted-driving-tesla-darf-in-italien-schon-autonom-fahren-2611-215496.html"
+  },
+  {
+   "type": "section",
+   "headline": "Kompany-Rückkehr wird für die Bayern zum Albtraum",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 1,
+   "url": "https://www.blick.ch/sport/fussball/international/bundesliga/sorge-um-kane-und-olise-kompany-comeback-wird-zu-bayern-albtraum/4k1ddvl"
+  }
+ ]
+}

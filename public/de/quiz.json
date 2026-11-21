@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:50.711Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Bundesregierung: Juso-Chef Türmer kritisiert Koalition wegen Stromsteuersenkung",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/deutschland/2026-11/stromsteuersenkung-koalition-philipp-tuermer-cdu-privathaushalte"
+  },
+  {
+   "type": "section",
+   "headline": "Kopenhagen: Dänischer Geheimdienst vereitelt mögliches Mordkomplott gegen Rapper",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.zeit.de/politik/ausland/2026-11/daenemark-ausweisung-russischer-verteidigungsattache-mordkomplott-rap-schengen-visa"
+  },
+  {
+   "type": "section",
+   "headline": "\"Er soll zweite Chance kriegen\": Trump will Huang zurück - Börsenaufsicht ermittelt gegen Nvidia",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.n-tv.de/wirtschaft/Trump-will-Huang-zurueck-Boersenaufsicht-ermittelt-gegen-Nvidia-id31560840.html"
+  },
+  {
+   "type": "source",
+   "headline": "\"Es ist ein volles C-Körbchen\": Jennifer Lawrence freut sich an ihren Brustimplantaten",
+   "options": [
+    "Tagesspiegel",
+    "ntv",
+    "DW",
+    "ZEIT ONLINE"
+   ],
+   "answer": 1,
+   "url": "https://www.n-tv.de/leute/Jennifer-Lawrence-freut-sich-an-ihren-Brustimplantaten-id31560867.html"
+  },
+  {
+   "type": "source",
+   "headline": "Demonstrationen: Festnahmen und fliegende Flaschen nach Jugendprotesten",
+   "options": [
+    "DW",
+    "ZEIT ONLINE",
+    "ntv",
+    "Tagesspiegel"
+   ],
+   "answer": 3,
+   "url": "https://www.tagesspiegel.de/politik/dpa-demonstrationen-festnahmen-und-fliegende-flaschen-nach-jugendprotesten-16309734.html"
+  }
+ ]
+}

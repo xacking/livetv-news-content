@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:41.896Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Personer med tilknytning til LTF skulle dræbe rapper, vurderer PET",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.avisen.dk/personer-med-tilknytning-til-ltf-skulle-draebe-rappe_845394.aspx"
+  },
+  {
+   "type": "section",
+   "headline": "Flere amerikanske aktier falder markant op til weekend",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SCIENCE",
+    "ENTERTAINMENT"
+   ],
+   "answer": 1,
+   "url": "https://www.dr.dk/nyheder/udland/flere-amerikanske-aktier-falder-markant-op-til-weekend"
+  },
+  {
+   "type": "section",
+   "headline": "Dansk pensionsgigant får hovedrolle i retssag om Zuckerbergs magt i Meta",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "SPORTS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 1,
+   "url": "https://www.dr.dk/nyheder/penge/dansk-pensionsgigant-faar-hovedrolle-i-retssag-om-zuckerbergs-magt-i-meta"
+  },
+  {
+   "type": "section",
+   "headline": "Rockstar har bygget GTA 6 til fremtidige udvidelser",
+   "options": [
+    "SCIENCE",
+    "HEALTH",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.recordere.dk/2026/11/rockstar-har-bygget-gta-6-til-fremtidige-udvidelser/"
+  },
+  {
+   "type": "section",
+   "headline": "Her er semifinalerne ved sæsonfinalen",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/sporten/tennis/seneste-nyt-om-tennis"
+  }
+ ]
+}

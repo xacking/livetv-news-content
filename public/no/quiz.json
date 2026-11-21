@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:32.441Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Storhamar med solid seier etter at fans røykla hallen",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.nrk.no/artikkel/storhamar-tok-seieren-etter-skandalestart-1533628"
+  },
+  {
+   "type": "section",
+   "headline": "Her går de på «akademier» og får opplæring i svindel",
+   "options": [
+    "WORLD",
+    "NATION",
+    "SPORTS",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.tv2.no/a/19442561"
+  },
+  {
+   "type": "section",
+   "headline": "Har solgt frokost i over 30 år på Wall Street: – Økonomien er dårlig",
+   "options": [
+    "SPORTS",
+    "HEALTH",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://e24.no/boers-og-finans/i/Wmb2Xd/har-solgt-frokost-i-over-30-aar-paa-wall-street-oekonomien-er-daarlig?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "krymper 1 GB til 105 MB – tar en uke å pakke ut",
+   "options": [
+    "TECHNOLOGY",
+    "HEALTH",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://itavisen.no/2026/11/20/tufazip-ai-komprimerer-wikipedia/"
+  },
+  {
+   "type": "section",
+   "headline": "Skadesmell for Kane – ute i flere måneder",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 2,
+   "url": "https://www.nrk.no/sport/skadesmell-for-kane-_-ute-i-flere-maneder--1.18086197"
+  }
+ ]
+}

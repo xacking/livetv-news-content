@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-21T16:17:13.639Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "'Reject any implications': Pat Cummins to remain Australia captain",
+   "options": [
+    "BUSINESS",
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/reject-any-implications-pat-cummins-to-remain-australia-captain/opu7nem1l"
+  },
+  {
+   "type": "section",
+   "headline": "The climate deal Australia is struggling to close",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/the-climate-agreement-australia-is-struggling-to-close/9z77gmuox"
+  },
+  {
+   "type": "section",
+   "headline": "Eyre Peninsula residents worried about further blackouts",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.abc.net.au/news/2026-11-21/eyre-peninsula-residents-future-blackouts/107412558"
+  },
+  {
+   "type": "source",
+   "headline": "Princess Catherine reflects on cancer journey in new documentary",
+   "options": [
+    "ABC News",
+    "7NEWS",
+    "BBC News",
+    "SBS News"
+   ],
+   "answer": 0,
+   "url": "https://www.abc.net.au/news/2026-11-22/princess-catherine-new-documentary-heal-cancer-journey/107413338"
+  },
+  {
+   "type": "source",
+   "headline": "BYD Ti7 banned in Europe until Land Rover copyright case is resolved",
+   "options": [
+    "ABC News",
+    "7NEWS",
+    "BBC News",
+    "SBS News"
+   ],
+   "answer": 1,
+   "url": "https://7news.com.au/motoring/byd-ti7-banned-in-europe-until-land-rover-copyright-case-is-resolved-c-23195557"
+  }
+ ]
+}

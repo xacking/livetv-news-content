@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-21T16:18:05.303Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Chinese privilege in Singapore is often the casual assumption that Chinese is the norm, woman says",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://theindependent.sg/chinese-privilege-in-singapore-is-often-the-casual-assumption-that-chinese-is-the-norm-woman-says"
+  },
+  {
+   "type": "section",
+   "headline": "A new Nepal, an old neighbour - Balendra Shah's India test on first visit",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "What does career growth look like in the age of AI? We asked M’sians working at Micron.",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://vulcanpost.com/914518/career-growth-in-the-age-of-ai-semiconductor-industry-malaysia/"
+  },
+  {
+   "type": "source",
+   "headline": "S'pore artist allegedly owes S$10,800 in rent, leaves unit cluttered with cardboard & aircon unit missing",
+   "options": [
+    "BBC News",
+    "Must Share News",
+    "The Independent Singapore",
+    "Mothership"
+   ],
+   "answer": 3,
+   "url": "https://mothership.sg/2026/11/spore-painter-owes-rent/"
+  },
+  {
+   "type": "source",
+   "headline": "Woman sent to hospital after car flips upside down in Ang Mo Kio, another driver assisting investigations",
+   "options": [
+    "BBC News",
+    "Must Share News",
+    "The Independent Singapore",
+    "Mothership"
+   ],
+   "answer": 1,
+   "url": "https://mustsharenews.com/car-flips-ang-mo-kio/"
+  }
+ ]
+}

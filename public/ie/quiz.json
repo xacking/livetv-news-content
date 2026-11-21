@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:59.107Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "‘He’s finally here’ – Social Democrats leader Holly Cairns gives birth to baby boy",
+   "options": [
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/irish-news/politics/hes-finally-here-social-democrats-leader-holly-cairns-gives-birth-to-baby-boy/a/164892701.html"
+  },
+  {
+   "type": "section",
+   "headline": "Anthropic's Australian data centre overwhelmingly opposed by residents",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/world-news/anthropics-australian-data-centre-overwhelmingly-opposed-by-residents/a/164833995.html"
+  },
+  {
+   "type": "section",
+   "headline": "Michael McGrath urges founders to give EU start-up regime ‘a chance’",
+   "options": [
+    "NATION",
+    "WORLD",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/business/irish-business/michael-mcgrath-urges-founders-to-give-eu-start-up-regime-a-chance/a/164885037.html"
+  },
+  {
+   "type": "source",
+   "headline": "Harry Kane ‘out for next few months’ after tearing ankle ligament",
+   "options": [
+    "Irish Mirror",
+    "Extra.ie",
+    "BBC News",
+    "Irish Independent"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/sport/soccer/harry-kane-out-for-next-few-months-after-tearing-ankle-ligament/a/164892707.html"
+  },
+  {
+   "type": "source",
+   "headline": "O'Donovan warned government would suffer 'significant reputational damage' by 'reneging' on RTÉ budget",
+   "options": [
+    "TheJournal.ie",
+    "BBC News",
+    "Extra.ie",
+    "Irish Mirror"
+   ],
+   "answer": 0,
+   "url": "https://www.thejournal.ie/rte-budget-allocation-funding-row-7232364-Nov2026/"
+  }
+ ]
+}

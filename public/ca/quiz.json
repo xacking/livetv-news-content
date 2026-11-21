@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T08:13:06.707Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "World leaders gather in Halifax for international security forum",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/canada/article/world-leaders-gather-in-halifax-for-international-security-forum/"
+  },
+  {
+   "type": "section",
+   "headline": "Leaders of Mexican drug cartel and 19 others indicted for smuggling guns, drugs and people",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "ENTERTAINMENT",
+    "BUSINESS"
+   ],
+   "answer": 1,
+   "url": "https://www.ctvnews.ca/world/article/leaders-of-mexican-drug-cartel-and-19-others-indicted-for-smuggling-guns-drugs-and-people/"
+  },
+  {
+   "type": "section",
+   "headline": "Man who transferred $44 million to brother via sticky notes guilty of civil contempt: B.C. court",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/vancouver/article/man-who-transferred-44-million-to-brother-via-sticky-notes-guilty-of-civil-contempt-bc-court/"
+  },
+  {
+   "type": "source",
+   "headline": "Man sentenced to prison in one of Canada’s largest fentanyl busts",
+   "options": [
+    "CTV News",
+    "Global News",
+    "BBC News",
+    "Daily Hive"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/london/article/man-sentenced-to-prison-in-one-of-canadas-largest-fentanyl-busts/"
+  },
+  {
+   "type": "source",
+   "headline": "Kelowna city hall faces more transparency questions after wage hike kept quiet",
+   "options": [
+    "Daily Hive",
+    "CTV News",
+    "BBC News",
+    "Global News"
+   ],
+   "answer": 3,
+   "url": "https://globalnews.ca/news/12160417/kelowna-city-hall-faces-transparency-questions-wage-hike-quiet/"
+  }
+ ]
+}

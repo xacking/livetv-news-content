@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:37.247Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "What the new UK-EU deal could mean for future post-Brexit relations",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "ANC fights to keep control of South Africa's key cities after election setback",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "SCIENCE",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "'I was exhausted': Two days in the shoes of a tradwife",
+   "options": [
+    "Evening Standard",
+    "Daily Mirror",
+    "The Telegraph",
+    "BBC News"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cr0jxwd93y09o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Anthropic plunges as Wall Street suffers AI sell-off",
+   "options": [
+    "Daily Express",
+    "Evening Standard",
+    "The Telegraph",
+    "Daily Mirror"
+   ],
+   "answer": 2,
+   "url": "https://www.telegraph.co.uk/business/2026/11/20/ai-tech-sell-off-anthropic-claude-nasdaq-ftse-100-markets/"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-22",
+ "generatedAt": "2026-11-21T16:17:51.800Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Pastures Past: How introduced hares became a pest in rural New Zealand",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/the-country/news/pastures-past-how-introduced-hares-became-a-pest-in-rural-new-zealand/X5GNKOILAZFBTMDT2P6CFARBKU/"
+  },
+  {
+   "type": "section",
+   "headline": "US Agriculture Department, FBI breached by hackers: reports",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/world/us-agriculture-department-fbi-breached-by-hackers-reports/QITNIPQ3N5H3XDRA55DL3DGV24/"
+  },
+  {
+   "type": "section",
+   "headline": "Three things that will flip the switch on our economic recovery – Liam Dann",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/business/three-things-that-will-flip-the-switch-on-our-economic-recovery-liam-dann/premium/ASWXILW7P5HMFO53JXAZCAPSW4/"
+  },
+  {
+   "type": "section",
+   "headline": "Halter launches AI farming assistant, underground vault, sells two millionth collar",
+   "options": [
+    "TECHNOLOGY",
+    "HEALTH",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/business/halter-launches-ai-farming-assistant-underground-vault-sells-two-millionth-collar/premium/YBMHLUQP55D6LBQF67FLQVS4I4/"
+  },
+  {
+   "type": "section",
+   "headline": "Jim Pender gets Counties Cup revenge as Gigi wins photo finish at Pukekohe",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/sport/racing/jim-pender-gets-counties-cup-revenge-as-gigi-wins-photo-finish-at-pukekohe/RPE7HXSRABE4PFPF5LWYZR4YOY/"
+  }
+ ]
+}

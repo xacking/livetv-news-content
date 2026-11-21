@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:53:48.744Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Jason Bhugwandass (28), die misstanden in jeugdzorg onthulde, overleden",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "SCIENCE",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/binnenland/6417269/jason-bhugwandass-28-die-misstanden-in-jeugdzorg-onthulde-overleden.html"
+  },
+  {
+   "type": "section",
+   "headline": "Denemarken wijst naar Rusland na verijdelde moordpoging op Oekraïense rapper",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/spanningen-oekraine/6417288/denemarken-wijst-naar-rusland-na-verijdelde-moordpoging-op-oekraiense-rapper.html"
+  },
+  {
+   "type": "section",
+   "headline": "GTA VI levert binnen dag 3,8 miljard dollar op, bijna dubbele van gemaakte kosten",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/economie/6417282/gta-vi-levert-binnen-dag-38-miljard-dollar-op-bijna-dubbele-van-gemaakte-kosten.html"
+  },
+  {
+   "type": "section",
+   "headline": "GTA VI doet het onmogelijke en maakt de torenhoge verwachtingen waar",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/tech/6417088/gta-vi-doet-het-onmogelijke-en-maakt-de-torenhoge-verwachtingen-waar.html"
+  },
+  {
+   "type": "section",
+   "headline": "Bayern moet Gouden Bal-winnaar Kane maanden missen door enkelblessure",
+   "options": [
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/voetbal/6417291/bayern-moet-gouden-bal-winnaar-kane-maanden-missen-door-enkelblessure.html"
+  }
+ ]
+}

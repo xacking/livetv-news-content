@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:54:17.994Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Alsnog ontmoeting tussen Rousseau en De Wever na scherpe kritiek van Vooruit-voorzitter op regeringsimpasse",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "HEALTH",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/binnenland/alsnog-ontmoeting-tussen-rousseau-en-de-wever-na-scherpe-kritiek-van-vooruit-voorzitter-op-regeringsimpasse~a9cb0fe2/"
+  },
+  {
+   "type": "section",
+   "headline": "Rechter keurt miljardenschikking Bayer over pesticide Roundup goed",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/buitenland/rechter-keurt-miljardenschikking-bayer-over-pesticide-roundup-goed~aa827866/"
+  },
+  {
+   "type": "section",
+   "headline": "Hun vader was leerbewerker, ze maakten als broer en zus vaak ruzie, nu zijn ze steenrijk: wie zijn Dario en Daniela, oprichters van Anthropic?",
+   "options": [
+    "WORLD",
+    "BUSINESS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.hln.be/economie/hun-vader-was-leerbewerker-ze-maakten-als-broer-en-zus-vaak-ruzie-nu-zijn-ze-steenrijk-wie-zijn-dario-en-daniela-oprichters-van-anthropic~a651a58a/"
+  },
+  {
+   "type": "source",
+   "headline": "Jolene van Dolly Parton bereikt 1 miljard streams op Spotify: ‘Haar muziek zal voor altijd blijven bestaan’",
+   "options": [
+    "Knack",
+    "Het Nieuwsblad",
+    "De Standaard",
+    "HLN"
+   ],
+   "answer": 3,
+   "url": "https://www.hln.be/showbizz/jolene-van-dolly-parton-bereikt-1-miljard-streams-op-spotify-haar-muziek-zal-voor-altijd-blijven-bestaan~ac792a02/"
+  },
+  {
+   "type": "source",
+   "headline": "Van de opvallende kraag van John Malkovich tot de bloemenbroche van Rosalía: dit is hoe de sterren hun feestoutfit pimpen",
+   "options": [
+    "De Standaard",
+    "HLN",
+    "Knack",
+    "Het Nieuwsblad"
+   ],
+   "answer": 0,
+   "url": "https://www.standaard.be/inspiratie/van-de-opvallende-kraag-van-john-malkovich-tot-de-bloemenbroche-van-rosalia-dit-is-hoe-de-sterren-hun-feestoutfit-pimpen/164422290.html"
+  }
+ ]
+}

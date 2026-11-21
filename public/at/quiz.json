@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-21",
+ "generatedAt": "2026-11-21T00:54:11.780Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "So emotional war die Verleihung des Vita-Pflegeawards 2026",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.kleinezeitung.at/artikel/41474955/so-emotional-war-die-verleihung-des-vita-pflegeawards-2026"
+  },
+  {
+   "type": "section",
+   "headline": "Russischer Geheimdienst soll Mord an Rapper geplant haben",
+   "options": [
+    "ENTERTAINMENT",
+    "SPORTS",
+    "WORLD",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://kurier.at/politik/ausland/daenemark-russland-mordanschlag-rapper-kyivstoner-diplomat/403207171"
+  },
+  {
+   "type": "section",
+   "headline": "GTA 6 bricht Rekorde: 3,79 Milliarden Dollar Umsatz am ersten Tag",
+   "options": [
+    "SPORTS",
+    "HEALTH",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://kurier.at/wirtschaft/gta-6-verkaufsstart-rekord-umsatz-milliarden-dollar/403207175"
+  },
+  {
+   "type": "section",
+   "headline": "GTA 6 sorgt für Rekord bei Datentransfer",
+   "options": [
+    "TECHNOLOGY",
+    "BUSINESS",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://futurezone.at/games/gta-6-release-30-prozent-netz-wien-energie-deutschland-trend/403207126"
+  },
+  {
+   "type": "section",
+   "headline": "1:1 - Bayern verliert gegen Köln Punkte: Schock um Harry Kane",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/sport/fussball/fussball-deutschland-bundesliga-bayern-muenchen-koeln-kane-olise/403207177"
+  }
+ ]
+}
