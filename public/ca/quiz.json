@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T05:00:18.681Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Supreme Court of Canada upholds Quebec’s secularism law",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/montreal/article/supreme-court-of-canada-upholds-quebecs-secularism-law/"
+  },
+  {
+   "type": "section",
+   "headline": "This animal glows in the dark under UV light, according to researchers",
+   "options": [
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/sci-tech/article/this-animal-glows-in-the-dark-under-uv-light-according-to-researchers/"
+  },
+  {
+   "type": "section",
+   "headline": "Trump encouraged Venezuela and Iraq to exit OPEC: Reuters exclusive",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "SPORTS",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.ctvnews.ca/world/article/us-pushed-venezuela-iraq-to-consider-leaving-opec-sources-say-reuters-exclusive/"
+  },
+  {
+   "type": "source",
+   "headline": "Connor scores twice and the Jets beat the Islanders 3-1 for 3rd straight win",
+   "options": [
+    "CTV News",
+    "Global News",
+    "BBC News",
+    "Daily Hive"
+   ],
+   "answer": 0,
+   "url": "https://www.ctvnews.ca/winnipeg/article/connor-scores-twice-and-the-jets-beat-the-islanders-3-1-for-3rd-straight-win/"
+  },
+  {
+   "type": "source",
+   "headline": "Moe, Doerkson urge unity to Smith’s UCP at kickoff for annual meeting",
+   "options": [
+    "Daily Hive",
+    "BBC News",
+    "Global News",
+    "CTV News"
+   ],
+   "answer": 2,
+   "url": "https://globalnews.ca/news/12169852/moe-doerkson-urge-unity-to-smiths-ucp-at-kickoff-for-annual-meeting/"
+  }
+ ]
+}

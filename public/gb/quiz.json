@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T05:00:16.999Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "'I don't know what I'd do without it': Why shoppers and staff fear losing Poundland",
+   "options": [
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/c65y1l9j7j9ko?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Eight killed in Peruvian military helicopter crash",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "TECHNOLOGY",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Will new energy fixes cost more in January?",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+   "options": [
+    "Evening Standard",
+    "Daily Express",
+    "Daily Mirror",
+    "BBC News"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Black Friday 2026 live: Expert analysis on which deals to shop (and which to avoid)",
+   "options": [
+    "Daily Express",
+    "Evening Standard",
+    "The Telegraph",
+    "BBC News"
+   ],
+   "answer": 2,
+   "url": "https://www.telegraph.co.uk/recommended/black-friday/black-friday-2026-live-deals/"
+  }
+ ]
+}

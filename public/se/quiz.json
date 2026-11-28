@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:24.202Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Okänt ämne i publiken – polisen misstänker rånarliga",
+   "options": [
+    "NATION",
+    "ENTERTAINMENT",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://tv.aftonbladet.se/video/411445/pa?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Uppgifter: Terrorplaner mot synagoga i Malmö avslöjade vid tysk insats",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://omni.se/uppgifter-terrorplaner-mot-synagoga-i-malmo-avslojade-vid-tysk-insats/a/mMBgkq"
+  },
+  {
+   "type": "section",
+   "headline": "Så minskar du risken att drabbas för BRF-brottslighet",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.aftonbladet.se/minekonomi/bostad/a/530gjE/brf-er-sarskilt-brottsutsatta-sa-minskar-du-risken-att-drabbas?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Okänd substans spreds på konsert – tre länder drabbade",
+   "options": [
+    "Svenska Dagbladet",
+    "Dagens ETC",
+    "Aftonbladet",
+    "Omni"
+   ],
+   "answer": 2,
+   "url": "https://www.aftonbladet.se/nyheter/a/aGP162/don-toliver-konsert-i-manchester-okand-gas-spreds?utm_medium=rss"
+  },
+  {
+   "type": "source",
+   "headline": "Så ska C rädda klimatet med högern: ”Inte längre låsta”",
+   "options": [
+    "Omni",
+    "Aftonbladet",
+    "Svenska Dagbladet",
+    "Dagens ETC"
+   ],
+   "answer": 3,
+   "url": "https://www.etc.se/inrikes/saa-vill-c-toppen-raedda-klimatet-med-hoegern-inte-laengre-laasta?utm_source=rss"
+  }
+ ]
+}

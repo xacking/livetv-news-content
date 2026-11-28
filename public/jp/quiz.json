@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T15:28:27.768Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "【独自】宮城県七ヶ宿町の山中で2人の遺体見つかる 先月末から行方不明となっている高校1年の女子生徒か 33歳男を未成年者誘拐の疑いで逮捕",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://newsdig.tbs.co.jp/articles/-/3118698"
+  },
+  {
+   "type": "section",
+   "headline": "英列車内での刺傷事件の被告に有罪評決 計14人に対する殺人未遂罪",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.bbc.com/japanese/articles/cwyvdn5mz4lvo?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "2029年大河『三成のうた』に｢また戦国か｣の声も…なぜNHKは｢戦国と幕末｣ばかり描くのか､視聴率データが示す理由 | ライフ | 東洋経済オンライン",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://toyokeizai.net/articles/-/966020?utm_source=rss&utm_medium=http&utm_campaign=link_back"
+  },
+  {
+   "type": "section",
+   "headline": "ゲーミングPCが最大10万円オフ！ パソコンショップSEVEN、11月28日限定で全10商品をセール",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://ascii.jp/elem/000/004/455/4455643/?rss"
+  },
+  {
+   "type": "section",
+   "headline": "「支配下あるやろ」巨人捕手陣に現れた“救世主” 異国で躍動…逸材24歳に高まる期待",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://full-count.jp/2026/11/27/post2051126/"
+  }
+ ]
+}

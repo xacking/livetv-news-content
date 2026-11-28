@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:27.695Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Man vergeet sleutel van hotelkamer in Duitsland en klopt naakt aan bij politie",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "SCIENCE",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.nu.nl/opmerkelijk/6418043/man-vergeet-sleutel-van-hotelkamer-in-duitsland-en-klopt-naakt-aan-bij-politie.html"
+  },
+  {
+   "type": "section",
+   "headline": "74-jarige man uit Gouda overleden bij auto-ongeluk in Tanzania, vrouw gewond",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/buitenland/6418051/74-jarige-man-uit-gouda-overleden-bij-auto-ongeluk-in-tanzania-vrouw-gewond.html"
+  },
+  {
+   "type": "section",
+   "headline": "OpenAI spant rechtzaak aan tegen Apple over diefstal bedrijfsgegevens",
+   "options": [
+    "BUSINESS",
+    "HEALTH",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.nu.nl/tech/6418064/openai-spant-rechtzaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.html"
+  },
+  {
+   "type": "section",
+   "headline": "OpenAI spant rechtszaak aan tegen Apple over diefstal bedrijfsgegevens",
+   "options": [
+    "HEALTH",
+    "SPORTS",
+    "NATION",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.nu.nl/tech/6418064/openai-spant-rechtszaak-aan-tegen-apple-over-diefstal-bedrijfsgegevens.html"
+  },
+  {
+   "type": "section",
+   "headline": "Oranje-international Emegha scoort als invaller twee keer bij verlies Chelsea",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.nu.nl/voetbal/6418068/oranje-international-emegha-scoort-als-invaller-twee-keer-bij-verlies-chelsea.html"
+  }
+ ]
+}

@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-29",
+ "generatedAt": "2026-11-28T14:05:51.030Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Motorcyclist killed in crash with truck in Northland",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "WORLD",
+    "BUSINESS"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/nz/motorcyclist-killed-in-crash-with-truck-in-northland/DRCDB3MM6RENHKXAYMHWUVUSOY/"
+  },
+  {
+   "type": "section",
+   "headline": "US military says its cyber systems are secure after reports of Air Force hack",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/world/us-military-says-its-cyber-systems-are-secure-after-reports-of-air-force-hack/WKMGOF5KWFAQ7GUEWQDJRNEPZY/"
+  },
+  {
+   "type": "section",
+   "headline": "New Zealand has stalled. You can’t sell a country, so let’s reimagine it - Guy Haddleton",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.nzherald.co.nz/business/new-zealand-has-stalled-you-cant-sell-a-country-so-lets-reimagine-it-guy-haddleton/premium/GVMJGNFP6BBHLKTJVYJ2MYCSYY/"
+  },
+  {
+   "type": "section",
+   "headline": "AI has changed how we talk. Here are the words you need to know",
+   "options": [
+    "TECHNOLOGY",
+    "WORLD",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.nzherald.co.nz/world/ai-has-changed-how-we-talk-here-are-the-words-you-need-to-know/premium/USDISYEJM5EDLA6RLUPYLRXM74/"
+  },
+  {
+   "type": "section",
+   "headline": "All Blacks’ five losses in a year: Why 1998 caused greater alarm",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://www.nzherald.co.nz/sport/rugby/all-blacks/all-blacks-five-losses-in-a-year-why-1998-caused-greater-alarm/premium/KKMTEUVUDVEWZENR26C2ETUF5Q/"
+  }
+ ]
+}

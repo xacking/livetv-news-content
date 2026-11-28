@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:08.981Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Flere velger vekk julebord: – Mer måtehold",
+   "options": [
+    "NATION",
+    "HEALTH",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.nrk.no/sorlandet/en-av-tre-bedrifter-melder-om-faerre-julebord-1.18089611"
+  },
+  {
+   "type": "section",
+   "headline": "Hun ble symbolet som utløste nyvalg i Spania",
+   "options": [
+    "SPORTS",
+    "NATION",
+    "BUSINESS",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.tv2.no/a/19466955"
+  },
+  {
+   "type": "section",
+   "headline": "Bostyrer om Norse: – Masse arbeid foran oss",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://e24.no/energi-og-klima/i/8P6lxr/bostyrer-om-norse-masse-arbeid-foran-oss?utm_medium=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Det amerikanske luftforsvaret skal være hacket",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://itavisen.no/2026/11/27/us-air-force-cloud-one-hackerangrep/"
+  },
+  {
+   "type": "section",
+   "headline": "Norsk målfest i NHL – Solberg og Zuccarello med scoringer",
+   "options": [
+    "SPORTS",
+    "TECHNOLOGY",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.nrk.no/sport/norsk-malfest-i-nhl-_-solberg-og-zuccarello-med-scoringer-1.18090062"
+  }
+ ]
+}

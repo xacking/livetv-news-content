@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:46.452Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "‘I will give SpaceX shares to every kid in America’ — Elon Musk pledges S$23B giveaway to all American children",
+   "options": [
+    "SPORTS",
+    "SCIENCE",
+    "WORLD",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://theindependent.sg/i-will-give-spacex-shares-to-every-kid-in-america-elon-musk-pledges-s-23b-giveaway-to-all-american-children"
+  },
+  {
+   "type": "section",
+   "headline": "Behind China's spectacular rise, voices who defied it say they are being drowned out",
+   "options": [
+    "SCIENCE",
+    "BUSINESS",
+    "HEALTH",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.bbc.co.uk/news/articles/cme3d4y094x7o?at_medium=RSS&at_campaign=rss"
+  },
+  {
+   "type": "section",
+   "headline": "Singapore MRT’s reliability is now three times higher than the target set by Khaw Boon Wan",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "HEALTH",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://vulcanpost.com/914579/singapore-mrt-reliability-three-times-higher-than-khaw-boon-wan-target/"
+  },
+  {
+   "type": "source",
+   "headline": "Former East View Primary School teacher passed away on day of PSLE results, former students recall him fondly",
+   "options": [
+    "Mothership",
+    "BBC News",
+    "Must Share News",
+    "The Independent Singapore"
+   ],
+   "answer": 0,
+   "url": "https://mothership.sg/2026/11/former-east-view-primary-school-teacher-passed-away-on-day-of-psle-results/"
+  },
+  {
+   "type": "source",
+   "headline": "5 S’porean men arrested for suspected drug offences & over 5.2kg of heroin seized during CNB raids",
+   "options": [
+    "The Independent Singapore",
+    "Must Share News",
+    "BBC News",
+    "Mothership"
+   ],
+   "answer": 1,
+   "url": "https://mustsharenews.com/singaporean-men-drug-offences/"
+  }
+ ]
+}

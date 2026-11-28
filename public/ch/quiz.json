@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:11.676Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Mutter spricht nach Tod von Kevin G. (†27) auf Konzert in Tuggen SZ",
+   "options": [
+    "SCIENCE",
+    "SPORTS",
+    "NATION",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://www.blick.ch/schweiz/zentralschweiz/schwyz/tuggen-mutter-spricht-nach-tod-von-kevin-g-auf-konzert/cq43yq5"
+  },
+  {
+   "type": "section",
+   "headline": "«Müsste Russland der Mongolei zugesprochen werden?»",
+   "options": [
+    "NATION",
+    "TECHNOLOGY",
+    "HEALTH",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/ausland/lukaschenko-hinterfragt-putins-historische-ukraine-behauptung/m27y6c6"
+  },
+  {
+   "type": "section",
+   "headline": "So stark haben Schweizer am Black Friday zugeschlagen",
+   "options": [
+    "SCIENCE",
+    "WORLD",
+    "NATION",
+    "BUSINESS"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/wirtschaft/black-friday-2026-so-viel-gaben-schweizer-aus/z2zvl27"
+  },
+  {
+   "type": "section",
+   "headline": "Anzeige: 20 Prozent Rabatt auf Vibe-Coding-Workshop",
+   "options": [
+    "TECHNOLOGY",
+    "SCIENCE",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.golem.de/news/anzeige-20-prozent-rabatt-auf-vibe-coding-workshop-2611-215772.html"
+  },
+  {
+   "type": "section",
+   "headline": "Frödén nutzt seine Freiheiten für Kabinettstückchen",
+   "options": [
+    "NATION",
+    "WORLD",
+    "HEALTH",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.blick.ch/sport/eishockey/nl/nl-die-highlights-der-partie-scrj-lakers-zsc-lions-45-n-v/y32k86p"
+  }
+ ]
+}

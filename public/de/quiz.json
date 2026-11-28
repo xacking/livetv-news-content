@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:30.607Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Rentenreform: Heidi Reichinnek kritisiert Rentenpläne als »Kürzungsprogramm«",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "BUSINESS",
+    "HEALTH"
+   ],
+   "answer": 1,
+   "url": "https://www.zeit.de/politik/deutschland/2026-11/rentenreform-alexander-schweitzer-rente-mit-63-kapitalrente"
+  },
+  {
+   "type": "section",
+   "headline": "Jean-Luc Mélenchon: Mélenchon weist Vorwurf der Deutschlandfeindlichkeit zurück",
+   "options": [
+    "TECHNOLOGY",
+    "SPORTS",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.zeit.de/politik/ausland/2026-11/jean-luc-melenchon-berlin-linke-deutschland-eu-gxe"
+  },
+  {
+   "type": "section",
+   "headline": "Wochenvorschau: Termine bis 6. Dezember 2026",
+   "options": [
+    "BUSINESS",
+    "NATION",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 0,
+   "url": "https://www.n-tv.de/wirtschaft/termine/Termine-bis-6-Dezember-2026-id31559511.html"
+  },
+  {
+   "type": "source",
+   "headline": "2027 wird in Frankreich gewählt: Mélenchon will Sozialkürzungen auch auf EU-Ebene verhindern",
+   "options": [
+    "ZEIT ONLINE",
+    "DW",
+    "ntv",
+    "Tagesspiegel"
+   ],
+   "answer": 2,
+   "url": "https://www.n-tv.de/politik/Melenchon-will-Sozialkuerzungen-auch-auf-EU-Ebene-verhindern-id31587609.html"
+  },
+  {
+   "type": "source",
+   "headline": "Helena Zengel: Deutsche Schauspielerin sieht in Tom Hanks eine Vaterfigur",
+   "options": [
+    "ZEIT ONLINE",
+    "Tagesspiegel",
+    "DW",
+    "ntv"
+   ],
+   "answer": 1,
+   "url": "https://www.tagesspiegel.de/gesellschaft/dpa-helena-zengel-deutsche-schauspielerin-sieht-in-tom-hanks-eine-vaterfigur-16337198.html"
+  }
+ ]
+}

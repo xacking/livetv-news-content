@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T05:00:36.022Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Comedian and radio host PJ Gallagher dies aged 51",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "NATION",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/irish-news/comedian-and-radio-host-pj-gallagher-dies-aged-51/a/165240008.html"
+  },
+  {
+   "type": "section",
+   "headline": "Captain Tom charity applies to be struck off after family misconduct scandal",
+   "options": [
+    "SCIENCE",
+    "TECHNOLOGY",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 2,
+   "url": "https://www.independent.ie/world-news/captain-tom-charity-applies-to-be-struck-off-after-family-misconduct-scandal/a/165239774.html"
+  },
+  {
+   "type": "section",
+   "headline": "Tipperary developer bids to buy Dealz stores out of administration",
+   "options": [
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.independent.ie/business/irish-business/tipperary-developer-bids-to-buy-dealz-stores-out-of-administration/a/165226460.html"
+  },
+  {
+   "type": "source",
+   "headline": "Apprentice wins hang tough challenge at celebration of International Men’s Day",
+   "options": [
+    "Extra.ie",
+    "Irish Mirror",
+    "TheJournal.ie",
+    "Irish Independent"
+   ],
+   "answer": 3,
+   "url": "https://www.independent.ie/county/wexford/apprentice-wins-hang-tough-challenge-at-celebration-of-international-mens-day/a/165096872.html"
+  },
+  {
+   "type": "source",
+   "headline": "'What do you say when words are not enough?' Tributes paid to PJ Gallagher",
+   "options": [
+    "Irish Mirror",
+    "BBC News",
+    "Irish Independent",
+    "TheJournal.ie"
+   ],
+   "answer": 3,
+   "url": "https://www.thejournal.ie/pj-gallagher-tributes-7241244-Nov2026/"
+  }
+ ]
+}

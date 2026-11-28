@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T05:00:02.421Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "USC marching band benched for UCLA game after vandalism prank, officials say",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "HEALTH",
+    "SPORTS"
+   ],
+   "answer": 1,
+   "url": "https://abcnews.com/US/wireStory/usc-marching-band-benched-ucla-game-after-vandalism-138486218"
+  },
+  {
+   "type": "section",
+   "headline": "Polls open across Taiwan in closely watched local elections",
+   "options": [
+    "WORLD",
+    "HEALTH",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/International/wireStory/taiwan-holds-elections-choose-mayors-local-leaders-138489345"
+  },
+  {
+   "type": "section",
+   "headline": "Inflation is squeezing Americans so hard that rising grocery bills are now a top reason Black Friday shoppers are cutting back",
+   "options": [
+    "HEALTH",
+    "BUSINESS",
+    "WORLD",
+    "SCIENCE"
+   ],
+   "answer": 1,
+   "url": "https://fortune.com/2026/11/27/inflation-squeezing-americans-so-hard-rising-grocery-bills-top-reason-cut-back-black-friday-shopping/"
+  },
+  {
+   "type": "source",
+   "headline": "NYC Mayor Mamdani has 'successful' surgery on torn Achilles tendon",
+   "options": [
+    "ABC News",
+    "BBC News",
+    "The Hill",
+    "UPI"
+   ],
+   "answer": 0,
+   "url": "https://abcnews.com/US/nyc-mayor-mamdani-successful-surgery-torn-achilles-tendon/story?id=138488280"
+  },
+  {
+   "type": "source",
+   "headline": "Texas AG-elect won’t defend Ten Commandments classroom law",
+   "options": [
+    "ABC News",
+    "BBC News",
+    "UPI",
+    "The Hill"
+   ],
+   "answer": 3,
+   "url": "https://thehill.com/homenews/state-watch/6245846-texas-ag-johnson-ten-commandments/"
+  }
+ ]
+}

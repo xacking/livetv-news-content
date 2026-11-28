@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:56.720Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Coca-Cola waarschuwt voor verkeerd etiket op flesjes Coca-Cola Zero Sugar",
+   "options": [
+    "SPORTS",
+    "NATION",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 1,
+   "url": "https://www.hln.be/binnenland/coca-cola-waarschuwt-voor-verkeerd-etiket-op-flesjes-coca-cola-zero-sugar~abc03b39/"
+  },
+  {
+   "type": "section",
+   "headline": "Honderdduizenden Amerikanen nog steeds zonder stroom na noodweer op Thanksgiving Day",
+   "options": [
+    "WORLD",
+    "SPORTS",
+    "ENTERTAINMENT",
+    "SCIENCE"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/buitenland/honderdduizenden-amerikanen-nog-steeds-zonder-stroom-na-noodweer-op-thanksgiving-day~ab7b10fe/"
+  },
+  {
+   "type": "section",
+   "headline": "“Je gaat failliet als je je rekeningen niet meer kunt betalen: wij hebben 800 miljoen euro cash.” CEO van Bpost bijt van zich in zware crisis",
+   "options": [
+    "BUSINESS",
+    "SPORTS",
+    "TECHNOLOGY",
+    "ENTERTAINMENT"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/economie/je-gaat-failliet-als-je-je-rekeningen-niet-meer-kunt-betalen-wij-hebben-800-miljoen-euro-cash-ceo-van-bpost-bijt-van-zich-in-zware-crisis~af789bec/"
+  },
+  {
+   "type": "source",
+   "headline": "LIVE. Zet Cercle zijn zegereeks verder tegen KV Mechelen?",
+   "options": [
+    "HLN",
+    "Knack",
+    "De Standaard",
+    "Het Nieuwsblad"
+   ],
+   "answer": 0,
+   "url": "https://www.hln.be/jupiler-pro-league/live-zet-cercle-zijn-zegereeks-verder-tegen-kv-mechelen~a98171dae/"
+  },
+  {
+   "type": "source",
+   "headline": "Nieuwe onthullingen brengen RN-voorzitter Jordan Bardella in steeds nauwere schoentjes",
+   "options": [
+    "Knack",
+    "HLN",
+    "Het Nieuwsblad",
+    "De Standaard"
+   ],
+   "answer": 3,
+   "url": "https://www.standaard.be/buitenland/nieuwe-onthullingen-brengen-rn-voorzitter-jordan-bardella-in-steeds-nauwere-schoentjes/165238439.html"
+  }
+ ]
+}

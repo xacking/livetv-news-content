@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:46:00.814Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Venäläissotilaat ylittivät itärajan ja kuvasivat osan matkastaan – Rajavartiolaitos Ylelle: ”Ikään kuin Tripadvisor”",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "SPORTS",
+    "WORLD"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/kotimaa/art-2000012443097.html"
+  },
+  {
+   "type": "section",
+   "headline": "Noin sataa kuljettanut vene ongelmissa Kanarian­saarten lähellä – ainakin 15 kuollut",
+   "options": [
+    "WORLD",
+    "SCIENCE",
+    "HEALTH",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/ulkomaat/art-2000012443431.html"
+  },
+  {
+   "type": "section",
+   "headline": "Hotelli Tallukan omistajaksi löytyi yllätysnimi – huutokaupat eivät tuottaneet tulosta",
+   "options": [
+    "BUSINESS",
+    "WORLD",
+    "SPORTS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.is.fi/taloussanomat/art-2000012441076.html"
+  },
+  {
+   "type": "section",
+   "headline": "”Vaaratiedote” vie rahasi – ja myrkyttää kalenterisi",
+   "options": [
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "TECHNOLOGY",
+    "BUSINESS"
+   ],
+   "answer": 2,
+   "url": "https://www.is.fi/digitoday/art-2000012441900.html"
+  },
+  {
+   "type": "section",
+   "headline": "Jättivoitto Suomelle! MM-kisat todella lähellä",
+   "options": [
+    "HEALTH",
+    "WORLD",
+    "ENTERTAINMENT",
+    "SPORTS"
+   ],
+   "answer": 3,
+   "url": "https://www.is.fi/koripallo/art-2000012441617.html"
+  }
+ ]
+}

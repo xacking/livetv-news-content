@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:49.870Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Wegen Integrationspflicht: Hacker fordert 25 Millionen Euro vom Bund",
+   "options": [
+    "HEALTH",
+    "ENTERTAINMENT",
+    "TECHNOLOGY",
+    "NATION"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/politik/inland/peter-hacker-spoe-sozialhilfe-mehrkosten-25-millionen-euro/403208648"
+  },
+  {
+   "type": "section",
+   "headline": "US-Militär greift Handelsschiff im Golf von Oman an",
+   "options": [
+    "ENTERTAINMENT",
+    "NATION",
+    "SCIENCE",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://kurier.at/politik/ausland/usa-iran-handelsschiff-angriff-seeblockade-oman/403208904"
+  },
+  {
+   "type": "section",
+   "headline": "Wegen Luxusuhren: René Benko zu weiteren 6 Monaten Haft verurteilt",
+   "options": [
+    "HEALTH",
+    "SCIENCE",
+    "BUSINESS",
+    "ENTERTAINMENT"
+   ],
+   "answer": 2,
+   "url": "https://kurier.at/wirtschaft/rene-benko-zu-weiteren-sechs-monaten-haft-verurteilt/403208855"
+  },
+  {
+   "type": "section",
+   "headline": "GTA 6: Warum die Wut auf Pixel-Romantik so beunruhigend ist",
+   "options": [
+    "TECHNOLOGY",
+    "NATION",
+    "WORLD",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://futurezone.at/games/gta-6-vi-rockstar-sexismus-asmongold-incels-hass-metacritic/403208565"
+  },
+  {
+   "type": "section",
+   "headline": "Bundesliga: Der GAK spielte, doch Altach war effizienter",
+   "options": [
+    "SPORTS",
+    "WORLD",
+    "BUSINESS",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://kurier.at/sport/fussball/gak-altach-bundesliga-graz-krise/403208906"
+  }
+ ]
+}

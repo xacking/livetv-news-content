@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-27T23:45:18.055Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Før sin død fortalte Jørn Hjorting DR, hvad han håber at blive husket for",
+   "options": [
+    "NATION",
+    "SCIENCE",
+    "ENTERTAINMENT",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/indland/foer-sin-doed-fortalte-joern-hjorting-dr-hvad-han-haaber-blive-husket"
+  },
+  {
+   "type": "section",
+   "headline": "Korrespondent om valg i Spanien: 'Det vækker frygten for, at fascismen bliver vakt til live igen'",
+   "options": [
+    "NATION",
+    "BUSINESS",
+    "WORLD",
+    "HEALTH"
+   ],
+   "answer": 2,
+   "url": "https://www.dr.dk/nyheder/udland/korrespondent-om-valg-i-spanien-det-vaekker-frygten-fascismen-bliver-vakt-til-live-igen"
+  },
+  {
+   "type": "section",
+   "headline": "Politiet indblandet: Kuratorer mener, elselskab skyldte kunder 292 millioner ved konkurs",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "SPORTS",
+    "NATION"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/nyheder/penge/politiet-indblandet-kuratorer-mener-elselskab-skyldte-kunder-292-millioner-ved-konkurs"
+  },
+  {
+   "type": "section",
+   "headline": "Elselskabet Velkommen skyldte kunderne 292 millioner kroner – politiet er nu orienteret",
+   "options": [
+    "BUSINESS",
+    "SCIENCE",
+    "WORLD",
+    "TECHNOLOGY"
+   ],
+   "answer": 3,
+   "url": "https://www.recordere.dk/2026/11/elselskabet-velkommen-skyldte-kunderne-292-millioner-kroner-politiet-er-nu-orienteret/"
+  },
+  {
+   "type": "section",
+   "headline": "Suveræne Herning Blue Fox lider sjældent nederlag",
+   "options": [
+    "SPORTS",
+    "ENTERTAINMENT",
+    "HEALTH",
+    "TECHNOLOGY"
+   ],
+   "answer": 0,
+   "url": "https://www.dr.dk/sporten/seneste-sport/suveraene-herning-blue-fox-lider-sjaeldent-nederlag"
+  }
+ ]
+}

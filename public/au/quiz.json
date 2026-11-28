@@ -1,0 +1,66 @@
+{
+ "date": "2026-11-29",
+ "generatedAt": "2026-11-28T14:05:26.700Z",
+ "questions": [
+  {
+   "type": "section",
+   "headline": "Public 'vigilance' key to containing NSW fire ant outbreak",
+   "options": [
+    "NATION",
+    "WORLD",
+    "BUSINESS",
+    "SPORTS"
+   ],
+   "answer": 0,
+   "url": "https://www.sbs.com.au/news/article/public-vigilance-key-to-containing-nsw-red-fire-ant-outbreak/ir21lsclx"
+  },
+  {
+   "type": "section",
+   "headline": "A US sailor helped Julii's family flee Vietnam. Forty-four years later, they've reconnected",
+   "options": [
+    "ENTERTAINMENT",
+    "SCIENCE",
+    "NATION",
+    "WORLD"
+   ],
+   "answer": 3,
+   "url": "https://www.sbs.com.au/news/article/this-us-sailor-helped-juliis-family-flee-vietnam-forty-four-years-later-theyve-reconnected/o1nd59se0"
+  },
+  {
+   "type": "section",
+   "headline": "Australia selling more wine than it is making but huge glut persists",
+   "options": [
+    "SPORTS",
+    "BUSINESS",
+    "ENTERTAINMENT",
+    "WORLD"
+   ],
+   "answer": 1,
+   "url": "https://www.abc.net.au/news/2026-11-28/australian-wine-glut-continues-despite-sales-production/107425900"
+  },
+  {
+   "type": "source",
+   "headline": "Taiwan elections: Candidate criticised by China concedes Taipei mayoral race",
+   "options": [
+    "7NEWS",
+    "BBC News",
+    "ABC News",
+    "SBS News"
+   ],
+   "answer": 2,
+   "url": "https://www.abc.net.au/news/2026-11-29/taiwan-election-results-chiang-wan-an/107438794"
+  },
+  {
+   "type": "source",
+   "headline": "Victoria Election 2026: State’s blue landslide sends warning to governments across Australia",
+   "options": [
+    "BBC News",
+    "SBS News",
+    "ABC News",
+    "7NEWS"
+   ],
+   "answer": 3,
+   "url": "https://7news.com.au/news/vic/vic-election-2026/victoria-election-2026-states-blue-landslide-sends-warning-to-governments-across-australia-c-23226101"
+  }
+ ]
+}
